@@ -26,9 +26,9 @@ echo -e "Checking subtitles in:"
 echo -e "  ${YELLOW}${paths[@]}${GREEN}"
 echo -e "#######################${NC}"
 echo
+for subpath in "${subdirs[@]}"; do
 for path in "${paths[@]}"; do
   #echo "$path"
-  for subpath in "${subdirs[@]}"; do
     #echo $subpath
     if [[ -d $path"$subpath" ]]; then
       #cd $path"$subpath"
@@ -42,7 +42,7 @@ for path in "${paths[@]}"; do
         #echo $f 
         #echo "checking ${f%/*}/ignore.sub"
         #echo -e "${YELLOW}${f}${NC}"
-        if [[ -x "${f%.*}.srt" ]]; then
+        if [[ -x "${f%.*}.srt" ]] || [[ -x "${f%.*}.en.srt" ]]; then
           if [[ "$1" == "-v" ]] || [[ "$1" == "-vv" ]];then
           echo -e "${GREEN}Subs found: ${NC}$f"
           fi

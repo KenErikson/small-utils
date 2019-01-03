@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/16541582/finding-multiple-files-recursively-and-renaming-in-linux
+
+find . -iname "*dbg*" -exec rename _dbg.txt .txt '{}' \;
+
+#rename in same folde ' Episode '->'e'
+rename 's/ Episode /e/g' * 
+
+		/torrent/t/Its Always Sunny in Philadelphia$ find . -iname "*Season *" -exec rename 's/ Episode /e/g' '{}' \;
+kn@garage:/mnt3/torrent/t/Its Always Sunny in Philadelphia$ find . -iname "* Episode *" -exec rename 's/ Episode /e/g' '{}' \;
+kn@garage:/mnt3/torrent/t/Its Always Sunny in Philadelphia$ find . -iname "*Season *" -exec rename 's/Season /s/g' '{}' \;
+
+
