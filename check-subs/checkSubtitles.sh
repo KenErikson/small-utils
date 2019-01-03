@@ -19,7 +19,7 @@ IFS=$'\012'
 if [[ "$2" != "" ]]; then
   touch "${2}ignore.sub"
 fi
-
+COUNT=0
 echo
 echo -e "${GREEN}#######################"
 echo -e "Checking subtitles in:"
@@ -50,7 +50,8 @@ for path in "${paths[@]}"; do
         else
         if [[ ! -f "${f%/*}/ignore.sub" ]] && [[ ! -f "${f%.*}.ignore.sub" ]]; then
           echo -e "${RED}No subtitl: ${NC}$f"
-        else
+         ((COUNT++))
+         else
           if [[ "$1" == "-vv" ]]; then
             echo -e "${YELLOW}Ignored:    ${NC}$f"
           fi
@@ -62,3 +63,5 @@ for path in "${paths[@]}"; do
     fi
   done
 done
+echo
+echo -e "${RED}Missing Subtitles: ${NC}$COUNT"
