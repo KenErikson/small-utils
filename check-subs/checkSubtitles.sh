@@ -42,7 +42,8 @@ for path in "${paths[@]}"; do
         #echo $f 
         #echo "checking ${f%/*}/ignore.sub"
         #echo -e "${YELLOW}${f}${NC}"
-        if [[ -x "${f%.*}.srt" ]] || [[ -x "${f%.*}.en.srt" ]]; then
+if [[ ! "${f}" == *"sample."* ]] && [[ ! "${f}" == *"Sample."* ]] && [[ ! "${f}" == *"Extras."* ]]; then
+        if [[ -f "${f%.*}.srt" ]] || [[ -f "${f%.*}.en.srt" ]]; then
           if [[ "$1" == "-v" ]] || [[ "$1" == "-vv" ]];then
           echo -e "${GREEN}Subs found: ${NC}$f"
           fi
@@ -57,7 +58,7 @@ for path in "${paths[@]}"; do
           fi
         fi
         fi
-
+       fi
       done
       #done
     fi

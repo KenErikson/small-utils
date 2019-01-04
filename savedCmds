@@ -10,3 +10,6 @@ kn@garage:/mnt3/torrent/t/Its Always Sunny in Philadelphia$ find . -iname "* Epi
 kn@garage:/mnt3/torrent/t/Its Always Sunny in Philadelphia$ find . -iname "*Season *" -exec rename 's/Season /s/g' '{}' \;
 
 
+find /mnt3s/ -name "*.srt" -exec mv -t /media {} +
+
+find /mnt3/ -name '*.srt' -exec cp --parents \{\} /media/srtSafe337/ \;
