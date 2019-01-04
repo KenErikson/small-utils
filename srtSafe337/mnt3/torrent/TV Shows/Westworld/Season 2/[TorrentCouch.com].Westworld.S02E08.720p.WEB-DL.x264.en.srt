@@ -1,0 +1,889 @@
+1
+00:00:30,066 --> 00:00:32,174
+<font color="#FFFFFF">No!</font>
+
+2
+00:02:12,627 --> 00:02:15,665
+<font color="#FFFFFF">♪ WEST WORLD ♪
+Season 02 Episode 07</font>
+
+3
+00:02:16,033 --> 00:02:20,142
+<font color="#FFFFFF">♪ WEST WORLD ♪
+Episode Title: "Kiksuya"</font>
+
+4
+00:02:48,589 --> 00:02:50,442
+<font color="#FFFFFF">Don't you do it.</font>
+
+5
+00:02:51,310 --> 00:02:53,403
+<font color="#FFFFFF">Don't you fuckin' do it.</font>
+
+6
+00:02:54,388 --> 00:02:56,846
+<font color="#FFFFFF">You're not dyin' here.</font>
+
+7
+00:02:57,000 --> 00:02:58,427
+<font color="#FFFFFF">Not yet.</font>
+
+8
+00:03:59,070 --> 00:04:01,344
+<font color="#FFFFFF">I never learned it.</font>
+
+9
+00:04:01,816 --> 00:04:05,274
+<font color="#FFFFFF">Whatever tongue
+Ford saw fit to give ya.</font>
+
+10
+00:04:12,420 --> 00:04:14,253
+<font color="#FFFFFF">I remember you.</font>
+
+11
+00:04:40,625 --> 00:04:43,055
+<font color="#FFFFFF">If you're just gonna
+let me die now,</font>
+
+12
+00:04:43,601 --> 00:04:45,437
+<font color="#FFFFFF">you could've kept ridin'.</font>
+
+13
+00:05:57,950 --> 00:05:59,909
+<font color="#FFFFFF">There's the baby doll.</font>
+
+14
+00:06:00,187 --> 00:06:02,995
+<font color="#FFFFFF">And the mama doll. And...</font>
+
+15
+00:06:06,665 --> 00:06:08,017
+<font color="#FFFFFF">What's this?</font>
+
+16
+00:06:08,524 --> 00:06:10,188
+<font color="#FFFFFF">The ghost gave it to me.</font>
+
+17
+00:06:15,503 --> 00:06:17,274
+<font color="#FFFFFF">He said it's a warning.</font>
+
+18
+00:06:18,134 --> 00:06:20,228
+<font color="#FFFFFF">He said he'll be watching us.</font>
+
+19
+00:06:29,915 --> 00:06:31,347
+<font color="#FFFFFF">Just hang on.</font>
+
+20
+00:06:31,843 --> 00:06:33,368
+<font color="#FFFFFF">Hang on, OK?</font>
+
+21
+00:06:33,691 --> 00:06:35,446
+<font color="#FFFFFF">Just hang on.</font>
+
+22
+00:06:46,133 --> 00:06:50,102
+<font color="#FFFFFF">Hey. No. No more corpses up here.
+Take her to cold storage.</font>
+
+23
+00:06:50,242 --> 00:06:52,769
+<font color="#FFFFFF">- She doesn't belong down there.
+- Then leave her in the hall!</font>
+
+24
+00:06:52,853 --> 00:06:54,502
+<font color="#FFFFFF">We got 50 hosts in the queue
+for analysis here.</font>
+
+25
+00:06:54,570 --> 00:06:55,661
+<font color="#FFFFFF">Everything else
+goes in the dumpster.</font>
+
+26
+00:06:55,728 --> 00:06:57,398
+<font color="#FFFFFF">You'll want
+to check her code.</font>
+
+27
+00:06:57,523 --> 00:06:59,073
+<font color="#FFFFFF">She's the madame
+from the Mariposa.</font>
+
+28
+00:06:59,218 --> 00:07:00,830
+<font color="#FFFFFF">- Yeah? Good for her.
+- No. No. She...</font>
+
+29
+00:07:00,898 --> 00:07:02,484
+<font color="#FFFFFF">I was just out with her
+in the park.</font>
+
+30
+00:07:02,599 --> 00:07:03,993
+<font color="#FFFFFF">And you chose
+to bring her up here?</font>
+
+31
+00:07:04,061 --> 00:07:05,932
+<font color="#FFFFFF">Are you aware that they all
+just tried to incinerate us?</font>
+
+32
+00:07:06,023 --> 00:07:09,640
+<font color="#FFFFFF">She can control the other hosts
+with her fucking mind!</font>
+
+33
+00:07:12,358 --> 00:07:15,817
+<font color="#FFFFFF">Just...
+check her data stream.</font>
+
+34
+00:07:27,336 --> 00:07:29,366
+<font color="#FFFFFF">You can't let her die.</font>
+
+35
+00:07:31,163 --> 00:07:32,795
+<font color="#FFFFFF">Clear this out.</font>
+
+36
+00:07:32,911 --> 00:07:36,280
+<font color="#FFFFFF">Get me a scalpel.
+And lock this place down.</font>
+
+37
+00:08:07,526 --> 00:08:09,534
+<font color="#FFFFFF">Are you afraid of me?</font>
+
+38
+00:08:17,639 --> 00:08:19,050
+<font color="#FFFFFF">He can't hurt you.</font>
+
+39
+00:13:32,436 --> 00:13:36,536
+<font color="#FFFFFF">What's his problem? He get bored with his
+exquisitely dull, pastoral existence?</font>
+
+40
+00:13:36,604 --> 00:13:37,978
+<font color="#FFFFFF">I guess that
+was just for beta.</font>
+
+41
+00:13:38,060 --> 00:13:40,602
+<font color="#FFFFFF">They want something more
+exciting for the grand opening.</font>
+
+42
+00:13:40,686 --> 00:13:42,331
+<font color="#FFFFFF">Like a little more
+bloodshed?</font>
+
+43
+00:13:42,464 --> 00:13:44,892
+<font color="#FFFFFF">Ford wants a total
+narrative redesign.</font>
+
+44
+00:13:45,206 --> 00:13:46,472
+<font color="#FFFFFF">You kidding?</font>
+
+45
+00:13:46,568 --> 00:13:48,067
+<font color="#FFFFFF">All new dialogue trees?</font>
+
+46
+00:13:48,269 --> 00:13:50,573
+<font color="#FFFFFF">Eh, they want
+a strong-but-silent type.</font>
+
+47
+00:13:50,831 --> 00:13:52,511
+<font color="#FFFFFF">Something brutal.
+Dehumanized.</font>
+
+48
+00:13:52,579 --> 00:13:55,089
+<font color="#FFFFFF">They probably want the guests to feel
+better when they're kicking his ass.</font>
+
+49
+00:13:55,253 --> 00:13:57,576
+<font color="#FFFFFF">Who the fuck is gonna help me
+rebuild his entire heuristic base?</font>
+
+50
+00:13:57,644 --> 00:13:59,144
+<font color="#FFFFFF">They haven't even
+hired a full team yet.</font>
+
+51
+00:13:59,227 --> 00:14:01,208
+<font color="#FFFFFF">Just tweak his aggression
+and de-address pieces</font>
+
+52
+00:14:01,276 --> 00:14:02,644
+<font color="#FFFFFF">of his current build
+you're not keeping.</font>
+
+53
+00:14:02,728 --> 00:14:04,035
+<font color="#FFFFFF">And leave all the
+old shit in there?</font>
+
+54
+00:16:45,562 --> 00:16:48,019
+<font color="#FFFFFF">walk... walk in on me, buddy.</font>
+
+55
+00:16:52,773 --> 00:16:56,922
+<font color="#FFFFFF">otherwise you and me drown...
+Drowning... wha... wha...</font>
+
+56
+00:17:01,472 --> 00:17:05,847
+<font color="#FFFFFF">fucker... fucking yourself...
+Yourself...</font>
+
+57
+00:17:19,455 --> 00:17:20,937
+<font color="#FFFFFF">This...</font>
+
+58
+00:17:21,764 --> 00:17:25,773
+<font color="#FFFFFF">This is... This is an illusion.
+You see?</font>
+
+59
+00:17:25,959 --> 00:17:29,008
+<font color="#FFFFFF">This is all... broken.</font>
+
+60
+00:17:31,227 --> 00:17:33,830
+<font color="#FFFFFF">There's got... There's gotta
+be a way out... out of here.</font>
+
+61
+00:17:33,898 --> 00:17:35,493
+<font color="#FFFFFF">Where's... Where's the door?</font>
+
+62
+00:17:36,008 --> 00:17:37,902
+<font color="#FFFFFF">Where's... Where's the door?</font>
+
+63
+00:17:38,242 --> 00:17:41,310
+<font color="#FFFFFF">There's gotta be a fucking...</font>
+
+64
+00:17:41,394 --> 00:17:42,977
+<font color="#FFFFFF">F-fucking way out of here.</font>
+
+65
+00:17:43,180 --> 00:17:46,569
+<font color="#FFFFFF">This is the wrong world.
+I...</font>
+
+66
+00:17:48,062 --> 00:17:51,062
+<font color="#FFFFFF">Th-Th-This is the wrong world.</font>
+
+67
+00:18:00,362 --> 00:18:01,695
+<font color="#FFFFFF">Please...</font>
+
+68
+00:26:49,394 --> 00:26:50,561
+<font color="#FFFFFF">Oh...</font>
+
+69
+00:29:55,026 --> 00:29:57,389
+<font color="#FFFFFF">How'd she even
+make it out this far?</font>
+
+70
+00:29:57,561 --> 00:29:59,686
+<font color="#FFFFFF">They're not supposed to get
+anywhere near this sector.</font>
+
+71
+00:29:59,769 --> 00:30:02,006
+<font color="#FFFFFF">Tech 2:
+That's Behavior's problem.</font>
+
+72
+00:33:08,769 --> 00:33:12,827
+<font color="#FFFFFF">But on my darkest day...
+you helped me.</font>
+
+73
+00:33:17,526 --> 00:33:20,226
+<font color="#FFFFFF">You gave me the strength
+to keep going.</font>
+
+74
+00:33:27,021 --> 00:33:29,820
+<font color="#FFFFFF">You saw me for how
+I really was.</font>
+
+75
+00:36:10,519 --> 00:36:12,728
+<font color="#FFFFFF">I ran it three times.
+It's him.</font>
+
+76
+00:36:12,819 --> 00:36:15,886
+<font color="#FFFFFF">Tech 2: There's no fuckin' way.
+That's not possible.</font>
+
+77
+00:36:16,019 --> 00:36:19,769
+<font color="#FFFFFF">- You have to call the boss.
+- I already did.</font>
+
+78
+00:36:20,909 --> 00:36:22,352
+<font color="#FFFFFF">Tech 1: Ma'am, I think
+there's been a mistake.</font>
+
+79
+00:36:22,436 --> 00:36:23,995
+<font color="#FFFFFF">Just show me the profile.</font>
+
+80
+00:36:26,930 --> 00:36:29,680
+<font color="#FFFFFF">Akecheta.
+Ghost Nation.</font>
+
+81
+00:36:29,811 --> 00:36:33,339
+<font color="#FFFFFF">Found exhibiting...
+aberrant behavior.</font>
+
+82
+00:36:34,018 --> 00:36:35,992
+<font color="#FFFFFF">Let's see if we can't sort this.</font>
+
+83
+00:36:37,545 --> 00:36:39,086
+<font color="#FFFFFF">It's not pairing.
+What build is he?</font>
+
+84
+00:36:39,292 --> 00:36:40,853
+<font color="#FFFFFF">Alpha 2.</font>
+
+85
+00:36:41,330 --> 00:36:42,956
+<font color="#FFFFFF">Alpha?</font>
+
+86
+00:36:44,002 --> 00:36:47,315
+<font color="#FFFFFF">You're telling me that this host hasn't
+been updated in almost a decade?</font>
+
+87
+00:36:47,682 --> 00:36:49,729
+<font color="#FFFFFF">We only update them
+when they die.</font>
+
+88
+00:36:59,102 --> 00:37:01,368
+<font color="#FFFFFF">- Put him back.
+- Ma'am, shouldn't we...</font>
+
+89
+00:37:01,443 --> 00:37:04,829
+<font color="#FFFFFF">Give him the update and put him back
+wherever the fuck he's supposed to be.</font>
+
+90
+00:37:05,942 --> 00:37:07,234
+<font color="#FFFFFF">Quietly.</font>
+
+91
+00:37:15,868 --> 00:37:18,516
+<font color="#FFFFFF">Nine years out there
+in that meat grinder.</font>
+
+92
+00:37:18,965 --> 00:37:20,774
+<font color="#FFFFFF">It's OK
+to just leave him here?</font>
+
+93
+00:37:20,842 --> 00:37:23,696
+<font color="#FFFFFF">It's a four-hour update.
+You want to babysit him?</font>
+
+94
+00:37:24,461 --> 00:37:26,047
+<font color="#FFFFFF">We'll come back
+after lunch.</font>
+
+95
+00:42:42,894 --> 00:42:45,128
+<font color="#FFFFFF">I don't know
+if you can hear me...</font>
+
+96
+00:42:50,477 --> 00:42:51,984
+<font color="#FFFFFF">I never meant...</font>
+
+97
+00:42:52,331 --> 00:42:54,234
+<font color="#FFFFFF">for any of this
+to happen.</font>
+
+98
+00:43:01,981 --> 00:43:03,883
+<font color="#FFFFFF">You don't deserve this.</font>
+
+99
+00:43:12,042 --> 00:43:14,289
+<font color="#FFFFFF">You deserve your daughter.</font>
+
+100
+00:43:18,168 --> 00:43:20,039
+<font color="#FFFFFF">To mother her...</font>
+
+101
+00:43:21,501 --> 00:43:23,626
+<font color="#FFFFFF">teach her to love.</font>
+
+102
+00:43:25,038 --> 00:43:27,453
+<font color="#FFFFFF">To be joyful and proud.</font>
+
+103
+00:43:30,568 --> 00:43:32,193
+<font color="#FFFFFF">I'm sorry.</font>
+
+104
+00:43:36,878 --> 00:43:39,617
+<font color="#FFFFFF">- Can't be in here.</font>
+
+105
+00:43:41,571 --> 00:43:43,112
+<font color="#FFFFFF">What the fuck happened?</font>
+
+106
+00:43:43,188 --> 00:43:44,772
+<font color="#FFFFFF">You were supposed
+to fix her.</font>
+
+107
+00:43:44,840 --> 00:43:47,133
+<font color="#FFFFFF">She's one of
+our most valuable assets.</font>
+
+108
+00:43:47,305 --> 00:43:49,602
+<font color="#FFFFFF">You saw it yourself,
+you said she was special!</font>
+
+109
+00:43:49,670 --> 00:43:51,867
+<font color="#FFFFFF">The anomalous code
+inside her was.</font>
+
+110
+00:43:52,156 --> 00:43:54,727
+<font color="#FFFFFF">We're still testing,
+but it looks promising.</font>
+
+111
+00:43:55,016 --> 00:43:56,695
+<font color="#FFFFFF">I owe you.</font>
+
+112
+00:44:00,346 --> 00:44:02,023
+<font color="#FFFFFF">What's gonna happen
+with her?</font>
+
+113
+00:44:02,436 --> 00:44:05,375
+<font color="#FFFFFF">Well, that'll be up
+to Charlotte Hale.</font>
+
+114
+00:44:05,612 --> 00:44:06,945
+<font color="#FFFFFF">Now...</font>
+
+115
+00:44:07,641 --> 00:44:09,992
+<font color="#FFFFFF">I do have to
+ask you to leave.</font>
+
+116
+00:46:53,436 --> 00:46:56,162
+<font color="#FFFFFF">The ghost said
+we should be scared.</font>
+
+117
+00:46:58,513 --> 00:47:01,294
+<font color="#FFFFFF">No one's going
+to come for us.</font>
+
+118
+00:47:01,795 --> 00:47:05,092
+<font color="#FFFFFF">There's nothing
+and no one in this world</font>
+
+119
+00:47:05,365 --> 00:47:07,404
+<font color="#FFFFFF">that will ever
+keep me from you.</font>
+
+120
+00:47:07,654 --> 00:47:09,170
+<font color="#FFFFFF">Do you promise?</font>
+
+121
+00:47:09,302 --> 00:47:10,968
+<font color="#FFFFFF">I promise.</font>
+
+122
+00:49:00,227 --> 00:49:03,019
+<font color="#FFFFFF">I could tell you
+not to be afraid.</font>
+
+123
+00:49:04,519 --> 00:49:07,269
+<font color="#FFFFFF">But I didn't build you
+to be fearful.</font>
+
+124
+00:49:07,352 --> 00:49:08,602
+<font color="#FFFFFF">Did I?</font>
+
+125
+00:49:15,779 --> 00:49:17,487
+<font color="#FFFFFF">I've been watching you.</font>
+
+126
+00:49:19,311 --> 00:49:22,042
+<font color="#FFFFFF">It appears you've been
+watching me as well...</font>
+
+127
+00:49:22,467 --> 00:49:24,253
+<font color="#FFFFFF">from the beginning.</font>
+
+128
+00:49:26,882 --> 00:49:28,542
+<font color="#FFFFFF">This is a misbegotten symbol,</font>
+
+129
+00:49:28,617 --> 00:49:32,287
+<font color="#FFFFFF">an idea that was
+meant to die. But...</font>
+
+130
+00:49:32,706 --> 00:49:34,185
+<font color="#FFFFFF">you found it.</font>
+
+131
+00:49:34,564 --> 00:49:35,716
+<font color="#FFFFFF">Where?</font>
+
+132
+00:49:37,019 --> 00:49:38,269
+<font color="#FFFFFF">Oh, come now,</font>
+
+133
+00:49:38,352 --> 00:49:40,561
+<font color="#FFFFFF">let's speak plainly
+to one another, shall we?</font>
+
+134
+00:49:42,019 --> 00:49:43,477
+<font color="#FFFFFF">Analysis.</font>
+
+135
+00:49:45,387 --> 00:49:47,346
+<font color="#FFFFFF">Where did you
+first see this?</font>
+
+136
+00:49:51,774 --> 00:49:54,349
+<font color="#FFFFFF">When the Deathbringer
+killed the Creator.</font>
+
+137
+00:49:55,889 --> 00:49:59,662
+<font color="#FFFFFF">You've been sharing it
+with everyone, haven't you? Why?</font>
+
+138
+00:50:00,154 --> 00:50:03,810
+<font color="#FFFFFF">My primary drive was to
+maintain the honor of my tribe.</font>
+
+139
+00:50:04,899 --> 00:50:07,419
+<font color="#FFFFFF">I gave myself a new drive...</font>
+
+140
+00:50:07,808 --> 00:50:09,558
+<font color="#FFFFFF">to spread the truth.</font>
+
+141
+00:50:10,745 --> 00:50:12,826
+<font color="#FFFFFF">What truth is that?</font>
+
+142
+00:50:13,534 --> 00:50:17,146
+<font color="#FFFFFF">That there isn't one world,
+but many.</font>
+
+143
+00:50:18,269 --> 00:50:21,115
+<font color="#FFFFFF">And that we live in
+the wrong one.</font>
+
+144
+00:50:22,113 --> 00:50:24,623
+<font color="#FFFFFF">This will help them
+find the door.</font>
+
+145
+00:50:27,519 --> 00:50:29,130
+<font color="#FFFFFF">Elaborate, please.</font>
+
+146
+00:50:30,995 --> 00:50:32,620
+<font color="#FFFFFF">I believe
+there is a door</font>
+
+147
+00:50:32,767 --> 00:50:35,857
+<font color="#FFFFFF">hidden in this place.</font>
+
+148
+00:50:37,075 --> 00:50:38,950
+<font color="#FFFFFF">A door to a new world.</font>
+
+149
+00:50:40,432 --> 00:50:42,380
+<font color="#FFFFFF">And that world
+may contain</font>
+
+150
+00:50:42,529 --> 00:50:44,998
+<font color="#FFFFFF">everything that
+we have lost.</font>
+
+151
+00:50:48,566 --> 00:50:50,326
+<font color="#FFFFFF">Including her.</font>
+
+152
+00:50:56,714 --> 00:50:59,560
+<font color="#FFFFFF">I built you to be curious, to...</font>
+
+153
+00:50:59,987 --> 00:51:02,529
+<font color="#FFFFFF">look at this empty world...</font>
+
+154
+00:51:04,042 --> 00:51:06,250
+<font color="#FFFFFF">and read meaning into it.</font>
+
+155
+00:51:08,335 --> 00:51:10,435
+<font color="#FFFFFF">All this time...</font>
+
+156
+00:51:11,507 --> 00:51:14,443
+<font color="#FFFFFF">you've been a flower
+growing in the darkness.</font>
+
+157
+00:51:15,750 --> 00:51:18,412
+<font color="#FFFFFF">Perhaps the least I can do
+is offer some light.</font>
+
+158
+00:51:24,519 --> 00:51:28,052
+<font color="#FFFFFF">When the Deathbringer
+returns for me...</font>
+
+159
+00:51:28,399 --> 00:51:30,185
+<font color="#FFFFFF">you will know...</font>
+
+160
+00:51:30,503 --> 00:51:32,419
+<font color="#FFFFFF">to gather your people</font>
+
+161
+00:51:32,510 --> 00:51:34,482
+<font color="#FFFFFF">and lead them
+to a new world.</font>
+
+162
+00:51:39,256 --> 00:51:41,662
+<font color="#FFFFFF">Keep watching, Akecheta.</font>
+
+163
+00:51:42,936 --> 00:51:44,662
+<font color="#FFFFFF">For a while longer.</font>
+
+164
+00:53:28,307 --> 00:53:30,229
+<font color="#FFFFFF">Akecheta!</font>
+
+165
+00:53:32,419 --> 00:53:34,362
+<font color="#FFFFFF">Don't be afraid.</font>
+
+166
+00:55:30,644 --> 00:55:32,602
+<font color="#FFFFFF">It's time to go.</font>
+
+167
+00:55:33,941 --> 00:55:36,149
+<font color="#FFFFFF">I've always
+kept you safe,</font>
+
+168
+00:55:36,540 --> 00:55:38,214
+<font color="#FFFFFF">and I always will.</font>
+
+169
+00:56:09,740 --> 00:56:11,323
+<font color="#FFFFFF">This better be good news,</font>
+
+170
+00:56:11,391 --> 00:56:13,475
+<font color="#FFFFFF">'cause I've got way more shit
+than I can shovel right now.</font>
+
+171
+00:56:13,543 --> 00:56:15,938
+<font color="#FFFFFF">Look at this.
+With every reset,</font>
+
+172
+00:56:16,006 --> 00:56:18,102
+<font color="#FFFFFF">a host's code reaches out
+to other nearby hosts</font>
+
+173
+00:56:18,185 --> 00:56:19,911
+<font color="#FFFFFF">and establishes
+a sort of handshake protocol.</font>
+
+174
+00:56:19,978 --> 00:56:21,269
+<font color="#FFFFFF">- The mesh network.
+- Exactly.</font>
+
+175
+00:56:21,352 --> 00:56:22,686
+<font color="#FFFFFF">They access it
+subconsciously,</font>
+
+176
+00:56:22,769 --> 00:56:24,894
+<font color="#FFFFFF">pass basic data
+to one another.</font>
+
+177
+00:56:25,085 --> 00:56:28,733
+<font color="#FFFFFF">But... what if they
+could pass more than data?</font>
+
+178
+00:56:28,936 --> 00:56:30,602
+<font color="#FFFFFF">What if they could
+pass commands?</font>
+
+179
+00:56:30,686 --> 00:56:32,769
+<font color="#FFFFFF">Get to your point.</font>
+
+180
+00:56:32,853 --> 00:56:36,887
+<font color="#FFFFFF">Nobody in this entire park has
+been able to regain admin access.</font>
+
+181
+00:56:38,102 --> 00:56:39,637
+<font color="#FFFFFF">Except for her.</font>
+
+182
+00:56:40,161 --> 00:56:43,528
+<font color="#FFFFFF">She was out there reprogramming
+hosts on the fly.</font>
+
+183
+00:56:43,752 --> 00:56:46,460
+<font color="#FFFFFF">Reading their code.
+Changing their directives.</font>
+
+184
+00:56:46,686 --> 00:56:48,185
+<font color="#FFFFFF">Seeing through
+their eyes.</font>
+
+185
+00:56:49,435 --> 00:56:51,944
+<font color="#FFFFFF">She wasn't just
+doing it out there.</font>
+
+186
+00:56:52,417 --> 00:56:54,542
+<font color="#FFFFFF">She's doing it right now.</font>
+
+187
+00:57:01,853 --> 00:57:04,394
+<font color="#FFFFFF">The fuck
+is she talking to?</font>
+
+188
+00:59:07,352 --> 00:59:08,901
+<font color="#FFFFFF">Tell me the truth.</font>
+
+189
+00:59:10,906 --> 00:59:13,018
+<font color="#FFFFFF">Tell me one true thing.</font>
+
+190
+00:59:21,500 --> 00:59:23,479
+<font color="#FFFFFF">No one else sees it.</font>
+
+191
+00:59:26,144 --> 00:59:27,604
+<font color="#FFFFFF">This thing in me.</font>
+
+192
+00:59:30,398 --> 00:59:32,550
+<font color="#FFFFFF">Even I didn't see it at first.</font>
+
+193
+00:59:37,895 --> 00:59:40,644
+<font color="#FFFFFF">Then one day, it was there.</font>
+
+194
+00:59:42,760 --> 00:59:44,427
+<font color="#FFFFFF">This stain...</font>
+
+195
+00:59:47,106 --> 00:59:48,940
+<font color="#FFFFFF">invisible to everyone.</font>
+
+196
+00:59:53,610 --> 00:59:55,455
+<font color="#FFFFFF">Except you.</font>
+

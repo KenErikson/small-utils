@@ -1,0 +1,1310 @@
+1
+00:01:47,525 --> 00:01:48,609
+<font color="#FFFFFF">Hello!</font>
+
+2
+00:01:55,658 --> 00:01:58,453
+<font color="#FFFFFF">You are Ragnar Lothbrok's son, Bjorn.</font>
+
+3
+00:01:59,037 --> 00:02:01,289
+<font color="#FFFFFF">I remember you from the thing.</font>
+
+4
+00:02:02,165 --> 00:02:03,207
+<font color="#FFFFFF">Yes.</font>
+
+5
+00:02:03,707 --> 00:02:04,792
+<font color="#FFFFFF">Where is your father?</font>
+
+6
+00:02:05,584 --> 00:02:07,921
+<font color="#FFFFFF">Bjorn? Who are you talking to?</font>
+
+7
+00:02:10,548 --> 00:02:12,050
+<font color="#FFFFFF">I was just asking your son</font>
+
+8
+00:02:12,800 --> 00:02:14,760
+<font color="#FFFFFF">where Ragnar Lothbrok might be.</font>
+
+9
+00:02:15,719 --> 00:02:17,138
+<font color="#FFFFFF">He's gone fishing.</font>
+
+10
+00:02:17,222 --> 00:02:19,348
+<font color="#FFFFFF">Oh! Fishing?</font>
+
+11
+00:02:20,557 --> 00:02:21,975
+<font color="#FFFFFF">He's gone fishing?</font>
+
+12
+00:02:22,894 --> 00:02:26,521
+<font color="#FFFFFF">Yes.
+Fishing.</font>
+
+13
+00:02:28,900 --> 00:02:30,485
+<font color="#FFFFFF">When will he return?</font>
+
+14
+00:02:32,569 --> 00:02:34,239
+<font color="#FFFFFF">I don't know.</font>
+
+15
+00:02:35,698 --> 00:02:39,243
+<font color="#FFFFFF">In which case, I must take
+someone back as surety.</font>
+
+16
+00:02:39,911 --> 00:02:41,454
+<font color="#FFFFFF">Just in case.</font>
+
+17
+00:02:44,081 --> 00:02:45,123
+<font color="#FFFFFF">In case...</font>
+
+18
+00:02:45,500 --> 00:02:48,336
+<font color="#FFFFFF">In case your husband has not gone fishing.</font>
+
+19
+00:03:01,181 --> 00:03:03,768
+<font color="#FFFFFF">You! Come!</font>
+
+20
+00:03:05,770 --> 00:03:06,770
+<font color="#FFFFFF">Come!</font>
+
+21
+00:03:15,947 --> 00:03:17,782
+<font color="#FFFFFF">You have to come with me.</font>
+
+22
+00:03:18,490 --> 00:03:23,954
+<font color="#FFFFFF">If you don't obey this order,
+the Earl will never give you an arm ring!</font>
+
+23
+00:03:26,248 --> 00:03:27,417
+<font color="#FFFFFF">I'll come.</font>
+
+24
+00:03:28,876 --> 00:03:30,044
+<font color="#FFFFFF">Good.</font>
+
+25
+00:03:30,752 --> 00:03:32,629
+<font color="#FFFFFF">Then let's be on our way.</font>
+
+26
+00:03:33,798 --> 00:03:36,425
+<font color="#FFFFFF">What are you doing?
+Where are you taking my son?</font>
+
+27
+00:03:36,800 --> 00:03:38,135
+<font color="#FFFFFF">He'll be quite safe, woman.</font>
+
+28
+00:03:42,264 --> 00:03:44,057
+<font color="#FFFFFF">I bid you all a good day.</font>
+
+29
+00:03:58,031 --> 00:03:59,574
+<font color="#FFFFFF">We did it, brother.</font>
+
+30
+00:04:03,286 --> 00:04:04,829
+<font color="#FFFFFF">Yes, brother, we did.</font>
+
+31
+00:04:07,664 --> 00:04:10,043
+<font color="#FFFFFF">Let's just hope the Earl sees it that way.</font>
+
+32
+00:04:12,127 --> 00:04:13,253
+<font color="#FFFFFF">Yeah.</font>
+
+33
+00:04:29,353 --> 00:04:30,730
+<font color="#FFFFFF">What is your name?</font>
+
+34
+00:04:32,606 --> 00:04:34,067
+<font color="#FFFFFF">Athelstan.</font>
+
+35
+00:04:34,358 --> 00:04:37,694
+<font color="#FFFFFF">I am Ragnar Lothbrok.</font>
+
+36
+00:04:40,947 --> 00:04:42,992
+<font color="#FFFFFF">What was that place called?</font>
+
+37
+00:04:46,079 --> 00:04:47,329
+<font color="#FFFFFF">Lindisfarne.</font>
+
+38
+00:04:47,622 --> 00:04:48,872
+<font color="#FFFFFF">England?</font>
+
+39
+00:04:50,707 --> 00:04:51,793
+<font color="#FFFFFF">Yes.</font>
+
+40
+00:04:54,504 --> 00:04:56,963
+<font color="#FFFFFF">It was foretold that divine punishment</font>
+
+41
+00:04:57,048 --> 00:05:01,009
+<font color="#FFFFFF">would fall upon God's chosen
+people for all our grievous sins,</font>
+
+42
+00:05:03,596 --> 00:05:05,389
+<font color="#FFFFFF">and so it has happened.</font>
+
+43
+00:05:06,432 --> 00:05:08,643
+<font color="#FFFFFF">And that is why I am here.</font>
+
+44
+00:05:10,937 --> 00:05:12,105
+<font color="#FFFFFF">No.</font>
+
+45
+00:05:12,730 --> 00:05:15,233
+<font color="#FFFFFF">You are here because I spared your life.</font>
+
+46
+00:05:18,110 --> 00:05:20,237
+<font color="#FFFFFF">Why did you spare my life?</font>
+
+47
+00:05:27,911 --> 00:05:29,247
+<font color="#FFFFFF">I don't know yet.</font>
+
+48
+00:06:19,880 --> 00:06:21,339
+<font color="#FFFFFF">Ragnar Lothbrok!</font>
+
+49
+00:06:21,757 --> 00:06:23,091
+<font color="#FFFFFF">What is it?</font>
+
+50
+00:06:25,427 --> 00:06:27,288
+<font color="#FFFFFF">Brother Cenwulf here, beside me,</font>
+
+51
+00:06:27,822 --> 00:06:29,161
+<font color="#FFFFFF">I think he's dead.</font>
+
+52
+00:06:40,567 --> 00:06:41,819
+<font color="#FFFFFF">You're right.</font>
+
+53
+00:06:42,319 --> 00:06:43,362
+<font color="#FFFFFF">Leif.</font>
+
+54
+00:07:13,850 --> 00:07:16,187
+<font color="#FFFFFF">May God rest your soul, Brother Cenwulf.</font>
+
+55
+00:07:17,187 --> 00:07:19,689
+<font color="#FFFFFF"><i>In nomine Patris, Filli,</i></font>
+
+56
+00:07:21,442 --> 00:07:22,567
+<font color="#FFFFFF"><i>et Spiritus Sancti.</i></font>
+
+57
+00:08:27,425 --> 00:08:29,759
+<font color="#FFFFFF">We'll drink well tonight, my friend.
+Ah.</font>
+
+58
+00:08:36,225 --> 00:08:37,475
+<font color="#FFFFFF">Eric!</font>
+
+59
+00:08:38,351 --> 00:08:39,352
+<font color="#FFFFFF">Thank the gods!</font>
+
+60
+00:08:39,687 --> 00:08:41,313
+<font color="#FFFFFF">And not alone! Look!</font>
+
+61
+00:08:41,688 --> 00:08:43,065
+<font color="#FFFFFF">We've brought slaves to sell.</font>
+
+62
+00:08:43,941 --> 00:08:45,359
+<font color="#FFFFFF">But there's more, woman.</font>
+
+63
+00:08:45,650 --> 00:08:50,197
+<font color="#FFFFFF">More things of gold and silver
+than you and I have ever seen before,</font>
+
+64
+00:08:50,780 --> 00:08:52,950
+<font color="#FFFFFF">nor anyone else here in Kattegat.</font>
+
+65
+00:08:59,456 --> 00:09:02,835
+<font color="#FFFFFF">Ragnar Lothbrok, welcome back.</font>
+
+66
+00:09:03,836 --> 00:09:06,797
+<font color="#FFFFFF">We know you sailed west
+across the open ocean</font>
+
+67
+00:09:07,548 --> 00:09:10,967
+<font color="#FFFFFF">and found land and plunder, as you promised.</font>
+
+68
+00:09:11,092 --> 00:09:14,639
+<font color="#FFFFFF">So, let no man say anymore
+that it is not possible,</font>
+
+69
+00:09:15,014 --> 00:09:16,974
+<font color="#FFFFFF">and we salute and praise you.</font>
+
+70
+00:09:41,831 --> 00:09:43,125
+<font color="#FFFFFF">Knut.</font>
+
+71
+00:09:43,668 --> 00:09:46,379
+<font color="#FFFFFF">You're too late.
+You missed the boat.</font>
+
+72
+00:09:49,423 --> 00:09:51,466
+<font color="#FFFFFF">I came to tell you that
+Earl Haraldson summons you</font>
+
+73
+00:09:51,549 --> 00:09:53,177
+<font color="#FFFFFF">to attend him in the great hall.</font>
+
+74
+00:09:57,514 --> 00:09:59,100
+<font color="#FFFFFF">It will be a pleasure.</font>
+
+75
+00:10:00,142 --> 00:10:01,644
+<font color="#FFFFFF">Well done, Ragnar!</font>
+
+76
+00:10:02,561 --> 00:10:04,355
+<font color="#FFFFFF">Are you coming, Knut?</font>
+
+77
+00:10:35,760 --> 00:10:37,346
+<font color="#FFFFFF">My Lord,</font>
+
+78
+00:10:38,346 --> 00:10:41,142
+<font color="#FFFFFF">it was easy to take all of these things.</font>
+
+79
+00:10:42,475 --> 00:10:46,105
+<font color="#FFFFFF">The priests in the temple,
+they had no weapons.</font>
+
+80
+00:10:46,813 --> 00:10:48,732
+<font color="#FFFFFF">They were like babies.</font>
+
+81
+00:10:51,235 --> 00:10:53,070
+<font color="#FFFFFF">Here is one of their priests.</font>
+
+82
+00:10:53,903 --> 00:10:57,408
+<font color="#FFFFFF">We captured several of them
+to sell for slaves.</font>
+
+83
+00:11:00,285 --> 00:11:05,081
+<font color="#FFFFFF">It must be true that there are many
+more such holy places in England</font>
+
+84
+00:11:06,207 --> 00:11:08,543
+<font color="#FFFFFF">and other lands to the west</font>
+
+85
+00:11:09,086 --> 00:11:12,923
+<font color="#FFFFFF">likewise filled with such treasure,</font>
+
+86
+00:11:14,549 --> 00:11:17,927
+<font color="#FFFFFF">and to sail there will benefit us all.</font>
+
+87
+00:11:27,229 --> 00:11:31,357
+<font color="#FFFFFF">How did you find this place of great riches</font>
+
+88
+00:11:31,859 --> 00:11:34,110
+<font color="#FFFFFF">when all before you had failed?</font>
+
+89
+00:11:35,571 --> 00:11:36,864
+<font color="#FFFFFF">My Lord,</font>
+
+90
+00:11:39,073 --> 00:11:41,786
+<font color="#FFFFFF">we were more fortunate than others.</font>
+
+91
+00:11:43,788 --> 00:11:45,456
+<font color="#FFFFFF">We had Thor on our side.</font>
+
+92
+00:11:45,914 --> 00:11:47,750
+<font color="#FFFFFF">Thor.
+Thor.</font>
+
+93
+00:11:50,753 --> 00:11:53,087
+<font color="#FFFFFF">Yes.</font>
+
+94
+00:11:55,131 --> 00:11:57,134
+<font color="#FFFFFF">Then you were indeed fortunate.</font>
+
+95
+00:11:57,467 --> 00:12:00,346
+<font color="#FFFFFF">But you understand that
+all this belongs to me,</font>
+
+96
+00:12:02,764 --> 00:12:04,057
+<font color="#FFFFFF">by right.</font>
+
+97
+00:12:06,268 --> 00:12:09,687
+<font color="#FFFFFF">My Lord, me and Floki paid for the boat.</font>
+
+98
+00:12:09,772 --> 00:12:14,360
+<font color="#FFFFFF">Surely we are entitled
+to some reward, and my crew...</font>
+
+99
+00:12:14,902 --> 00:12:17,111
+<font color="#FFFFFF">You want me to pay you</font>
+
+100
+00:12:17,403 --> 00:12:21,200
+<font color="#FFFFFF">when you took these things
+as easily as from babies?</font>
+
+101
+00:12:38,174 --> 00:12:40,134
+<font color="#FFFFFF">Here's what I've decided to do.</font>
+
+102
+00:12:41,010 --> 00:12:45,890
+<font color="#FFFFFF">Each one of you can take
+one thing from this haul.</font>
+
+103
+00:12:47,100 --> 00:12:48,686
+<font color="#FFFFFF">- One?
+- Yes.</font>
+
+104
+00:12:48,852 --> 00:12:51,230
+<font color="#FFFFFF">And you'll still be richer
+than you were before.</font>
+
+105
+00:12:55,525 --> 00:12:57,945
+<font color="#FFFFFF">Now, all the world can see</font>
+
+106
+00:12:58,028 --> 00:13:00,865
+<font color="#FFFFFF">how magnanimous and generous is your lord,</font>
+
+107
+00:13:03,450 --> 00:13:06,245
+<font color="#FFFFFF">especially since you disobeyed me.</font>
+
+108
+00:13:08,788 --> 00:13:12,375
+<font color="#FFFFFF">So, Ragnar Lothbrok,</font>
+
+109
+00:13:14,086 --> 00:13:15,921
+<font color="#FFFFFF">what will you choose?</font>
+
+110
+00:13:52,415 --> 00:13:56,754
+<font color="#FFFFFF">I will take the priest for my slave.</font>
+
+111
+00:13:59,590 --> 00:14:00,798
+<font color="#FFFFFF">The priest?</font>
+
+112
+00:14:14,437 --> 00:14:15,438
+<font color="#FFFFFF">Granted.</font>
+
+113
+00:14:24,322 --> 00:14:25,950
+<font color="#FFFFFF">Why did you do that?</font>
+
+114
+00:14:26,533 --> 00:14:29,161
+<font color="#FFFFFF">Why did you give everything away so easily?</font>
+
+115
+00:14:29,452 --> 00:14:31,205
+<font color="#FFFFFF">We wasted our time.</font>
+
+116
+00:14:32,998 --> 00:14:34,667
+<font color="#FFFFFF">I never should have believed in you.</font>
+
+117
+00:14:35,500 --> 00:14:37,543
+<font color="#FFFFFF">He was looking for an excuse to kill us.</font>
+
+118
+00:14:38,044 --> 00:14:42,508
+<font color="#FFFFFF">Why would we go to Valhalla
+after such miserable and pointless deaths?</font>
+
+119
+00:14:43,634 --> 00:14:45,927
+<font color="#FFFFFF">Brother, believe me,</font>
+
+120
+00:14:47,596 --> 00:14:51,808
+<font color="#FFFFFF">this is not the end,
+it's just the beginning.</font>
+
+121
+00:15:02,235 --> 00:15:07,282
+<font color="#FFFFFF">Well, at least we didn't give
+everything away so easily.</font>
+
+122
+00:15:08,951 --> 00:15:10,494
+<font color="#FFFFFF">That's your one thing?</font>
+
+123
+00:15:11,870 --> 00:15:13,746
+<font color="#FFFFFF">How should he ever find out?</font>
+
+124
+00:15:14,831 --> 00:15:16,207
+<font color="#FFFFFF">You idiot!</font>
+
+125
+00:15:17,167 --> 00:15:19,961
+<font color="#FFFFFF">Would Odin expect us to
+do anything so stupid?</font>
+
+126
+00:15:21,922 --> 00:15:25,509
+<font color="#FFFFFF">You have your Odin and I have mine.</font>
+
+127
+00:15:28,011 --> 00:15:31,764
+<font color="#FFFFFF">Why don't you go get drunk,
+spend all this on whores?</font>
+
+128
+00:15:32,725 --> 00:15:36,019
+<font color="#FFFFFF">Make sure the Earl really finds out
+that you stole from him.</font>
+
+129
+00:16:37,246 --> 00:16:38,956
+<font color="#FFFFFF">What a hoard is this!</font>
+
+130
+00:16:40,875 --> 00:16:43,128
+<font color="#FFFFFF">What a hoard it is.</font>
+
+131
+00:16:43,629 --> 00:16:45,254
+<font color="#FFFFFF">See what you've done, My Lord?</font>
+
+132
+00:16:46,756 --> 00:16:48,591
+<font color="#FFFFFF">Never doubt your power.</font>
+
+133
+00:16:50,052 --> 00:16:52,303
+<font color="#FFFFFF">With just a few words, you stripped</font>
+
+134
+00:16:52,386 --> 00:16:54,807
+<font color="#FFFFFF">Ragnar Lothbrok of all his treasure.</font>
+
+135
+00:16:56,140 --> 00:16:57,975
+<font color="#FFFFFF">He's nothing to you,</font>
+
+136
+00:16:58,894 --> 00:17:03,899
+<font color="#FFFFFF">and you are all power, all authority.</font>
+
+137
+00:17:07,402 --> 00:17:09,488
+<font color="#FFFFFF">You can have whatever you want.</font>
+
+138
+00:18:23,936 --> 00:18:25,396
+<font color="#FFFFFF">I told them you'd come home.</font>
+
+139
+00:18:25,689 --> 00:18:27,398
+<font color="#FFFFFF">Father! You're home!</font>
+
+140
+00:18:29,609 --> 00:18:32,278
+<font color="#FFFFFF">- Little man...
+- Did you reach the west?</font>
+
+141
+00:18:44,207 --> 00:18:45,334
+<font color="#FFFFFF">So,</font>
+
+142
+00:18:46,167 --> 00:18:48,545
+<font color="#FFFFFF">where's all the treasure you promised?</font>
+
+143
+00:18:49,796 --> 00:18:52,132
+<font color="#FFFFFF">The Earl took it all for himself.</font>
+
+144
+00:18:53,717 --> 00:18:57,054
+<font color="#FFFFFF">But I found it, and it filled the boat.</font>
+
+145
+00:19:00,891 --> 00:19:04,060
+<font color="#FFFFFF">- I believe you.
+- You ought to believe me.</font>
+
+146
+00:19:04,603 --> 00:19:07,564
+<font color="#FFFFFF">This is a priest from
+the temple to prove it.</font>
+
+147
+00:19:08,690 --> 00:19:10,983
+<font color="#FFFFFF">Priest! This is my family.</font>
+
+148
+00:19:12,486 --> 00:19:14,237
+<font color="#FFFFFF">His name is Athelstan.</font>
+
+149
+00:19:14,988 --> 00:19:17,824
+<font color="#FFFFFF">Although he's a foreigner,
+he speaks our language,</font>
+
+150
+00:19:19,116 --> 00:19:20,117
+<font color="#FFFFFF">don't you?</font>
+
+151
+00:19:20,618 --> 00:19:22,371
+<font color="#FFFFFF">A little, yes.</font>
+
+152
+00:19:25,457 --> 00:19:27,709
+<font color="#FFFFFF">What is wrong with your head?</font>
+
+153
+00:19:29,169 --> 00:19:31,253
+<font color="#FFFFFF">When we become monks, they cut our hair.</font>
+
+154
+00:19:32,172 --> 00:19:33,548
+<font color="#FFFFFF">It marks us out.</font>
+
+155
+00:19:34,132 --> 00:19:36,509
+<font color="#FFFFFF">If you're a priest, which
+god do you like best?</font>
+
+156
+00:19:37,927 --> 00:19:39,554
+<font color="#FFFFFF">There is only one god.</font>
+
+157
+00:19:43,557 --> 00:19:45,727
+<font color="#FFFFFF">Here, you can touch him.</font>
+
+158
+00:19:47,980 --> 00:19:50,440
+<font color="#FFFFFF">- Are we keeping him?
+- Hello.</font>
+
+159
+00:19:51,942 --> 00:19:54,486
+<font color="#FFFFFF">I've missed your smell and your body.</font>
+
+160
+00:19:55,945 --> 00:20:00,282
+<font color="#FFFFFF">Children are fine.
+But I'm still a woman.</font>
+
+161
+00:20:04,162 --> 00:20:05,788
+<font color="#FFFFFF">Why do you wear this?</font>
+
+162
+00:20:06,123 --> 00:20:07,958
+<font color="#FFFFFF">All monks do.</font>
+
+163
+00:20:13,838 --> 00:20:15,089
+<font color="#FFFFFF">Look at his feet.</font>
+
+164
+00:20:49,624 --> 00:20:51,125
+<font color="#FFFFFF">Athelstan.</font>
+
+165
+00:20:53,502 --> 00:20:57,507
+<font color="#FFFFFF">Athelstan, we want to ask you something.</font>
+
+166
+00:21:01,970 --> 00:21:04,388
+<font color="#FFFFFF">Come and join us, priest.</font>
+
+167
+00:21:05,347 --> 00:21:06,474
+<font color="#FFFFFF">Come on.</font>
+
+168
+00:21:09,853 --> 00:21:11,354
+<font color="#FFFFFF">Don't you want to?</font>
+
+169
+00:21:13,355 --> 00:21:14,648
+<font color="#FFFFFF">You'll enjoy it.</font>
+
+170
+00:21:15,066 --> 00:21:16,233
+<font color="#FFFFFF">I am a monk.</font>
+
+171
+00:21:17,568 --> 00:21:19,695
+<font color="#FFFFFF">I have taken vows of celibacy.</font>
+
+172
+00:21:20,113 --> 00:21:22,156
+<font color="#FFFFFF">I cannot touch a woman.</font>
+
+173
+00:21:24,701 --> 00:21:25,951
+<font color="#FFFFFF">I never have.</font>
+
+174
+00:21:40,717 --> 00:21:42,384
+<font color="#FFFFFF">Wouldn't you like to?</font>
+
+175
+00:21:48,808 --> 00:21:51,394
+<font color="#FFFFFF">- It would be a sin.
+- Who would know?</font>
+
+176
+00:21:54,439 --> 00:21:55,941
+<font color="#FFFFFF">God would know.</font>
+
+177
+00:21:56,817 --> 00:21:59,068
+<font color="#FFFFFF">What if he looked the other way?</font>
+
+178
+00:22:10,747 --> 00:22:14,041
+<font color="#FFFFFF">Go to sleep then with your god.</font>
+
+179
+00:23:23,193 --> 00:23:26,698
+<font color="#FFFFFF">Is this what you
+wanted? There are so many...</font>
+
+180
+00:23:44,423 --> 00:23:46,468
+<font color="#FFFFFF">Bjorn, where are you going?</font>
+
+181
+00:24:24,673 --> 00:24:26,132
+<font color="#FFFFFF">Time for breakfast.</font>
+
+182
+00:24:45,442 --> 00:24:48,113
+<font color="#FFFFFF">- What age are you, boy?
+- Thirteen.</font>
+
+183
+00:24:49,239 --> 00:24:50,740
+<font color="#FFFFFF">Thirteen.</font>
+
+184
+00:24:51,574 --> 00:24:53,701
+<font color="#FFFFFF">The age my boy would have been.</font>
+
+185
+00:24:56,913 --> 00:24:59,082
+<font color="#FFFFFF">The men will soon be going
+on the summer raids,</font>
+
+186
+00:24:59,749 --> 00:25:01,584
+<font color="#FFFFFF">are you looking forward to joining them?</font>
+
+187
+00:25:01,792 --> 00:25:03,169
+<font color="#FFFFFF">I dream of it.</font>
+
+188
+00:25:03,252 --> 00:25:05,922
+<font color="#FFFFFF">I'm already a good fighter,
+like my father was.</font>
+
+189
+00:25:07,798 --> 00:25:12,178
+<font color="#FFFFFF">That's why I chose you, because
+you're broad and strong.</font>
+
+190
+00:25:20,019 --> 00:25:21,520
+<font color="#FFFFFF">That's deep enough.</font>
+
+191
+00:25:25,650 --> 00:25:26,776
+<font color="#FFFFFF">Come.</font>
+
+192
+00:25:48,798 --> 00:25:50,967
+<font color="#FFFFFF">Why are you burying all this treasure?</font>
+
+193
+00:25:52,218 --> 00:25:53,970
+<font color="#FFFFFF">Don't you know anything, boy?</font>
+
+194
+00:25:54,220 --> 00:25:57,723
+<font color="#FFFFFF">Odin promises that a man will have
+the use of everything he has hoarded up</font>
+
+195
+00:25:57,807 --> 00:26:01,769
+<font color="#FFFFFF">after he is dead and wakes
+up again in Valhalla.</font>
+
+196
+00:26:02,644 --> 00:26:07,317
+<font color="#FFFFFF">But the hoard needs protection,
+somebody to look after it...</font>
+
+197
+00:26:08,484 --> 00:26:12,363
+<font color="#FFFFFF">In this life and the next.</font>
+
+198
+00:26:18,161 --> 00:26:20,704
+<font color="#FFFFFF">You've already seen
+enough of this life, boy.</font>
+
+199
+00:27:09,002 --> 00:27:10,547
+<font color="#FFFFFF">Mmm, no more.</font>
+
+200
+00:27:12,464 --> 00:27:16,301
+<font color="#FFFFFF">We don't like those in our
+house to go hungry or thirsty.</font>
+
+201
+00:27:25,936 --> 00:27:28,230
+<font color="#FFFFFF">I am very curious about England.</font>
+
+202
+00:27:29,398 --> 00:27:32,818
+<font color="#FFFFFF">Does it have one king who
+rules over the whole country?</font>
+
+203
+00:27:39,366 --> 00:27:41,661
+<font color="#FFFFFF">There are four kingdoms</font>
+
+204
+00:27:43,453 --> 00:27:45,164
+<font color="#FFFFFF">with four kings.</font>
+
+205
+00:27:46,415 --> 00:27:48,917
+<font color="#FFFFFF">You landed in the kingdom of Northumbria.</font>
+
+206
+00:27:50,961 --> 00:27:53,923
+<font color="#FFFFFF">The King of Northumbria is called Aelle.</font>
+
+207
+00:27:56,134 --> 00:27:57,426
+<font color="#FFFFFF">He is a great king.</font>
+
+208
+00:27:59,386 --> 00:28:00,762
+<font color="#FFFFFF">A powerful king.</font>
+
+209
+00:28:01,013 --> 00:28:03,557
+<font color="#FFFFFF">Then why did his men
+not protect your temple?</font>
+
+210
+00:28:06,435 --> 00:28:10,772
+<font color="#FFFFFF">Before you came,
+we had no need to protect our monastery.</font>
+
+211
+00:28:12,025 --> 00:28:13,734
+<font color="#FFFFFF">We lived in peace.</font>
+
+212
+00:28:14,943 --> 00:28:18,114
+<font color="#FFFFFF">Everyone respected it as a place of God.</font>
+
+213
+00:28:21,617 --> 00:28:26,372
+<font color="#FFFFFF">Why does your god need silver and gold? Hmm?</font>
+
+214
+00:28:27,539 --> 00:28:29,959
+<font color="#FFFFFF">He must be greedy.</font>
+
+215
+00:28:31,251 --> 00:28:32,502
+<font color="#FFFFFF">Like Loki!</font>
+
+216
+00:28:34,380 --> 00:28:36,548
+<font color="#FFFFFF">We have greedy gods, too.</font>
+
+217
+00:28:37,634 --> 00:28:40,220
+<font color="#FFFFFF">My god is not greedy.</font>
+
+218
+00:28:42,555 --> 00:28:44,973
+<font color="#FFFFFF">His kingdom is not of this world.</font>
+
+219
+00:28:45,307 --> 00:28:48,269
+<font color="#FFFFFF">Then why is his kingdom so full of treasure?</font>
+
+220
+00:28:49,019 --> 00:28:52,856
+<font color="#FFFFFF">Christian people give away their riches</font>
+
+221
+00:28:52,941 --> 00:28:55,151
+<font color="#FFFFFF">to the churches and monasteries</font>
+
+222
+00:28:56,236 --> 00:28:58,528
+<font color="#FFFFFF">in order to save their souls.</font>
+
+223
+00:29:00,573 --> 00:29:02,741
+<font color="#FFFFFF">What are their souls?</font>
+
+224
+00:29:11,166 --> 00:29:13,752
+<font color="#FFFFFF">I want to learn some of your language.</font>
+
+225
+00:29:15,462 --> 00:29:17,173
+<font color="#FFFFFF">Will you teach me, priest?</font>
+
+226
+00:29:44,659 --> 00:29:45,660
+<font color="#FFFFFF">What are you staring at?</font>
+
+227
+00:29:46,243 --> 00:29:47,369
+<font color="#FFFFFF">Your Christian.</font>
+
+228
+00:29:47,869 --> 00:29:50,038
+<font color="#FFFFFF">We wanted to see if
+he was different from us.</font>
+
+229
+00:29:53,209 --> 00:29:54,544
+<font color="#FFFFFF">Well, now you have seen him.</font>
+
+230
+00:29:55,294 --> 00:29:56,837
+<font color="#FFFFFF">You can go about your own business.</font>
+
+231
+00:29:59,298 --> 00:30:01,800
+<font color="#FFFFFF">He's just like us, but he is a foreigner.</font>
+
+232
+00:30:50,057 --> 00:30:51,433
+<font color="#FFFFFF">You. Come.</font>
+
+233
+00:30:58,441 --> 00:30:59,608
+<font color="#FFFFFF">Ragnar Lothbrok.</font>
+
+234
+00:31:00,567 --> 00:31:01,778
+<font color="#FFFFFF">My Lord.</font>
+
+235
+00:31:01,986 --> 00:31:04,946
+<font color="#FFFFFF">And how do you find
+your new slave? Hmm?</font>
+
+236
+00:31:06,574 --> 00:31:09,367
+<font color="#FFFFFF">I find him very useful,
+as you will discover.</font>
+
+237
+00:31:12,497 --> 00:31:13,748
+<font color="#FFFFFF">So what do you want?</font>
+
+238
+00:31:14,039 --> 00:31:15,458
+<font color="#FFFFFF">I want to sail west again.</font>
+
+239
+00:31:16,666 --> 00:31:20,003
+<font color="#FFFFFF">I have spoken at great length
+with my Christian slave.</font>
+
+240
+00:31:20,630 --> 00:31:22,589
+<font color="#FFFFFF">He is not a stupid person,</font>
+
+241
+00:31:23,132 --> 00:31:25,134
+<font color="#FFFFFF">however stupid his god is.</font>
+
+242
+00:31:25,593 --> 00:31:27,553
+<font color="#FFFFFF">He has traveled a great deal,</font>
+
+243
+00:31:27,845 --> 00:31:31,473
+<font color="#FFFFFF">and he has told me
+that there are many countries to the west.</font>
+
+244
+00:31:32,057 --> 00:31:34,477
+<font color="#FFFFFF">He has also told me about his England,</font>
+
+245
+00:31:34,935 --> 00:31:38,605
+<font color="#FFFFFF">about his kings and his customs.</font>
+
+246
+00:31:39,147 --> 00:31:41,483
+<font color="#FFFFFF">And what are we to do with his customs?</font>
+
+247
+00:31:42,818 --> 00:31:44,694
+<font color="#FFFFFF">He has informed me of a large town,</font>
+
+248
+00:31:44,778 --> 00:31:46,989
+<font color="#FFFFFF">near to the temple that we raided before.</font>
+
+249
+00:31:47,323 --> 00:31:52,411
+<font color="#FFFFFF">And in this town, there are other
+temples and surely other riches.</font>
+
+250
+00:31:53,412 --> 00:31:56,540
+<font color="#FFFFFF">No! I was lying! There's nothing there!</font>
+
+251
+00:31:57,875 --> 00:31:59,085
+<font color="#FFFFFF">You see?</font>
+
+252
+00:31:59,626 --> 00:32:01,711
+<font color="#FFFFFF">This town is clearly worth a visit.</font>
+
+253
+00:32:04,589 --> 00:32:06,342
+<font color="#FFFFFF">Give us back our boat.</font>
+
+254
+00:32:06,550 --> 00:32:08,344
+<font color="#FFFFFF">Let us go there and find out.</font>
+
+255
+00:32:08,928 --> 00:32:10,512
+<font color="#FFFFFF">What do you have to lose?</font>
+
+256
+00:32:10,846 --> 00:32:14,599
+<font color="#FFFFFF">Any plunder we take will be
+yours to do with as you please.</font>
+
+257
+00:32:14,892 --> 00:32:16,059
+<font color="#FFFFFF">I could go there myself.</font>
+
+258
+00:32:16,144 --> 00:32:18,354
+<font color="#FFFFFF">Yes, you could, My Lord,</font>
+
+259
+00:32:19,020 --> 00:32:21,398
+<font color="#FFFFFF">but why put yourself in danger?</font>
+
+260
+00:32:22,275 --> 00:32:26,528
+<font color="#FFFFFF">Why not leave it to someone
+who has more experience of this journey,</font>
+
+261
+00:32:28,114 --> 00:32:30,532
+<font color="#FFFFFF">and someone who is more expendable?</font>
+
+262
+00:32:46,464 --> 00:32:47,592
+<font color="#FFFFFF">Very well.</font>
+
+263
+00:32:48,342 --> 00:32:52,054
+<font color="#FFFFFF">I sanction this raid on one condition.</font>
+
+264
+00:32:53,346 --> 00:32:55,932
+<font color="#FFFFFF">A warrior I trust goes with you. Knut.</font>
+
+265
+00:32:57,934 --> 00:33:01,189
+<font color="#FFFFFF">You will go with him for my sake.</font>
+
+266
+00:33:01,646 --> 00:33:02,940
+<font color="#FFFFFF">Trust me, Lord.</font>
+
+267
+00:33:03,481 --> 00:33:06,318
+<font color="#FFFFFF">I will take very close
+care of your interests.</font>
+
+268
+00:33:09,321 --> 00:33:11,699
+<font color="#FFFFFF">O Lord, forgive me for what I have done.</font>
+
+269
+00:33:13,034 --> 00:33:14,743
+<font color="#FFFFFF">You will not regret this.</font>
+
+270
+00:33:25,253 --> 00:33:28,089
+<font color="#FFFFFF">He's found a new way to navigate the sea.</font>
+
+271
+00:33:30,550 --> 00:33:31,885
+<font color="#FFFFFF">Find out what it is.</font>
+
+272
+00:34:05,336 --> 00:34:06,962
+<font color="#FFFFFF">Run away if you want.</font>
+
+273
+00:34:36,324 --> 00:34:38,452
+<font color="#FFFFFF">I have the Earl's permission
+to sail back to England.</font>
+
+274
+00:34:38,911 --> 00:34:41,079
+<font color="#FFFFFF">I want to leave as soon as possible.</font>
+
+275
+00:34:45,793 --> 00:34:47,003
+<font color="#FFFFFF">How soon is that?</font>
+
+276
+00:34:47,670 --> 00:34:49,088
+<font color="#FFFFFF">Tomorrow.</font>
+
+277
+00:34:56,846 --> 00:34:58,889
+<font color="#FFFFFF">We all wish you success.</font>
+
+278
+00:34:59,974 --> 00:35:02,059
+<font color="#FFFFFF">We will sacrifice to Odin.</font>
+
+279
+00:35:05,228 --> 00:35:06,938
+<font color="#FFFFFF">Are you not coming?</font>
+
+280
+00:35:08,523 --> 00:35:09,650
+<font color="#FFFFFF">What?</font>
+
+281
+00:35:13,028 --> 00:35:14,989
+<font color="#FFFFFF">I want you to come with me.</font>
+
+282
+00:35:17,867 --> 00:35:20,619
+<font color="#FFFFFF">But the farm, the children...</font>
+
+283
+00:35:21,077 --> 00:35:24,998
+<font color="#FFFFFF">Bjorn is still too young,
+although he can help on the farm.</font>
+
+284
+00:35:26,876 --> 00:35:29,795
+<font color="#FFFFFF">But who is to be in charge?</font>
+
+285
+00:35:30,378 --> 00:35:31,797
+<font color="#FFFFFF">The priest.</font>
+
+286
+00:35:32,047 --> 00:35:33,798
+<font color="#FFFFFF">I will leave him with a key.</font>
+
+287
+00:35:34,050 --> 00:35:38,512
+<font color="#FFFFFF">Father! You cannot place a slave
+above me, your natural son.</font>
+
+288
+00:35:42,266 --> 00:35:43,893
+<font color="#FFFFFF">I don't regard him as a slave.</font>
+
+289
+00:35:44,851 --> 00:35:46,603
+<font color="#FFFFFF">He's a responsible person.</font>
+
+290
+00:35:47,688 --> 00:35:49,677
+<font color="#FFFFFF">Please, Ragnar Lothbrok,</font>
+
+291
+00:35:50,048 --> 00:35:51,358
+<font color="#FFFFFF">don't do this.</font>
+
+292
+00:35:53,985 --> 00:35:55,695
+<font color="#FFFFFF">What do you think, Gyda?</font>
+
+293
+00:35:56,572 --> 00:35:59,282
+<font color="#FFFFFF">I don't mind. I like the priest.
+Hmm.</font>
+
+294
+00:36:00,617 --> 00:36:01,744
+<font color="#FFFFFF">Then it is decided.</font>
+
+295
+00:36:17,092 --> 00:36:19,969
+<font color="#FFFFFF">If any harm befalls my children,</font>
+
+296
+00:36:20,429 --> 00:36:25,016
+<font color="#FFFFFF">I will tear the lungs
+out of your body, priest.</font>
+
+297
+00:37:18,653 --> 00:37:20,197
+<font color="#FFFFFF">Answer me this, Knut,</font>
+
+298
+00:37:20,822 --> 00:37:22,240
+<font color="#FFFFFF">are you really with us?</font>
+
+299
+00:37:23,534 --> 00:37:24,994
+<font color="#FFFFFF">Understand this!</font>
+
+300
+00:37:25,327 --> 00:37:27,262
+<font color="#FFFFFF">A war band lives</font>
+
+301
+00:37:31,000 --> 00:37:33,101
+<font color="#FFFFFF">and dies together.</font>
+
+302
+00:37:34,003 --> 00:37:38,673
+<font color="#FFFFFF">If you cannot trust the men
+to either side of you,</font>
+
+303
+00:37:40,467 --> 00:37:42,135
+<font color="#FFFFFF">or in front of you,</font>
+
+304
+00:37:44,722 --> 00:37:46,849
+<font color="#FFFFFF">you are already a dead man.</font>
+
+305
+00:37:50,351 --> 00:37:52,353
+<font color="#FFFFFF">I am with you.</font>
+
+306
+00:37:55,065 --> 00:37:58,235
+<font color="#FFFFFF">I made a mistake before.
+I did not come with you.</font>
+
+307
+00:37:58,652 --> 00:38:02,780
+<font color="#FFFFFF">Now I fear Odin will make
+a bad judgment of me.</font>
+
+308
+00:38:04,032 --> 00:38:08,286
+<font color="#FFFFFF">For me, that's as important
+as it is for you.</font>
+
+309
+00:38:21,050 --> 00:38:22,509
+<font color="#FFFFFF">Just wanted to ask.</font>
+
+310
+00:39:45,242 --> 00:39:47,842
+<font color="#FFFFFF"><i>Ragnar look! Over there!</i></font>
+
+311
+00:43:32,443 --> 00:43:33,695
+<font color="#FFFFFF">Ragnar!</font>
+

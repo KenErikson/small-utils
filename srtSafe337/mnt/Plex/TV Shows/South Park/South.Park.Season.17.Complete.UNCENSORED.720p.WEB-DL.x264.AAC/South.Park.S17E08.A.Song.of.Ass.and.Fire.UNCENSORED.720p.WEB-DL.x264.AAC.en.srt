@@ -1,0 +1,2312 @@
+1
+00:00:01,999 --> 00:00:04,999
+<font color="#FFFFFF">Previously on <i>south park...</i></font>
+
+2
+00:00:04,999 --> 00:00:05,999
+<font color="#FFFFFF">- Soon we will be fighting
+the greatest battle</font>
+
+3
+00:00:05,999 --> 00:00:07,999
+<font color="#FFFFFF">of our young hot lives—</font>
+
+4
+00:00:07,999 --> 00:00:08,999
+<font color="#FFFFFF">black friday.
+- Everyone who wants to get</font>
+
+5
+00:00:08,999 --> 00:00:10,999
+<font color="#FFFFFF">ps4s, join with us.</font>
+
+6
+00:00:10,999 --> 00:00:14,999
+<font color="#FFFFFF">- Tom, the south park mall
+says they've beefed up security.</font>
+
+7
+00:00:14,999 --> 00:00:15,999
+<font color="#FFFFFF">- You have a strong influence
+over the rest of the men,</font>
+
+8
+00:00:15,999 --> 00:00:17,999
+<font color="#FFFFFF">lady mckormick.</font>
+
+9
+00:00:17,999 --> 00:00:19,999
+<font color="#FFFFFF">- You can't die!</font>
+
+10
+00:00:19,999 --> 00:00:20,999
+<font color="#FFFFFF">- We thought you should
+see this.</font>
+
+11
+00:00:20,999 --> 00:00:22,999
+<font color="#FFFFFF">- What would they do
+on <i>game of thrones?</i></font>
+
+12
+00:00:22,999 --> 00:00:24,999
+<font color="#FFFFFF">What would they do
+when things look their darkest?</font>
+
+13
+00:00:26,999 --> 00:00:28,999
+<font color="#FFFFFF">- ? Oh</font>
+
+14
+00:00:31,999 --> 00:00:39,999
+<font color="#FFFFFF">?</font>
+
+15
+00:00:59,999 --> 00:01:01,999
+<font color="#FFFFFF">- Now, let me tell you,
+child,</font>
+
+16
+00:01:01,999 --> 00:01:03,999
+<font color="#FFFFFF">of a war
+that is about to come.</font>
+
+17
+00:01:03,999 --> 00:01:07,999
+<font color="#FFFFFF">Since time unremembered,
+there have been two...</font>
+
+18
+00:01:07,999 --> 00:01:09,999
+<font color="#FFFFFF">One dark and unforgiving,</font>
+
+19
+00:01:09,999 --> 00:01:12,999
+<font color="#FFFFFF">the other pure
+and filled with light.</font>
+
+20
+00:01:12,999 --> 00:01:15,999
+<font color="#FFFFFF">At the dawn of war,
+I stand alone</font>
+
+21
+00:01:15,999 --> 00:01:19,999
+<font color="#FFFFFF">looking out at what will be
+the last battlefield,</font>
+
+22
+00:01:19,999 --> 00:01:23,999
+<font color="#FFFFFF">for winter is coming,
+and I am a princess.</font>
+
+23
+00:01:23,999 --> 00:01:27,999
+<font color="#FFFFFF">Once a common lady
+of the dark army</font>
+
+24
+00:01:27,999 --> 00:01:30,999
+<font color="#FFFFFF">but denied my right to be
+called princess by birth,</font>
+
+25
+00:01:30,999 --> 00:01:32,999
+<font color="#FFFFFF">I betrayed my kind.</font>
+
+26
+00:01:32,999 --> 00:01:35,999
+<font color="#FFFFFF">And now I have chosen my side,</font>
+
+27
+00:01:35,999 --> 00:01:37,999
+<font color="#FFFFFF">that which I believe
+is best for all,</font>
+
+28
+00:01:37,999 --> 00:01:39,999
+<font color="#FFFFFF">for it has the dual shock
+controller with a speaker</font>
+
+29
+00:01:39,999 --> 00:01:42,999
+<font color="#FFFFFF">and touch pad interface.</font>
+
+30
+00:01:42,999 --> 00:01:44,999
+<font color="#FFFFFF">Our land is split in two.</font>
+
+31
+00:01:44,999 --> 00:01:46,999
+<font color="#FFFFFF">Brother against brother.
+Friend versus friend.</font>
+
+32
+00:01:46,999 --> 00:01:51,999
+<font color="#FFFFFF">My parents will fight
+on black friday as well...</font>
+
+33
+00:01:51,999 --> 00:01:53,999
+<font color="#FFFFFF">For what, I do not know.</font>
+
+34
+00:01:53,999 --> 00:01:55,999
+<font color="#FFFFFF">- What the hell
+is he wearing now?</font>
+
+35
+00:01:55,999 --> 00:01:58,999
+<font color="#FFFFFF">- My followers,
+though few in number,</font>
+
+36
+00:01:58,999 --> 00:01:59,999
+<font color="#FFFFFF">shall help see me through</font>
+
+37
+00:01:59,999 --> 00:02:03,999
+<font color="#FFFFFF">until I am finally accepted
+as a princess by all.</font>
+
+38
+00:02:03,999 --> 00:02:06,999
+<font color="#FFFFFF">I cannot rest,
+for I know that even now</font>
+
+39
+00:02:06,999 --> 00:02:09,999
+<font color="#FFFFFF">the enemy is training
+for battle,</font>
+
+40
+00:02:09,999 --> 00:02:12,999
+<font color="#FFFFFF">also preparing for winter.</font>
+
+41
+00:02:26,999 --> 00:02:29,999
+<font color="#FFFFFF">- All right.
+Stop, stop, stop!</font>
+
+42
+00:02:29,999 --> 00:02:31,999
+<font color="#FFFFFF">This is not how you fight.</font>
+
+43
+00:02:31,999 --> 00:02:33,999
+<font color="#FFFFFF">You think this is a joke?</font>
+
+44
+00:02:33,999 --> 00:02:35,999
+<font color="#FFFFFF">On black friday, there's going
+to be thousands of shoppers</font>
+
+45
+00:02:35,999 --> 00:02:36,999
+<font color="#FFFFFF">trying to get inside that mall,</font>
+
+46
+00:02:36,999 --> 00:02:38,999
+<font color="#FFFFFF">keeping you from getting
+xbox-1s.</font>
+
+47
+00:02:38,999 --> 00:02:41,999
+<font color="#FFFFFF">So what do we do?
+We survey each enemy,</font>
+
+48
+00:02:41,999 --> 00:02:43,999
+<font color="#FFFFFF">and we attack their weak spots.</font>
+
+49
+00:02:43,999 --> 00:02:44,999
+<font color="#FFFFFF">Scott malkinson has diabetes,</font>
+
+50
+00:02:44,999 --> 00:02:46,999
+<font color="#FFFFFF">so we hit him
+in his weak spot.</font>
+
+51
+00:02:46,999 --> 00:02:48,999
+<font color="#FFFFFF">Ah, god...</font>
+
+52
+00:02:48,999 --> 00:02:49,999
+<font color="#FFFFFF">- There's another army
+out there</font>
+
+53
+00:02:49,999 --> 00:02:50,999
+<font color="#FFFFFF">who thinks they're better
+than us,</font>
+
+54
+00:02:50,999 --> 00:02:54,999
+<font color="#FFFFFF">and we are not going to be beat
+by the traitor whore kenny.</font>
+
+55
+00:02:54,999 --> 00:02:58,999
+<font color="#FFFFFF">Get back to training!</font>
+
+56
+00:02:58,999 --> 00:02:59,999
+<font color="#FFFFFF">- Yeah!
+- Ah!</font>
+
+57
+00:02:59,999 --> 00:03:02,999
+<font color="#FFFFFF">- Cartman, we should probably
+talk about our chances.</font>
+
+58
+00:03:02,999 --> 00:03:03,999
+<font color="#FFFFFF">- The men are just
+inexperienced, sir kyle.</font>
+
+59
+00:03:03,999 --> 00:03:05,999
+<font color="#FFFFFF">They need more training.
+- It's not enough.</font>
+
+60
+00:03:05,999 --> 00:03:07,999
+<font color="#FFFFFF">Ever since kenny
+switched sides,</font>
+
+61
+00:03:07,999 --> 00:03:09,999
+<font color="#FFFFFF">there are more kids that wanna
+go with ps4 on black friday.</font>
+
+62
+00:03:09,999 --> 00:03:11,999
+<font color="#FFFFFF">- That goddamn traitor!
+You know why kenny's</font>
+
+63
+00:03:11,999 --> 00:03:13,999
+<font color="#FFFFFF">doing this, right?
+Because he wanted to be</font>
+
+64
+00:03:13,999 --> 00:03:15,999
+<font color="#FFFFFF">a princess,
+and I wouldn't let him.</font>
+
+65
+00:03:15,999 --> 00:03:17,999
+<font color="#FFFFFF">I said, "you can be
+a chick, kenny,</font>
+
+66
+00:03:17,999 --> 00:03:19,999
+<font color="#FFFFFF">but there's only one ruler,
+and that's me!"</font>
+
+67
+00:03:19,999 --> 00:03:21,999
+<font color="#FFFFFF">- Sony released the ps4s,
+cartman.</font>
+
+68
+00:03:21,999 --> 00:03:23,999
+<font color="#FFFFFF">They're being reviewed.
+People are liking them.</font>
+
+69
+00:03:23,999 --> 00:03:25,999
+<font color="#FFFFFF">- I guarantee you kenny
+had something to do with</font>
+
+70
+00:03:25,999 --> 00:03:27,999
+<font color="#FFFFFF">sony offering
+a black friday bundle deal.</font>
+
+71
+00:03:27,999 --> 00:03:29,999
+<font color="#FFFFFF">Just keep them in training,
+sir kyle.</font>
+
+72
+00:03:29,999 --> 00:03:33,999
+<font color="#FFFFFF">Two can play at kenny's
+back-stabbing game.</font>
+
+73
+00:03:33,999 --> 00:03:35,999
+<font color="#FFFFFF">Stupid asshole.</font>
+
+74
+00:03:38,999 --> 00:03:39,999
+<font color="#FFFFFF">Yes, hello,
+I'd like to speak to</font>
+
+75
+00:03:39,999 --> 00:03:42,999
+<font color="#FFFFFF">the president of xbox,
+please.</font>
+
+76
+00:03:42,999 --> 00:03:45,999
+<font color="#FFFFFF">The president of xbox.
+Like the head of xbox.</font>
+
+77
+00:03:45,999 --> 00:03:47,999
+<font color="#FFFFFF">Fine, ceo, microsoft, whatever,
+put him on.</font>
+
+78
+00:03:47,999 --> 00:03:49,999
+<font color="#FFFFFF">I need help blowing up
+playstation people.</font>
+
+79
+00:03:49,999 --> 00:03:53,999
+<font color="#FFFFFF">Eric cartman.
+I'm a wizard and a king.</font>
+
+80
+00:03:53,999 --> 00:03:54,999
+<font color="#FFFFFF">A wizard king, yes.</font>
+
+81
+00:03:54,999 --> 00:03:56,999
+<font color="#FFFFFF">No,
+I'm not a king of wizards.</font>
+
+82
+00:03:56,999 --> 00:03:58,999
+<font color="#FFFFFF">I'm a king that happens
+to be a wizard.</font>
+
+83
+00:03:58,999 --> 00:04:00,999
+<font color="#FFFFFF">Just put the ceo of microsoft
+on the phone.</font>
+
+84
+00:04:03,999 --> 00:04:05,999
+<font color="#FFFFFF">?</font>
+
+85
+00:04:05,999 --> 00:04:07,999
+<font color="#FFFFFF">- mr. Balmer,
+john and dave from marketing</font>
+
+86
+00:04:07,999 --> 00:04:09,999
+<font color="#FFFFFF">are here to see you.</font>
+
+87
+00:04:09,999 --> 00:04:12,999
+<font color="#FFFFFF">- Yes, hello. How are things
+going out there?</font>
+
+88
+00:04:12,999 --> 00:04:15,999
+<font color="#FFFFFF">- Sir, the tides of war
+are changing.</font>
+
+89
+00:04:15,999 --> 00:04:17,999
+<font color="#FFFFFF">- There's a king in colorado,</font>
+
+90
+00:04:17,999 --> 00:04:19,999
+<font color="#FFFFFF">a young wizard
+who believes that sony</font>
+
+91
+00:04:19,999 --> 00:04:22,999
+<font color="#FFFFFF">will have the upper hand
+if we do not come to his aid.</font>
+
+92
+00:04:22,999 --> 00:04:24,999
+<font color="#FFFFFF">- He claims that with our help,
+his followers are prepared</font>
+
+93
+00:04:24,999 --> 00:04:27,999
+<font color="#FFFFFF">to fight to the death
+over which system is better.</font>
+
+94
+00:04:27,999 --> 00:04:28,999
+<font color="#FFFFFF">- Uh, what are you guys
+talking about?</font>
+
+95
+00:04:28,999 --> 00:04:31,999
+<font color="#FFFFFF">You sound ridiculous.</font>
+
+96
+00:04:31,999 --> 00:04:33,999
+<font color="#FFFFFF">- There's going to be a war</font>
+
+97
+00:04:33,999 --> 00:04:35,999
+<font color="#FFFFFF">in this small town
+on black friday,</font>
+
+98
+00:04:35,999 --> 00:04:37,999
+<font color="#FFFFFF">and it's all over the news.</font>
+
+99
+00:04:37,999 --> 00:04:39,999
+<font color="#FFFFFF">- Guys, these are console wars,</font>
+
+100
+00:04:39,999 --> 00:04:41,999
+<font color="#FFFFFF">not some epic battle
+for a kingdom.</font>
+
+101
+00:04:41,999 --> 00:04:43,999
+<font color="#FFFFFF">I mean, come on.</font>
+
+102
+00:04:43,999 --> 00:04:46,999
+<font color="#FFFFFF">- But this one kid says
+that he's a wizard</font>
+
+103
+00:04:46,999 --> 00:04:48,999
+<font color="#FFFFFF">and that sony is helping—
+- guys! Guys!</font>
+
+104
+00:04:48,999 --> 00:04:50,999
+<font color="#FFFFFF">Guys! It's just a video game
+machine, all right?</font>
+
+105
+00:04:50,999 --> 00:04:53,999
+<font color="#FFFFFF">Microsoft's a company
+that tries to be above</font>
+
+106
+00:04:53,999 --> 00:04:57,999
+<font color="#FFFFFF">all the petty
+commercialism okay?</font>
+
+107
+00:04:57,999 --> 00:04:58,999
+<font color="#FFFFFF">- O-okay.
+- Okay.</font>
+
+108
+00:05:00,999 --> 00:05:03,999
+<font color="#FFFFFF">- Well, black friday
+is still a few days away,</font>
+
+109
+00:05:03,999 --> 00:05:06,999
+<font color="#FFFFFF">but it looks like it's already
+claimed another fatality.</font>
+
+110
+00:05:06,999 --> 00:05:09,999
+<font color="#FFFFFF">- Niles lawson is on the scene.
+Niles, what are you hearing?</font>
+
+111
+00:05:09,999 --> 00:05:11,999
+<font color="#FFFFFF">- Tom, tragedy struck
+last night</font>
+
+112
+00:05:11,999 --> 00:05:13,999
+<font color="#FFFFFF">when mall security officer
+miles "happy" davis</font>
+
+113
+00:05:13,999 --> 00:05:15,999
+<font color="#FFFFFF">was beaten to death
+with this candy cane</font>
+
+114
+00:05:15,999 --> 00:05:17,999
+<font color="#FFFFFF">after telling a mother</font>
+
+115
+00:05:17,999 --> 00:05:20,999
+<font color="#FFFFFF">she couldn't line up for black
+friday until thursday night.</font>
+
+116
+00:05:20,999 --> 00:05:23,999
+<font color="#FFFFFF">In honor of the slain
+mall security officer,</font>
+
+117
+00:05:23,999 --> 00:05:25,999
+<font color="#FFFFFF">the mall has decided
+to officially drop</font>
+
+118
+00:05:25,999 --> 00:05:28,999
+<font color="#FFFFFF">another 10% off
+black friday deals.</font>
+
+119
+00:05:31,999 --> 00:05:36,999
+<font color="#FFFFFF">?</font>
+
+120
+00:05:36,999 --> 00:05:39,999
+<font color="#FFFFFF">- Happy was a good man.</font>
+
+121
+00:05:39,999 --> 00:05:42,999
+<font color="#FFFFFF">Too good to have died in such
+a brutal but festive manner.</font>
+
+122
+00:05:42,999 --> 00:05:44,999
+<font color="#FFFFFF">- Captain, captain,</font>
+
+123
+00:05:44,999 --> 00:05:47,999
+<font color="#FFFFFF">the mall is dropping the black
+friday sale another 10%.</font>
+
+124
+00:05:47,999 --> 00:05:48,999
+<font color="#FFFFFF">- What?
+- Oh, my god!</font>
+
+125
+00:05:48,999 --> 00:05:50,999
+<font color="#FFFFFF">- They can't do that!
+- What? That's 90% off.</font>
+
+126
+00:05:50,999 --> 00:05:52,999
+<font color="#FFFFFF">- Oh, god, they're back!</font>
+
+127
+00:05:52,999 --> 00:05:54,999
+<font color="#FFFFFF">There's hundreds of them!</font>
+
+128
+00:06:00,999 --> 00:06:03,999
+<font color="#FFFFFF">- Everybody stay put.
+I'll handle this.</font>
+
+129
+00:06:05,999 --> 00:06:08,999
+<font color="#FFFFFF">If you are here for
+black friday,</font>
+
+130
+00:06:08,999 --> 00:06:09,999
+<font color="#FFFFFF">you cannot be
+on mall property</font>
+
+131
+00:06:09,999 --> 00:06:13,999
+<font color="#FFFFFF">until midnight
+on thanksgiving.</font>
+
+132
+00:06:13,999 --> 00:06:16,999
+<font color="#FFFFFF">- We're not on mall
+property.</font>
+
+133
+00:06:16,999 --> 00:06:18,999
+<font color="#FFFFFF">- Well, you're about to be.</font>
+
+134
+00:06:18,999 --> 00:06:22,999
+<font color="#FFFFFF">- Well, what if we just walk
+really, really slow?</font>
+
+135
+00:06:22,999 --> 00:06:24,999
+<font color="#FFFFFF">Black friday!</font>
+
+136
+00:06:24,999 --> 00:06:26,999
+<font color="#FFFFFF">- You're gonna have to walk
+slower than that.</font>
+
+137
+00:06:26,999 --> 00:06:27,999
+<font color="#FFFFFF">You've got a while.</font>
+
+138
+00:06:27,999 --> 00:06:29,999
+<font color="#FFFFFF">- We can walk really slow.
+Look.</font>
+
+139
+00:06:35,999 --> 00:06:38,999
+<font color="#FFFFFF">- Smart asses.</font>
+
+140
+00:06:40,999 --> 00:06:42,999
+<font color="#FFFFFF">- Paladin butters,
+I was hoping</font>
+
+141
+00:06:42,999 --> 00:06:44,999
+<font color="#FFFFFF">I could talk to you
+about lady mckormick.</font>
+
+142
+00:06:44,999 --> 00:06:45,999
+<font color="#FFFFFF">- You mean princess kenny,
+my lord?</font>
+
+143
+00:06:45,999 --> 00:06:47,999
+<font color="#FFFFFF">- Yeah, whatever.</font>
+
+144
+00:06:47,999 --> 00:06:48,999
+<font color="#FFFFFF">The little prick thinks
+he's daenerys targaryen.</font>
+
+145
+00:06:48,999 --> 00:06:50,999
+<font color="#FFFFFF">I need to know
+how to deal with him.</font>
+
+146
+00:06:50,999 --> 00:06:52,999
+<font color="#FFFFFF">How do they deal with
+the queen of dragons</font>
+
+147
+00:06:52,999 --> 00:06:54,999
+<font color="#FFFFFF">in <i>game of thrones?</i>
+- They don't!</font>
+
+148
+00:06:54,999 --> 00:06:56,999
+<font color="#FFFFFF">- Well, did you finish watching
+season 3 like I asked you?</font>
+
+149
+00:06:56,999 --> 00:06:58,999
+<font color="#FFFFFF">- Yeah, I finished it.
+- So what happens</font>
+
+150
+00:06:58,999 --> 00:07:00,834
+<font color="#FFFFFF">when the dragons show up?
+- Nothing!</font>
+
+151
+00:07:00,999 --> 00:07:02,918
+<font color="#FFFFFF">The dragons are just
+still on their way!</font>
+
+152
+00:07:02,999 --> 00:07:03,999
+<font color="#FFFFFF">They keep promising dragons,</font>
+
+153
+00:07:03,999 --> 00:07:06,999
+<font color="#FFFFFF">but all I get are more
+floppy wieners in my face.</font>
+
+154
+00:07:06,999 --> 00:07:07,999
+<font color="#FFFFFF">- Butt—butters,
+the key to our victory</font>
+
+155
+00:07:07,999 --> 00:07:09,999
+<font color="#FFFFFF">is following <i>the game of thrones</i>
+model exactly.</font>
+
+156
+00:07:09,999 --> 00:07:11,999
+<font color="#FFFFFF">I have to know what happens
+when the dragons show up</font>
+
+157
+00:07:11,999 --> 00:07:13,999
+<font color="#FFFFFF">so I know how to deal
+with kenny.</font>
+
+158
+00:07:13,999 --> 00:07:14,999
+<font color="#FFFFFF">- What do you want me to do?</font>
+
+159
+00:07:14,999 --> 00:07:16,999
+<font color="#FFFFFF">- Here's two bus tickets
+to new mexico.</font>
+
+160
+00:07:16,999 --> 00:07:18,999
+<font color="#FFFFFF">I want you to take
+sir scott malkinson</font>
+
+161
+00:07:18,999 --> 00:07:20,999
+<font color="#FFFFFF">and go seek out
+george r.R. Martin for answers.</font>
+
+162
+00:07:20,999 --> 00:07:22,999
+<font color="#FFFFFF">- Who's george r.R. Martin?</font>
+
+163
+00:07:22,999 --> 00:07:24,999
+<font color="#FFFFFF">- He's the guy who writes
+<i>games of thrones,</i> butters!</font>
+
+164
+00:07:24,999 --> 00:07:26,999
+<font color="#FFFFFF">He can let us both know
+how to handle kenny</font>
+
+165
+00:07:26,999 --> 00:07:28,999
+<font color="#FFFFFF">and if we should betray
+clyde or not.</font>
+
+166
+00:07:28,999 --> 00:07:30,999
+<font color="#FFFFFF">Let's face it, butters,</font>
+
+167
+00:07:30,999 --> 00:07:32,999
+<font color="#FFFFFF">this is really about
+you and me getting xboxes.</font>
+
+168
+00:07:32,999 --> 00:07:33,999
+<font color="#FFFFFF">The rest are simply there</font>
+
+169
+00:07:33,999 --> 00:07:35,999
+<font color="#FFFFFF">to help us
+get through the doors.</font>
+
+170
+00:07:35,999 --> 00:07:37,999
+<font color="#FFFFFF">- Hey! I told you kids</font>
+
+171
+00:07:37,999 --> 00:07:39,999
+<font color="#FFFFFF">to stay out of my damn yard.</font>
+
+172
+00:07:39,999 --> 00:07:41,999
+<font color="#FFFFFF">- Do you mind?
+We're trying to talk here.</font>
+
+173
+00:07:41,999 --> 00:07:44,999
+<font color="#FFFFFF">- Yeah? Well, how come every
+time you talk to somebody</font>
+
+174
+00:07:44,999 --> 00:07:46,999
+<font color="#FFFFFF">it's about betraying
+somebody else?</font>
+
+175
+00:07:46,999 --> 00:07:47,999
+<font color="#FFFFFF">- Why don't you mind
+your own business?</font>
+
+176
+00:07:49,999 --> 00:07:51,999
+<font color="#FFFFFF">- No, listen,
+for the last time,</font>
+
+177
+00:07:51,999 --> 00:07:53,999
+<font color="#FFFFFF">we don't have any dragons
+to send them.</font>
+
+178
+00:07:53,999 --> 00:07:55,999
+<font color="#FFFFFF">If some people want to choose
+playstations,</font>
+
+179
+00:07:55,999 --> 00:07:57,999
+<font color="#FFFFFF">it's their choice.</font>
+
+180
+00:07:57,999 --> 00:07:59,999
+<font color="#FFFFFF">- Sir, mr. Gates is here.</font>
+
+181
+00:07:59,999 --> 00:08:00,999
+<font color="#FFFFFF">- Bill gates?</font>
+
+182
+00:08:00,999 --> 00:08:03,999
+<font color="#FFFFFF">I got to go.</font>
+
+183
+00:08:03,999 --> 00:08:07,834
+<font color="#FFFFFF">Hey, hey, bill gates actually
+showing up at corporate.</font>
+
+184
+00:08:07,834 --> 00:08:09,918
+<font color="#FFFFFF">- Hey, steve, how you doing?
+- Not bad, you know,</font>
+
+185
+00:08:09,918 --> 00:08:11,999
+<font color="#FFFFFF">just trying to get this
+next gen press stuff handled.</font>
+
+186
+00:08:11,999 --> 00:08:13,999
+<font color="#FFFFFF">- I heard there's
+a little trouble in, uh...</font>
+
+187
+00:08:13,999 --> 00:08:15,999
+<font color="#FFFFFF">Colorado somewhere?
+- No, it turns out</font>
+
+188
+00:08:15,999 --> 00:08:16,999
+<font color="#FFFFFF">it was nothing,
+just some kids trying to</font>
+
+189
+00:08:16,999 --> 00:08:18,999
+<font color="#FFFFFF">turn the console wars
+into something bigger.</font>
+
+190
+00:08:18,999 --> 00:08:21,999
+<font color="#FFFFFF">- Oh, my gosh.
+You know, when I stepped down</font>
+
+191
+00:08:21,999 --> 00:08:22,999
+<font color="#FFFFFF">and left you in charge
+of the company, steve,</font>
+
+192
+00:08:22,999 --> 00:08:24,999
+<font color="#FFFFFF">I knew there might be
+some challenges for you.</font>
+
+193
+00:08:24,999 --> 00:08:27,999
+<font color="#FFFFFF">- Yeah, well, nothing
+I can't handle.</font>
+
+194
+00:08:27,999 --> 00:08:28,999
+<font color="#FFFFFF">There some changes we need
+to make to our marketing,</font>
+
+195
+00:08:28,999 --> 00:08:30,999
+<font color="#FFFFFF">but I'm optimistic.
+- Uh-huh...</font>
+
+196
+00:08:30,999 --> 00:08:33,999
+<font color="#FFFFFF">- I think we'll ultimately sell
+the number of units we want to.</font>
+
+197
+00:08:33,999 --> 00:08:36,999
+<font color="#FFFFFF">- You're right, steve.
+Some changes do need to be made.</font>
+
+198
+00:08:45,999 --> 00:08:48,999
+<font color="#FFFFFF">- Do you know what
+weakness is, steve?</font>
+
+199
+00:08:48,999 --> 00:08:52,999
+<font color="#FFFFFF">Weakness is believing
+that competition is healthy.</font>
+
+200
+00:08:52,999 --> 00:08:53,999
+<font color="#FFFFFF">See, there was a time</font>
+
+201
+00:08:53,999 --> 00:08:56,999
+<font color="#FFFFFF">when xboxes and playstations
+could both survive in this world</font>
+
+202
+00:08:56,999 --> 00:08:57,999
+<font color="#FFFFFF">but that time's done.</font>
+
+203
+00:08:57,999 --> 00:09:00,999
+<font color="#FFFFFF">It's all headed to one device</font>
+
+204
+00:09:00,999 --> 00:09:03,999
+<font color="#FFFFFF">that people game on,
+watch tv on, socialize on.</font>
+
+205
+00:09:03,999 --> 00:09:06,999
+<font color="#FFFFFF">There's only going to be
+one winner.</font>
+
+206
+00:09:06,999 --> 00:09:08,999
+<font color="#FFFFFF">I can't have you idiots
+throwing away</font>
+
+207
+00:09:08,999 --> 00:09:10,999
+<font color="#FFFFFF">everything I worked so hard
+to achieve.</font>
+
+208
+00:09:13,999 --> 00:09:15,999
+<font color="#FFFFFF">- Clean that shit up.</font>
+
+209
+00:09:18,999 --> 00:09:19,999
+<font color="#FFFFFF">- Come on, scott,
+you're lagging.</font>
+
+210
+00:09:19,999 --> 00:09:20,999
+<font color="#FFFFFF">- I think my insulin's low.
+I need to eat.</font>
+
+211
+00:09:21,999 --> 00:09:24,999
+<font color="#FFFFFF">- Let's just talk to this guy,
+then we can hit a mcdonalds.</font>
+
+212
+00:09:24,999 --> 00:09:26,999
+<font color="#FFFFFF">Oh, here we go... 2217.</font>
+
+213
+00:09:29,999 --> 00:09:31,999
+<font color="#FFFFFF">- Can I help you?
+- Hello?</font>
+
+214
+00:09:31,999 --> 00:09:34,999
+<font color="#FFFFFF">Is this george r.R. Martin's
+house?</font>
+
+215
+00:09:34,999 --> 00:09:35,999
+<font color="#FFFFFF">- Who is this, please?</font>
+
+216
+00:09:35,999 --> 00:09:37,999
+<font color="#FFFFFF">- It's two kids who want to know
+what happens</font>
+
+217
+00:09:37,999 --> 00:09:39,999
+<font color="#FFFFFF">when the dragons show up.</font>
+
+218
+00:09:39,999 --> 00:09:41,999
+<font color="#FFFFFF">Hello?</font>
+
+219
+00:09:41,999 --> 00:09:43,999
+<font color="#FFFFFF">- I'm sorry, but mr. Martin
+does not see fans.</font>
+
+220
+00:09:43,999 --> 00:09:46,999
+<font color="#FFFFFF">- We're not fans!
+- Yeah! We don't like it!</font>
+
+221
+00:09:46,999 --> 00:09:48,999
+<font color="#FFFFFF">- We don't like it,
+and I'm pretty pissed off,</font>
+
+222
+00:09:48,999 --> 00:09:50,999
+<font color="#FFFFFF">if you want to know
+the truth.</font>
+
+223
+00:09:50,999 --> 00:09:52,999
+<font color="#FFFFFF">- About what?
+- Let me talk to</font>
+
+224
+00:09:52,999 --> 00:09:55,999
+<font color="#FFFFFF">george r.R. Martin,
+and I'll tell him about what.</font>
+
+225
+00:10:01,999 --> 00:10:03,999
+<font color="#FFFFFF">It's the red wedding,
+isn't it?</font>
+
+226
+00:10:03,999 --> 00:10:05,999
+<font color="#FFFFFF">You hate how I killed
+everyone off?</font>
+
+227
+00:10:05,999 --> 00:10:07,999
+<font color="#FFFFFF">- No, sir, we just really need
+to know about the dragons,</font>
+
+228
+00:10:07,999 --> 00:10:09,999
+<font color="#FFFFFF">but they never
+seem to show up.</font>
+
+229
+00:10:09,999 --> 00:10:11,999
+<font color="#FFFFFF">- Oh, they're coming.
+The dragons are on their way.</font>
+
+230
+00:10:11,999 --> 00:10:13,999
+<font color="#FFFFFF">- When?
+- You really want to know?</font>
+
+231
+00:10:13,999 --> 00:10:15,999
+<font color="#FFFFFF">- Please! It's urgent.</font>
+
+232
+00:10:15,999 --> 00:10:18,999
+<font color="#FFFFFF">- All right. King joffrey
+is still at king's landing,</font>
+
+233
+00:10:18,999 --> 00:10:19,999
+<font color="#FFFFFF">but there's a young blacksmith</font>
+
+234
+00:10:19,999 --> 00:10:21,999
+<font color="#FFFFFF">who wakes up one morning
+with a plan,</font>
+
+235
+00:10:21,999 --> 00:10:24,999
+<font color="#FFFFFF">and his wiener gently hangs
+down between his legs.</font>
+
+236
+00:10:24,999 --> 00:10:28,999
+<font color="#FFFFFF">Soft and flaccid, his weiner
+glistens in the golden sunlight.</font>
+
+237
+00:10:28,999 --> 00:10:29,999
+<font color="#FFFFFF">- No! Can we skip
+the wiener stuff</font>
+
+238
+00:10:29,999 --> 00:10:31,999
+<font color="#FFFFFF">and just get to the dragons?</font>
+
+239
+00:10:31,999 --> 00:10:33,999
+<font color="#FFFFFF">- Aw, shit, I think—
+I think I'm going faint.</font>
+
+240
+00:10:33,999 --> 00:10:36,999
+<font color="#FFFFFF">- What's the matter, scott?
+- I told you I have to eat</font>
+
+241
+00:10:36,999 --> 00:10:38,999
+<font color="#FFFFFF">every two hours!
+- He's diabetic.</font>
+
+242
+00:10:38,999 --> 00:10:41,999
+<font color="#FFFFFF">- Oh, jeez! Why don't you
+kids come out of the cold?</font>
+
+243
+00:10:41,999 --> 00:10:44,999
+<font color="#FFFFFF">I'll order us some pizzas.
+- Okay, thanks.</font>
+
+244
+00:10:44,999 --> 00:10:45,999
+<font color="#FFFFFF">- Come on in—
+I'll tell you everything</font>
+
+245
+00:10:45,999 --> 00:10:46,999
+<font color="#FFFFFF">that's going to happen
+in <i>game of thrones.</i></font>
+
+246
+00:10:54,439 --> 00:10:57,439
+<font color="#FFFFFF">- Sir kyle, I wanted to talk
+to you about stan.</font>
+
+247
+00:10:57,439 --> 00:10:58,439
+<font color="#FFFFFF">- If you want to make sure
+I'm not</font>
+
+248
+00:10:58,439 --> 00:11:00,439
+<font color="#FFFFFF">switching sides, cartman,
+you don't have to worry.</font>
+
+249
+00:11:00,439 --> 00:11:02,439
+<font color="#FFFFFF">Stan is wrong.
+- It isn't that.</font>
+
+250
+00:11:02,439 --> 00:11:04,439
+<font color="#FFFFFF">Princess kenny
+is loved by her army,</font>
+
+251
+00:11:04,439 --> 00:11:07,439
+<font color="#FFFFFF">but stan is still the nuts
+and balls of the operation.</font>
+
+252
+00:11:07,439 --> 00:11:08,439
+<font color="#FFFFFF">It would be a huge setback
+to the traitors</font>
+
+253
+00:11:08,439 --> 00:11:11,439
+<font color="#FFFFFF">getting their playstations
+if stan were to be...</font>
+
+254
+00:11:11,439 --> 00:11:12,439
+<font color="#FFFFFF">Grounded?</font>
+
+255
+00:11:12,439 --> 00:11:14,439
+<font color="#FFFFFF">- Grounded? For what?</font>
+
+256
+00:11:14,439 --> 00:11:17,439
+<font color="#FFFFFF">- That could be up to you.
+- No, cartman.</font>
+
+257
+00:11:17,439 --> 00:11:18,439
+<font color="#FFFFFF">You said nobody
+would have to be grounded.</font>
+
+258
+00:11:18,439 --> 00:11:20,439
+<font color="#FFFFFF">We're not playing dirty.</font>
+
+259
+00:11:20,439 --> 00:11:22,439
+<font color="#FFFFFF">- Fine, sir kyle.
+Perhaps you're right.</font>
+
+260
+00:11:22,439 --> 00:11:24,439
+<font color="#FFFFFF">Did you know that stan's dad
+is working a temp job</font>
+
+261
+00:11:24,439 --> 00:11:26,439
+<font color="#FFFFFF">as mall security?
+- What?</font>
+
+262
+00:11:26,439 --> 00:11:28,439
+<font color="#FFFFFF">- Seems a little convenient,
+doesn't it?</font>
+
+263
+00:11:28,439 --> 00:11:30,439
+<font color="#FFFFFF">Stan with somebody on the inside
+to help him get his ps4s?</font>
+
+264
+00:11:30,439 --> 00:11:32,439
+<font color="#FFFFFF">Who's playing dirty now?</font>
+
+265
+00:11:32,439 --> 00:11:34,439
+<font color="#FFFFFF">Let's face it sir kyle,</font>
+
+266
+00:11:34,439 --> 00:11:37,439
+<font color="#FFFFFF">this is all about you and me
+getting xboxes.</font>
+
+267
+00:11:37,439 --> 00:11:40,439
+<font color="#FFFFFF">The rest are simply there to
+help us get through those doors.</font>
+
+268
+00:11:40,439 --> 00:11:42,439
+<font color="#FFFFFF">- Don't believe it!</font>
+
+269
+00:11:42,439 --> 00:11:45,439
+<font color="#FFFFFF">He said that
+to a bunch of people.</font>
+
+270
+00:11:45,439 --> 00:11:46,439
+<font color="#FFFFFF">- Dude, you better stop
+harassing me,</font>
+
+271
+00:11:46,439 --> 00:11:47,439
+<font color="#FFFFFF">or I'm calling the cops.</font>
+
+272
+00:11:47,439 --> 00:11:49,439
+<font color="#FFFFFF">- You're calling the cops?
+- Yeah!</font>
+
+273
+00:11:49,439 --> 00:11:51,439
+<font color="#FFFFFF">- You're on my property!
+I'm calling the cops.</font>
+
+274
+00:11:51,439 --> 00:11:54,439
+<font color="#FFFFFF">- Well, go ahead!
+Call the cops then!</font>
+
+275
+00:12:02,439 --> 00:12:04,439
+<font color="#FFFFFF">- Oh!</font>
+
+276
+00:12:04,439 --> 00:12:05,439
+<font color="#FFFFFF">Oh, it's you.</font>
+
+277
+00:12:05,439 --> 00:12:06,439
+<font color="#FFFFFF">- Tom, I'm standing
+in your doorway</font>
+
+278
+00:12:06,439 --> 00:12:10,439
+<font color="#FFFFFF">because we have a hot
+news story to report.</font>
+
+279
+00:12:10,439 --> 00:12:12,439
+<font color="#FFFFFF">- We don't go to work
+for another hour.</font>
+
+280
+00:12:12,439 --> 00:12:14,439
+<font color="#FFFFFF">- We just got a call
+from bill gates.</font>
+
+281
+00:12:14,439 --> 00:12:17,439
+<font color="#FFFFFF">He says he can promise us
+a bigger war on black friday</font>
+
+282
+00:12:17,439 --> 00:12:19,439
+<font color="#FFFFFF">if we play along.</font>
+
+283
+00:12:19,439 --> 00:12:22,439
+<font color="#FFFFFF">- He wants us to side with him?
+- That's right, tammy.</font>
+
+284
+00:12:22,439 --> 00:12:25,439
+<font color="#FFFFFF">Let's not forget that having
+a blood bath on black friday</font>
+
+285
+00:12:25,439 --> 00:12:27,439
+<font color="#FFFFFF">is good for the news.
+It's good for us.</font>
+
+286
+00:12:27,439 --> 00:12:29,439
+<font color="#FFFFFF">The bigger the better.</font>
+
+287
+00:12:29,439 --> 00:12:33,439
+<font color="#FFFFFF">- Our job is to report the news,
+not make it more violent.</font>
+
+288
+00:12:33,439 --> 00:12:36,439
+<font color="#FFFFFF">- Right, tom, because
+you're so about integrity.</font>
+
+289
+00:12:36,439 --> 00:12:38,439
+<font color="#FFFFFF">Let's go.</font>
+
+290
+00:12:38,439 --> 00:12:40,439
+<font color="#FFFFFF">Or maybe I should let
+everyone in the newsroom</font>
+
+291
+00:12:40,439 --> 00:12:43,439
+<font color="#FFFFFF">know what their
+two anchors are up to.</font>
+
+292
+00:12:43,439 --> 00:12:45,439
+<font color="#FFFFFF">Back to you.</font>
+
+293
+00:12:46,439 --> 00:12:49,439
+<font color="#FFFFFF">- It's the morning news
+with tom and tammy thompson,</font>
+
+294
+00:12:49,439 --> 00:12:53,439
+<font color="#FFFFFF">colorado's top-rated
+brother-sister news team.</font>
+
+295
+00:12:53,439 --> 00:12:55,439
+<font color="#FFFFFF">- Well, black friday
+is just around the corner,</font>
+
+296
+00:12:55,439 --> 00:12:57,439
+<font color="#FFFFFF">and, tammy, it's getting
+fierce out there.</font>
+
+297
+00:12:57,439 --> 00:12:59,439
+<font color="#FFFFFF">- That's right, niles
+laughton is out at the mall</font>
+
+298
+00:12:59,439 --> 00:13:01,439
+<font color="#FFFFFF">with a little
+holiday surprise.</font>
+
+299
+00:13:01,439 --> 00:13:03,439
+<font color="#FFFFFF">- Tammy, the excitement
+over black friday is peaking,</font>
+
+300
+00:13:03,439 --> 00:13:06,439
+<font color="#FFFFFF">and none other than
+bill gates himself</font>
+
+301
+00:13:06,439 --> 00:13:08,439
+<font color="#FFFFFF">has shown up to try
+to make it even bigger.</font>
+
+302
+00:13:08,439 --> 00:13:11,439
+<font color="#FFFFFF">- That's right, we just
+want to do whatever we can</font>
+
+303
+00:13:11,439 --> 00:13:13,439
+<font color="#FFFFFF">to help our supporters
+get their xboxes</font>
+
+304
+00:13:13,439 --> 00:13:15,439
+<font color="#FFFFFF">at incredible deals on friday.</font>
+
+305
+00:13:15,439 --> 00:13:16,439
+<font color="#FFFFFF">So we've come to offer swords
+and battle axes,</font>
+
+306
+00:13:16,439 --> 00:13:18,439
+<font color="#FFFFFF">whatever the kids can carry</font>
+
+307
+00:13:18,439 --> 00:13:20,439
+<font color="#FFFFFF">to help them fight their way
+through the other shoppers.</font>
+
+308
+00:13:20,439 --> 00:13:22,439
+<font color="#FFFFFF">- We understand
+that you've donated some guns</font>
+
+309
+00:13:22,439 --> 00:13:24,439
+<font color="#FFFFFF">to the kids as well.</font>
+
+310
+00:13:24,439 --> 00:13:26,439
+<font color="#FFFFFF">- Yes, but we are limiting it
+to one per xbox follower,</font>
+
+311
+00:13:26,439 --> 00:13:28,439
+<font color="#FFFFFF">because, of course,
+the key thing here</font>
+
+312
+00:13:28,439 --> 00:13:31,439
+<font color="#FFFFFF">on everyone's
+mind is safety.</font>
+
+313
+00:13:34,439 --> 00:13:42,439
+<font color="#FFFFFF">?</font>
+
+314
+00:13:45,439 --> 00:13:46,439
+<font color="#FFFFFF">- Yes?</font>
+
+315
+00:13:46,439 --> 00:13:49,439
+<font color="#FFFFFF">- Hi, is kenny home?</font>
+
+316
+00:13:49,439 --> 00:13:52,439
+<font color="#FFFFFF">- Yeah, kenny's out back
+playing with his friends.</font>
+
+317
+00:13:52,439 --> 00:13:54,439
+<font color="#FFFFFF">- Forward, men!</font>
+
+318
+00:13:56,439 --> 00:13:58,439
+<font color="#FFFFFF">That—no—
+no, you gotta turn me.</font>
+
+319
+00:14:04,439 --> 00:14:07,439
+<font color="#FFFFFF">- It's the enemy.
+Defensive puh-puh-positions!</font>
+
+320
+00:14:07,439 --> 00:14:10,439
+<font color="#FFFFFF">- Kill 'em, get out!</font>
+
+321
+00:14:10,439 --> 00:14:12,439
+<font color="#FFFFFF">- I seek audience with
+the traitor lady mckormick.</font>
+
+322
+00:14:12,439 --> 00:14:14,439
+<font color="#FFFFFF">- Let them pass.</font>
+
+323
+00:14:24,439 --> 00:14:27,439
+<font color="#FFFFFF">- The princess bids your fat
+ass welcome to her kingdom</font>
+
+324
+00:14:27,439 --> 00:14:28,439
+<font color="#FFFFFF">and suggests
+you state your purpose.</font>
+
+325
+00:14:28,439 --> 00:14:31,439
+<font color="#FFFFFF">- You can't win this, guys.
+Look around you.</font>
+
+326
+00:14:31,439 --> 00:14:33,439
+<font color="#FFFFFF">Lay down your weapons,
+and you can come back</font>
+
+327
+00:14:33,439 --> 00:14:36,439
+<font color="#FFFFFF">and fight for xboxes with us
+on black friday.</font>
+
+328
+00:14:38,439 --> 00:14:41,439
+<font color="#FFFFFF">- The princess says that if
+you want to change your mind</font>
+
+329
+00:14:41,439 --> 00:14:44,439
+<font color="#FFFFFF">and agree that playstations
+are better, she'll consider it.</font>
+
+330
+00:14:44,439 --> 00:14:46,439
+<font color="#FFFFFF">- Kenny, we all understand
+wanting to play as the chick</font>
+
+331
+00:14:46,439 --> 00:14:48,439
+<font color="#FFFFFF">once in a while, okay?</font>
+
+332
+00:14:48,439 --> 00:14:51,439
+<font color="#FFFFFF">But you are never going to
+be a real princess.</font>
+
+333
+00:14:51,439 --> 00:14:52,439
+<font color="#FFFFFF">- What?</font>
+
+334
+00:14:56,439 --> 00:14:58,439
+<font color="#FFFFFF">- The princess calls you
+a ball-licking lesbian.</font>
+
+335
+00:14:58,439 --> 00:15:00,439
+<font color="#FFFFFF">- That doesn't even make sense.</font>
+
+336
+00:15:00,439 --> 00:15:02,439
+<font color="#FFFFFF">- Stan,
+this has gone too far.</font>
+
+337
+00:15:02,439 --> 00:15:04,439
+<font color="#FFFFFF">People are going to get hurt.</font>
+
+338
+00:15:04,439 --> 00:15:06,439
+<font color="#FFFFFF">What you started
+is way out of control.</font>
+
+339
+00:15:06,439 --> 00:15:08,439
+<font color="#FFFFFF">- What I started?
+How dare you!</font>
+
+340
+00:15:08,439 --> 00:15:10,439
+<font color="#FFFFFF">- All these people are going
+to be gaming on xbox.</font>
+
+341
+00:15:10,439 --> 00:15:11,439
+<font color="#FFFFFF">You really want to just game
+with craig</font>
+
+342
+00:15:11,439 --> 00:15:12,439
+<font color="#FFFFFF">the rest of your life?</font>
+
+343
+00:15:12,439 --> 00:15:14,439
+<font color="#FFFFFF">- I would rather game
+with craig</font>
+
+344
+00:15:14,439 --> 00:15:15,439
+<font color="#FFFFFF">than spend one minute</font>
+
+345
+00:15:15,439 --> 00:15:17,439
+<font color="#FFFFFF">having to set up
+an xbox live account.</font>
+
+346
+00:15:17,439 --> 00:15:19,439
+<font color="#FFFFFF">We will get our playstations
+tomorrow,</font>
+
+347
+00:15:19,439 --> 00:15:21,439
+<font color="#FFFFFF">and you buttholes
+will have nothing!</font>
+
+348
+00:15:21,439 --> 00:15:23,439
+<font color="#FFFFFF">- You're outnumbered
+ten to one,</font>
+
+349
+00:15:23,439 --> 00:15:24,439
+<font color="#FFFFFF">and there's no time left.</font>
+
+350
+00:15:24,439 --> 00:15:26,439
+<font color="#FFFFFF">How will you win?</font>
+
+351
+00:15:29,439 --> 00:15:32,439
+<font color="#FFFFFF">- The gods will find us a way.</font>
+
+352
+00:15:32,439 --> 00:15:35,439
+<font color="#FFFFFF">- So then samwell tarly
+sees the army approaching,</font>
+
+353
+00:15:35,439 --> 00:15:38,439
+<font color="#FFFFFF">and his wiener
+is about this big.</font>
+
+354
+00:15:38,439 --> 00:15:40,439
+<font color="#FFFFFF">He knows that
+stannis baratheon's weiner</font>
+
+355
+00:15:40,439 --> 00:15:41,439
+<font color="#FFFFFF">is probably shriveled
+from the cold</font>
+
+356
+00:15:41,439 --> 00:15:44,439
+<font color="#FFFFFF">samwell has to rally his men.
+So what does he do?</font>
+
+357
+00:15:44,439 --> 00:15:46,439
+<font color="#FFFFFF">Takes out his wiener...</font>
+
+358
+00:15:46,439 --> 00:15:48,439
+<font color="#FFFFFF">And he dangles it around</font>
+
+359
+00:15:48,439 --> 00:15:49,439
+<font color="#FFFFFF">for all his men to see.</font>
+
+360
+00:15:49,439 --> 00:15:50,439
+<font color="#FFFFFF">- Ah!</font>
+
+361
+00:15:50,439 --> 00:15:52,439
+<font color="#FFFFFF">- Oh!</font>
+
+362
+00:15:52,439 --> 00:15:54,439
+<font color="#FFFFFF">Sir, you said pizzas
+were coming.</font>
+
+363
+00:15:54,439 --> 00:15:56,439
+<font color="#FFFFFF">- Yeah, yeah.
+They're on their way.</font>
+
+364
+00:15:56,439 --> 00:15:57,439
+<font color="#FFFFFF">They're still coming.
+So samwell's wiener goes—</font>
+
+365
+00:16:00,439 --> 00:16:02,439
+<font color="#FFFFFF">- But you said they were on
+their way like three hours ago.</font>
+
+366
+00:16:02,439 --> 00:16:05,439
+<font color="#FFFFFF">- If I don't get pizza soon,
+I'm going pass out.</font>
+
+367
+00:16:05,439 --> 00:16:06,439
+<font color="#FFFFFF">- Don't worry,
+they're coming.</font>
+
+368
+00:16:06,439 --> 00:16:09,439
+<font color="#FFFFFF">Pizzas are on their way.
+They're gonna be amazing.</font>
+
+369
+00:16:09,439 --> 00:16:12,439
+<font color="#FFFFFF">Now, john snow finally faces
+jaime lannister,</font>
+
+370
+00:16:12,439 --> 00:16:14,439
+<font color="#FFFFFF">and this guy's weiner is,
+you know, huge, right?</font>
+
+371
+00:16:14,439 --> 00:16:15,439
+<font color="#FFFFFF">So it's not going to be easy.
+- Ehh!</font>
+
+372
+00:16:21,887 --> 00:16:23,887
+<font color="#FFFFFF">mr. Gates, I was hoping
+I could talk to you</font>
+
+373
+00:16:23,887 --> 00:16:24,887
+<font color="#FFFFFF">about the fight tomorrow.
+- Certainly.</font>
+
+374
+00:16:24,887 --> 00:16:26,887
+<font color="#FFFFFF">Uh, eric, right?</font>
+
+375
+00:16:26,887 --> 00:16:28,887
+<font color="#FFFFFF">- It's my lord wizard king,
+actually.</font>
+
+376
+00:16:28,887 --> 00:16:31,887
+<font color="#FFFFFF">Having your leadership
+has certainly been a help,</font>
+
+377
+00:16:31,887 --> 00:16:33,887
+<font color="#FFFFFF">but I hope that we're clear
+that this is my army.</font>
+
+378
+00:16:33,887 --> 00:16:35,887
+<font color="#FFFFFF">There can only be
+one person of royalty.</font>
+
+379
+00:16:35,887 --> 00:16:37,887
+<font color="#FFFFFF">That's kind of the ruse.</font>
+
+380
+00:16:37,887 --> 00:16:39,887
+<font color="#FFFFFF">- I certainly don't want to
+step on your toes.</font>
+
+381
+00:16:39,887 --> 00:16:40,887
+<font color="#FFFFFF">Don't worry, I'm quite good</font>
+
+382
+00:16:40,887 --> 00:16:43,887
+<font color="#FFFFFF">at letting my ceos
+do what they want.</font>
+
+383
+00:16:43,887 --> 00:16:44,887
+<font color="#FFFFFF">- Your ceos?</font>
+
+384
+00:16:44,887 --> 00:16:46,887
+<font color="#FFFFFF">- Let's face it—
+this is really just about</font>
+
+385
+00:16:46,887 --> 00:16:48,887
+<font color="#FFFFFF">you and me getting xboxes</font>
+
+386
+00:16:48,887 --> 00:16:50,887
+<font color="#FFFFFF">the rest are simply there
+to help us...</font>
+
+387
+00:16:50,887 --> 00:16:52,887
+<font color="#FFFFFF">Get through those doors.</font>
+
+388
+00:16:52,887 --> 00:16:54,887
+<font color="#FFFFFF">- Uh—hmm.
+What?</font>
+
+389
+00:16:54,887 --> 00:16:55,887
+<font color="#FFFFFF">- Ha ha!</font>
+
+390
+00:16:55,887 --> 00:16:57,887
+<font color="#FFFFFF">How's it feel?</font>
+
+391
+00:16:57,887 --> 00:16:59,887
+<font color="#FFFFFF">Now who's walking who
+through the betrayal garden?</font>
+
+392
+00:16:59,887 --> 00:17:02,887
+<font color="#FFFFFF">- Why don't you stay
+the out of my business?</font>
+
+393
+00:17:02,887 --> 00:17:05,887
+<font color="#FFFFFF">- Why don't you stay the
+out of my yard?</font>
+
+394
+00:17:07,887 --> 00:17:10,887
+<font color="#FFFFFF">- Ish, ish, ish, oh-ish!</font>
+
+395
+00:17:10,887 --> 00:17:13,887
+<font color="#FFFFFF">Hi-sooooo!</font>
+
+396
+00:17:15,887 --> 00:17:17,887
+<font color="#FFFFFF">- That was amazing sex.
+I enjoyed it immensely.</font>
+
+397
+00:17:17,887 --> 00:17:19,887
+<font color="#FFFFFF">How about you?</font>
+
+398
+00:17:21,887 --> 00:17:24,887
+<font color="#FFFFFF">- You know,
+microsoft has given kids</font>
+
+399
+00:17:24,887 --> 00:17:27,887
+<font color="#FFFFFF">who want xboxes on black friday
+a lot of support.</font>
+
+400
+00:17:27,887 --> 00:17:30,887
+<font color="#FFFFFF">Seems a shame that the fight
+will be so one-sided.</font>
+
+401
+00:17:30,887 --> 00:17:34,887
+<font color="#FFFFFF">- Eh.</font>
+
+402
+00:17:34,887 --> 00:17:35,887
+<font color="#FFFFFF">- Black friday's
+about to happen,</font>
+
+403
+00:17:35,887 --> 00:17:37,887
+<font color="#FFFFFF">and it's not even
+going to be a fight.</font>
+
+404
+00:17:37,887 --> 00:17:39,887
+<font color="#FFFFFF">That's bad for both of us.</font>
+
+405
+00:17:39,887 --> 00:17:42,887
+<font color="#FFFFFF">There must be something you can
+give to kids who want sonies</font>
+
+406
+00:17:42,887 --> 00:17:44,887
+<font color="#FFFFFF">to make the fight more even.</font>
+
+407
+00:17:44,887 --> 00:17:46,887
+<font color="#FFFFFF">- <i>Hai...</i></font>
+
+408
+00:17:46,887 --> 00:17:48,887
+<font color="#FFFFFF"><i>Kore ga arimasu.</i></font>
+
+409
+00:17:50,887 --> 00:17:54,887
+<font color="#FFFFFF">- Yes, I think
+that will do nicely.</font>
+
+410
+00:17:57,887 --> 00:18:00,887
+<font color="#FFFFFF">- ? Wiener, wiener wiener</font>
+
+411
+00:18:00,887 --> 00:18:02,887
+<font color="#FFFFFF">- ? wiener wiener,
+wiener wiener?</font>
+
+412
+00:18:02,887 --> 00:18:05,887
+<font color="#FFFFFF">? wiener, wiener
+- ? one wiener</font>
+
+413
+00:18:05,887 --> 00:18:07,887
+<font color="#FFFFFF">- wiener, wiener?
+- ? next to another</font>
+
+414
+00:18:07,887 --> 00:18:10,887
+<font color="#FFFFFF">? wiener
+- ? wiener, wiener</font>
+
+415
+00:18:10,887 --> 00:18:13,887
+<font color="#FFFFFF">? wiener, wiener
+- ? two wieners</font>
+
+416
+00:18:13,887 --> 00:18:16,887
+<font color="#FFFFFF">? alongside yet another
+- ? wiener, wiener</font>
+
+417
+00:18:16,887 --> 00:18:17,887
+<font color="#FFFFFF">? wiener
+- ? party, wiener party</font>
+
+418
+00:18:17,887 --> 00:18:19,887
+<font color="#FFFFFF">? wiener party</font>
+
+419
+00:18:19,887 --> 00:18:22,887
+<font color="#FFFFFF">? party party
+- ? soft wieners</font>
+
+420
+00:18:22,887 --> 00:18:23,887
+<font color="#FFFFFF">? nice and soft</font>
+
+421
+00:18:23,887 --> 00:18:26,887
+<font color="#FFFFFF">- ? non-erect wieners
+- ? wieners flopping</font>
+
+422
+00:18:26,887 --> 00:18:29,887
+<font color="#FFFFFF">? flopping wieners
+- ? flopping wieners</font>
+
+423
+00:18:29,887 --> 00:18:31,887
+<font color="#FFFFFF">- ? dangling wieners
+- ? five wieners</font>
+
+424
+00:18:31,887 --> 00:18:34,887
+<font color="#FFFFFF">? in my face
+- stop!</font>
+
+425
+00:18:34,887 --> 00:18:36,887
+<font color="#FFFFFF">Stop, please.
+I can't take anymore.</font>
+
+426
+00:18:36,887 --> 00:18:38,887
+<font color="#FFFFFF">- But this is the best part</font>
+
+427
+00:18:38,887 --> 00:18:40,887
+<font color="#FFFFFF">right before king joffrey
+gets poisoned.</font>
+
+428
+00:18:40,887 --> 00:18:42,887
+<font color="#FFFFFF">Everyone flips their wieners
+all around his face!</font>
+
+429
+00:18:42,887 --> 00:18:44,887
+<font color="#FFFFFF">- Yaaaaaah!
+- Listen, buddy!</font>
+
+430
+00:18:44,887 --> 00:18:46,887
+<font color="#FFFFFF">You promised that pizzas
+were on the way!</font>
+
+431
+00:18:46,887 --> 00:18:48,887
+<font color="#FFFFFF">If they don't show up
+right now,</font>
+
+432
+00:18:48,887 --> 00:18:49,887
+<font color="#FFFFFF">you're gonna have a dead kid
+on your hands.</font>
+
+433
+00:18:49,887 --> 00:18:51,887
+<font color="#FFFFFF">Do you hear me?</font>
+
+434
+00:18:51,887 --> 00:18:53,887
+<font color="#FFFFFF">- Okay, fine, fine!
+What kind of pizzas do you want?</font>
+
+435
+00:18:53,887 --> 00:18:55,887
+<font color="#FFFFFF">- What kind do we want?
+- He hasn't even ordered</font>
+
+436
+00:18:55,887 --> 00:18:57,887
+<font color="#FFFFFF">the pizzas yet!</font>
+
+437
+00:18:57,887 --> 00:18:59,887
+<font color="#FFFFFF">- Don't worry, they're coming!
+Not just two pizzas.</font>
+
+438
+00:18:59,887 --> 00:19:01,887
+<font color="#FFFFFF">There's—
+there's gonna be five.</font>
+
+439
+00:19:01,887 --> 00:19:03,887
+<font color="#FFFFFF">And they're gonna be huge!
+You won't believe it.</font>
+
+440
+00:19:03,887 --> 00:19:05,887
+<font color="#FFFFFF">- Come on, scott.
+We're leaving.</font>
+
+441
+00:19:05,887 --> 00:19:07,887
+<font color="#FFFFFF">- Wait, I haven't told you
+what happens yet!</font>
+
+442
+00:19:07,887 --> 00:19:08,887
+<font color="#FFFFFF">- No! Black friday
+is about to happen,</font>
+
+443
+00:19:08,887 --> 00:19:10,887
+<font color="#FFFFFF">and my friends
+and I have to be</font>
+
+444
+00:19:10,887 --> 00:19:12,887
+<font color="#FFFFFF">the first ones inside the mall
+to get xboxes.</font>
+
+445
+00:19:12,887 --> 00:19:15,887
+<font color="#FFFFFF">- Well, why didn't you say so?
+I can help with that.</font>
+
+446
+00:19:15,887 --> 00:19:16,887
+<font color="#FFFFFF">- What do you mean?</font>
+
+447
+00:19:16,887 --> 00:19:19,887
+<font color="#FFFFFF">- I'll make calls.
+I know a way to make sure</font>
+
+448
+00:19:19,887 --> 00:19:21,887
+<font color="#FFFFFF">you're completely prepared
+for black friday.</font>
+
+449
+00:19:24,887 --> 00:19:26,887
+<font color="#FFFFFF">?</font>
+
+450
+00:19:26,887 --> 00:19:32,887
+<font color="#FFFFFF">- Sony ps4.</font>
+
+451
+00:19:32,887 --> 00:19:33,887
+<font color="#FFFFFF">- The president of sony</font>
+
+452
+00:19:33,887 --> 00:19:36,887
+<font color="#FFFFFF">bids you thanks
+for all your support of the ps4.</font>
+
+453
+00:19:42,887 --> 00:19:44,887
+<font color="#FFFFFF">- He offers you this gift
+to once and for all</font>
+
+454
+00:19:44,887 --> 00:19:46,887
+<font color="#FFFFFF">make you an official
+princess</font>
+
+455
+00:19:46,887 --> 00:19:48,887
+<font color="#FFFFFF">and to give you
+the powers you need</font>
+
+456
+00:19:48,887 --> 00:19:51,887
+<font color="#FFFFFF">to win this war
+on black friday.</font>
+
+457
+00:20:08,887 --> 00:20:11,887
+<font color="#FFFFFF">- Wow, kenny's
+a japanese princess.</font>
+
+458
+00:20:11,887 --> 00:20:12,887
+<font color="#FFFFFF">- Whoo!</font>
+
+459
+00:20:15,887 --> 00:20:22,887
+<font color="#FFFFFF">?</font>
+
+460
+00:20:25,887 --> 00:20:28,887
+<font color="#FFFFFF">? Princess kenny...</font>
+
+461
+00:20:31,887 --> 00:20:38,887
+<font color="#FFFFFF">?</font>
+
+462
+00:20:40,887 --> 00:20:43,887
+<font color="#FFFFFF">- Oh, god, we're done for!</font>
+
+463
+00:20:43,887 --> 00:20:47,887
+<font color="#FFFFFF">- My friends,
+the time is almost here.</font>
+
+464
+00:20:47,887 --> 00:20:48,887
+<font color="#FFFFFF">Let us face these shoppers</font>
+
+465
+00:20:48,887 --> 00:20:51,887
+<font color="#FFFFFF">with the bravery of those mall
+security officers before us.</font>
+
+466
+00:20:53,887 --> 00:20:55,887
+<font color="#FFFFFF">Commander marsh.</font>
+
+467
+00:20:55,887 --> 00:20:57,887
+<font color="#FFFFFF">They're what?</font>
+
+468
+00:20:57,887 --> 00:20:58,887
+<font color="#FFFFFF">They're going to what?</font>
+
+469
+00:20:58,887 --> 00:21:02,887
+<font color="#FFFFFF">- Tom, we have breaking news
+from the south park mall.</font>
+
+470
+00:21:02,887 --> 00:21:05,887
+<font color="#FFFFFF">In an effort to make sure
+everyone is prepared,</font>
+
+471
+00:21:05,887 --> 00:21:08,887
+<font color="#FFFFFF">the mall has decided to push
+black friday by one week.</font>
+
+472
+00:21:08,887 --> 00:21:11,887
+<font color="#FFFFFF">- Aw!
+- What?</font>
+
+473
+00:21:11,887 --> 00:21:14,887
+<font color="#FFFFFF">- The genius idea was proposed
+by george r.R. Martin</font>
+
+474
+00:21:14,887 --> 00:21:17,887
+<font color="#FFFFFF">who also suggested: "It!
+Let's push thanksgiving</font>
+
+475
+00:21:17,887 --> 00:21:19,887
+<font color="#FFFFFF">to december 3rd."</font>
+
+476
+00:21:19,887 --> 00:21:21,887
+<font color="#FFFFFF">For pushing the date,
+the mall is now reducing</font>
+
+477
+00:21:21,887 --> 00:21:25,887
+<font color="#FFFFFF">black friday prices
+to 96% off</font>
+
+478
+00:21:25,887 --> 00:21:27,887
+<font color="#FFFFFF">to the first hundred people
+inside the mall.</font>
+
+479
+00:21:29,887 --> 00:21:32,887
+<font color="#FFFFFF">This is going to be
+a blood bath, tom!</font>
+
+480
+00:21:32,887 --> 00:21:35,887
+<font color="#FFFFFF">There will be medical tents,
+ambulances, face painting.</font>
+
+481
+00:21:35,887 --> 00:21:37,887
+<font color="#FFFFFF">No doubt a lot of people
+you know and love</font>
+
+482
+00:21:37,887 --> 00:21:38,887
+<font color="#FFFFFF">are going to die.</font>
+
+483
+00:21:40,887 --> 00:21:43,887
+<font color="#FFFFFF">- ? Weiner party, party party</font>
+
+484
+00:21:43,887 --> 00:21:44,887
+<font color="#FFFFFF">- ? soft wieners—</font>
+
+485
+00:21:44,887 --> 00:21:45,887
+<font color="#FFFFFF">- ? soft wieners</font>
+
+486
+00:21:45,887 --> 00:21:47,887
+<font color="#FFFFFF">? nice and soft</font>
+
+487
+00:21:47,887 --> 00:21:50,887
+<font color="#FFFFFF">- ? non-erect wieners
+- ? wieners flopping</font>
+
+488
+00:21:50,887 --> 00:21:53,887
+<font color="#FFFFFF">? flopping wieners
+- ? flopping wieners</font>
+
+489
+00:21:53,887 --> 00:21:55,887
+<font color="#FFFFFF">- ? dangling wieners
+- ? five wieners</font>
+
+490
+00:21:55,887 --> 00:21:57,887
+<font color="#FFFFFF">? in my face
+- stop!</font>
+
+491
+00:21:57,887 --> 00:21:58,887
+<font color="#FFFFFF">Stop, please!</font>
+

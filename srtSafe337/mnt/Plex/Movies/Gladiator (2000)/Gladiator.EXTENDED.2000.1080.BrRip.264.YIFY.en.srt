@@ -1,0 +1,6063 @@
+1
+00:00:01,000 --> 00:01:58,533
+<font color="#FFFFFF">//subscene. com/u/659433
+Improved by: @Ivandrofly</font>
+
+2
+00:03:18,407 --> 00:03:19,448
+<font color="#FFFFFF">Sir.</font>
+
+3
+00:03:19,533 --> 00:03:20,783
+<font color="#FFFFFF">General.</font>
+
+4
+00:03:31,670 --> 00:03:32,795
+<font color="#FFFFFF">Sir.</font>
+
+5
+00:03:47,811 --> 00:03:49,478
+<font color="#FFFFFF">Lean and hungry.</font>
+
+6
+00:03:52,649 --> 00:03:55,359
+<font color="#FFFFFF">- Still nothing?
+- Not a sign.</font>
+
+7
+00:03:55,444 --> 00:03:58,319
+<font color="#FFFFFF">- How long has he been gone?
+- Nearly two hours.</font>
+
+8
+00:04:01,324 --> 00:04:03,074
+<font color="#FFFFFF">Will they fight, sir?</font>
+
+9
+00:04:03,159 --> 00:04:04,659
+<font color="#FFFFFF">We shall know soon enough.</font>
+
+10
+00:04:04,745 --> 00:04:07,288
+<font color="#FFFFFF">Soldier, I ordered you to
+move those catapults forward.</font>
+
+11
+00:04:07,372 --> 00:04:09,664
+<font color="#FFFFFF">- They're out of range.
+- Range is good.</font>
+
+12
+00:04:11,334 --> 00:04:14,753
+<font color="#FFFFFF">- The danger to the cavalry...
+- Is acceptable. Agreed?</font>
+
+13
+00:04:24,473 --> 00:04:25,555
+<font color="#FFFFFF">They say no.</font>
+
+14
+00:04:51,500 --> 00:04:54,043
+<font color="#FFFFFF">People should know when
+they're conquered.</font>
+
+15
+00:05:04,512 --> 00:05:06,305
+<font color="#FFFFFF">Would you, Quintus?</font>
+
+16
+00:05:07,223 --> 00:05:08,516
+<font color="#FFFFFF">Would I?</font>
+
+17
+00:05:25,242 --> 00:05:27,951
+<font color="#FFFFFF">- Strength and honor.
+- Strength and honor.</font>
+
+18
+00:05:33,582 --> 00:05:36,752
+<font color="#FFFFFF">At my signal, unleash hell.</font>
+
+19
+00:05:59,442 --> 00:06:00,985
+<font color="#FFFFFF">Load the catapults.</font>
+
+20
+00:06:01,862 --> 00:06:03,821
+<font color="#FFFFFF">Infantry form up for advance.</font>
+
+21
+00:06:05,281 --> 00:06:07,699
+<font color="#FFFFFF">- Archers ready.
+- Archers!</font>
+
+22
+00:06:07,783 --> 00:06:09,285
+<font color="#FFFFFF">- Nock!
+- Nock!</font>
+
+23
+00:06:33,058 --> 00:06:34,435
+<font color="#FFFFFF"><i>Fratres!</i></font>
+
+24
+00:06:34,519 --> 00:06:36,353
+<font color="#FFFFFF">- Maximus!
+- Maximus!</font>
+
+25
+00:06:37,814 --> 00:06:41,901
+<font color="#FFFFFF">Three weeks from now, I will
+be harvesting my crops.</font>
+
+26
+00:06:41,985 --> 00:06:46,447
+<font color="#FFFFFF">Imagine where you will
+be, and it will be so.</font>
+
+27
+00:06:47,156 --> 00:06:50,492
+<font color="#FFFFFF">Hold the line! Stay with me!</font>
+
+28
+00:06:50,576 --> 00:06:53,245
+<font color="#FFFFFF">If you find yourself alone,</font>
+
+29
+00:06:53,329 --> 00:06:56,331
+<font color="#FFFFFF">riding in green fields
+with the sun on your face,</font>
+
+30
+00:06:57,542 --> 00:06:59,709
+<font color="#FFFFFF">do not be troubled.</font>
+
+31
+00:07:00,545 --> 00:07:04,173
+<font color="#FFFFFF">For you are in Elysium,
+and you're already dead!</font>
+
+32
+00:07:06,343 --> 00:07:08,009
+<font color="#FFFFFF">Brothers,</font>
+
+33
+00:07:09,387 --> 00:07:11,221
+<font color="#FFFFFF">what we do in life</font>
+
+34
+00:07:12,307 --> 00:07:13,932
+<font color="#FFFFFF">echoes in eternity.</font>
+
+35
+00:07:22,442 --> 00:07:23,733
+<font color="#FFFFFF">Pull!</font>
+
+36
+00:07:39,375 --> 00:07:41,377
+<font color="#FFFFFF">Cohorts ready, sir!</font>
+
+37
+00:07:52,096 --> 00:07:54,389
+<font color="#FFFFFF">Archers, ignite!</font>
+
+38
+00:07:54,641 --> 00:07:57,266
+<font color="#FFFFFF">- Ignite!
+- Ignite!</font>
+
+39
+00:08:03,149 --> 00:08:05,817
+<font color="#FFFFFF">Archers, draw!</font>
+
+40
+00:08:09,279 --> 00:08:10,656
+<font color="#FFFFFF">Loose!</font>
+
+41
+00:08:39,811 --> 00:08:41,769
+<font color="#FFFFFF">All
+right, men, ready!</font>
+
+42
+00:08:47,652 --> 00:08:49,570
+<font color="#FFFFFF">Hold the line!</font>
+
+43
+00:08:57,828 --> 00:08:59,955
+<font color="#FFFFFF">Loose!</font>
+
+44
+00:09:00,039 --> 00:09:01,498
+<font color="#FFFFFF">Reload!</font>
+
+45
+00:09:06,546 --> 00:09:08,547
+<font color="#FFFFFF">Hold the line!</font>
+
+46
+00:09:08,630 --> 00:09:10,966
+<font color="#FFFFFF">- Draw!
+- Loose!</font>
+
+47
+00:09:13,510 --> 00:09:15,303
+<font color="#FFFFFF">Stay with me!</font>
+
+48
+00:09:20,643 --> 00:09:22,894
+<font color="#FFFFFF">Stay with me!</font>
+
+49
+00:09:50,840 --> 00:09:51,655
+<font color="#FFFFFF"><i>Roma Victor!</i></font>
+
+50
+00:13:10,956 --> 00:13:13,041
+<font color="#FFFFFF">Do you think he's really dying?</font>
+
+51
+00:13:14,460 --> 00:13:16,461
+<font color="#FFFFFF">He's been dying for 10 years.</font>
+
+52
+00:13:17,879 --> 00:13:20,966
+<font color="#FFFFFF">If he weren't really dying,
+he wouldn't have sent for us.</font>
+
+53
+00:13:21,049 --> 00:13:22,842
+<font color="#FFFFFF">Maybe he just misses us.</font>
+
+54
+00:13:22,927 --> 00:13:25,511
+<font color="#FFFFFF">And the senators? He wouldn't
+have summoned them if...</font>
+
+55
+00:13:25,596 --> 00:13:26,888
+<font color="#FFFFFF">Peace, Commodus.</font>
+
+56
+00:13:26,972 --> 00:13:28,264
+<font color="#FFFFFF">After two weeks on the road,</font>
+
+57
+00:13:28,349 --> 00:13:31,018
+<font color="#FFFFFF">your incessant scheming
+is hurting my head.</font>
+
+58
+00:13:38,442 --> 00:13:41,861
+<font color="#FFFFFF">He's made his decision.
+He's going to announce it.</font>
+
+59
+00:13:45,450 --> 00:13:47,408
+<font color="#FFFFFF">He will name me.</font>
+
+60
+00:13:50,245 --> 00:13:53,914
+<font color="#FFFFFF">The first thing I
+shall do when...</font>
+
+61
+00:13:56,711 --> 00:14:00,004
+<font color="#FFFFFF">Is honor him with games
+worthy of His Majesty.</font>
+
+62
+00:14:00,089 --> 00:14:04,926
+<font color="#FFFFFF">For now, the first thing I
+shall do is have a hot bath.</font>
+
+63
+00:14:06,678 --> 00:14:08,429
+<font color="#FFFFFF">Your Highness?</font>
+
+64
+00:14:12,100 --> 00:14:14,226
+<font color="#FFFFFF">We seem to
+be almost there, sir.</font>
+
+65
+00:14:20,777 --> 00:14:22,610
+<font color="#FFFFFF">- Sire.
+- Where's the Emperor?</font>
+
+66
+00:14:22,695 --> 00:14:26,365
+<font color="#FFFFFF">He's at the front, sire.
+They've been gone for 19 days.</font>
+
+67
+00:14:26,448 --> 00:14:28,658
+<font color="#FFFFFF">The wounded are still coming in.</font>
+
+68
+00:14:28,743 --> 00:14:30,369
+<font color="#FFFFFF">My horse.</font>
+
+69
+00:14:30,452 --> 00:14:32,120
+<font color="#FFFFFF">My lord.</font>
+
+70
+00:14:35,665 --> 00:14:36,750
+<font color="#FFFFFF">Kiss?</font>
+
+71
+00:15:12,702 --> 00:15:16,206
+<font color="#FFFFFF">You have proved your valor
+yet again, Maximus.</font>
+
+72
+00:15:18,375 --> 00:15:21,086
+<font color="#FFFFFF">Let us hope, for the last time.</font>
+
+73
+00:15:21,504 --> 00:15:23,754
+<font color="#FFFFFF">There's no one left
+to fight, sire.</font>
+
+74
+00:15:23,840 --> 00:15:26,508
+<font color="#FFFFFF">There is always someone
+left to fight.</font>
+
+75
+00:15:26,591 --> 00:15:29,510
+<font color="#FFFFFF">How can I reward Rome's
+greatest general?</font>
+
+76
+00:15:34,975 --> 00:15:36,518
+<font color="#FFFFFF">Let me go home.</font>
+
+77
+00:15:37,644 --> 00:15:38,687
+<font color="#FFFFFF">Ah!</font>
+
+78
+00:15:39,105 --> 00:15:40,312
+<font color="#FFFFFF">Home.</font>
+
+79
+00:15:59,082 --> 00:16:00,667
+<font color="#FFFFFF">They honor you, Caesar.</font>
+
+80
+00:16:00,750 --> 00:16:03,544
+<font color="#FFFFFF">It's for you, Maximus.
+They honor you.</font>
+
+81
+00:16:26,568 --> 00:16:29,236
+<font color="#FFFFFF">Have I missed it? Have
+I missed the battle?</font>
+
+82
+00:16:30,907 --> 00:16:32,698
+<font color="#FFFFFF">You have missed the war.</font>
+
+83
+00:16:32,783 --> 00:16:34,993
+<font color="#FFFFFF">Father, congratulations.</font>
+
+84
+00:16:35,620 --> 00:16:37,870
+<font color="#FFFFFF">I shall sacrifice 100 bulls
+to honor your triumph.</font>
+
+85
+00:16:37,955 --> 00:16:39,623
+<font color="#FFFFFF">Save the bulls.</font>
+
+86
+00:16:39,706 --> 00:16:42,167
+<font color="#FFFFFF">Honor Maximus. He
+won the battle.</font>
+
+87
+00:16:42,585 --> 00:16:44,919
+<font color="#FFFFFF">General.
+- Highness.</font>
+
+88
+00:16:45,922 --> 00:16:49,508
+<font color="#FFFFFF">Rome salutes you, and I
+embrace you as a brother.</font>
+
+89
+00:16:49,591 --> 00:16:51,384
+<font color="#FFFFFF">It has been too long,
+my old friend.</font>
+
+90
+00:16:51,469 --> 00:16:52,927
+<font color="#FFFFFF">Highness.</font>
+
+91
+00:16:53,011 --> 00:16:55,596
+<font color="#FFFFFF">Here, Father. Take my arm.</font>
+
+92
+00:16:57,182 --> 00:17:00,393
+<font color="#FFFFFF">I think it is time
+for me to leave.</font>
+
+93
+00:17:15,535 --> 00:17:18,869
+<font color="#FFFFFF">So much for the glory of Rome.</font>
+
+94
+00:18:48,044 --> 00:18:49,711
+<font color="#FFFFFF">Magnificent battle.</font>
+
+95
+00:19:13,653 --> 00:19:15,362
+<font color="#FFFFFF">General. Still alive?</font>
+
+96
+00:19:15,445 --> 00:19:16,738
+<font color="#FFFFFF">Still alive.</font>
+
+97
+00:19:16,821 --> 00:19:18,448
+<font color="#FFFFFF">The gods must have
+a sense of humor.</font>
+
+98
+00:19:18,531 --> 00:19:21,201
+<font color="#FFFFFF">The gods must love you.
+- Valerius.</font>
+
+99
+00:19:21,285 --> 00:19:24,162
+<font color="#FFFFFF">Back to barracks, General?
+Or to Rome?</font>
+
+100
+00:19:24,246 --> 00:19:27,332
+<font color="#FFFFFF">Home. My wife, my
+son, the harvest.</font>
+
+101
+00:19:27,958 --> 00:19:31,294
+<font color="#FFFFFF">Maximus the farmer. I still
+have difficulty imagining that.</font>
+
+102
+00:19:31,378 --> 00:19:35,006
+<font color="#FFFFFF">You know, dirt cleans off a lot
+easier than blood, Quintus.</font>
+
+103
+00:19:35,090 --> 00:19:37,174
+<font color="#FFFFFF">- Here he is.
+- Highness.</font>
+
+104
+00:19:37,259 --> 00:19:39,426
+<font color="#FFFFFF">Senator
+Gaius, Senator Falco.</font>
+
+105
+00:19:39,511 --> 00:19:42,388
+<font color="#FFFFFF">Beware of Gaius. He'll pour a
+honeyed potion in your ear,</font>
+
+106
+00:19:42,472 --> 00:19:46,058
+<font color="#FFFFFF">and you'll wake up one day and all you'll
+say is, "Republic, republic, republic."</font>
+
+107
+00:19:46,143 --> 00:19:48,811
+<font color="#FFFFFF">Well, why not? Rome was
+founded as a republic.</font>
+
+108
+00:19:48,895 --> 00:19:51,772
+<font color="#FFFFFF">Yes, and in a republic the
+senate has the power.</font>
+
+109
+00:19:51,856 --> 00:19:54,067
+<font color="#FFFFFF">But Senator Gaius isn't
+influenced by that, of course.</font>
+
+110
+00:19:54,151 --> 00:19:57,153
+<font color="#FFFFFF">Where do you stand, General?
+Emperor or Senate?</font>
+
+111
+00:19:57,238 --> 00:19:58,488
+<font color="#FFFFFF">A soldier has the advantage</font>
+
+112
+00:19:58,572 --> 00:20:01,990
+<font color="#FFFFFF">of being able to look his
+enemy in the eye, Senator.</font>
+
+113
+00:20:02,076 --> 00:20:06,078
+<font color="#FFFFFF">Well, with an army behind you, you
+could be extremely political.</font>
+
+114
+00:20:06,163 --> 00:20:09,289
+<font color="#FFFFFF">I warned you. Now I shall save you.
+Senators.</font>
+
+115
+00:20:19,134 --> 00:20:20,551
+<font color="#FFFFFF">Maximus.</font>
+
+116
+00:20:21,636 --> 00:20:24,138
+<font color="#FFFFFF">I'm going to need
+good men like you.</font>
+
+117
+00:20:26,267 --> 00:20:28,809
+<font color="#FFFFFF">How may I be of
+service, Highness?</font>
+
+118
+00:20:28,894 --> 00:20:31,938
+<font color="#FFFFFF">You're a man who knows
+what it is to command.</font>
+
+119
+00:20:32,021 --> 00:20:35,357
+<font color="#FFFFFF">You give your orders, the orders
+are obeyed, and the battle is won.</font>
+
+120
+00:20:35,442 --> 00:20:40,238
+<font color="#FFFFFF">But these senators scheme,
+squabble and flatter and deceive.</font>
+
+121
+00:20:40,740 --> 00:20:43,782
+<font color="#FFFFFF">Maximus, we must save Rome from
+the politicians, my friend.</font>
+
+122
+00:20:43,867 --> 00:20:46,994
+<font color="#FFFFFF">Can I count on you
+when the time comes?</font>
+
+123
+00:20:52,960 --> 00:20:55,753
+<font color="#FFFFFF">Highness, when your father releases
+me, I intend to return home.</font>
+
+124
+00:20:55,837 --> 00:20:59,007
+<font color="#FFFFFF">Home? Well, no one's
+earned it more.</font>
+
+125
+00:21:00,550 --> 00:21:04,345
+<font color="#FFFFFF">Don't get too comfortable. I
+may call on you before long.</font>
+
+126
+00:21:06,432 --> 00:21:09,017
+<font color="#FFFFFF">Lucilia's here. Did you know?</font>
+
+127
+00:21:09,518 --> 00:21:11,435
+<font color="#FFFFFF">She's not forgotten you.</font>
+
+128
+00:21:12,730 --> 00:21:15,064
+<font color="#FFFFFF">And now, you're the great man.</font>
+
+129
+00:21:27,368 --> 00:21:29,871
+<font color="#FFFFFF">If only you had been born a man,</font>
+
+130
+00:21:30,914 --> 00:21:33,208
+<font color="#FFFFFF">what a Caesar you
+would have made.</font>
+
+131
+00:21:34,876 --> 00:21:36,336
+<font color="#FFFFFF">Father.</font>
+
+132
+00:21:42,384 --> 00:21:44,344
+<font color="#FFFFFF">You would have been strong.</font>
+
+133
+00:21:44,427 --> 00:21:47,680
+<font color="#FFFFFF">I wonder, would you
+have been just?</font>
+
+134
+00:21:48,432 --> 00:21:51,099
+<font color="#FFFFFF">I would have been what
+you taught me to be.</font>
+
+135
+00:21:53,103 --> 00:21:54,645
+<font color="#FFFFFF">How was your journey?</font>
+
+136
+00:21:54,730 --> 00:21:58,482
+<font color="#FFFFFF">Long. Uncomfortable.
+Why have I come?</font>
+
+137
+00:21:59,067 --> 00:22:01,653
+<font color="#FFFFFF">I need your help.
+With your brother.</font>
+
+138
+00:22:01,987 --> 00:22:03,779
+<font color="#FFFFFF">Of course.</font>
+
+139
+00:22:03,864 --> 00:22:05,990
+<font color="#FFFFFF">He loves you. He always has.</font>
+
+140
+00:22:07,076 --> 00:22:08,242
+<font color="#FFFFFF">And</font>
+
+141
+00:22:10,119 --> 00:22:13,288
+<font color="#FFFFFF">he will need you
+now, more than ever.</font>
+
+142
+00:22:18,378 --> 00:22:20,255
+<font color="#FFFFFF">Enough of politics.</font>
+
+143
+00:22:20,506 --> 00:22:23,465
+<font color="#FFFFFF">Let us pretend that you
+are a loving daughter,</font>
+
+144
+00:22:24,050 --> 00:22:26,426
+<font color="#FFFFFF">and I am a good father.</font>
+
+145
+00:22:31,976 --> 00:22:34,727
+<font color="#FFFFFF">This is a pleasant
+fiction, isn't it?</font>
+
+146
+00:22:47,740 --> 00:22:49,200
+<font color="#FFFFFF">Good morning to you.</font>
+
+147
+00:23:02,423 --> 00:23:04,883
+<font color="#FFFFFF">I need three more horses.</font>
+
+148
+00:23:13,517 --> 00:23:16,935
+<font color="#FFFFFF">One! Two! Three!</font>
+
+149
+00:23:17,730 --> 00:23:18,938
+<font color="#FFFFFF">Four!</font>
+
+150
+00:23:19,022 --> 00:23:21,273
+<font color="#FFFFFF">One! Two!</font>
+
+151
+00:23:37,499 --> 00:23:39,416
+<font color="#FFFFFF">You sent
+for me, Caesar?</font>
+
+152
+00:23:44,173 --> 00:23:47,049
+<font color="#FFFFFF">- Caesar?
+- Tell me again, Maximus.</font>
+
+153
+00:23:48,134 --> 00:23:49,844
+<font color="#FFFFFF">Why are we here?</font>
+
+154
+00:23:51,180 --> 00:23:53,681
+<font color="#FFFFFF">For the glory of
+the empire, sire.</font>
+
+155
+00:23:54,141 --> 00:23:55,182
+<font color="#FFFFFF">Yes.</font>
+
+156
+00:23:57,227 --> 00:23:59,186
+<font color="#FFFFFF">Yes, I remember.</font>
+
+157
+00:24:02,273 --> 00:24:04,525
+<font color="#FFFFFF">Do you see that map, Maximus?</font>
+
+158
+00:24:05,361 --> 00:24:07,862
+<font color="#FFFFFF">That is the world
+which I created.</font>
+
+159
+00:24:08,739 --> 00:24:10,365
+<font color="#FFFFFF">For 25 years,</font>
+
+160
+00:24:10,865 --> 00:24:14,786
+<font color="#FFFFFF">I have conquered, spilt
+blood, expanded the empire.</font>
+
+161
+00:24:16,204 --> 00:24:19,958
+<font color="#FFFFFF">Since I became Caesar, I've
+known four years without war.</font>
+
+162
+00:24:20,041 --> 00:24:22,542
+<font color="#FFFFFF">Four years of peace in 20.</font>
+
+163
+00:24:22,877 --> 00:24:24,336
+<font color="#FFFFFF">And for what?</font>
+
+164
+00:24:31,720 --> 00:24:35,556
+<font color="#FFFFFF">I brought the sword.
+Nothing more.</font>
+
+165
+00:24:36,849 --> 00:24:38,142
+<font color="#FFFFFF">Caesar, your life...</font>
+
+166
+00:24:38,227 --> 00:24:40,811
+<font color="#FFFFFF">Please. Please don't
+call me that.</font>
+
+167
+00:24:41,063 --> 00:24:43,355
+<font color="#FFFFFF">Come. Please.</font>
+
+168
+00:24:44,148 --> 00:24:45,525
+<font color="#FFFFFF">Come sit.</font>
+
+169
+00:24:46,359 --> 00:24:49,069
+<font color="#FFFFFF">Let us talk together now,</font>
+
+170
+00:24:49,947 --> 00:24:52,073
+<font color="#FFFFFF">very simply, as men.</font>
+
+171
+00:24:52,740 --> 00:24:54,575
+<font color="#FFFFFF">Well, Maximus,</font>
+
+172
+00:24:56,912 --> 00:24:58,121
+<font color="#FFFFFF">talk.</font>
+
+173
+00:25:01,083 --> 00:25:04,085
+<font color="#FFFFFF">Five thousand of my men are out
+there in the freezing mud.</font>
+
+174
+00:25:04,169 --> 00:25:05,961
+<font color="#FFFFFF">Three thousand of them are
+bloodied and cleaved.</font>
+
+175
+00:25:06,046 --> 00:25:07,505
+<font color="#FFFFFF">Two thousand will never
+leave this place.</font>
+
+176
+00:25:07,588 --> 00:25:10,799
+<font color="#FFFFFF">I will not believe that they
+fought and died for nothing.</font>
+
+177
+00:25:10,884 --> 00:25:12,509
+<font color="#FFFFFF">And what would you believe?</font>
+
+178
+00:25:12,594 --> 00:25:16,431
+<font color="#FFFFFF">They fought for
+you and for Rome.</font>
+
+179
+00:25:16,515 --> 00:25:18,307
+<font color="#FFFFFF">And what is Rome, Maximus?</font>
+
+180
+00:25:20,477 --> 00:25:22,894
+<font color="#FFFFFF">I've seen much of the
+rest of the world.</font>
+
+181
+00:25:22,980 --> 00:25:26,982
+<font color="#FFFFFF">It is brutal and cruel and dark.
+Rome is the light.</font>
+
+182
+00:25:27,067 --> 00:25:28,984
+<font color="#FFFFFF">Yet you have never been there.</font>
+
+183
+00:25:29,068 --> 00:25:31,528
+<font color="#FFFFFF">You have not seen
+what it has become.</font>
+
+184
+00:25:31,613 --> 00:25:34,656
+<font color="#FFFFFF">I am dying, Maximus.</font>
+
+185
+00:25:35,284 --> 00:25:36,576
+<font color="#FFFFFF">When a man sees his end,</font>
+
+186
+00:25:36,660 --> 00:25:39,703
+<font color="#FFFFFF">he wants to know there was
+some purpose to his life.</font>
+
+187
+00:25:40,830 --> 00:25:44,000
+<font color="#FFFFFF">How will the world speak
+my name in years to come?</font>
+
+188
+00:25:44,084 --> 00:25:46,376
+<font color="#FFFFFF">Will I be known as
+the philosopher?</font>
+
+189
+00:25:46,461 --> 00:25:47,961
+<font color="#FFFFFF">The warrior?</font>
+
+190
+00:25:48,255 --> 00:25:49,672
+<font color="#FFFFFF">The tyrant?</font>
+
+191
+00:25:51,174 --> 00:25:55,802
+<font color="#FFFFFF">Or will I be the Emperor who
+gave Rome back her true self?</font>
+
+192
+00:25:56,805 --> 00:25:59,222
+<font color="#FFFFFF">There was once a
+dream that was Rome.</font>
+
+193
+00:25:59,307 --> 00:26:02,059
+<font color="#FFFFFF">You could only whisper it.</font>
+
+194
+00:26:02,144 --> 00:26:05,229
+<font color="#FFFFFF">Anything more than a whisper
+and it would vanish,</font>
+
+195
+00:26:05,314 --> 00:26:07,147
+<font color="#FFFFFF">it was so fragile.</font>
+
+196
+00:26:07,441 --> 00:26:11,152
+<font color="#FFFFFF">And I fear that it will
+not survive the winter.</font>
+
+197
+00:26:12,738 --> 00:26:14,154
+<font color="#FFFFFF">Maximus,</font>
+
+198
+00:26:15,031 --> 00:26:17,991
+<font color="#FFFFFF">let us whisper now,</font>
+
+199
+00:26:18,201 --> 00:26:19,951
+<font color="#FFFFFF">together, you and I.</font>
+
+200
+00:26:20,662 --> 00:26:22,163
+<font color="#FFFFFF">You have a son.</font>
+
+201
+00:26:23,664 --> 00:26:25,540
+<font color="#FFFFFF">Tell me about your home.</font>
+
+202
+00:26:31,757 --> 00:26:34,674
+<font color="#FFFFFF">My house is in the
+hills above Trujillo.</font>
+
+203
+00:26:36,010 --> 00:26:37,804
+<font color="#FFFFFF">A very simple place.</font>
+
+204
+00:26:38,221 --> 00:26:41,140
+<font color="#FFFFFF">Pink stones that
+warm in the sun.</font>
+
+205
+00:26:41,224 --> 00:26:44,727
+<font color="#FFFFFF">A kitchen garden that
+smells of herbs in the day,</font>
+
+206
+00:26:45,520 --> 00:26:47,395
+<font color="#FFFFFF">Jasmine in the evening.</font>
+
+207
+00:26:49,066 --> 00:26:51,651
+<font color="#FFFFFF">Through the gate
+is a giant poplar.</font>
+
+208
+00:26:51,943 --> 00:26:54,778
+<font color="#FFFFFF">Figs, apples, pears.</font>
+
+209
+00:26:54,863 --> 00:26:58,449
+<font color="#FFFFFF">The soil, Marcus, black.
+Black like my wife's hair.</font>
+
+210
+00:26:59,742 --> 00:27:01,911
+<font color="#FFFFFF">Grapes on the south slopes,
+olives on the north.</font>
+
+211
+00:27:01,994 --> 00:27:04,247
+<font color="#FFFFFF">Wild ponies play near my house.
+They tease my son.</font>
+
+212
+00:27:04,330 --> 00:27:05,957
+<font color="#FFFFFF">He wants to be one of them.</font>
+
+213
+00:27:06,040 --> 00:27:07,834
+<font color="#FFFFFF">When was the last
+time you were home?</font>
+
+214
+00:27:07,917 --> 00:27:11,045
+<font color="#FFFFFF">Two years, 264 days
+and this morning.</font>
+
+215
+00:27:12,673 --> 00:27:15,967
+<font color="#FFFFFF">I envy you, Maximus.
+It's a good home.</font>
+
+216
+00:27:17,678 --> 00:27:19,386
+<font color="#FFFFFF">Worth fighting for.</font>
+
+217
+00:27:22,223 --> 00:27:24,349
+<font color="#FFFFFF">There is one more duty</font>
+
+218
+00:27:24,893 --> 00:27:27,644
+<font color="#FFFFFF">that I ask of you
+before you go home.</font>
+
+219
+00:27:29,565 --> 00:27:31,691
+<font color="#FFFFFF">What would you have
+me do, Caesar?</font>
+
+220
+00:27:31,775 --> 00:27:35,403
+<font color="#FFFFFF">I want you to become the
+protector of Rome after I die.</font>
+
+221
+00:27:36,572 --> 00:27:39,574
+<font color="#FFFFFF">I will empower you
+to one end alone,</font>
+
+222
+00:27:40,116 --> 00:27:43,577
+<font color="#FFFFFF">to give power back to
+the people of Rome,</font>
+
+223
+00:27:43,912 --> 00:27:46,998
+<font color="#FFFFFF">and end the corruption
+that has crippled it.</font>
+
+224
+00:27:53,255 --> 00:27:56,923
+<font color="#FFFFFF">Will you accept this great
+honor that I have offered you?</font>
+
+225
+00:27:58,259 --> 00:28:00,219
+<font color="#FFFFFF">With all my heart, no.</font>
+
+226
+00:28:02,763 --> 00:28:04,515
+<font color="#FFFFFF">Maximus,</font>
+
+227
+00:28:05,099 --> 00:28:08,019
+<font color="#FFFFFF">that is why it must be you.</font>
+
+228
+00:28:08,103 --> 00:28:10,188
+<font color="#FFFFFF">But surely a prefect, a senator,</font>
+
+229
+00:28:10,271 --> 00:28:12,981
+<font color="#FFFFFF">somebody who knows the city,
+who understands her politics.</font>
+
+230
+00:28:13,066 --> 00:28:16,027
+<font color="#FFFFFF">But you have not been
+corrupted by her politics.</font>
+
+231
+00:28:21,074 --> 00:28:24,660
+<font color="#FFFFFF">- And Commodus?
+- Commodus is not a moral man.</font>
+
+232
+00:28:25,621 --> 00:28:28,247
+<font color="#FFFFFF">You have known that
+since you were young.</font>
+
+233
+00:28:28,332 --> 00:28:30,290
+<font color="#FFFFFF">Commodus cannot rule.</font>
+
+234
+00:28:30,375 --> 00:28:32,751
+<font color="#FFFFFF">He must not rule.</font>
+
+235
+00:28:34,296 --> 00:28:37,088
+<font color="#FFFFFF">You are the son that
+I should have had.</font>
+
+236
+00:28:39,634 --> 00:28:42,636
+<font color="#FFFFFF">Commodus will
+accept my decision.</font>
+
+237
+00:28:44,932 --> 00:28:49,684
+<font color="#FFFFFF">He knows that you command
+the loyalty of the army.</font>
+
+238
+00:28:54,566 --> 00:28:56,150
+<font color="#FFFFFF">I need some time, sire.</font>
+
+239
+00:28:56,234 --> 00:28:57,692
+<font color="#FFFFFF">Yes.</font>
+
+240
+00:28:57,778 --> 00:29:01,321
+<font color="#FFFFFF">By sunset, I hope you
+will have agreed.</font>
+
+241
+00:29:02,406 --> 00:29:04,575
+<font color="#FFFFFF">Now embrace me as my son.</font>
+
+242
+00:29:07,996 --> 00:29:10,705
+<font color="#FFFFFF">And bring an old man
+another blanket.</font>
+
+243
+00:29:26,973 --> 00:29:29,432
+<font color="#FFFFFF">- My father favors you now.
+- My lady.</font>
+
+244
+00:29:30,018 --> 00:29:33,019
+<font color="#FFFFFF">- It was not always so.
+- Many things change.</font>
+
+245
+00:29:33,313 --> 00:29:36,523
+<font color="#FFFFFF">Many things. Not everything.</font>
+
+246
+00:29:39,403 --> 00:29:41,069
+<font color="#FFFFFF">Maximus, stop.</font>
+
+247
+00:29:44,615 --> 00:29:46,534
+<font color="#FFFFFF">Let me see your face.</font>
+
+248
+00:29:49,121 --> 00:29:51,788
+<font color="#FFFFFF">- You seem upset.
+- I lost many men.</font>
+
+249
+00:29:52,708 --> 00:29:55,041
+<font color="#FFFFFF">What did my father
+want with you?</font>
+
+250
+00:29:56,127 --> 00:29:59,087
+<font color="#FFFFFF">To wish me well before
+I leave for home.</font>
+
+251
+00:29:59,714 --> 00:30:01,214
+<font color="#FFFFFF">You're lying.</font>
+
+252
+00:30:01,549 --> 00:30:04,884
+<font color="#FFFFFF">I could always tell when you were lying,
+because you were never any good at it.</font>
+
+253
+00:30:04,970 --> 00:30:06,490
+<font color="#FFFFFF">I never acquired your
+comfort with it.</font>
+
+254
+00:30:06,555 --> 00:30:07,596
+<font color="#FFFFFF">True.</font>
+
+255
+00:30:07,681 --> 00:30:09,765
+<font color="#FFFFFF">But then you never had to.</font>
+
+256
+00:30:10,267 --> 00:30:12,977
+<font color="#FFFFFF">Life is more simple
+for a soldier.</font>
+
+257
+00:30:14,730 --> 00:30:16,980
+<font color="#FFFFFF">Or do you think me heartless?</font>
+
+258
+00:30:17,982 --> 00:30:20,734
+<font color="#FFFFFF">I think you have a
+talent for survival.</font>
+
+259
+00:30:26,741 --> 00:30:28,284
+<font color="#FFFFFF">Maximus, stop.</font>
+
+260
+00:30:30,578 --> 00:30:33,372
+<font color="#FFFFFF">Is it really so terrible
+seeing me again?</font>
+
+261
+00:30:33,457 --> 00:30:35,958
+<font color="#FFFFFF">No. I'm tired from battle.</font>
+
+262
+00:30:36,585 --> 00:30:39,377
+<font color="#FFFFFF">It hurts you to see
+my father so fragile.</font>
+
+263
+00:30:42,507 --> 00:30:46,926
+<font color="#FFFFFF">Commodus expects that my father will
+announce his succession within days.</font>
+
+264
+00:30:48,096 --> 00:30:51,473
+<font color="#FFFFFF">Will you serve my brother
+as you served his father?</font>
+
+265
+00:30:53,643 --> 00:30:55,810
+<font color="#FFFFFF">I will always serve Rome.</font>
+
+266
+00:30:57,730 --> 00:30:59,522
+<font color="#FFFFFF">Do you know,</font>
+
+267
+00:30:59,607 --> 00:31:02,108
+<font color="#FFFFFF">I still remember
+you in my prayers.</font>
+
+268
+00:31:03,153 --> 00:31:06,071
+<font color="#FFFFFF">Oh, yes. I pray.</font>
+
+269
+00:31:10,618 --> 00:31:13,953
+<font color="#FFFFFF">I was sad to hear of your husband's death.
+I mourned him.</font>
+
+270
+00:31:15,832 --> 00:31:18,666
+<font color="#FFFFFF">- Thank you.
+- And I hear you have a son.</font>
+
+271
+00:31:20,336 --> 00:31:22,755
+<font color="#FFFFFF">Yes. Lucius.</font>
+
+272
+00:31:24,548 --> 00:31:26,342
+<font color="#FFFFFF">He'll be nearly eight years old.</font>
+
+273
+00:31:26,425 --> 00:31:28,676
+<font color="#FFFFFF">My son is also nearly eight.</font>
+
+274
+00:31:31,472 --> 00:31:33,641
+<font color="#FFFFFF">I thank you for your prayers.</font>
+
+275
+00:31:41,400 --> 00:31:43,942
+<font color="#FFFFFF">Ancestors, I ask
+for your guidance.</font>
+
+276
+00:31:45,319 --> 00:31:48,823
+<font color="#FFFFFF">Blessed Mother, come to me with
+the gods' desire for my future.</font>
+
+277
+00:31:50,450 --> 00:31:54,244
+<font color="#FFFFFF">Blessed Father, watch over my
+wife and son with a ready sword.</font>
+
+278
+00:31:55,454 --> 00:31:58,332
+<font color="#FFFFFF">Whisper to them, I live
+only to hold them again.</font>
+
+279
+00:31:59,459 --> 00:32:01,669
+<font color="#FFFFFF"><i>Ancestors, I honor you,</i></font>
+
+280
+00:32:02,837 --> 00:32:06,132
+<font color="#FFFFFF">and will try to live with the
+dignity you have taught me.</font>
+
+281
+00:32:29,029 --> 00:32:30,239
+<font color="#FFFFFF">Cicero.</font>
+
+282
+00:32:34,827 --> 00:32:35,952
+<font color="#FFFFFF">Sir.</font>
+
+283
+00:32:40,416 --> 00:32:42,960
+<font color="#FFFFFF">Do you ever find it
+hard to do your duty?</font>
+
+284
+00:32:45,713 --> 00:32:48,257
+<font color="#FFFFFF">Sometimes I do
+what I want to do.</font>
+
+285
+00:32:49,009 --> 00:32:51,551
+<font color="#FFFFFF">The rest of the time,
+I do what I have to.</font>
+
+286
+00:32:54,556 --> 00:32:57,432
+<font color="#FFFFFF">We may not be able to
+go home, after all.</font>
+
+287
+00:33:48,567 --> 00:33:51,362
+<font color="#FFFFFF">Are you ready
+to do your duty for Rome?</font>
+
+288
+00:33:54,532 --> 00:33:55,950
+<font color="#FFFFFF">Yes, Father.</font>
+
+289
+00:33:57,035 --> 00:33:59,118
+<font color="#FFFFFF">You will not be emperor.</font>
+
+290
+00:34:02,457 --> 00:34:04,791
+<font color="#FFFFFF">Which wiser, older man
+is to take my place?</font>
+
+291
+00:34:04,875 --> 00:34:07,419
+<font color="#FFFFFF">My powers will pass to Maximus,</font>
+
+292
+00:34:08,630 --> 00:34:10,380
+<font color="#FFFFFF">to hold in trust,</font>
+
+293
+00:34:10,465 --> 00:34:14,175
+<font color="#FFFFFF">until the Senate is ready
+to rule once more.</font>
+
+294
+00:34:15,762 --> 00:34:19,181
+<font color="#FFFFFF">Rome is to be a republic again.</font>
+
+295
+00:34:21,141 --> 00:34:23,726
+<font color="#FFFFFF">- Maximus.
+- Yes.</font>
+
+296
+00:34:29,818 --> 00:34:32,068
+<font color="#FFFFFF">My decision disappoints you?</font>
+
+297
+00:34:35,614 --> 00:34:37,657
+<font color="#FFFFFF">You wrote to me once,</font>
+
+298
+00:34:39,536 --> 00:34:41,954
+<font color="#FFFFFF">listing the four chief virtues.</font>
+
+299
+00:34:43,706 --> 00:34:45,081
+<font color="#FFFFFF">Wisdom,</font>
+
+300
+00:34:45,166 --> 00:34:46,625
+<font color="#FFFFFF">Justice,</font>
+
+301
+00:34:46,710 --> 00:34:48,168
+<font color="#FFFFFF">fortitude,</font>
+
+302
+00:34:48,586 --> 00:34:50,378
+<font color="#FFFFFF">and Temperance.</font>
+
+303
+00:34:52,507 --> 00:34:55,675
+<font color="#FFFFFF">As I read the list, I
+knew I had none of them.</font>
+
+304
+00:34:56,635 --> 00:34:59,096
+<font color="#FFFFFF">But I have other
+virtues, Father.</font>
+
+305
+00:35:00,306 --> 00:35:01,639
+<font color="#FFFFFF">Ambition.</font>
+
+306
+00:35:02,851 --> 00:35:05,853
+<font color="#FFFFFF">That can be a virtue when
+it drives us to excel.</font>
+
+307
+00:35:07,188 --> 00:35:10,273
+<font color="#FFFFFF">Resourcefulness, courage.</font>
+
+308
+00:35:11,358 --> 00:35:15,653
+<font color="#FFFFFF">Perhaps not on the battlefield, but
+there are many forms of courage.</font>
+
+309
+00:35:17,282 --> 00:35:20,534
+<font color="#FFFFFF">Devotion to my family,</font>
+
+310
+00:35:21,661 --> 00:35:23,036
+<font color="#FFFFFF">to you.</font>
+
+311
+00:35:24,539 --> 00:35:27,333
+<font color="#FFFFFF">But none of my virtues
+were on your list.</font>
+
+312
+00:35:29,585 --> 00:35:32,920
+<font color="#FFFFFF">Even then it was as if you
+didn't want me for your son.</font>
+
+313
+00:35:33,005 --> 00:35:34,380
+<font color="#FFFFFF">Commodus,</font>
+
+314
+00:35:35,257 --> 00:35:36,925
+<font color="#FFFFFF">you go too far.</font>
+
+315
+00:35:37,719 --> 00:35:40,721
+<font color="#FFFFFF">I searched the faces of the gods</font>
+
+316
+00:35:41,472 --> 00:35:45,851
+<font color="#FFFFFF">for ways to please you,
+to make you proud.</font>
+
+317
+00:35:46,728 --> 00:35:48,728
+<font color="#FFFFFF">One kind word,</font>
+
+318
+00:35:49,146 --> 00:35:51,065
+<font color="#FFFFFF">one full hug,</font>
+
+319
+00:35:51,231 --> 00:35:54,902
+<font color="#FFFFFF">where you pressed me to your
+chest and held me tight,</font>
+
+320
+00:35:56,070 --> 00:35:59,572
+<font color="#FFFFFF">would have been like the sun
+on my heart for 1,000 years.</font>
+
+321
+00:36:02,242 --> 00:36:04,036
+<font color="#FFFFFF">What is it in me
+you hate so much?</font>
+
+322
+00:36:04,119 --> 00:36:06,121
+<font color="#FFFFFF">Shh... Commodus.</font>
+
+323
+00:36:07,206 --> 00:36:09,291
+<font color="#FFFFFF">All I've ever wanted</font>
+
+324
+00:36:09,583 --> 00:36:13,836
+<font color="#FFFFFF">was to live up to you, Caesar.</font>
+
+325
+00:36:15,090 --> 00:36:17,757
+<font color="#FFFFFF">- Father.
+- Commodus,</font>
+
+326
+00:36:22,179 --> 00:36:24,264
+<font color="#FFFFFF">your faults as a son</font>
+
+327
+00:36:25,266 --> 00:36:28,601
+<font color="#FFFFFF">is my failure as a father.</font>
+
+328
+00:36:39,280 --> 00:36:40,780
+<font color="#FFFFFF">Come.</font>
+
+329
+00:36:44,327 --> 00:36:45,786
+<font color="#FFFFFF">Father.</font>
+
+330
+00:37:00,719 --> 00:37:03,429
+<font color="#FFFFFF">I would butcher the whole world,</font>
+
+331
+00:37:04,304 --> 00:37:06,806
+<font color="#FFFFFF">if you would only have loved me!</font>
+
+332
+00:37:44,471 --> 00:37:47,556
+<font color="#FFFFFF">Maximus, the Emperor needs you.
+It's urgent.</font>
+
+333
+00:37:53,021 --> 00:37:54,855
+<font color="#FFFFFF">Lament with me, brother.</font>
+
+334
+00:37:55,940 --> 00:37:57,900
+<font color="#FFFFFF">Our great father is dead.</font>
+
+335
+00:38:24,635 --> 00:38:26,219
+<font color="#FFFFFF">How did he die?</font>
+
+336
+00:38:27,514 --> 00:38:30,181
+<font color="#FFFFFF">The surgeons
+say there was no pain.</font>
+
+337
+00:38:30,266 --> 00:38:32,391
+<font color="#FFFFFF">His breath gave out as he slept.</font>
+
+338
+00:38:42,152 --> 00:38:43,402
+<font color="#FFFFFF">Father.</font>
+
+339
+00:38:46,074 --> 00:38:48,742
+<font color="#FFFFFF">Your emperor asks for
+your loyalty, Maximus.</font>
+
+340
+00:38:50,077 --> 00:38:51,702
+<font color="#FFFFFF">Take my hand.</font>
+
+341
+00:38:54,414 --> 00:38:56,250
+<font color="#FFFFFF">I only offer it once.</font>
+
+342
+00:39:10,431 --> 00:39:11,764
+<font color="#FFFFFF">Quintus.</font>
+
+343
+00:40:01,983 --> 00:40:03,483
+<font color="#FFFFFF">Hail, Caesar.</font>
+
+344
+00:40:04,443 --> 00:40:07,070
+<font color="#FFFFFF">I must talk to the senators.
+I need their counsel.</font>
+
+345
+00:40:07,155 --> 00:40:09,739
+<font color="#FFFFFF">- Wake Gaius and Falco.
+- Gaius and Falco.</font>
+
+346
+00:40:09,824 --> 00:40:12,034
+<font color="#FFFFFF">- Sword.
+- Sword.</font>
+
+347
+00:40:14,536 --> 00:40:17,456
+<font color="#FFFFFF">Maximus, please be careful.
+That was not prudent.</font>
+
+348
+00:40:17,539 --> 00:40:20,333
+<font color="#FFFFFF">Prudent? The Emperor
+has been slain.</font>
+
+349
+00:40:20,793 --> 00:40:23,295
+<font color="#FFFFFF">The emperor died
+of natural causes.</font>
+
+350
+00:40:25,047 --> 00:40:27,298
+<font color="#FFFFFF">- Why are you armed, Quintus?
+Guards!</font>
+
+351
+00:40:30,510 --> 00:40:32,679
+<font color="#FFFFFF">Please don't fight, Maximus.</font>
+
+352
+00:40:34,431 --> 00:40:36,724
+<font color="#FFFFFF">I'm sorry. Caesar has spoken.</font>
+
+353
+00:40:37,184 --> 00:40:38,976
+<font color="#FFFFFF">Ride until dawn,</font>
+
+354
+00:40:40,188 --> 00:40:41,771
+<font color="#FFFFFF">and then execute him.</font>
+
+355
+00:40:41,856 --> 00:40:44,273
+<font color="#FFFFFF">Quintus, look at me. Look at me!</font>
+
+356
+00:40:44,525 --> 00:40:47,443
+<font color="#FFFFFF">Promise me that you will
+look after my family.</font>
+
+357
+00:40:48,528 --> 00:40:51,197
+<font color="#FFFFFF">Your family will meet
+you in the afterlife.</font>
+
+358
+00:41:16,056 --> 00:41:17,306
+<font color="#FFFFFF">Kneel.</font>
+
+359
+00:41:20,853 --> 00:41:23,230
+<font color="#FFFFFF"><i>Blessed Father,
+watch over my wife and son.</i></font>
+
+360
+00:41:23,313 --> 00:41:26,400
+<font color="#FFFFFF"><i>Whisper to them that I live
+only to hold them again.</i></font>
+
+361
+00:41:29,027 --> 00:41:31,405
+<font color="#FFFFFF">At least give me a clean death.</font>
+
+362
+00:41:33,115 --> 00:41:34,907
+<font color="#FFFFFF">A soldier's death.</font>
+
+363
+00:41:56,222 --> 00:41:59,391
+<font color="#FFFFFF">The frost, sometimes it
+makes the blade stick.</font>
+
+364
+00:42:20,038 --> 00:42:21,454
+<font color="#FFFFFF">Praetorian!</font>
+
+365
+00:43:41,202 --> 00:43:43,119
+<font color="#FFFFFF"><i>When was the
+last time you were home?</i></font>
+
+366
+00:43:43,204 --> 00:43:46,206
+<font color="#FFFFFF"><i>Two years, 264
+days and this morning.</i></font>
+
+367
+00:43:47,791 --> 00:43:49,626
+<font color="#FFFFFF"><i>Blessed Father, watch over my
+wife and son with a ready sword.</i></font>
+
+368
+00:43:49,710 --> 00:43:52,086
+<font color="#FFFFFF"><i>I will try to live with the
+dignity you have taught me.</i></font>
+
+369
+00:43:52,170 --> 00:43:54,630
+<font color="#FFFFFF"><i>Whisper to them, I live
+only to hold them again.</i></font>
+
+370
+00:43:54,715 --> 00:43:57,134
+<font color="#FFFFFF"><i>With a ready sword, for
+all else is dust and air.</i></font>
+
+371
+00:43:57,217 --> 00:44:00,387
+<font color="#FFFFFF"><i>Whisper to them, I live
+only to hold them again.</i></font>
+
+372
+00:44:00,471 --> 00:44:02,764
+<font color="#FFFFFF"><i>For all else is dust and air.</i></font>
+
+373
+00:45:03,034 --> 00:45:05,034
+<font color="#FFFFFF">Papa!</font>
+
+374
+00:47:49,115 --> 00:47:50,617
+<font color="#FFFFFF">Don't die.</font>
+
+375
+00:47:56,916 --> 00:47:58,583
+<font color="#FFFFFF"><i>You'll meet them again.</i></font>
+
+376
+00:48:00,628 --> 00:48:01,920
+<font color="#FFFFFF"><i>Not yet.</i></font>
+
+377
+00:48:10,471 --> 00:48:14,224
+<font color="#FFFFFF">No. They will clean it.
+Wait and see.</font>
+
+378
+00:48:48,634 --> 00:48:50,009
+<font color="#FFFFFF">Don't die.</font>
+
+379
+00:48:50,802 --> 00:48:53,221
+<font color="#FFFFFF">They'll feed you to the lions.</font>
+
+380
+00:48:53,304 --> 00:48:55,597
+<font color="#FFFFFF">They are worth more than we are.</font>
+
+381
+00:49:05,608 --> 00:49:07,068
+<font color="#FFFFFF">Better now?</font>
+
+382
+00:49:08,195 --> 00:49:10,070
+<font color="#FFFFFF">Clean. You see?</font>
+
+383
+00:49:40,811 --> 00:49:43,646
+<font color="#FFFFFF">Proximo!
+My old friend.</font>
+
+384
+00:49:45,023 --> 00:49:48,108
+<font color="#FFFFFF">Every day is a great
+day when you are here,</font>
+
+385
+00:49:48,568 --> 00:49:52,739
+<font color="#FFFFFF">but today is your
+most fortunate day.</font>
+
+386
+00:49:55,367 --> 00:49:59,077
+<font color="#FFFFFF">Those giraffes you sold
+me, they won't mate.</font>
+
+387
+00:49:59,704 --> 00:50:03,625
+<font color="#FFFFFF">They just walk around
+eating and not mating.</font>
+
+388
+00:50:04,918 --> 00:50:07,836
+<font color="#FFFFFF">You sold me queer giraffes.</font>
+
+389
+00:50:08,713 --> 00:50:11,257
+<font color="#FFFFFF">- I want my money back.
+- Not a chance.</font>
+
+390
+00:50:15,012 --> 00:50:17,847
+<font color="#FFFFFF">- I do special price for you.
+- On what?</font>
+
+391
+00:50:19,934 --> 00:50:22,851
+<font color="#FFFFFF">Have you seen my new stock?
+Come and see them.</font>
+
+392
+00:50:36,784 --> 00:50:39,577
+<font color="#FFFFFF">Do any of them fight?
+I've got a match coming up.</font>
+
+393
+00:50:39,661 --> 00:50:42,454
+<font color="#FFFFFF">Some are good for fighting,
+others for dying.</font>
+
+394
+00:50:42,539 --> 00:50:44,873
+<font color="#FFFFFF">You need both, I think.</font>
+
+395
+00:50:44,958 --> 00:50:46,166
+<font color="#FFFFFF">Get up.</font>
+
+396
+00:50:54,134 --> 00:50:55,802
+<font color="#FFFFFF">What's your trade?</font>
+
+397
+00:50:56,469 --> 00:50:57,762
+<font color="#FFFFFF">I was a Hunter.</font>
+
+398
+00:50:57,846 --> 00:51:01,557
+<font color="#FFFFFF">No, I bought him from a
+salt mine in Carthage.</font>
+
+399
+00:51:02,351 --> 00:51:03,726
+<font color="#FFFFFF">Sit down.</font>
+
+400
+00:51:07,856 --> 00:51:10,023
+<font color="#FFFFFF">Mark of the legion.</font>
+
+401
+00:51:10,108 --> 00:51:11,067
+<font color="#FFFFFF">Deserter.</font>
+
+402
+00:51:11,150 --> 00:51:12,860
+<font color="#FFFFFF">Maybe
+so, but who cares?</font>
+
+403
+00:51:13,320 --> 00:51:14,445
+<font color="#FFFFFF">He's a Spaniard.</font>
+
+404
+00:51:14,530 --> 00:51:16,489
+<font color="#FFFFFF">I'll take six. For 1,000.</font>
+
+405
+00:51:16,574 --> 00:51:20,076
+<font color="#FFFFFF">1,000? The Numidian
+alone is worth 2,000.</font>
+
+406
+00:51:20,159 --> 00:51:22,244
+<font color="#FFFFFF">These
+slaves are rotten.</font>
+
+407
+00:51:22,329 --> 00:51:25,498
+<font color="#FFFFFF">It all adds to the flavor.
+No, no, no, wait! Wait!</font>
+
+408
+00:51:26,000 --> 00:51:27,708
+<font color="#FFFFFF">I can negotiate.</font>
+
+409
+00:51:28,835 --> 00:51:33,005
+<font color="#FFFFFF">I'll give you 2,000, and
+4,000 for the beasts.</font>
+
+410
+00:51:33,090 --> 00:51:35,215
+<font color="#FFFFFF">That's 5,000 for an old friend.</font>
+
+411
+00:51:52,860 --> 00:51:56,278
+<font color="#FFFFFF">Come on! How long does it take
+to get into my own house?</font>
+
+412
+00:51:56,362 --> 00:51:58,280
+<font color="#FFFFFF">I am Proximo.</font>
+
+413
+00:51:58,990 --> 00:52:01,534
+<font color="#FFFFFF">I shall be closer to you
+for the next few days,</font>
+
+414
+00:52:01,619 --> 00:52:03,827
+<font color="#FFFFFF">which will be the last
+of your miserable lives,</font>
+
+415
+00:52:03,911 --> 00:52:08,248
+<font color="#FFFFFF">than that bitch of a mother that
+brought you screaming into this world.</font>
+
+416
+00:52:08,541 --> 00:52:11,878
+<font color="#FFFFFF">I did not pay good money
+for you for your company.</font>
+
+417
+00:52:13,088 --> 00:52:16,298
+<font color="#FFFFFF">I paid it so that I could
+profit from your death.</font>
+
+418
+00:52:17,050 --> 00:52:20,802
+<font color="#FFFFFF">And as your mother was
+there at your beginning,</font>
+
+419
+00:52:21,804 --> 00:52:24,389
+<font color="#FFFFFF">so I shall be there at your end.</font>
+
+420
+00:52:25,893 --> 00:52:28,936
+<font color="#FFFFFF">And when you die,
+and die you shall,</font>
+
+421
+00:52:29,855 --> 00:52:32,773
+<font color="#FFFFFF">your transition shall
+be to the sound of...</font>
+
+422
+00:52:37,487 --> 00:52:38,945
+<font color="#FFFFFF">Gladiators,</font>
+
+423
+00:52:40,074 --> 00:52:41,615
+<font color="#FFFFFF">I salute you.</font>
+
+424
+00:52:46,371 --> 00:52:47,413
+<font color="#FFFFFF">Red.</font>
+
+425
+00:52:51,085 --> 00:52:54,836
+<font color="#FFFFFF">Yellow.</font>
+
+426
+00:53:05,556 --> 00:53:06,682
+<font color="#FFFFFF">Good.</font>
+
+427
+00:53:07,476 --> 00:53:08,851
+<font color="#FFFFFF">- Red.
+Red.</font>
+
+428
+00:53:13,773 --> 00:53:15,065
+<font color="#FFFFFF">Spaniard.</font>
+
+429
+00:53:48,434 --> 00:53:50,768
+<font color="#FFFFFF">That's enough
+for the moment!</font>
+
+430
+00:53:51,103 --> 00:53:52,728
+<font color="#FFFFFF">His time will come.</font>
+
+431
+00:53:55,773 --> 00:53:56,815
+<font color="#FFFFFF">Next.</font>
+
+432
+00:54:10,164 --> 00:54:11,496
+<font color="#FFFFFF">Spaniard,</font>
+
+433
+00:54:13,000 --> 00:54:14,791
+<font color="#FFFFFF">why don't you fight?</font>
+
+434
+00:54:15,168 --> 00:54:16,626
+<font color="#FFFFFF">We all have to fight.</font>
+
+435
+00:54:16,711 --> 00:54:18,420
+<font color="#FFFFFF">Well, I don't fight.</font>
+
+436
+00:54:19,088 --> 00:54:22,300
+<font color="#FFFFFF">I shouldn't be here, I'm a
+scribe, I write down words,</font>
+
+437
+00:54:22,384 --> 00:54:24,260
+<font color="#FFFFFF">and speak seven languages.</font>
+
+438
+00:54:24,344 --> 00:54:25,385
+<font color="#FFFFFF">Good.</font>
+
+439
+00:54:26,346 --> 00:54:29,347
+<font color="#FFFFFF">Tomorrow, you can scream
+in seven languages.</font>
+
+440
+00:54:37,648 --> 00:54:40,985
+<font color="#FFFFFF">Perhaps the scribe will
+be the one who wins his freedom.</font>
+
+441
+00:54:41,987 --> 00:54:43,278
+<font color="#FFFFFF">Freedom?</font>
+
+442
+00:54:44,364 --> 00:54:46,199
+<font color="#FFFFFF">What do I have to do?</font>
+
+443
+00:54:46,617 --> 00:54:48,909
+<font color="#FFFFFF">You go in the arena
+and you kill me.</font>
+
+444
+00:54:48,994 --> 00:54:50,369
+<font color="#FFFFFF">And him,</font>
+
+445
+00:54:51,371 --> 00:54:53,079
+<font color="#FFFFFF">and the Numidian,</font>
+
+446
+00:54:53,164 --> 00:54:54,748
+<font color="#FFFFFF">and the deserter.</font>
+
+447
+00:54:56,376 --> 00:54:57,793
+<font color="#FFFFFF">And 100 more.</font>
+
+448
+00:54:57,878 --> 00:55:00,713
+<font color="#FFFFFF">And when there's no more
+to fight, you're free.</font>
+
+449
+00:55:01,380 --> 00:55:03,132
+<font color="#FFFFFF">I can't do that.</font>
+
+450
+00:55:04,175 --> 00:55:05,384
+<font color="#FFFFFF">No?</font>
+
+451
+00:55:11,641 --> 00:55:13,059
+<font color="#FFFFFF">But I can.</font>
+
+452
+00:55:28,574 --> 00:55:30,784
+<font color="#FFFFFF">Is that the sign of your gods?</font>
+
+453
+00:55:35,998 --> 00:55:38,083
+<font color="#FFFFFF">Will that not anger them?</font>
+
+454
+00:55:59,398 --> 00:56:01,065
+<font color="#FFFFFF">The gods favor you.</font>
+
+455
+00:56:01,440 --> 00:56:03,608
+<font color="#FFFFFF">Red is the gods' color.</font>
+
+456
+00:56:04,987 --> 00:56:07,153
+<font color="#FFFFFF">You will need their help today.</font>
+
+457
+00:56:46,527 --> 00:56:48,153
+<font color="#FFFFFF">Proximo!</font>
+
+458
+00:56:53,492 --> 00:56:55,661
+<font color="#FFFFFF">Still leading with the German?</font>
+
+459
+00:56:55,746 --> 00:56:57,829
+<font color="#FFFFFF">The crowd
+love a barbarian.</font>
+
+460
+00:56:58,289 --> 00:57:00,206
+<font color="#FFFFFF">Besides that, he's
+making me rich.</font>
+
+461
+00:57:00,291 --> 00:57:02,918
+<font color="#FFFFFF">Has that Numidian fought before?</font>
+
+462
+00:57:03,753 --> 00:57:05,338
+<font color="#FFFFFF">No, first time.</font>
+
+463
+00:57:05,422 --> 00:57:08,382
+<font color="#FFFFFF">And that one,
+laborer, soldier?</font>
+
+464
+00:57:08,800 --> 00:57:10,050
+<font color="#FFFFFF">He's a Spaniard.</font>
+
+465
+00:57:10,135 --> 00:57:13,219
+<font color="#FFFFFF">He might as well be a eunuch for
+what he brings to the ring.</font>
+
+466
+00:57:14,181 --> 00:57:18,391
+<font color="#FFFFFF">500 sestertii, the Numidian and
+Spaniard team makes it through.</font>
+
+467
+00:57:18,476 --> 00:57:22,188
+<font color="#FFFFFF">And 1,000, that the Numidian
+makes it through alone.</font>
+
+468
+00:57:23,690 --> 00:57:26,817
+<font color="#FFFFFF">Are you asking me to bet
+against my own man?</font>
+
+469
+00:57:28,653 --> 00:57:30,153
+<font color="#FFFFFF">It's unethical.</font>
+
+470
+00:57:30,237 --> 00:57:32,114
+<font color="#FFFFFF">What if I make it 2,000?</font>
+
+471
+00:57:46,420 --> 00:57:49,465
+<font color="#FFFFFF">Some of you are thinking
+you won't fight,</font>
+
+472
+00:57:50,759 --> 00:57:52,050
+<font color="#FFFFFF">some that you can't fight.</font>
+
+473
+00:57:53,387 --> 00:57:56,889
+<font color="#FFFFFF">They all say that until
+they're out there.</font>
+
+474
+00:57:59,684 --> 00:58:00,851
+<font color="#FFFFFF">Listen.</font>
+
+475
+00:58:00,936 --> 00:58:03,853
+<font color="#FFFFFF">- Kill! Kill! Kill!
+- Kill! Kill! Kill!</font>
+
+476
+00:58:10,987 --> 00:58:13,697
+<font color="#FFFFFF">Thrust this into
+another man's flesh,</font>
+
+477
+00:58:14,115 --> 00:58:16,784
+<font color="#FFFFFF">and they will applaud
+and love you for that.</font>
+
+478
+00:58:16,867 --> 00:58:18,284
+<font color="#FFFFFF">And you,</font>
+
+479
+00:58:20,246 --> 00:58:22,206
+<font color="#FFFFFF">you may begin to love them</font>
+
+480
+00:58:23,041 --> 00:58:24,458
+<font color="#FFFFFF">for that.</font>
+
+481
+00:58:28,547 --> 00:58:32,048
+<font color="#FFFFFF">Ultimately, we're all dead men.</font>
+
+482
+00:58:34,594 --> 00:58:36,887
+<font color="#FFFFFF">Sadly, we cannot choose how,</font>
+
+483
+00:58:38,139 --> 00:58:40,932
+<font color="#FFFFFF">but we can decide how
+we meet that end,</font>
+
+484
+00:58:41,851 --> 00:58:44,353
+<font color="#FFFFFF">in order that we are remembered</font>
+
+485
+00:58:46,273 --> 00:58:47,523
+<font color="#FFFFFF">as men.</font>
+
+486
+00:58:47,606 --> 00:58:48,648
+<font color="#FFFFFF">Come on!</font>
+
+487
+00:58:51,610 --> 00:58:53,903
+<font color="#FFFFFF">On the left,
+draw your shields!</font>
+
+488
+00:58:54,947 --> 00:58:57,324
+<font color="#FFFFFF">On the right, draw your swords!</font>
+
+489
+00:58:57,617 --> 00:59:00,161
+<font color="#FFFFFF">- Kill! Kill! Kill!
+- Kill! Kill! Kill!</font>
+
+490
+00:59:01,288 --> 00:59:03,706
+<font color="#FFFFFF">Pair them up,
+red with yellow.</font>
+
+491
+00:59:08,753 --> 00:59:09,961
+<font color="#FFFFFF">Next!</font>
+
+492
+00:59:15,844 --> 00:59:16,927
+<font color="#FFFFFF">Move!</font>
+
+493
+01:02:34,291 --> 01:02:36,376
+<font color="#FFFFFF">Usurper!</font>
+
+494
+01:02:57,983 --> 01:03:00,693
+<font color="#FFFFFF">- Go away!
+You'll never rule us, Commodus!</font>
+
+495
+01:03:31,099 --> 01:03:35,811
+<font color="#FFFFFF">He enters Rome like a conquering hero.
+But what has he conquered?</font>
+
+496
+01:03:36,103 --> 01:03:38,521
+<font color="#FFFFFF">Give him time, Gracchus.
+He's young.</font>
+
+497
+01:03:38,606 --> 01:03:40,898
+<font color="#FFFFFF">I think he could do very well.</font>
+
+498
+01:03:41,233 --> 01:03:43,193
+<font color="#FFFFFF">For Rome, or for you?</font>
+
+499
+01:03:49,492 --> 01:03:52,577
+<font color="#FFFFFF">Go to your mother, Lucius.
+It's what she'd like.</font>
+
+500
+01:03:59,043 --> 01:04:01,085
+<font color="#FFFFFF">Lucius!
+- Mother!</font>
+
+501
+01:04:03,380 --> 01:04:04,922
+<font color="#FFFFFF">Hail, Caesar.</font>
+
+502
+01:04:05,007 --> 01:04:06,507
+<font color="#FFFFFF">Senators.</font>
+
+503
+01:04:10,137 --> 01:04:13,056
+<font color="#FFFFFF">Rome greets her new emperor.</font>
+
+504
+01:04:13,141 --> 01:04:16,684
+<font color="#FFFFFF">Your loyal subjects bid
+you welcome, Highness.</font>
+
+505
+01:04:16,769 --> 01:04:18,603
+<font color="#FFFFFF">Thank you, Falco.</font>
+
+506
+01:04:18,688 --> 01:04:22,775
+<font color="#FFFFFF">And for the loyal subjects, I
+trust they weren't too expensive.</font>
+
+507
+01:04:22,858 --> 01:04:24,860
+<font color="#FFFFFF">- Caesar.
+- Gracchus.</font>
+
+508
+01:04:24,943 --> 01:04:27,445
+<font color="#FFFFFF">All Rome rejoices in
+your return, Caesar.</font>
+
+509
+01:04:27,530 --> 01:04:31,032
+<font color="#FFFFFF">But there are many matters
+that require your attention.</font>
+
+510
+01:04:33,494 --> 01:04:36,371
+<font color="#FFFFFF">To order, please.
+To order.</font>
+
+511
+01:04:36,831 --> 01:04:38,623
+<font color="#FFFFFF">For your guidance, Caesar,</font>
+
+512
+01:04:38,708 --> 01:04:41,501
+<font color="#FFFFFF">the Senate has prepared
+a series of protocols</font>
+
+513
+01:04:41,585 --> 01:04:44,670
+<font color="#FFFFFF">to begin addressing the
+many problems in the city,</font>
+
+514
+01:04:44,755 --> 01:04:48,842
+<font color="#FFFFFF">beginning with basic sanitation
+for the Greek Quarter,</font>
+
+515
+01:04:49,344 --> 01:04:52,971
+<font color="#FFFFFF">to combat the plague which is
+already springing up there.</font>
+
+516
+01:04:53,056 --> 01:04:54,097
+<font color="#FFFFFF">So, if Caesar...</font>
+
+517
+01:04:56,976 --> 01:04:58,893
+<font color="#FFFFFF">Don't you see, Gracchus?</font>
+
+518
+01:05:00,313 --> 01:05:02,606
+<font color="#FFFFFF">That's the very
+problem, isn't it?</font>
+
+519
+01:05:03,023 --> 01:05:05,692
+<font color="#FFFFFF">My father spent all
+his time at study,</font>
+
+520
+01:05:07,445 --> 01:05:10,822
+<font color="#FFFFFF">at books of learning
+and philosophy.</font>
+
+521
+01:05:11,824 --> 01:05:15,327
+<font color="#FFFFFF">He spent his twilight hours
+reading scrolls from the Senate.</font>
+
+522
+01:05:16,286 --> 01:05:19,498
+<font color="#FFFFFF">And all the while, the
+people were forgotten.</font>
+
+523
+01:05:20,125 --> 01:05:22,291
+<font color="#FFFFFF">But the senate is
+the people, sire,</font>
+
+524
+01:05:22,376 --> 01:05:25,920
+<font color="#FFFFFF">chosen from among the people
+to speak for the people.</font>
+
+525
+01:05:26,630 --> 01:05:30,217
+<font color="#FFFFFF">I doubt many of the people eat
+so well as you do, Gracchus.</font>
+
+526
+01:05:30,969 --> 01:05:33,429
+<font color="#FFFFFF">Or have such splendid
+mistresses, Gaius.</font>
+
+527
+01:05:33,512 --> 01:05:35,597
+<font color="#FFFFFF">I think I understand
+my own people.</font>
+
+528
+01:05:35,681 --> 01:05:39,184
+<font color="#FFFFFF">Then perhaps Caesar will
+be so good as to teach us,</font>
+
+529
+01:05:39,601 --> 01:05:42,228
+<font color="#FFFFFF">out of his own
+extensive experience.</font>
+
+530
+01:05:46,108 --> 01:05:47,650
+<font color="#FFFFFF">I call it love.</font>
+
+531
+01:05:48,235 --> 01:05:51,362
+<font color="#FFFFFF">I am their father. The
+people are my children.</font>
+
+532
+01:05:51,655 --> 01:05:54,157
+<font color="#FFFFFF">And I shall hold them to my
+bosom and embrace them tightly.</font>
+
+533
+01:05:54,242 --> 01:05:57,702
+<font color="#FFFFFF">Have you ever embraced someone
+dying of plague, sire?</font>
+
+534
+01:06:04,001 --> 01:06:06,628
+<font color="#FFFFFF">No, but if you
+interrupt me again,</font>
+
+535
+01:06:08,130 --> 01:06:09,465
+<font color="#FFFFFF">I assure you that you shall.</font>
+
+536
+01:06:09,548 --> 01:06:11,884
+<font color="#FFFFFF">Senator, my brother
+is very tired.</font>
+
+537
+01:06:12,885 --> 01:06:17,054
+<font color="#FFFFFF">Leave your list with me. Caesar
+shall do all that Rome requires.</font>
+
+538
+01:06:17,639 --> 01:06:22,561
+<font color="#FFFFFF">My lady, as always, your lightest
+touch commands obedience.</font>
+
+539
+01:06:29,693 --> 01:06:31,945
+<font color="#FFFFFF">Who are they to lecture me?</font>
+
+540
+01:06:32,237 --> 01:06:34,780
+<font color="#FFFFFF">Commodus, the Senate
+has its uses.</font>
+
+541
+01:06:34,865 --> 01:06:37,742
+<font color="#FFFFFF">What uses? All they do is talk.</font>
+
+542
+01:06:38,952 --> 01:06:43,498
+<font color="#FFFFFF">It should be just you
+and me and Rome.</font>
+
+543
+01:06:43,583 --> 01:06:46,918
+<font color="#FFFFFF">Don't even think it. There's
+always been a Senate.</font>
+
+544
+01:06:47,420 --> 01:06:49,086
+<font color="#FFFFFF">Rome has changed.</font>
+
+545
+01:06:49,172 --> 01:06:52,215
+<font color="#FFFFFF">It takes an emperor
+to rule an empire.</font>
+
+546
+01:06:52,550 --> 01:06:54,592
+<font color="#FFFFFF">Of course, but leave
+the people their...</font>
+
+547
+01:06:54,677 --> 01:06:56,052
+<font color="#FFFFFF">illusions?</font>
+
+548
+01:06:57,679 --> 01:06:59,097
+<font color="#FFFFFF">Traditions.</font>
+
+549
+01:06:59,974 --> 01:07:02,768
+<font color="#FFFFFF">My father's war against
+the barbarians.</font>
+
+550
+01:07:03,353 --> 01:07:07,021
+<font color="#FFFFFF">He said it himself, it achieved nothing.
+But the people loved him.</font>
+
+551
+01:07:07,106 --> 01:07:08,981
+<font color="#FFFFFF">The people always
+love victories.</font>
+
+552
+01:07:09,067 --> 01:07:12,735
+<font color="#FFFFFF">Why? They didn't
+see the battles.</font>
+
+553
+01:07:14,072 --> 01:07:16,030
+<font color="#FFFFFF">What do they care
+about Germania?</font>
+
+554
+01:07:16,114 --> 01:07:18,449
+<font color="#FFFFFF">They care about the
+greatness of Rome.</font>
+
+555
+01:07:18,534 --> 01:07:20,452
+<font color="#FFFFFF">"The greatness of Rome."</font>
+
+556
+01:07:22,413 --> 01:07:24,206
+<font color="#FFFFFF">Well, what is that?</font>
+
+557
+01:07:26,918 --> 01:07:30,128
+<font color="#FFFFFF">It's an idea. Greatness.</font>
+
+558
+01:07:33,882 --> 01:07:37,302
+<font color="#FFFFFF">- Greatness is a vision.
+- Exactly. A vision.</font>
+
+559
+01:07:39,429 --> 01:07:41,347
+<font color="#FFFFFF">Do you not see, Lucilia?</font>
+
+560
+01:07:42,724 --> 01:07:46,686
+<font color="#FFFFFF">I will give the people a vision of
+Rome, and they'll love me for it.</font>
+
+561
+01:07:47,313 --> 01:07:51,733
+<font color="#FFFFFF">And they'll soon forget the tedious
+sermonizing of a few dry old men.</font>
+
+562
+01:08:03,121 --> 01:08:06,456
+<font color="#FFFFFF">I will give the people the
+greatest vision of their lives.</font>
+
+563
+01:08:57,675 --> 01:09:00,594
+<font color="#FFFFFF">White and red wine for
+your drinking pleasure!</font>
+
+564
+01:09:08,895 --> 01:09:10,061
+<font color="#FFFFFF">Games.</font>
+
+565
+01:09:12,356 --> 01:09:15,399
+<font color="#FFFFFF">One hundred and fifty
+days of games.</font>
+
+566
+01:09:15,902 --> 01:09:17,444
+<font color="#FFFFFF">He's cleverer than I thought.</font>
+
+567
+01:09:17,528 --> 01:09:21,073
+<font color="#FFFFFF">Clever. The whole of Rome
+would be laughing at him,</font>
+
+568
+01:09:21,908 --> 01:09:24,158
+<font color="#FFFFFF">if they weren't so afraid
+of his Praetorians.</font>
+
+569
+01:09:24,243 --> 01:09:27,037
+<font color="#FFFFFF">Fear and wonder. A
+powerful combination.</font>
+
+570
+01:09:28,456 --> 01:09:31,582
+<font color="#FFFFFF">You really think the people are
+going to be seduced by that?</font>
+
+571
+01:09:31,667 --> 01:09:34,752
+<font color="#FFFFFF">I think he knows what Rome is.
+Rome is the mob.</font>
+
+572
+01:09:35,421 --> 01:09:38,590
+<font color="#FFFFFF">Conjure magic for them, and
+they'll be distracted.</font>
+
+573
+01:09:39,175 --> 01:09:42,426
+<font color="#FFFFFF">Take away their freedom,
+and still they'll roar.</font>
+
+574
+01:09:42,970 --> 01:09:47,349
+<font color="#FFFFFF">The beating heart of Rome is
+not the marble of the Senate.</font>
+
+575
+01:09:47,432 --> 01:09:49,434
+<font color="#FFFFFF">It's the sand of the Colosseum.</font>
+
+576
+01:09:51,436 --> 01:09:53,479
+<font color="#FFFFFF">He'll bring them death,</font>
+
+577
+01:09:55,233 --> 01:09:57,609
+<font color="#FFFFFF">and they will love him for it.</font>
+
+578
+01:10:20,298 --> 01:10:22,384
+<font color="#FFFFFF">All you do is kill, kill, kill.</font>
+
+579
+01:10:22,467 --> 01:10:24,886
+<font color="#FFFFFF">The crowd don't want a
+butcher, they want a hero.</font>
+
+580
+01:10:24,970 --> 01:10:27,012
+<font color="#FFFFFF">We want them to
+keep coming back.</font>
+
+581
+01:10:27,097 --> 01:10:31,268
+<font color="#FFFFFF">So don't just hack them to pieces,
+remember you are an entertainer.</font>
+
+582
+01:10:33,854 --> 01:10:35,229
+<font color="#FFFFFF">Spaniard.</font>
+
+583
+01:10:43,029 --> 01:10:44,573
+<font color="#FFFFFF">So entertain!</font>
+
+584
+01:11:49,680 --> 01:11:53,809
+<font color="#FFFFFF">Are you not entertained?
+Are you not entertained?</font>
+
+585
+01:11:56,103 --> 01:11:58,354
+<font color="#FFFFFF">Is this not why you're here?</font>
+
+586
+01:12:02,984 --> 01:12:05,987
+<font color="#FFFFFF">Spaniard! Spaniard! Spaniard!</font>
+
+587
+01:12:06,572 --> 01:12:10,449
+<font color="#FFFFFF">- Spaniard! Spaniard! Spaniard!
+- Spaniard! Spaniard! Spaniard!</font>
+
+588
+01:12:23,256 --> 01:12:25,006
+<font color="#FFFFFF">What do you want?</font>
+
+589
+01:12:27,551 --> 01:12:28,717
+<font color="#FFFFFF">Girl?</font>
+
+590
+01:12:29,761 --> 01:12:30,929
+<font color="#FFFFFF">Boy?</font>
+
+591
+01:12:31,847 --> 01:12:34,099
+<font color="#FFFFFF">- You sent for me.
+- Yes, I did.</font>
+
+592
+01:12:35,184 --> 01:12:38,270
+<font color="#FFFFFF">You're good, Spaniard, but
+you're not that good.</font>
+
+593
+01:12:38,354 --> 01:12:39,520
+<font color="#FFFFFF">You could be magnificent.</font>
+
+594
+01:12:39,604 --> 01:12:43,108
+<font color="#FFFFFF">I'm required to kill, so I kill.
+That is enough.</font>
+
+595
+01:12:43,943 --> 01:12:47,028
+<font color="#FFFFFF">That's enough for the
+provinces, but not for Rome.</font>
+
+596
+01:12:50,408 --> 01:12:54,327
+<font color="#FFFFFF">The young emperor has arranged
+a series of spectacles</font>
+
+597
+01:12:54,412 --> 01:12:58,582
+<font color="#FFFFFF">to commemorate his
+father, Marcus Aurelius.</font>
+
+598
+01:12:59,125 --> 01:13:01,083
+<font color="#FFFFFF">I find that amusing,</font>
+
+599
+01:13:01,418 --> 01:13:04,503
+<font color="#FFFFFF">since it was Marcus
+Aurelius, the wise,</font>
+
+600
+01:13:04,588 --> 01:13:08,048
+<font color="#FFFFFF">the all-knowing Marcus
+Aurelius, that closed us down.</font>
+
+601
+01:13:11,052 --> 01:13:15,180
+<font color="#FFFFFF">So finally, after five years
+of scratching a living</font>
+
+602
+01:13:15,265 --> 01:13:17,475
+<font color="#FFFFFF">in flea-infested villages,</font>
+
+603
+01:13:17,560 --> 01:13:20,604
+<font color="#FFFFFF">we're finally going back
+to where we belong.</font>
+
+604
+01:13:21,314 --> 01:13:22,898
+<font color="#FFFFFF">The Colosseum.</font>
+
+605
+01:13:25,150 --> 01:13:27,944
+<font color="#FFFFFF">You should see the
+Colosseum, Spaniard.</font>
+
+606
+01:13:29,279 --> 01:13:31,323
+<font color="#FFFFFF">Fifty thousand Romans,</font>
+
+607
+01:13:32,283 --> 01:13:36,118
+<font color="#FFFFFF">watching every movement
+of your sword,</font>
+
+608
+01:13:37,537 --> 01:13:40,039
+<font color="#FFFFFF">willing you to make
+that killer blow.</font>
+
+609
+01:13:41,207 --> 01:13:44,836
+<font color="#FFFFFF">The silence before you strike
+and the noise afterwards.</font>
+
+610
+01:13:45,837 --> 01:13:49,466
+<font color="#FFFFFF">It rises. It rises up,</font>
+
+611
+01:13:50,676 --> 01:13:52,301
+<font color="#FFFFFF">like a storm.</font>
+
+612
+01:13:53,095 --> 01:13:55,764
+<font color="#FFFFFF">As if you were the
+thunder god himself.</font>
+
+613
+01:13:55,847 --> 01:13:58,807
+<font color="#FFFFFF">- You were a gladiator?
+- Yes, I was.</font>
+
+614
+01:14:05,231 --> 01:14:07,442
+<font color="#FFFFFF">You won your freedom?</font>
+
+615
+01:14:07,525 --> 01:14:09,860
+<font color="#FFFFFF">A long time ago, the Emperor</font>
+
+616
+01:14:11,529 --> 01:14:13,614
+<font color="#FFFFFF">presented me with a rudius.</font>
+
+617
+01:14:13,698 --> 01:14:16,408
+<font color="#FFFFFF">It's just a wooden sword.</font>
+
+618
+01:14:18,119 --> 01:14:20,372
+<font color="#FFFFFF">The symbol of your freedom.</font>
+
+619
+01:14:22,541 --> 01:14:25,542
+<font color="#FFFFFF">He touched me on the
+shoulder, and I was free.</font>
+
+620
+01:14:26,921 --> 01:14:29,338
+<font color="#FFFFFF">You knew Marcus Aurelius?</font>
+
+621
+01:14:29,422 --> 01:14:33,676
+<font color="#FFFFFF">I did not say I knew him. I said he
+touched me on the shoulder once.</font>
+
+622
+01:14:34,302 --> 01:14:36,387
+<font color="#FFFFFF">You asked me what I want.</font>
+
+623
+01:14:37,722 --> 01:14:40,684
+<font color="#FFFFFF">I, too, want to stand in
+front of the Emperor,</font>
+
+624
+01:14:41,935 --> 01:14:43,353
+<font color="#FFFFFF">as you did.</font>
+
+625
+01:14:43,436 --> 01:14:46,855
+<font color="#FFFFFF">Then listen to me.
+Learn from me.</font>
+
+626
+01:14:47,733 --> 01:14:50,777
+<font color="#FFFFFF">I wasn't the best because
+I killed quickly.</font>
+
+627
+01:14:51,988 --> 01:14:54,655
+<font color="#FFFFFF">I was the best because
+the crowd loved me.</font>
+
+628
+01:14:55,740 --> 01:14:59,077
+<font color="#FFFFFF">Win the crowd, and
+you'll win your freedom.</font>
+
+629
+01:15:03,541 --> 01:15:05,417
+<font color="#FFFFFF">I will win the crowd.</font>
+
+630
+01:15:07,627 --> 01:15:11,088
+<font color="#FFFFFF">I will give them something
+they've never seen before.</font>
+
+631
+01:15:12,091 --> 01:15:15,092
+<font color="#FFFFFF">So, Spaniard, we shall
+go to Rome together</font>
+
+632
+01:15:15,761 --> 01:15:17,595
+<font color="#FFFFFF">and have bloody adventures.</font>
+
+633
+01:15:17,680 --> 01:15:19,471
+<font color="#FFFFFF">And the great whore
+will suckle us</font>
+
+634
+01:15:19,556 --> 01:15:22,141
+<font color="#FFFFFF">until we are fat and happy
+and can suckle no more.</font>
+
+635
+01:15:22,225 --> 01:15:23,685
+<font color="#FFFFFF">And then,</font>
+
+636
+01:15:24,770 --> 01:15:26,938
+<font color="#FFFFFF">when enough men have died,</font>
+
+637
+01:15:29,108 --> 01:15:31,568
+<font color="#FFFFFF">perhaps you will
+have your freedom.</font>
+
+638
+01:15:35,989 --> 01:15:38,323
+<font color="#FFFFFF">Here. Use this.</font>
+
+639
+01:16:02,057 --> 01:16:05,225
+<font color="#FFFFFF">It's somewhere out
+there, my country.</font>
+
+640
+01:16:06,311 --> 01:16:07,645
+<font color="#FFFFFF">My home.</font>
+
+641
+01:16:08,814 --> 01:16:10,981
+<font color="#FFFFFF">My wife is preparing food.</font>
+
+642
+01:16:11,942 --> 01:16:14,652
+<font color="#FFFFFF">My daughters carry
+water from the river.</font>
+
+643
+01:16:15,988 --> 01:16:18,030
+<font color="#FFFFFF">Will I ever see them again?</font>
+
+644
+01:16:19,324 --> 01:16:20,824
+<font color="#FFFFFF">I think, no.</font>
+
+645
+01:16:21,118 --> 01:16:23,578
+<font color="#FFFFFF">Do you believe you'll see
+them again when you die?</font>
+
+646
+01:16:23,662 --> 01:16:25,037
+<font color="#FFFFFF">I think so.</font>
+
+647
+01:16:25,663 --> 01:16:28,750
+<font color="#FFFFFF">But then, I will die soon.</font>
+
+648
+01:16:30,377 --> 01:16:32,837
+<font color="#FFFFFF">They will not die
+for many years.</font>
+
+649
+01:16:33,631 --> 01:16:35,297
+<font color="#FFFFFF">I'll have to wait.</font>
+
+650
+01:16:35,381 --> 01:16:37,550
+<font color="#FFFFFF">But you would? Wait?</font>
+
+651
+01:16:38,176 --> 01:16:39,551
+<font color="#FFFFFF">Of course.</font>
+
+652
+01:16:41,471 --> 01:16:42,846
+<font color="#FFFFFF">You see,</font>
+
+653
+01:16:44,015 --> 01:16:47,560
+<font color="#FFFFFF">my wife and my son</font>
+
+654
+01:16:49,270 --> 01:16:51,439
+<font color="#FFFFFF">are already waiting for me.</font>
+
+655
+01:16:51,524 --> 01:16:55,193
+<font color="#FFFFFF">You'll meet them again.
+But not yet.</font>
+
+656
+01:16:59,239 --> 01:17:00,614
+<font color="#FFFFFF">Not yet.</font>
+
+657
+01:17:02,201 --> 01:17:03,909
+<font color="#FFFFFF">- Unless...
+- Not yet.</font>
+
+658
+01:17:07,914 --> 01:17:09,207
+<font color="#FFFFFF">Not yet.</font>
+
+659
+01:17:22,095 --> 01:17:23,637
+<font color="#FFFFFF">There he is.</font>
+
+660
+01:18:12,770 --> 01:18:13,896
+<font color="#FFFFFF">Out.</font>
+
+661
+01:18:15,106 --> 01:18:17,024
+<font color="#FFFFFF">Move, go, out!</font>
+
+662
+01:18:29,747 --> 01:18:32,247
+<font color="#FFFFFF">Good to see you
+again, old friend.</font>
+
+663
+01:18:37,587 --> 01:18:39,296
+<font color="#FFFFFF">Bring me fortune.</font>
+
+664
+01:18:43,886 --> 01:18:46,762
+<font color="#FFFFFF">Have you ever seen
+anything like that before?</font>
+
+665
+01:18:47,847 --> 01:18:50,432
+<font color="#FFFFFF">I didn't know men could
+build such things.</font>
+
+666
+01:19:00,402 --> 01:19:01,985
+<font color="#FFFFFF">Win the crowd.</font>
+
+667
+01:19:02,195 --> 01:19:04,529
+<font color="#FFFFFF">Get inside. Move.</font>
+
+668
+01:19:04,614 --> 01:19:05,907
+<font color="#FFFFFF">Inside.</font>
+
+669
+01:19:55,123 --> 01:19:57,875
+<font color="#FFFFFF">He sleeps so well
+because he's loved.</font>
+
+670
+01:20:00,796 --> 01:20:02,880
+<font color="#FFFFFF">Come, brother. It's late.</font>
+
+671
+01:20:06,467 --> 01:20:09,304
+<font color="#FFFFFF">I will make Rome
+the wonder of the ages.</font>
+
+672
+01:20:12,099 --> 01:20:15,435
+<font color="#FFFFFF">That is what Gracchus and his
+friends don't understand.</font>
+
+673
+01:20:15,853 --> 01:20:19,063
+<font color="#FFFFFF">All my desires are splitting
+my head to pieces.</font>
+
+674
+01:20:26,113 --> 01:20:28,864
+<font color="#FFFFFF">Commodus, drink this tonic.</font>
+
+675
+01:20:38,417 --> 01:20:40,877
+<font color="#FFFFFF">I think the time
+is almost right.</font>
+
+676
+01:20:41,252 --> 01:20:44,171
+<font color="#FFFFFF">I could announce the
+dissolution of the Senate</font>
+
+677
+01:20:44,256 --> 01:20:46,341
+<font color="#FFFFFF">at the celebration
+to honor our father.</font>
+
+678
+01:20:46,425 --> 01:20:48,384
+<font color="#FFFFFF">Do you think I should?</font>
+
+679
+01:20:49,136 --> 01:20:51,054
+<font color="#FFFFFF">Are the people ready?</font>
+
+680
+01:20:53,181 --> 01:20:55,557
+<font color="#FFFFFF">I think you need your rest now.</font>
+
+681
+01:21:01,481 --> 01:21:03,315
+<font color="#FFFFFF">Will you stay with me?</font>
+
+682
+01:21:03,399 --> 01:21:05,818
+<font color="#FFFFFF">Still afraid of the
+dark, brother?</font>
+
+683
+01:21:12,576 --> 01:21:13,784
+<font color="#FFFFFF">Still.</font>
+
+684
+01:21:15,621 --> 01:21:16,912
+<font color="#FFFFFF">Always.</font>
+
+685
+01:21:18,623 --> 01:21:21,501
+<font color="#FFFFFF">- Stay with me tonight.
+- You know I won't.</font>
+
+686
+01:21:25,963 --> 01:21:27,506
+<font color="#FFFFFF">Then kiss me.</font>
+
+687
+01:21:36,307 --> 01:21:37,850
+<font color="#FFFFFF">Sleep, brother.</font>
+
+688
+01:22:30,654 --> 01:22:32,779
+<font color="#FFFFFF">Having servants who
+are deaf and mute</font>
+
+689
+01:22:32,864 --> 01:22:35,615
+<font color="#FFFFFF">at least ensures I
+live a little longer.</font>
+
+690
+01:22:37,411 --> 01:22:39,744
+<font color="#FFFFFF">They're
+arresting scholars now.</font>
+
+691
+01:22:39,829 --> 01:22:43,666
+<font color="#FFFFFF">Anyone who dare speak out. Even
+satirists and chroniclers.</font>
+
+692
+01:22:44,292 --> 01:22:46,210
+<font color="#FFFFFF">And mathematicians.</font>
+
+693
+01:22:47,421 --> 01:22:49,546
+<font color="#FFFFFF">And all to feed the arena.</font>
+
+694
+01:22:51,216 --> 01:22:53,634
+<font color="#FFFFFF">The Senate did not
+approve martial law.</font>
+
+695
+01:22:53,719 --> 01:22:56,554
+<font color="#FFFFFF">This reign of terror is
+entirely the Praetorians.</font>
+
+696
+01:22:57,722 --> 01:22:59,849
+<font color="#FFFFFF">I'm afraid to go out after dark.</font>
+
+697
+01:22:59,932 --> 01:23:03,478
+<font color="#FFFFFF">You should be more afraid of
+your activities during the day.</font>
+
+698
+01:23:03,561 --> 01:23:08,274
+<font color="#FFFFFF">The Senate is full of his spies,
+led by that whore master, Falco.</font>
+
+699
+01:23:09,609 --> 01:23:14,029
+<font color="#FFFFFF">But what is in his mind? That's
+what I trouble myself with.</font>
+
+700
+01:23:14,823 --> 01:23:17,742
+<font color="#FFFFFF">He spends all his days
+singularly obsessed,</font>
+
+701
+01:23:17,826 --> 01:23:20,661
+<font color="#FFFFFF">planning the festival
+to honor your father.</font>
+
+702
+01:23:20,746 --> 01:23:24,332
+<font color="#FFFFFF">He neglects even the most
+fundamental task of government.</font>
+
+703
+01:23:25,082 --> 01:23:27,292
+<font color="#FFFFFF">So just what is he planning?</font>
+
+704
+01:23:27,668 --> 01:23:29,295
+<font color="#FFFFFF">And what pays for it?</font>
+
+705
+01:23:29,378 --> 01:23:33,591
+<font color="#FFFFFF">These daily games are costing a
+fortune, yet we have no new taxes.</font>
+
+706
+01:23:34,342 --> 01:23:35,760
+<font color="#FFFFFF">The future.</font>
+
+707
+01:23:37,136 --> 01:23:39,180
+<font color="#FFFFFF">The future pays for it.</font>
+
+708
+01:23:40,640 --> 01:23:43,518
+<font color="#FFFFFF">He's started selling
+the grain reserves.</font>
+
+709
+01:23:43,601 --> 01:23:45,435
+<font color="#FFFFFF">This can't be true.</font>
+
+710
+01:23:46,063 --> 01:23:48,564
+<font color="#FFFFFF">He's selling
+Rome's reserves of grain.</font>
+
+711
+01:23:49,149 --> 01:23:52,068
+<font color="#FFFFFF">The people will be
+starving in two years.</font>
+
+712
+01:23:52,610 --> 01:23:54,110
+<font color="#FFFFFF">I hope they're
+enjoying the games,</font>
+
+713
+01:23:54,195 --> 01:23:57,573
+<font color="#FFFFFF">because soon enough they'll
+be dead because of them.</font>
+
+714
+01:23:57,908 --> 01:24:00,243
+<font color="#FFFFFF">- Rome must know this.
+- And how?</font>
+
+715
+01:24:00,743 --> 01:24:03,119
+<font color="#FFFFFF">He's going to
+dissolve the Senate.</font>
+
+716
+01:24:03,704 --> 01:24:07,291
+<font color="#FFFFFF">And who will tell them before
+it's too late? You, Gracchus?</font>
+
+717
+01:24:08,627 --> 01:24:10,127
+<font color="#FFFFFF">You, Gaius.</font>
+
+718
+01:24:10,212 --> 01:24:11,921
+<font color="#FFFFFF">Will you make a speech on
+the floor of the Senate,</font>
+
+719
+01:24:12,005 --> 01:24:13,756
+<font color="#FFFFFF">denouncing my brother?</font>
+
+720
+01:24:14,298 --> 01:24:16,841
+<font color="#FFFFFF">And then see your family
+in the Colosseum?</font>
+
+721
+01:24:17,802 --> 01:24:19,177
+<font color="#FFFFFF">Who'd dare?</font>
+
+722
+01:24:28,354 --> 01:24:31,399
+<font color="#FFFFFF">I have been living in a
+prison of fear every day,</font>
+
+723
+01:24:31,483 --> 01:24:34,068
+<font color="#FFFFFF">because my son is
+heir to the throne.</font>
+
+724
+01:24:39,658 --> 01:24:41,158
+<font color="#FFFFFF">He must die.</font>
+
+725
+01:24:45,497 --> 01:24:46,663
+<font color="#FFFFFF">Quintus and
+the Praetorians</font>
+
+726
+01:24:46,747 --> 01:24:49,292
+<font color="#FFFFFF">would simply seize
+control for themselves.</font>
+
+727
+01:24:49,376 --> 01:24:53,253
+<font color="#FFFFFF">No. Cut off the head and
+the snake cannot strike.</font>
+
+728
+01:24:53,337 --> 01:24:55,381
+<font color="#FFFFFF">Lucilia,
+Gaius is right.</font>
+
+729
+01:24:55,465 --> 01:24:59,594
+<font color="#FFFFFF">Until we can neutralize the
+Praetorians, we can achieve nothing.</font>
+
+730
+01:25:01,137 --> 01:25:02,637
+<font color="#FFFFFF">So we do nothing?</font>
+
+731
+01:25:02,722 --> 01:25:05,515
+<font color="#FFFFFF">No, child.
+We keep our counsel.</font>
+
+732
+01:25:06,518 --> 01:25:07,851
+<font color="#FFFFFF">We prepare.</font>
+
+733
+01:25:08,686 --> 01:25:13,481
+<font color="#FFFFFF">As long as the people support
+him, we are voices without steel.</font>
+
+734
+01:25:14,275 --> 01:25:15,693
+<font color="#FFFFFF">We are air.</font>
+
+735
+01:25:18,697 --> 01:25:21,489
+<font color="#FFFFFF">But with every day that
+passes, he makes enemies.</font>
+
+736
+01:25:21,574 --> 01:25:24,452
+<font color="#FFFFFF">One day, he'll have more
+enemies than friends.</font>
+
+737
+01:25:24,869 --> 01:25:27,829
+<font color="#FFFFFF">And on that day, we will act.</font>
+
+738
+01:25:28,414 --> 01:25:30,291
+<font color="#FFFFFF">Then we will strike.</font>
+
+739
+01:25:31,208 --> 01:25:32,960
+<font color="#FFFFFF">But until then,</font>
+
+740
+01:25:34,128 --> 01:25:35,712
+<font color="#FFFFFF">we are docile.</font>
+
+741
+01:25:36,172 --> 01:25:38,341
+<font color="#FFFFFF">We are obedient.</font>
+
+742
+01:25:39,926 --> 01:25:41,926
+<font color="#FFFFFF">And we are treacherous.</font>
+
+743
+01:25:50,561 --> 01:25:51,729
+<font color="#FFFFFF">Come on!</font>
+
+744
+01:26:00,572 --> 01:26:02,614
+<font color="#FFFFFF">All right, that's enough.</font>
+
+745
+01:26:25,180 --> 01:26:26,579
+<font color="#FFFFFF">The Emperor
+wants battles,</font>
+
+746
+01:26:26,597 --> 01:26:28,765
+<font color="#FFFFFF">and I don't want to
+sacrifice my best fighters.</font>
+
+747
+01:26:28,850 --> 01:26:32,185
+<font color="#FFFFFF">The crowd wants battles, so the
+Emperor gives them battles.</font>
+
+748
+01:26:32,270 --> 01:26:35,855
+<font color="#FFFFFF">- You get the battle of Carthage.
+- Massacre of Carthage.</font>
+
+749
+01:26:37,818 --> 01:26:39,234
+<font color="#FFFFFF">Well, why don't you go
+down to the prison,</font>
+
+750
+01:26:39,319 --> 01:26:41,319
+<font color="#FFFFFF">round up all the
+beggars and thieves?</font>
+
+751
+01:26:41,404 --> 01:26:42,570
+<font color="#FFFFFF">We've done that.</font>
+
+752
+01:26:42,655 --> 01:26:45,032
+<font color="#FFFFFF">If you want to give away
+the best gladiators</font>
+
+753
+01:26:45,117 --> 01:26:46,283
+<font color="#FFFFFF">in the whole of the empire,</font>
+
+754
+01:26:46,368 --> 01:26:48,493
+<font color="#FFFFFF">then I want double the rates.</font>
+
+755
+01:26:48,578 --> 01:26:52,372
+<font color="#FFFFFF">You'll get your contract rates, or
+you'll get your contract canceled.</font>
+
+756
+01:26:52,457 --> 01:26:53,873
+<font color="#FFFFFF">You don't like it?</font>
+
+757
+01:26:53,958 --> 01:26:57,920
+<font color="#FFFFFF">Then you can crawl back down that
+shit hole that you came from.</font>
+
+758
+01:27:01,006 --> 01:27:03,175
+<font color="#FFFFFF">Cassius, please.
+You can free us.</font>
+
+759
+01:27:32,997 --> 01:27:36,125
+<font color="#FFFFFF">Gladiator, are you the one
+they call the Spaniard?</font>
+
+760
+01:27:36,208 --> 01:27:37,333
+<font color="#FFFFFF">Yes.</font>
+
+761
+01:27:38,127 --> 01:27:40,337
+<font color="#FFFFFF">They said you were a giant.</font>
+
+762
+01:27:40,421 --> 01:27:43,591
+<font color="#FFFFFF">They said you could crush a
+man's skull with one hand.</font>
+
+763
+01:27:43,675 --> 01:27:45,426
+<font color="#FFFFFF">A man's? No.</font>
+
+764
+01:27:46,761 --> 01:27:48,095
+<font color="#FFFFFF">A boy's.</font>
+
+765
+01:27:50,097 --> 01:27:53,641
+<font color="#FFFFFF">- Do they have good horses in Spain?
+- Some of the best.</font>
+
+766
+01:27:54,685 --> 01:27:57,771
+<font color="#FFFFFF">This is Argento and
+this is Scarto.</font>
+
+767
+01:27:59,190 --> 01:28:00,983
+<font color="#FFFFFF">They were my horses.</font>
+
+768
+01:28:01,902 --> 01:28:03,985
+<font color="#FFFFFF">They were taken from me.</font>
+
+769
+01:28:04,279 --> 01:28:07,573
+<font color="#FFFFFF">I like you, Spaniard. I
+shall cheer for you.</font>
+
+770
+01:28:08,115 --> 01:28:11,452
+<font color="#FFFFFF">- They let you watch the games?
+- My uncle says it makes me strong.</font>
+
+771
+01:28:11,536 --> 01:28:14,829
+<font color="#FFFFFF">- And what does your father say?
+- My father is dead.</font>
+
+772
+01:28:16,582 --> 01:28:18,667
+<font color="#FFFFFF">Master Lucius, it is time.</font>
+
+773
+01:28:19,920 --> 01:28:21,295
+<font color="#FFFFFF">I have to go.</font>
+
+774
+01:28:21,378 --> 01:28:22,962
+<font color="#FFFFFF">Your name is Lucius?</font>
+
+775
+01:28:25,091 --> 01:28:27,760
+<font color="#FFFFFF">Lucius Verus, after my father.</font>
+
+776
+01:28:58,416 --> 01:29:00,125
+<font color="#FFFFFF">Lower!</font>
+
+777
+01:29:05,256 --> 01:29:08,175
+<font color="#FFFFFF">Claudius!
+Yes?</font>
+
+778
+01:29:08,260 --> 01:29:10,677
+<font color="#FFFFFF">More shields!
+All right.</font>
+
+779
+01:29:29,780 --> 01:29:34,534
+<font color="#FFFFFF">When the Emperor enters,
+raise your weapons, salute him,</font>
+
+780
+01:29:34,618 --> 01:29:36,662
+<font color="#FFFFFF">and then speak together.</font>
+
+781
+01:29:37,454 --> 01:29:40,957
+<font color="#FFFFFF">Face the Emperor and don't
+turn your back on him.</font>
+
+782
+01:29:42,042 --> 01:29:44,878
+<font color="#FFFFFF">Go, and die with honor.</font>
+
+783
+01:30:39,975 --> 01:30:42,060
+<font color="#FFFFFF">Hail, mighty Caesar!</font>
+
+784
+01:30:45,273 --> 01:30:48,317
+<font color="#FFFFFF">Caesar! Caesar! Caesar! Caesar!</font>
+
+785
+01:30:48,400 --> 01:30:49,640
+<font color="#FFFFFF">Caesar! Caesar! Caesar! Caesar!</font>
+
+786
+01:30:52,529 --> 01:30:55,532
+<font color="#FFFFFF">- We who are about to die salute you!
+- We who are about to die salute you!</font>
+
+787
+01:30:57,243 --> 01:30:58,827
+<font color="#FFFFFF">On this day</font>
+
+788
+01:30:59,537 --> 01:31:02,538
+<font color="#FFFFFF">we reach back to
+hallowed antiquity</font>
+
+789
+01:31:03,416 --> 01:31:07,086
+<font color="#FFFFFF">to bring you are-creation
+of the second fall</font>
+
+790
+01:31:07,170 --> 01:31:09,212
+<font color="#FFFFFF">of mighty Carthage!</font>
+
+791
+01:31:12,926 --> 01:31:17,345
+<font color="#FFFFFF">On the barren plain of Zama</font>
+
+792
+01:31:17,972 --> 01:31:21,057
+<font color="#FFFFFF">there stood the
+invincible armies</font>
+
+793
+01:31:21,434 --> 01:31:24,060
+<font color="#FFFFFF">of the barbarian Hannibal.</font>
+
+794
+01:31:24,770 --> 01:31:27,939
+<font color="#FFFFFF">Ferocious mercenaries
+and warriors</font>
+
+795
+01:31:28,024 --> 01:31:30,400
+<font color="#FFFFFF">from all brute nations,</font>
+
+796
+01:31:30,484 --> 01:31:34,779
+<font color="#FFFFFF">bent on merciless destruction,</font>
+
+797
+01:31:35,657 --> 01:31:37,032
+<font color="#FFFFFF">conquest.</font>
+
+798
+01:31:37,951 --> 01:31:41,996
+<font color="#FFFFFF">Your emperor is
+pleased to give you</font>
+
+799
+01:31:42,079 --> 01:31:45,123
+<font color="#FFFFFF">the barbarian horde!</font>
+
+800
+01:31:53,466 --> 01:31:55,466
+<font color="#FFFFFF">Anyone here been in the army?</font>
+
+801
+01:31:55,551 --> 01:31:58,470
+<font color="#FFFFFF">Yes. I served
+with you at Vindobona.</font>
+
+802
+01:31:59,430 --> 01:32:01,097
+<font color="#FFFFFF">You can help me.</font>
+
+803
+01:32:02,391 --> 01:32:04,935
+<font color="#FFFFFF">Whatever comes out
+of these gates,</font>
+
+804
+01:32:05,686 --> 01:32:09,480
+<font color="#FFFFFF">we've got a better chance of
+survival if we work together.</font>
+
+805
+01:32:09,565 --> 01:32:11,274
+<font color="#FFFFFF">Do you understand?</font>
+
+806
+01:32:13,403 --> 01:32:15,445
+<font color="#FFFFFF">If we stay together, we survive.</font>
+
+807
+01:32:15,529 --> 01:32:18,657
+<font color="#FFFFFF">The Emperor is pleased to
+bring you the legionnaires</font>
+
+808
+01:32:18,742 --> 01:32:22,327
+<font color="#FFFFFF">of Scipio Africanus!</font>
+
+809
+01:32:33,131 --> 01:32:34,840
+<font color="#FFFFFF">To the death!</font>
+
+810
+01:32:38,636 --> 01:32:41,220
+<font color="#FFFFFF">- Kill! Kill! Kill! Kill!
+- Kill! Kill! Kill! Kill!</font>
+
+811
+01:32:45,100 --> 01:32:46,643
+<font color="#FFFFFF">Stay close.</font>
+
+812
+01:32:52,649 --> 01:32:54,525
+<font color="#FFFFFF">Come together!</font>
+
+813
+01:32:55,819 --> 01:32:59,907
+<font color="#FFFFFF">Stay close. Staggered columns!</font>
+
+814
+01:33:13,128 --> 01:33:15,171
+<font color="#FFFFFF">You don't have a chance.</font>
+
+815
+01:33:26,518 --> 01:33:29,060
+<font color="#FFFFFF">Lock your shields.
+Stay as one.</font>
+
+816
+01:33:30,563 --> 01:33:32,146
+<font color="#FFFFFF">Hold!</font>
+
+817
+01:33:34,192 --> 01:33:37,194
+<font color="#FFFFFF">Hold! As one!</font>
+
+818
+01:33:40,114 --> 01:33:41,448
+<font color="#FFFFFF">Well done.</font>
+
+819
+01:33:53,336 --> 01:33:57,171
+<font color="#FFFFFF">Hold. Down low!</font>
+
+820
+01:34:02,970 --> 01:34:04,179
+<font color="#FFFFFF">Yes!</font>
+
+821
+01:34:16,275 --> 01:34:17,525
+<font color="#FFFFFF">Hagen!</font>
+
+822
+01:34:41,634 --> 01:34:45,179
+<font color="#FFFFFF">This column to the chariot!
+This column stay with me!</font>
+
+823
+01:34:48,807 --> 01:34:50,184
+<font color="#FFFFFF">Quickly!</font>
+
+824
+01:34:50,851 --> 01:34:53,604
+<font color="#FFFFFF">- Get out there.
+- Hurry!</font>
+
+825
+01:35:34,811 --> 01:35:35,979
+<font color="#FFFFFF">Maximus!</font>
+
+826
+01:35:48,201 --> 01:35:50,618
+<font color="#FFFFFF">Single column! Single column!</font>
+
+827
+01:36:35,914 --> 01:36:37,332
+<font color="#FFFFFF">We win!</font>
+
+828
+01:36:42,713 --> 01:36:45,215
+<font color="#FFFFFF">My history's a little
+hazy, Cassius,</font>
+
+829
+01:36:46,050 --> 01:36:48,969
+<font color="#FFFFFF">but shouldn't the barbarians
+lose the battle of Carthage?</font>
+
+830
+01:36:49,052 --> 01:36:50,804
+<font color="#FFFFFF">Yes, sire.</font>
+
+831
+01:36:52,724 --> 01:36:54,099
+<font color="#FFFFFF">Forgive me, sire.</font>
+
+832
+01:36:54,182 --> 01:36:56,893
+<font color="#FFFFFF">No, I rather
+enjoy surprises.</font>
+
+833
+01:36:57,686 --> 01:36:58,811
+<font color="#FFFFFF">Who is he?</font>
+
+834
+01:36:58,895 --> 01:37:01,898
+<font color="#FFFFFF">They call him the
+Spaniard, sire.</font>
+
+835
+01:37:04,402 --> 01:37:06,319
+<font color="#FFFFFF">I think I'll meet him.</font>
+
+836
+01:37:06,404 --> 01:37:07,738
+<font color="#FFFFFF">Yes, sire.</font>
+
+837
+01:37:09,948 --> 01:37:11,867
+<font color="#FFFFFF">Hail to the barbarians!</font>
+
+838
+01:37:26,798 --> 01:37:30,217
+<font color="#FFFFFF">Forward! Arms at ready!</font>
+
+839
+01:37:43,774 --> 01:37:45,442
+<font color="#FFFFFF">Drop your weapons.</font>
+
+840
+01:37:49,447 --> 01:37:52,407
+<font color="#FFFFFF">Gladiator, the Emperor
+has asked for you.</font>
+
+841
+01:37:52,992 --> 01:37:55,243
+<font color="#FFFFFF">I am at the Emperor's service.</font>
+
+842
+01:38:21,938 --> 01:38:24,064
+<font color="#FFFFFF">Rise. Rise.</font>
+
+843
+01:38:33,408 --> 01:38:35,658
+<font color="#FFFFFF">Your fame is well
+deserved, Spaniard.</font>
+
+844
+01:38:35,743 --> 01:38:38,244
+<font color="#FFFFFF">I don't think there's ever
+been a gladiator to match you.</font>
+
+845
+01:38:38,328 --> 01:38:41,247
+<font color="#FFFFFF">As for this young man, he
+insists you are Hector reborn.</font>
+
+846
+01:38:41,332 --> 01:38:42,916
+<font color="#FFFFFF">Or was it Hercules?</font>
+
+847
+01:38:44,335 --> 01:38:48,171
+<font color="#FFFFFF">Why doesn't the hero reveal himself
+and tell us all your real name?</font>
+
+848
+01:38:50,216 --> 01:38:51,841
+<font color="#FFFFFF">You do have a name.</font>
+
+849
+01:38:52,635 --> 01:38:54,511
+<font color="#FFFFFF">My name is Gladiator.</font>
+
+850
+01:38:57,806 --> 01:39:00,975
+<font color="#FFFFFF">How dare you show your back to me?
+Slave!</font>
+
+851
+01:39:02,353 --> 01:39:05,689
+<font color="#FFFFFF">You will remove your helmet
+and tell me your name.</font>
+
+852
+01:39:17,452 --> 01:39:19,953
+<font color="#FFFFFF">My name is Maximus
+Decimus Meridius,</font>
+
+853
+01:39:20,328 --> 01:39:22,288
+<font color="#FFFFFF">commander of the
+armies of the north,</font>
+
+854
+01:39:22,372 --> 01:39:24,707
+<font color="#FFFFFF">general of the Felix Legions,</font>
+
+855
+01:39:24,792 --> 01:39:28,086
+<font color="#FFFFFF">loyal servant to the true
+emperor, Marcus Aurelius,</font>
+
+856
+01:39:29,505 --> 01:39:31,672
+<font color="#FFFFFF">father to a murdered son,</font>
+
+857
+01:39:32,132 --> 01:39:34,426
+<font color="#FFFFFF">husband to a murdered wife,</font>
+
+858
+01:39:34,760 --> 01:39:38,512
+<font color="#FFFFFF">and I will have my vengeance,
+in this life or the next.</font>
+
+859
+01:39:45,520 --> 01:39:46,896
+<font color="#FFFFFF">Arms!</font>
+
+860
+01:39:59,993 --> 01:40:03,329
+<font color="#FFFFFF">Live! Live! Live! Live!</font>
+
+861
+01:40:03,413 --> 01:40:06,625
+<font color="#FFFFFF">- Live! Live! Live! Live!
+- Live! Live! Live! Live!</font>
+
+862
+01:40:50,627 --> 01:40:53,337
+<font color="#FFFFFF">Arms, at rest!</font>
+
+863
+01:41:45,850 --> 01:41:50,311
+<font color="#FFFFFF">- Maximus! Maximus! Maximus!
+- Maximus! Maximus! Maximus!</font>
+
+864
+01:42:38,402 --> 01:42:39,569
+<font color="#FFFFFF">Father.</font>
+
+865
+01:43:53,935 --> 01:43:55,811
+<font color="#FFFFFF">Why is he still alive?</font>
+
+866
+01:43:57,064 --> 01:43:58,564
+<font color="#FFFFFF">I don't know.</font>
+
+867
+01:43:59,065 --> 01:44:00,649
+<font color="#FFFFFF">He shouldn't be alive.</font>
+
+868
+01:44:01,484 --> 01:44:02,902
+<font color="#FFFFFF">It vexes me.</font>
+
+869
+01:44:04,654 --> 01:44:06,448
+<font color="#FFFFFF">I'm terribly vexed.</font>
+
+870
+01:44:17,667 --> 01:44:19,586
+<font color="#FFFFFF">I did what I had to do.</font>
+
+871
+01:44:20,337 --> 01:44:24,381
+<font color="#FFFFFF">If Father had had his way, the
+empire would have been torn apart.</font>
+
+872
+01:44:24,466 --> 01:44:26,134
+<font color="#FFFFFF">You do see that.</font>
+
+873
+01:44:26,510 --> 01:44:27,676
+<font color="#FFFFFF">Yes.</font>
+
+874
+01:44:32,475 --> 01:44:35,685
+<font color="#FFFFFF">What did you feel
+when you saw him?</font>
+
+875
+01:44:37,813 --> 01:44:39,439
+<font color="#FFFFFF">I felt nothing.</font>
+
+876
+01:44:41,399 --> 01:44:43,943
+<font color="#FFFFFF">He wounded you
+deeply, didn't he?</font>
+
+877
+01:44:44,987 --> 01:44:47,197
+<font color="#FFFFFF">No more than I wounded him.</font>
+
+878
+01:44:51,702 --> 01:44:53,994
+<font color="#FFFFFF">They lied to me in Germania.</font>
+
+879
+01:44:55,622 --> 01:44:57,707
+<font color="#FFFFFF">They told me he was dead.</font>
+
+880
+01:44:59,710 --> 01:45:02,295
+<font color="#FFFFFF">If they lie to me,
+they don't respect me.</font>
+
+881
+01:45:02,378 --> 01:45:05,715
+<font color="#FFFFFF">If they don't respect me,
+how can they ever love me?</font>
+
+882
+01:45:07,051 --> 01:45:09,426
+<font color="#FFFFFF">Then you must let
+the legions know</font>
+
+883
+01:45:09,511 --> 01:45:12,596
+<font color="#FFFFFF">their treachery will
+not go unpunished.</font>
+
+884
+01:45:13,431 --> 01:45:14,890
+<font color="#FFFFFF">Poor sister.</font>
+
+885
+01:45:15,309 --> 01:45:17,769
+<font color="#FFFFFF">I wouldn't want
+to be your enemy.</font>
+
+886
+01:45:18,979 --> 01:45:20,729
+<font color="#FFFFFF">What will you do?</font>
+
+887
+01:45:33,702 --> 01:45:35,036
+<font color="#FFFFFF">This way.</font>
+
+888
+01:46:10,405 --> 01:46:13,867
+<font color="#FFFFFF">Rich matrons pay well to be
+pleasured by the bravest champions.</font>
+
+889
+01:46:13,951 --> 01:46:16,452
+<font color="#FFFFFF">I knew your brother
+would send assassins.</font>
+
+890
+01:46:16,953 --> 01:46:18,579
+<font color="#FFFFFF">I didn't realize he
+would send his best.</font>
+
+891
+01:46:21,207 --> 01:46:23,292
+<font color="#FFFFFF">Maximus, he doesn't know.</font>
+
+892
+01:46:24,252 --> 01:46:27,380
+<font color="#FFFFFF">My family was burnt and crucified
+while they were still alive.</font>
+
+893
+01:46:27,463 --> 01:46:30,007
+<font color="#FFFFFF">- I knew nothing...
+- Don't lie to me!</font>
+
+894
+01:46:36,472 --> 01:46:38,224
+<font color="#FFFFFF">I wept for them.</font>
+
+895
+01:46:38,309 --> 01:46:42,145
+<font color="#FFFFFF">As you wept for your father?
+As you wept for your father?</font>
+
+896
+01:46:42,229 --> 01:46:45,814
+<font color="#FFFFFF">I have been living in a prison
+of fear since that day.</font>
+
+897
+01:46:46,317 --> 01:46:50,153
+<font color="#FFFFFF">To be unable to mourn your
+father for fear of your brother.</font>
+
+898
+01:46:51,029 --> 01:46:54,239
+<font color="#FFFFFF">To live in terror every
+moment of every day,</font>
+
+899
+01:46:54,324 --> 01:46:57,118
+<font color="#FFFFFF">because your son is
+heir to the throne.</font>
+
+900
+01:46:58,996 --> 01:47:00,454
+<font color="#FFFFFF">I have wept.</font>
+
+901
+01:47:01,789 --> 01:47:04,626
+<font color="#FFFFFF">My son was innocent.</font>
+
+902
+01:47:05,461 --> 01:47:07,502
+<font color="#FFFFFF">So is mine.</font>
+
+903
+01:47:09,506 --> 01:47:12,591
+<font color="#FFFFFF">Must my son die, too,
+before you'll trust me?</font>
+
+904
+01:47:14,052 --> 01:47:17,012
+<font color="#FFFFFF">What does it matter if
+I trust you or not?</font>
+
+905
+01:47:17,890 --> 01:47:20,934
+<font color="#FFFFFF">The gods have spared you.
+Don't you understand?</font>
+
+906
+01:47:21,018 --> 01:47:24,479
+<font color="#FFFFFF">Today I saw a slave become more
+powerful than the emperor of Rome.</font>
+
+907
+01:47:24,563 --> 01:47:26,355
+<font color="#FFFFFF">The gods have spared me?</font>
+
+908
+01:47:26,439 --> 01:47:29,900
+<font color="#FFFFFF">I am at their mercy, with the
+power only to amuse a mob.</font>
+
+909
+01:47:29,984 --> 01:47:31,527
+<font color="#FFFFFF">That is power.</font>
+
+910
+01:47:32,029 --> 01:47:33,154
+<font color="#FFFFFF">The mob is Rome.</font>
+
+911
+01:47:33,238 --> 01:47:36,865
+<font color="#FFFFFF">And while Commodus controls
+them, he controls everything.</font>
+
+912
+01:47:37,201 --> 01:47:38,743
+<font color="#FFFFFF">Listen to me.</font>
+
+913
+01:47:39,286 --> 01:47:42,412
+<font color="#FFFFFF">My brother has enemies,
+most of all in the Senate.</font>
+
+914
+01:47:42,497 --> 01:47:44,748
+<font color="#FFFFFF">But while the people follow him,</font>
+
+915
+01:47:44,832 --> 01:47:47,877
+<font color="#FFFFFF">no one would dare stand
+up to him until you.</font>
+
+916
+01:47:48,837 --> 01:47:51,130
+<font color="#FFFFFF">They oppose him, yet
+they do nothing.</font>
+
+917
+01:47:51,215 --> 01:47:54,967
+<font color="#FFFFFF">There are some politicians who have
+dedicated their lives to Rome.</font>
+
+918
+01:47:55,051 --> 01:47:56,802
+<font color="#FFFFFF">One man above all.</font>
+
+919
+01:47:57,887 --> 01:48:00,974
+<font color="#FFFFFF">If I can arrange it,
+will you meet him?</font>
+
+920
+01:48:01,307 --> 01:48:03,225
+<font color="#FFFFFF">Do you not understand?</font>
+
+921
+01:48:03,476 --> 01:48:07,689
+<font color="#FFFFFF">I may die in this cell tonight, or
+in the arena tomorrow. I am a slave!</font>
+
+922
+01:48:07,773 --> 01:48:10,440
+<font color="#FFFFFF">What possible
+difference can I make?</font>
+
+923
+01:48:10,734 --> 01:48:12,985
+<font color="#FFFFFF">This man wants what you want.</font>
+
+924
+01:48:13,069 --> 01:48:15,279
+<font color="#FFFFFF">Then have him kill Commodus!</font>
+
+925
+01:48:17,908 --> 01:48:19,701
+<font color="#FFFFFF">I knew a man once,</font>
+
+926
+01:48:20,618 --> 01:48:21,911
+<font color="#FFFFFF">a noble man.</font>
+
+927
+01:48:22,912 --> 01:48:25,789
+<font color="#FFFFFF">A man of principle
+who loved my father,</font>
+
+928
+01:48:26,750 --> 01:48:28,835
+<font color="#FFFFFF">and my father loved him.</font>
+
+929
+01:48:30,796 --> 01:48:32,963
+<font color="#FFFFFF">This man served Rome well.</font>
+
+930
+01:48:37,301 --> 01:48:39,011
+<font color="#FFFFFF">That man is gone.</font>
+
+931
+01:48:40,180 --> 01:48:42,305
+<font color="#FFFFFF">Your brother did his work well.</font>
+
+932
+01:48:42,390 --> 01:48:44,057
+<font color="#FFFFFF">Let me help you.</font>
+
+933
+01:48:49,981 --> 01:48:53,067
+<font color="#FFFFFF">Yes, you can help me.</font>
+
+934
+01:48:56,404 --> 01:49:00,115
+<font color="#FFFFFF">Forget you ever knew me,
+never come here again.</font>
+
+935
+01:49:03,787 --> 01:49:06,538
+<font color="#FFFFFF">Guard! The lady is
+finished with me.</font>
+
+936
+01:49:34,984 --> 01:49:36,652
+<font color="#FFFFFF">What's your name?</font>
+
+937
+01:49:39,655 --> 01:49:41,239
+<font color="#FFFFFF">Julian Crassus.</font>
+
+938
+01:49:46,747 --> 01:49:47,997
+<font color="#FFFFFF">Name?</font>
+
+939
+01:49:49,291 --> 01:49:50,792
+<font color="#FFFFFF">Marcus, sire.</font>
+
+940
+01:49:51,710 --> 01:49:53,418
+<font color="#FFFFFF">My father's name.</font>
+
+941
+01:50:00,927 --> 01:50:03,095
+<font color="#FFFFFF">They must have known
+of Maximus' escape,</font>
+
+942
+01:50:03,180 --> 01:50:06,015
+<font color="#FFFFFF">when they found the
+bodies of the four men.</font>
+
+943
+01:50:06,475 --> 01:50:09,060
+<font color="#FFFFFF">They thought it was
+a barbarian raid.</font>
+
+944
+01:50:10,104 --> 01:50:13,271
+<font color="#FFFFFF">These are good men, sire.
+Loyal to the Emperor.</font>
+
+945
+01:50:20,613 --> 01:50:22,323
+<font color="#FFFFFF">Load your arrows!</font>
+
+946
+01:50:29,957 --> 01:50:31,873
+<font color="#FFFFFF">Prepare to fire!</font>
+
+947
+01:50:52,395 --> 01:50:55,689
+<font color="#FFFFFF">Then perhaps it
+was you who knew,</font>
+
+948
+01:50:56,524 --> 01:50:58,234
+<font color="#FFFFFF">and never told me.</font>
+
+949
+01:50:58,484 --> 01:51:00,735
+<font color="#FFFFFF">- I didn't know.
+- You didn't know?</font>
+
+950
+01:51:02,238 --> 01:51:05,073
+<font color="#FFFFFF">But a general is
+always in control.</font>
+
+951
+01:51:06,451 --> 01:51:10,121
+<font color="#FFFFFF">Always in command, isn't he?</font>
+
+952
+01:51:11,664 --> 01:51:13,123
+<font color="#FFFFFF">Yes, Caesar.</font>
+
+953
+01:51:27,055 --> 01:51:29,765
+<font color="#FFFFFF">Then give the command. Say it.</font>
+
+954
+01:51:46,658 --> 01:51:47,783
+<font color="#FFFFFF">Fire.</font>
+
+955
+01:52:23,028 --> 01:52:24,362
+<font color="#FFFFFF">Maximus.</font>
+
+956
+01:52:25,113 --> 01:52:28,240
+<font color="#FFFFFF">You commanded legions?
+You had many victories?</font>
+
+957
+01:52:29,117 --> 01:52:31,327
+<font color="#FFFFFF">- Yes.
+- In Germania?</font>
+
+958
+01:52:33,247 --> 01:52:34,997
+<font color="#FFFFFF">In many countries.</font>
+
+959
+01:52:36,582 --> 01:52:37,917
+<font color="#FFFFFF">General.</font>
+
+960
+01:53:27,009 --> 01:53:28,884
+<font color="#FFFFFF">You have a great name.</font>
+
+961
+01:53:30,386 --> 01:53:33,430
+<font color="#FFFFFF">He must kill your name
+before he kills you.</font>
+
+962
+01:53:42,399 --> 01:53:43,733
+<font color="#FFFFFF">Yes, at the far end.</font>
+
+963
+01:53:43,817 --> 01:53:45,734
+<font color="#FFFFFF">- Senator Gaius.
+- Hello.</font>
+
+964
+01:53:46,235 --> 01:53:48,194
+<font color="#FFFFFF">Senator Gracchus.</font>
+
+965
+01:53:49,780 --> 01:53:53,199
+<font color="#FFFFFF">Don't often see you enjoying the
+pleasures of the vulgar crowd.</font>
+
+966
+01:53:53,284 --> 01:53:56,412
+<font color="#FFFFFF">I don't pretend to be a man
+of the people, Senator,</font>
+
+967
+01:53:56,496 --> 01:53:58,997
+<font color="#FFFFFF">but I do try to be a
+man for the people.</font>
+
+968
+01:54:15,265 --> 01:54:17,766
+<font color="#FFFFFF">Caesar! Caesar! Caesar! Caesar!</font>
+
+969
+01:54:17,850 --> 01:54:20,519
+<font color="#FFFFFF">Caesar! Caesar! Caesar! Caesar!</font>
+
+970
+01:54:25,024 --> 01:54:26,649
+<font color="#FFFFFF">People of Rome!</font>
+
+971
+01:54:28,944 --> 01:54:31,404
+<font color="#FFFFFF">On the fourth day of Antioch,</font>
+
+972
+01:54:32,032 --> 01:54:36,409
+<font color="#FFFFFF">we can celebrate the
+64th day of the games.</font>
+
+973
+01:54:37,037 --> 01:54:41,289
+<font color="#FFFFFF">And in his majestic Charity,</font>
+
+974
+01:54:42,042 --> 01:54:46,252
+<font color="#FFFFFF">the Emperor has deigned this day
+to favor the people of Rome</font>
+
+975
+01:54:46,837 --> 01:54:50,256
+<font color="#FFFFFF">with an historical final match.</font>
+
+976
+01:54:51,051 --> 01:54:55,637
+<font color="#FFFFFF">Returning to the Colosseum today,
+after five years in retirement,</font>
+
+977
+01:54:57,056 --> 01:55:00,518
+<font color="#FFFFFF">Caesar is pleased to bring you</font>
+
+978
+01:55:00,601 --> 01:55:04,396
+<font color="#FFFFFF">the only undefeated champion</font>
+
+979
+01:55:04,480 --> 01:55:06,439
+<font color="#FFFFFF">in Roman history,</font>
+
+980
+01:55:06,524 --> 01:55:11,444
+<font color="#FFFFFF">the legendary Tigris of Gaul!</font>
+
+981
+01:55:33,009 --> 01:55:36,177
+<font color="#FFFFFF">He knows too well how
+to manipulate the mob.</font>
+
+982
+01:55:36,262 --> 01:55:38,972
+<font color="#FFFFFF">Marcus Aurelius had a dream
+that was Rome, Proximo.</font>
+
+983
+01:55:39,056 --> 01:55:41,850
+<font color="#FFFFFF">This is not it. This is not it!</font>
+
+984
+01:55:41,935 --> 01:55:44,770
+<font color="#FFFFFF">Marcus Aurelius
+is dead, Maximus.</font>
+
+985
+01:55:45,604 --> 01:55:48,189
+<font color="#FFFFFF">We mortals are but
+shadows and dust.</font>
+
+986
+01:55:48,859 --> 01:55:50,984
+<font color="#FFFFFF">Shadows and dust, Maximus!</font>
+
+987
+01:55:51,069 --> 01:55:54,947
+<font color="#FFFFFF">Representing the training
+lyceum of Antonius Proximo,</font>
+
+988
+01:55:55,030 --> 01:55:58,701
+<font color="#FFFFFF">Caesar is proud to give you.</font>
+
+989
+01:55:58,784 --> 01:56:02,621
+<font color="#FFFFFF">Aelius Maximus!</font>
+
+990
+01:56:15,426 --> 01:56:17,802
+<font color="#FFFFFF">They embrace him like
+he's one of their own.</font>
+
+991
+01:56:17,887 --> 01:56:21,806
+<font color="#FFFFFF">The mob is fickle, brother.
+He'll be forgotten in a month.</font>
+
+992
+01:56:24,560 --> 01:56:27,395
+<font color="#FFFFFF">No, much sooner than that.</font>
+
+993
+01:56:29,315 --> 01:56:31,108
+<font color="#FFFFFF">It's been arranged.</font>
+
+994
+01:56:49,627 --> 01:56:52,587
+<font color="#FFFFFF">We who are about
+to die salute you.</font>
+
+995
+01:56:55,926 --> 01:56:57,717
+<font color="#FFFFFF">We're with you, Maximus!</font>
+
+996
+01:57:40,302 --> 01:57:42,095
+<font color="#FFFFFF">Fight on, finish it!</font>
+
+997
+01:58:10,332 --> 01:58:12,001
+<font color="#FFFFFF">Pull, pull!</font>
+
+998
+01:58:44,367 --> 01:58:45,908
+<font color="#FFFFFF">Loose! Loose!</font>
+
+999
+01:59:14,021 --> 01:59:16,105
+<font color="#FFFFFF">- Gut him!
+- Kill!</font>
+
+1000
+01:59:17,567 --> 01:59:21,153
+<font color="#FFFFFF">- Kill! Kill! Kill! Kill!
+- Kill! Kill! Kill! Kill!</font>
+
+1001
+01:59:41,591 --> 01:59:43,634
+<font color="#FFFFFF">- Kill!
+- Kill!</font>
+
+1002
+02:00:21,506 --> 02:00:23,716
+<font color="#FFFFFF">Maximus the Merciful!</font>
+
+1003
+02:00:32,891 --> 02:00:36,395
+<font color="#FFFFFF">Maximus!
+Maximus! Maximus!</font>
+
+1004
+02:00:36,479 --> 02:00:38,646
+<font color="#FFFFFF">Maximus! Maximus! Maximus!</font>
+
+1005
+02:00:45,863 --> 02:00:48,489
+<font color="#FFFFFF">Forward, arms at ready!</font>
+
+1006
+02:01:18,479 --> 02:01:20,855
+<font color="#FFFFFF">What am I going to do with you?</font>
+
+1007
+02:01:22,024 --> 02:01:25,485
+<font color="#FFFFFF">You simply won't die.</font>
+
+1008
+02:01:30,240 --> 02:01:32,618
+<font color="#FFFFFF">Are we so different, you and I?</font>
+
+1009
+02:01:33,744 --> 02:01:36,662
+<font color="#FFFFFF">You take life when you
+have to, as I do.</font>
+
+1010
+02:01:38,041 --> 02:01:41,710
+<font color="#FFFFFF">I have only one more life to take.
+Then it is done.</font>
+
+1011
+02:01:42,252 --> 02:01:44,003
+<font color="#FFFFFF">Then take it now.</font>
+
+1012
+02:01:57,060 --> 02:01:59,060
+<font color="#FFFFFF">They tell me your son</font>
+
+1013
+02:01:59,854 --> 02:02:03,774
+<font color="#FFFFFF">squealed like a girl when
+they nailed him to the cross.</font>
+
+1014
+02:02:05,902 --> 02:02:07,569
+<font color="#FFFFFF">And your wife</font>
+
+1015
+02:02:08,822 --> 02:02:10,738
+<font color="#FFFFFF">moaned like a whore</font>
+
+1016
+02:02:11,865 --> 02:02:16,411
+<font color="#FFFFFF">when they ravaged
+her again and again</font>
+
+1017
+02:02:17,747 --> 02:02:19,163
+<font color="#FFFFFF">and again.</font>
+
+1018
+02:02:24,420 --> 02:02:28,172
+<font color="#FFFFFF">The time for honoring yourself
+will soon be at an end,</font>
+
+1019
+02:02:32,761 --> 02:02:34,136
+<font color="#FFFFFF">Highness.</font>
+
+1020
+02:02:48,403 --> 02:02:51,363
+<font color="#FFFFFF">Maximus!
+Maximus! Maximus!</font>
+
+1021
+02:03:01,666 --> 02:03:07,462
+<font color="#FFFFFF">General! General!</font>
+
+1022
+02:03:09,506 --> 02:03:11,300
+<font color="#FFFFFF">- General!
+- Cicero!</font>
+
+1023
+02:03:18,765 --> 02:03:20,266
+<font color="#FFFFFF">- General!
+- Where are you camped?</font>
+
+1024
+02:03:20,350 --> 02:03:21,643
+<font color="#FFFFFF">Ostia.</font>
+
+1025
+02:03:28,109 --> 02:03:31,069
+<font color="#FFFFFF">- We love you, Maximus!
+- Praise the Victor!</font>
+
+1026
+02:03:31,154 --> 02:03:33,654
+<font color="#FFFFFF">Tell the men their general lives.
+Find me.</font>
+
+1027
+02:03:33,823 --> 02:03:35,615
+<font color="#FFFFFF">- Move along!
+- Find me!</font>
+
+1028
+02:04:01,475 --> 02:04:03,435
+<font color="#FFFFFF">Can they hear you?</font>
+
+1029
+02:04:07,023 --> 02:04:10,524
+<font color="#FFFFFF">- Who?
+- Your family, in the afterlife.</font>
+
+1030
+02:04:13,029 --> 02:04:15,363
+<font color="#FFFFFF">- Yes.
+- What do you say to them?</font>
+
+1031
+02:04:19,243 --> 02:04:20,702
+<font color="#FFFFFF">To my boy,</font>
+
+1032
+02:04:22,537 --> 02:04:25,082
+<font color="#FFFFFF">I tell him I will
+see him again soon,</font>
+
+1033
+02:04:25,166 --> 02:04:28,752
+<font color="#FFFFFF">and to keep his heels down
+when he's riding his horse.</font>
+
+1034
+02:04:30,046 --> 02:04:31,546
+<font color="#FFFFFF">To my wife,</font>
+
+1035
+02:04:34,050 --> 02:04:36,176
+<font color="#FFFFFF">that is not your business.</font>
+
+1036
+02:04:43,850 --> 02:04:46,728
+<font color="#FFFFFF">And now they love
+Maximus for his mercy.</font>
+
+1037
+02:04:48,105 --> 02:04:51,649
+<font color="#FFFFFF">So I can't just kill him, or it
+makes me even more unmerciful.</font>
+
+1038
+02:04:52,985 --> 02:04:57,238
+<font color="#FFFFFF">The whole thing is like
+some great nightmare.</font>
+
+1039
+02:04:58,490 --> 02:05:00,324
+<font color="#FFFFFF">He is defying you.</font>
+
+1040
+02:05:00,409 --> 02:05:03,787
+<font color="#FFFFFF">His every victory is
+an act of defiance.</font>
+
+1041
+02:05:03,871 --> 02:05:07,457
+<font color="#FFFFFF">The mob sees this, and
+so do the Senate.</font>
+
+1042
+02:05:08,251 --> 02:05:11,127
+<font color="#FFFFFF">Every day he lives,
+they grow bolder.</font>
+
+1043
+02:05:12,671 --> 02:05:14,422
+<font color="#FFFFFF">- Kill him.
+- No.</font>
+
+1044
+02:05:16,300 --> 02:05:18,760
+<font color="#FFFFFF">I will not make a martyr of him.</font>
+
+1045
+02:05:25,893 --> 02:05:28,353
+<font color="#FFFFFF">When I went to the Senate today,</font>
+
+1046
+02:05:28,438 --> 02:05:32,899
+<font color="#FFFFFF">I purposefully told them about using the
+grain reserves to pay for the games.</font>
+
+1047
+02:05:34,819 --> 02:05:36,987
+<font color="#FFFFFF">And did you note what happened?</font>
+
+1048
+02:05:37,070 --> 02:05:40,282
+<font color="#FFFFFF">- Nothing.
+- Exactly. Nothing.</font>
+
+1049
+02:05:41,283 --> 02:05:43,618
+<font color="#FFFFFF">Not a single word of protest.</font>
+
+1050
+02:05:43,703 --> 02:05:47,329
+<font color="#FFFFFF">Even the insolent Senator
+Gracchus was silent as a mouse.</font>
+
+1051
+02:05:47,414 --> 02:05:48,582
+<font color="#FFFFFF">Why?</font>
+
+1052
+02:05:50,292 --> 02:05:54,003
+<font color="#FFFFFF">I have been told of
+a certain sea snake</font>
+
+1053
+02:05:54,087 --> 02:05:58,132
+<font color="#FFFFFF">which has a very unusual
+method of attracting its prey.</font>
+
+1054
+02:05:58,592 --> 02:06:02,304
+<font color="#FFFFFF">It will lie at the bottom
+of the ocean as if wounded.</font>
+
+1055
+02:06:03,305 --> 02:06:05,640
+<font color="#FFFFFF">Then its enemies will approach,</font>
+
+1056
+02:06:05,725 --> 02:06:08,810
+<font color="#FFFFFF">and yet it will lie quite still.</font>
+
+1057
+02:06:09,145 --> 02:06:12,939
+<font color="#FFFFFF">And then its enemies will
+take little bites of it,</font>
+
+1058
+02:06:13,024 --> 02:06:16,318
+<font color="#FFFFFF">and yet it remains still.</font>
+
+1059
+02:06:19,529 --> 02:06:20,697
+<font color="#FFFFFF">So,</font>
+
+1060
+02:06:22,033 --> 02:06:23,824
+<font color="#FFFFFF">we will lie still,</font>
+
+1061
+02:06:24,534 --> 02:06:27,871
+<font color="#FFFFFF">and let our enemies
+come to us and nibble.</font>
+
+1062
+02:06:29,039 --> 02:06:31,291
+<font color="#FFFFFF">Have every senator followed.</font>
+
+1063
+02:06:48,935 --> 02:06:50,685
+<font color="#FFFFFF">Cicero, my old friend.</font>
+
+1064
+02:06:50,770 --> 02:06:52,689
+<font color="#FFFFFF">I thought perhaps I'd seen
+you for the last time.</font>
+
+1065
+02:06:52,729 --> 02:06:55,273
+<font color="#FFFFFF">- I thought you were dead.
+- Close.</font>
+
+1066
+02:06:55,358 --> 02:06:56,983
+<font color="#FFFFFF">How long have the
+men been in Ostia?</font>
+
+1067
+02:06:57,068 --> 02:06:58,400
+<font color="#FFFFFF">All winter.</font>
+
+1068
+02:06:58,735 --> 02:07:02,029
+<font color="#FFFFFF">- And how do they look?
+- Fat and bored.</font>
+
+1069
+02:07:02,739 --> 02:07:05,783
+<font color="#FFFFFF">- Who's in command?
+- Some fool from Rome.</font>
+
+1070
+02:07:07,411 --> 02:07:09,246
+<font color="#FFFFFF">How soon do you think they
+could be ready to fight?</font>
+
+1071
+02:07:09,329 --> 02:07:11,122
+<font color="#FFFFFF">For you, tomorrow.</font>
+
+1072
+02:07:12,582 --> 02:07:15,085
+<font color="#FFFFFF">I need you to do
+something for me.</font>
+
+1073
+02:07:19,715 --> 02:07:21,132
+<font color="#FFFFFF">Come, see, witness.</font>
+
+1074
+02:07:21,216 --> 02:07:24,261
+<font color="#FFFFFF">If you haven't been in the arena,
+you can see the show here.</font>
+
+1075
+02:07:24,345 --> 02:07:27,972
+<font color="#FFFFFF">Giant Maximus is defeating
+our emperor, Commodus.</font>
+
+1076
+02:07:28,056 --> 02:07:30,684
+<font color="#FFFFFF">What are we to do? He's
+just defying everyone,</font>
+
+1077
+02:07:30,768 --> 02:07:32,435
+<font color="#FFFFFF">by doing this to him, they do...</font>
+
+1078
+02:07:33,688 --> 02:07:35,020
+<font color="#FFFFFF">My goodness!</font>
+
+1079
+02:07:36,815 --> 02:07:40,402
+<font color="#FFFFFF">He got him, he's defeated.
+Give way!</font>
+
+1080
+02:07:46,492 --> 02:07:49,077
+<font color="#FFFFFF">My lady? I served your
+father at Vindobona.</font>
+
+1081
+02:07:49,162 --> 02:07:50,703
+<font color="#FFFFFF">Back.
+My lady.</font>
+
+1082
+02:07:50,787 --> 02:07:53,206
+<font color="#FFFFFF">I served your
+father at Vindobona.</font>
+
+1083
+02:07:53,291 --> 02:07:54,373
+<font color="#FFFFFF">Back!</font>
+
+1084
+02:07:54,457 --> 02:07:57,668
+<font color="#FFFFFF">And I served General Maximus.
+I serve him still.</font>
+
+1085
+02:07:59,171 --> 02:08:00,755
+<font color="#FFFFFF">Stop. Stop.</font>
+
+1086
+02:08:01,298 --> 02:08:02,465
+<font color="#FFFFFF">Stop!</font>
+
+1087
+02:08:03,384 --> 02:08:04,801
+<font color="#FFFFFF">Stand back.</font>
+
+1088
+02:08:06,095 --> 02:08:09,139
+<font color="#FFFFFF">The general sends word, he
+will meet your politician.</font>
+
+1089
+02:08:10,850 --> 02:08:14,144
+<font color="#FFFFFF">- For your loyalty, soldier.
+- Thank you, my lady.</font>
+
+1090
+02:08:23,904 --> 02:08:25,238
+<font color="#FFFFFF">Leave us.</font>
+
+1091
+02:08:30,953 --> 02:08:32,662
+<font color="#FFFFFF">Senator Gracchus.</font>
+
+1092
+02:08:46,469 --> 02:08:47,761
+<font color="#FFFFFF">General.</font>
+
+1093
+02:08:48,845 --> 02:08:51,597
+<font color="#FFFFFF">I hope my coming here
+today is evidence enough</font>
+
+1094
+02:08:51,681 --> 02:08:54,768
+<font color="#FFFFFF">that you can trust me.</font>
+
+1095
+02:08:59,064 --> 02:09:01,524
+<font color="#FFFFFF">- The Senate is with you?
+- The Senate?</font>
+
+1096
+02:09:03,027 --> 02:09:05,737
+<font color="#FFFFFF">Yes. I can speak for them.</font>
+
+1097
+02:09:06,363 --> 02:09:09,698
+<font color="#FFFFFF">You can buy my freedom and
+smuggle me out of Rome?</font>
+
+1098
+02:09:10,076 --> 02:09:11,533
+<font color="#FFFFFF">To what end?</font>
+
+1099
+02:09:12,994 --> 02:09:15,329
+<font color="#FFFFFF">Get me outside the city walls.</font>
+
+1100
+02:09:15,914 --> 02:09:19,792
+<font color="#FFFFFF">Have fresh horses ready to take me
+to Ostia. My army is encamped there.</font>
+
+1101
+02:09:19,877 --> 02:09:23,212
+<font color="#FFFFFF">By nightfall of the second day, I shall
+return at the head of 5,000 men.</font>
+
+1102
+02:09:23,296 --> 02:09:25,547
+<font color="#FFFFFF">But the legions all
+have new commanders,</font>
+
+1103
+02:09:25,632 --> 02:09:27,050
+<font color="#FFFFFF">loyal to Commodus.</font>
+
+1104
+02:09:27,134 --> 02:09:30,302
+<font color="#FFFFFF">Let my men see me alive, and you
+shall see where their loyalties lie.</font>
+
+1105
+02:09:30,387 --> 02:09:32,055
+<font color="#FFFFFF">This is madness.</font>
+
+1106
+02:09:32,722 --> 02:09:36,059
+<font color="#FFFFFF">No Roman army has entered
+the capital in 100 years.</font>
+
+1107
+02:09:36,143 --> 02:09:38,395
+<font color="#FFFFFF">I will not trade one
+dictatorship for another!</font>
+
+1108
+02:09:38,479 --> 02:09:42,023
+<font color="#FFFFFF">The time for half measures
+and talk is over, Senator.</font>
+
+1109
+02:09:42,565 --> 02:09:45,652
+<font color="#FFFFFF">And after your glorious
+coup, what then?</font>
+
+1110
+02:09:46,862 --> 02:09:50,489
+<font color="#FFFFFF">You'll take your 5,000
+warriors and leave?</font>
+
+1111
+02:09:50,573 --> 02:09:52,117
+<font color="#FFFFFF">I will leave.</font>
+
+1112
+02:09:52,618 --> 02:09:54,661
+<font color="#FFFFFF">The soldiers will stay
+for your protection,</font>
+
+1113
+02:09:54,744 --> 02:09:56,412
+<font color="#FFFFFF">under the command of the Senate.</font>
+
+1114
+02:09:56,538 --> 02:09:57,706
+<font color="#FFFFFF">So,</font>
+
+1115
+02:09:58,039 --> 02:10:02,252
+<font color="#FFFFFF">once all of Rome is yours, you'll
+just give it back to the people?</font>
+
+1116
+02:10:03,628 --> 02:10:04,628
+<font color="#FFFFFF">Tell me why.</font>
+
+1117
+02:10:10,761 --> 02:10:13,930
+<font color="#FFFFFF">Because that was the last
+wish of a dying man.</font>
+
+1118
+02:10:16,975 --> 02:10:18,851
+<font color="#FFFFFF">I will kill Commodus.</font>
+
+1119
+02:10:20,770 --> 02:10:23,856
+<font color="#FFFFFF">The fate of Rome I leave to you.</font>
+
+1120
+02:10:25,609 --> 02:10:27,902
+<font color="#FFFFFF">Marcus Aurelius trusted you.</font>
+
+1121
+02:10:29,738 --> 02:10:31,780
+<font color="#FFFFFF">His daughter trusts you.</font>
+
+1122
+02:10:35,786 --> 02:10:37,453
+<font color="#FFFFFF">I will trust you.</font>
+
+1123
+02:10:37,872 --> 02:10:39,913
+<font color="#FFFFFF">But we have little time.</font>
+
+1124
+02:10:40,457 --> 02:10:42,207
+<font color="#FFFFFF">Give me two days,</font>
+
+1125
+02:10:43,002 --> 02:10:45,252
+<font color="#FFFFFF">and I will buy your freedom.</font>
+
+1126
+02:10:45,880 --> 02:10:47,212
+<font color="#FFFFFF">And you,</font>
+
+1127
+02:10:48,757 --> 02:10:50,341
+<font color="#FFFFFF">you stay alive,</font>
+
+1128
+02:10:51,844 --> 02:10:53,511
+<font color="#FFFFFF">or I'll be dead.</font>
+
+1129
+02:10:55,472 --> 02:10:57,056
+<font color="#FFFFFF">Now we must go.</font>
+
+1130
+02:11:24,126 --> 02:11:27,712
+<font color="#FFFFFF">He'll be waiting for you.
+Stand at the foot of the colossus.</font>
+
+1131
+02:11:27,796 --> 02:11:29,381
+<font color="#FFFFFF">He'll find you.</font>
+
+1132
+02:12:13,551 --> 02:12:15,009
+<font color="#FFFFFF">It won't work.</font>
+
+1133
+02:12:15,970 --> 02:12:18,095
+<font color="#FFFFFF">The Emperor knows too much.</font>
+
+1134
+02:12:18,847 --> 02:12:19,847
+<font color="#FFFFFF">And as for me,</font>
+
+1135
+02:12:22,184 --> 02:12:24,226
+<font color="#FFFFFF">it's becoming dangerous.</font>
+
+1136
+02:12:25,520 --> 02:12:27,771
+<font color="#FFFFFF">You'll be paid on my return.</font>
+
+1137
+02:12:29,859 --> 02:12:31,650
+<font color="#FFFFFF">I give you my word.</font>
+
+1138
+02:12:31,902 --> 02:12:34,988
+<font color="#FFFFFF">Your word? What if
+you don't return?</font>
+
+1139
+02:12:36,239 --> 02:12:39,199
+<font color="#FFFFFF">Do you remember what it was
+to have trust, Proximo?</font>
+
+1140
+02:12:39,284 --> 02:12:40,534
+<font color="#FFFFFF">Trust?</font>
+
+1141
+02:12:44,789 --> 02:12:46,541
+<font color="#FFFFFF">Who am I to trust?</font>
+
+1142
+02:12:47,126 --> 02:12:50,295
+<font color="#FFFFFF">- I will kill Commodus.
+- Why would I want that?</font>
+
+1143
+02:12:51,087 --> 02:12:52,796
+<font color="#FFFFFF">He makes me rich.</font>
+
+1144
+02:12:57,927 --> 02:13:00,762
+<font color="#FFFFFF">I know that you are a man
+of your word, General.</font>
+
+1145
+02:13:02,515 --> 02:13:05,100
+<font color="#FFFFFF">I know that you would
+die for honor.</font>
+
+1146
+02:13:06,436 --> 02:13:08,395
+<font color="#FFFFFF">You would die for Rome.</font>
+
+1147
+02:13:09,439 --> 02:13:12,567
+<font color="#FFFFFF">You would die for the
+memory of your ancestors.</font>
+
+1148
+02:13:12,650 --> 02:13:14,944
+<font color="#FFFFFF">But I, on the other hand,</font>
+
+1149
+02:13:17,655 --> 02:13:19,490
+<font color="#FFFFFF">I'm an entertainer.</font>
+
+1150
+02:13:22,994 --> 02:13:24,203
+<font color="#FFFFFF">Guard!</font>
+
+1151
+02:13:29,042 --> 02:13:31,627
+<font color="#FFFFFF">He killed the man
+who set you free.</font>
+
+1152
+02:13:40,804 --> 02:13:42,639
+<font color="#FFFFFF">Praetorians, master.</font>
+
+1153
+02:13:48,811 --> 02:13:49,979
+<font color="#FFFFFF">Halt!</font>
+
+1154
+02:14:55,128 --> 02:14:56,921
+<font color="#FFFFFF">Where have you been?</font>
+
+1155
+02:14:57,381 --> 02:14:58,965
+<font color="#FFFFFF">I sent for you.</font>
+
+1156
+02:15:00,551 --> 02:15:02,217
+<font color="#FFFFFF">Please, brother.</font>
+
+1157
+02:15:07,975 --> 02:15:09,850
+<font color="#FFFFFF">What's troubling you?</font>
+
+1158
+02:15:12,270 --> 02:15:14,646
+<font color="#FFFFFF">Does Gracchus have a new lover?</font>
+
+1159
+02:15:16,442 --> 02:15:17,942
+<font color="#FFFFFF">I don't know.</font>
+
+1160
+02:15:19,944 --> 02:15:22,070
+<font color="#FFFFFF">I thought you'd seen him.</font>
+
+1161
+02:15:22,905 --> 02:15:25,408
+<font color="#FFFFFF">He infects everyone
+like a putrid fever.</font>
+
+1162
+02:15:27,202 --> 02:15:30,412
+<font color="#FFFFFF">For the health of Rome,
+the Senate must be bled.</font>
+
+1163
+02:15:30,831 --> 02:15:32,873
+<font color="#FFFFFF">And he will bleed, too.</font>
+
+1164
+02:15:33,751 --> 02:15:35,126
+<font color="#FFFFFF">Very soon.</font>
+
+1165
+02:15:36,628 --> 02:15:38,296
+<font color="#FFFFFF">But not tonight.</font>
+
+1166
+02:15:53,311 --> 02:15:56,229
+<font color="#FFFFFF">Do you remember what
+our father said once?</font>
+
+1167
+02:15:57,565 --> 02:15:59,233
+<font color="#FFFFFF">"It's a dream,"</font>
+
+1168
+02:16:01,110 --> 02:16:03,029
+<font color="#FFFFFF">"a frightful dream,"</font>
+
+1169
+02:16:05,573 --> 02:16:06,908
+<font color="#FFFFFF">"life is."</font>
+
+1170
+02:16:09,619 --> 02:16:11,703
+<font color="#FFFFFF">Do you think that's true?</font>
+
+1171
+02:16:12,456 --> 02:16:13,956
+<font color="#FFFFFF">I don't know.</font>
+
+1172
+02:16:17,543 --> 02:16:19,087
+<font color="#FFFFFF">I think it is.</font>
+
+1173
+02:16:21,840 --> 02:16:24,591
+<font color="#FFFFFF">And I have only you
+to share it with.</font>
+
+1174
+02:17:02,172 --> 02:17:03,798
+<font color="#FFFFFF">Open your mouth.</font>
+
+1175
+02:17:41,085 --> 02:17:42,879
+<font color="#FFFFFF">You know I love you.</font>
+
+1176
+02:17:44,965 --> 02:17:46,549
+<font color="#FFFFFF">And I love you.</font>
+
+1177
+02:18:23,211 --> 02:18:24,754
+<font color="#FFFFFF">Out. Get out!</font>
+
+1178
+02:18:25,963 --> 02:18:27,215
+<font color="#FFFFFF">Move!</font>
+
+1179
+02:18:31,887 --> 02:18:33,930
+<font color="#FFFFFF">Congratulations, General.</font>
+
+1180
+02:18:34,013 --> 02:18:36,808
+<font color="#FFFFFF">You've got very
+persuasive friends.</font>
+
+1181
+02:18:42,815 --> 02:18:45,316
+<font color="#FFFFFF">My brother has had
+Gracchus arrested.</font>
+
+1182
+02:18:45,399 --> 02:18:48,861
+<font color="#FFFFFF">We daren't wait any longer.
+We must leave tonight.</font>
+
+1183
+02:18:48,945 --> 02:18:52,573
+<font color="#FFFFFF">Proximo will come at midnight
+and take you to the gate.</font>
+
+1184
+02:18:53,242 --> 02:18:56,911
+<font color="#FFFFFF">Your servant, Cicero, will be
+waiting there with horses.</font>
+
+1185
+02:18:58,914 --> 02:19:01,207
+<font color="#FFFFFF">- You have done all this?
+- Yes.</font>
+
+1186
+02:19:02,416 --> 02:19:04,126
+<font color="#FFFFFF">You risk too much.</font>
+
+1187
+02:19:05,086 --> 02:19:07,087
+<font color="#FFFFFF">I have much to pay for.</font>
+
+1188
+02:19:09,507 --> 02:19:11,717
+<font color="#FFFFFF">You have nothing to pay for.</font>
+
+1189
+02:19:11,801 --> 02:19:14,887
+<font color="#FFFFFF">You love your son.
+You're strong for him.</font>
+
+1190
+02:19:18,100 --> 02:19:20,433
+<font color="#FFFFFF">I am tired of being strong.</font>
+
+1191
+02:19:22,396 --> 02:19:26,606
+<font color="#FFFFFF">My brother hates all the
+world, and you most of all.</font>
+
+1192
+02:19:27,109 --> 02:19:30,236
+<font color="#FFFFFF">- Because your father chose me.
+- No.</font>
+
+1193
+02:19:31,530 --> 02:19:33,781
+<font color="#FFFFFF">Because my father loved you.</font>
+
+1194
+02:19:37,702 --> 02:19:40,120
+<font color="#FFFFFF">And because I loved you.</font>
+
+1195
+02:19:42,708 --> 02:19:44,375
+<font color="#FFFFFF">A long time ago.</font>
+
+1196
+02:19:49,130 --> 02:19:51,256
+<font color="#FFFFFF">Was I very different then?</font>
+
+1197
+02:19:57,806 --> 02:19:59,557
+<font color="#FFFFFF">You laughed more.</font>
+
+1198
+02:20:03,645 --> 02:20:06,063
+<font color="#FFFFFF">I have felt alone all my life,</font>
+
+1199
+02:20:07,356 --> 02:20:09,024
+<font color="#FFFFFF">except with you.</font>
+
+1200
+02:20:12,111 --> 02:20:13,486
+<font color="#FFFFFF">I must go.</font>
+
+1201
+02:20:14,156 --> 02:20:15,281
+<font color="#FFFFFF">Yes.</font>
+
+1202
+02:20:43,769 --> 02:20:44,977
+<font color="#FFFFFF">There.</font>
+
+1203
+02:20:56,531 --> 02:20:58,031
+<font color="#FFFFFF">And I got you.</font>
+
+1204
+02:21:01,077 --> 02:21:02,995
+<font color="#FFFFFF">Isn't it late to be
+playing legionnaire?</font>
+
+1205
+02:21:03,079 --> 02:21:05,164
+<font color="#FFFFFF">I'm not a legionnaire.</font>
+
+1206
+02:21:05,498 --> 02:21:08,084
+<font color="#FFFFFF">- Not a legionnaire?
+- I'm a gladiator.</font>
+
+1207
+02:21:09,378 --> 02:21:10,835
+<font color="#FFFFFF">A gladiator?</font>
+
+1208
+02:21:11,546 --> 02:21:14,215
+<font color="#FFFFFF">Gladiators only
+fight in the games.</font>
+
+1209
+02:21:14,299 --> 02:21:17,718
+<font color="#FFFFFF">Wouldn't you rather be a great
+Roman warrior like Julius Caesar?</font>
+
+1210
+02:21:17,802 --> 02:21:20,388
+<font color="#FFFFFF">I'm Maximus, the savior of Rome!</font>
+
+1211
+02:21:23,225 --> 02:21:25,058
+<font color="#FFFFFF">The savior of Rome?</font>
+
+1212
+02:21:33,067 --> 02:21:34,777
+<font color="#FFFFFF">And who said that?</font>
+
+1213
+02:21:43,620 --> 02:21:45,203
+<font color="#FFFFFF">Where's Lucius?</font>
+
+1214
+02:21:46,415 --> 02:21:48,833
+<font color="#FFFFFF">He's with the Emperor, my lady.</font>
+
+1215
+02:21:51,753 --> 02:21:53,513
+<font color="#FFFFFF">She couldn't.
+Yes, she did.</font>
+
+1216
+02:21:53,547 --> 02:21:55,755
+<font color="#FFFFFF">She took it from a basket,</font>
+
+1217
+02:21:57,174 --> 02:22:00,927
+<font color="#FFFFFF">and pressed it to her breast,
+right here above her heart.</font>
+
+1218
+02:22:02,556 --> 02:22:05,765
+<font color="#FFFFFF">It bit her in the breast?
+- Yes.</font>
+
+1219
+02:22:06,434 --> 02:22:10,396
+<font color="#FFFFFF">You see, Lucius,
+sometimes royal ladies</font>
+
+1220
+02:22:10,897 --> 02:22:14,859
+<font color="#FFFFFF">behave very strangely and do very
+odd things in the name of love.</font>
+
+1221
+02:22:14,942 --> 02:22:17,528
+<font color="#FFFFFF">- I think it's silly.
+- So do I.</font>
+
+1222
+02:22:19,613 --> 02:22:20,948
+<font color="#FFFFFF">So do I.</font>
+
+1223
+02:22:21,490 --> 02:22:23,575
+<font color="#FFFFFF">Sister, join us.</font>
+
+1224
+02:22:24,201 --> 02:22:25,952
+<font color="#FFFFFF">I've been reading
+to dear Lucius.</font>
+
+1225
+02:22:26,038 --> 02:22:28,039
+<font color="#FFFFFF">I've been reading, too.
+Yes.</font>
+
+1226
+02:22:28,122 --> 02:22:32,459
+<font color="#FFFFFF">He's a very clever little boy. He'll
+make a grand emperor one day.</font>
+
+1227
+02:22:34,004 --> 02:22:36,422
+<font color="#FFFFFF">We've been reading about
+the great Mark Antony,</font>
+
+1228
+02:22:36,505 --> 02:22:37,840
+<font color="#FFFFFF">and his adventures in Egypt.</font>
+
+1229
+02:22:37,924 --> 02:22:40,468
+<font color="#FFFFFF">And the queen killed
+herself with a snake.</font>
+
+1230
+02:22:40,551 --> 02:22:43,888
+<font color="#FFFFFF">And just wait until you hear
+what happened to our ancestors.</font>
+
+1231
+02:22:43,971 --> 02:22:45,806
+<font color="#FFFFFF">If you're very good,</font>
+
+1232
+02:22:45,890 --> 02:22:49,684
+<font color="#FFFFFF">tomorrow night, I'll tell you
+the story of Emperor Claudius.</font>
+
+1233
+02:22:49,770 --> 02:22:51,478
+<font color="#FFFFFF">He was betrayed</font>
+
+1234
+02:22:52,689 --> 02:22:54,815
+<font color="#FFFFFF">by those closest to him.</font>
+
+1235
+02:22:56,692 --> 02:22:58,443
+<font color="#FFFFFF">By his own blood.</font>
+
+1236
+02:22:59,780 --> 02:23:02,238
+<font color="#FFFFFF">They whispered in dark corners</font>
+
+1237
+02:23:02,324 --> 02:23:04,783
+<font color="#FFFFFF">and went out late at night,</font>
+
+1238
+02:23:04,868 --> 02:23:08,203
+<font color="#FFFFFF">and conspired, and conspired.</font>
+
+1239
+02:23:10,832 --> 02:23:14,667
+<font color="#FFFFFF">But the Emperor Claudius knew
+that they were up to something.</font>
+
+1240
+02:23:14,795 --> 02:23:17,337
+<font color="#FFFFFF">He knew they were
+busy little bees.</font>
+
+1241
+02:23:19,299 --> 02:23:22,343
+<font color="#FFFFFF">And one night he sat
+down with one of them,</font>
+
+1242
+02:23:23,136 --> 02:23:25,137
+<font color="#FFFFFF">and he looked at her,</font>
+
+1243
+02:23:25,888 --> 02:23:27,431
+<font color="#FFFFFF">and he said,</font>
+
+1244
+02:23:28,600 --> 02:23:31,184
+<font color="#FFFFFF">"Tell me what
+you've been doing,"</font>
+
+1245
+02:23:31,852 --> 02:23:33,561
+<font color="#FFFFFF">"busy little bee."</font>
+
+1246
+02:23:35,856 --> 02:23:38,942
+<font color="#FFFFFF">"Or I shall strike down
+those dearest to you."</font>
+
+1247
+02:23:40,111 --> 02:23:43,155
+<font color="#FFFFFF">"You shall watch as I
+bathe in their blood."</font>
+
+1248
+02:23:46,868 --> 02:23:49,286
+<font color="#FFFFFF">And the Emperor was heartbroken.</font>
+
+1249
+02:23:51,372 --> 02:23:53,582
+<font color="#FFFFFF">The little bee had
+wounded him more deeply</font>
+
+1250
+02:23:53,666 --> 02:23:56,377
+<font color="#FFFFFF">than anyone else could
+ever have done.</font>
+
+1251
+02:23:58,504 --> 02:24:01,381
+<font color="#FFFFFF">What do you think
+happened then, Lucius?</font>
+
+1252
+02:24:02,007 --> 02:24:03,843
+<font color="#FFFFFF">I don't know, Uncle.</font>
+
+1253
+02:24:10,350 --> 02:24:12,934
+<font color="#FFFFFF">The little bee told
+him everything.</font>
+
+1254
+02:25:10,826 --> 02:25:13,828
+<font color="#FFFFFF">Open, in the
+name of the Emperor!</font>
+
+1255
+02:25:14,664 --> 02:25:15,956
+<font color="#FFFFFF">Proximo!</font>
+
+1256
+02:25:16,833 --> 02:25:19,959
+<font color="#FFFFFF">Open the gates, in the
+name of the Emperor!</font>
+
+1257
+02:25:20,795 --> 02:25:22,129
+<font color="#FFFFFF">Proximo!</font>
+
+1258
+02:25:24,341 --> 02:25:25,799
+<font color="#FFFFFF">Open the gates!</font>
+
+1259
+02:25:31,639 --> 02:25:33,933
+<font color="#FFFFFF">Open the gates, Proximo.</font>
+
+1260
+02:25:34,391 --> 02:25:36,644
+<font color="#FFFFFF">Do you want to die, old man?</font>
+
+1261
+02:25:37,853 --> 02:25:38,978
+<font color="#FFFFFF">Here.</font>
+
+1262
+02:25:39,564 --> 02:25:41,731
+<font color="#FFFFFF">Everything is prepared.</font>
+
+1263
+02:25:41,816 --> 02:25:44,275
+<font color="#FFFFFF">It seems you have
+won your freedom.</font>
+
+1264
+02:25:44,361 --> 02:25:47,947
+<font color="#FFFFFF">Proximo, are you in danger
+of becoming a good man?</font>
+
+1265
+02:25:53,036 --> 02:25:56,871
+<font color="#FFFFFF">- Juba.
+- All enemies of the Emperor die!</font>
+
+1266
+02:25:57,415 --> 02:25:59,583
+<font color="#FFFFFF">Open the gates!</font>
+
+1267
+02:26:05,090 --> 02:26:07,049
+<font color="#FFFFFF">Pull!</font>
+
+1268
+02:26:09,176 --> 02:26:12,054
+<font color="#FFFFFF">Move! Form a column on the left!</font>
+
+1269
+02:26:15,850 --> 02:26:19,060
+<font color="#FFFFFF">I only need moments, so do not
+be careless with your lives.</font>
+
+1270
+02:26:19,145 --> 02:26:21,604
+<font color="#FFFFFF">If you don't want any part of
+this, go back to your cells.</font>
+
+1271
+02:26:21,690 --> 02:26:23,941
+<font color="#FFFFFF">We'll wait here
+for you, Maximus.</font>
+
+1272
+02:26:24,024 --> 02:26:25,817
+<font color="#FFFFFF">- Strength and honor.
+- Strength and honor.</font>
+
+1273
+02:26:25,902 --> 02:26:26,943
+<font color="#FFFFFF">Go.</font>
+
+1274
+02:26:27,820 --> 02:26:29,655
+<font color="#FFFFFF">Strength and honor.</font>
+
+1275
+02:26:32,283 --> 02:26:35,119
+<font color="#FFFFFF">Aim. Arch your bows!</font>
+
+1276
+02:27:42,227 --> 02:27:43,520
+<font color="#FFFFFF">Shadows and dust.</font>
+
+1277
+02:28:25,438 --> 02:28:26,688
+<font color="#FFFFFF">Maximus!</font>
+
+1278
+02:28:32,153 --> 02:28:33,569
+<font color="#FFFFFF">I'm sorry.</font>
+
+1279
+02:28:59,972 --> 02:29:01,347
+<font color="#FFFFFF">It's done.</font>
+
+1280
+02:29:08,314 --> 02:29:10,190
+<font color="#FFFFFF">And what of my nephew?</font>
+
+1281
+02:29:11,275 --> 02:29:13,277
+<font color="#FFFFFF">And what of his mother?</font>
+
+1282
+02:29:15,362 --> 02:29:17,906
+<font color="#FFFFFF">Should they share
+her lover's fate?</font>
+
+1283
+02:29:19,617 --> 02:29:21,659
+<font color="#FFFFFF">Or should I be merciful?</font>
+
+1284
+02:29:24,371 --> 02:29:26,290
+<font color="#FFFFFF">Commodus the Merciful.</font>
+
+1285
+02:29:32,713 --> 02:29:35,048
+<font color="#FFFFFF">Lucius will stay with me now.</font>
+
+1286
+02:29:36,217 --> 02:29:38,010
+<font color="#FFFFFF">And if his mother</font>
+
+1287
+02:29:39,387 --> 02:29:41,513
+<font color="#FFFFFF">so much as looks at me</font>
+
+1288
+02:29:42,682 --> 02:29:45,183
+<font color="#FFFFFF">in a manner that displeases me,</font>
+
+1289
+02:29:47,145 --> 02:29:48,561
+<font color="#FFFFFF">he will die.</font>
+
+1290
+02:29:52,066 --> 02:29:55,318
+<font color="#FFFFFF">If she decides to be noble,</font>
+
+1291
+02:29:57,070 --> 02:29:59,156
+<font color="#FFFFFF">and takes her own life,</font>
+
+1292
+02:30:00,742 --> 02:30:02,200
+<font color="#FFFFFF">he will die.</font>
+
+1293
+02:30:05,829 --> 02:30:07,539
+<font color="#FFFFFF">And as for you,</font>
+
+1294
+02:30:10,334 --> 02:30:12,084
+<font color="#FFFFFF">you will love me,</font>
+
+1295
+02:30:12,921 --> 02:30:14,712
+<font color="#FFFFFF">as I have loved you.</font>
+
+1296
+02:30:16,299 --> 02:30:19,968
+<font color="#FFFFFF">You will provide me with
+an heir of pure blood,</font>
+
+1297
+02:30:20,929 --> 02:30:22,763
+<font color="#FFFFFF">so that Commodus</font>
+
+1298
+02:30:23,347 --> 02:30:26,308
+<font color="#FFFFFF">and his progeny will
+rule for 1,000 years.</font>
+
+1299
+02:30:30,939 --> 02:30:32,689
+<font color="#FFFFFF">Am I not merciful?</font>
+
+1300
+02:30:54,546 --> 02:30:57,172
+<font color="#FFFFFF">Am I not merciful!</font>
+
+1301
+02:31:09,394 --> 02:31:13,397
+<font color="#FFFFFF">- Maximus! Maximus! Maximus!
+- Maximus! Maximus! Maximus!</font>
+
+1302
+02:31:40,842 --> 02:31:43,593
+<font color="#FFFFFF">I'm a soldier. I obey.</font>
+
+1303
+02:31:46,346 --> 02:31:50,601
+<font color="#FFFFFF">Nothing happens to anyone that he
+is not fitted by nature to bear.</font>
+
+1304
+02:32:23,550 --> 02:32:24,094
+<font color="#FFFFFF">Maximus.</font>
+
+1305
+02:32:31,225 --> 02:32:33,059
+<font color="#FFFFFF">They call for you.</font>
+
+1306
+02:32:35,021 --> 02:32:38,272
+<font color="#FFFFFF">The general who became a slave.</font>
+
+1307
+02:32:39,524 --> 02:32:41,902
+<font color="#FFFFFF">The slave who
+became a gladiator.</font>
+
+1308
+02:32:43,279 --> 02:32:46,073
+<font color="#FFFFFF">The gladiator who
+defied an emperor.</font>
+
+1309
+02:32:48,075 --> 02:32:49,743
+<font color="#FFFFFF">A striking story.</font>
+
+1310
+02:32:50,912 --> 02:32:54,121
+<font color="#FFFFFF">Now the people want to
+know how the story ends.</font>
+
+1311
+02:32:56,501 --> 02:32:58,752
+<font color="#FFFFFF">Only a famous death will do.</font>
+
+1312
+02:33:00,672 --> 02:33:03,215
+<font color="#FFFFFF">And what could be more glorious</font>
+
+1313
+02:33:03,591 --> 02:33:07,343
+<font color="#FFFFFF">than to challenge the Emperor
+himself in the great arena?</font>
+
+1314
+02:33:09,681 --> 02:33:12,724
+<font color="#FFFFFF">- You would fight me?
+- Why not?</font>
+
+1315
+02:33:13,809 --> 02:33:15,852
+<font color="#FFFFFF">Do you think I'm afraid?</font>
+
+1316
+02:33:16,771 --> 02:33:19,815
+<font color="#FFFFFF">I think you have been
+afraid all your life.</font>
+
+1317
+02:33:19,898 --> 02:33:23,610
+<font color="#FFFFFF">Unlike Maximus the invincible,
+who knows no fear?</font>
+
+1318
+02:33:29,367 --> 02:33:32,744
+<font color="#FFFFFF">I knew a man who once said,
+"Death smiles at us all."</font>
+
+1319
+02:33:33,620 --> 02:33:36,122
+<font color="#FFFFFF">"All a man can do
+is smile back."</font>
+
+1320
+02:33:37,916 --> 02:33:39,334
+<font color="#FFFFFF">I wonder,</font>
+
+1321
+02:33:39,960 --> 02:33:42,754
+<font color="#FFFFFF">did your friend smile
+at his own death?</font>
+
+1322
+02:33:43,130 --> 02:33:44,630
+<font color="#FFFFFF">You must know.</font>
+
+1323
+02:33:47,551 --> 02:33:49,343
+<font color="#FFFFFF">He was your father.</font>
+
+1324
+02:33:53,224 --> 02:33:55,558
+<font color="#FFFFFF">You loved my father, I know,</font>
+
+1325
+02:33:57,060 --> 02:33:58,561
+<font color="#FFFFFF">but so did I.</font>
+
+1326
+02:34:00,189 --> 02:34:02,773
+<font color="#FFFFFF">That makes us
+brothers, doesn't it?</font>
+
+1327
+02:34:05,403 --> 02:34:06,986
+<font color="#FFFFFF">Smile for me now, brother.</font>
+
+1328
+02:34:13,034 --> 02:34:15,870
+<font color="#FFFFFF">Strap on his armor.
+Conceal the wound.</font>
+
+1329
+02:35:10,300 --> 02:35:12,260
+<font color="#FFFFFF">Ring formation!</font>
+
+1330
+02:37:04,040 --> 02:37:05,665
+<font color="#FFFFFF">Quintus, sword.</font>
+
+1331
+02:37:07,167 --> 02:37:08,959
+<font color="#FFFFFF">Give me your sword.</font>
+
+1332
+02:37:12,380 --> 02:37:14,381
+<font color="#FFFFFF">Sword! Give me a sword!</font>
+
+1333
+02:37:15,885 --> 02:37:19,387
+<font color="#FFFFFF">Sheathe your swords.
+Sheathe your swords!</font>
+
+1334
+02:39:34,856 --> 02:39:36,191
+<font color="#FFFFFF">Maximus.</font>
+
+1335
+02:39:41,572 --> 02:39:42,863
+<font color="#FFFFFF">Maximus.</font>
+
+1336
+02:39:43,449 --> 02:39:44,782
+<font color="#FFFFFF">Quintus.</font>
+
+1337
+02:39:46,451 --> 02:39:47,911
+<font color="#FFFFFF">Free my men.</font>
+
+1338
+02:39:49,288 --> 02:39:51,997
+<font color="#FFFFFF">Senator Gracchus is
+to be reinstated.</font>
+
+1339
+02:39:53,291 --> 02:39:55,376
+<font color="#FFFFFF">There was a dream that was Rome.</font>
+
+1340
+02:39:56,045 --> 02:39:57,921
+<font color="#FFFFFF">It shall be realized.</font>
+
+1341
+02:39:58,463 --> 02:40:01,049
+<font color="#FFFFFF">These are the wishes
+of Marcus Aurelius.</font>
+
+1342
+02:40:02,134 --> 02:40:04,135
+<font color="#FFFFFF">Free the prisoners. Go!</font>
+
+1343
+02:40:28,911 --> 02:40:30,245
+<font color="#FFFFFF">Maximus.</font>
+
+1344
+02:40:32,122 --> 02:40:33,706
+<font color="#FFFFFF">Lucius is safe.</font>
+
+1345
+02:40:50,014 --> 02:40:51,432
+<font color="#FFFFFF">Go to them.</font>
+
+1346
+02:41:41,233 --> 02:41:42,649
+<font color="#FFFFFF">You're home.</font>
+
+1347
+02:42:09,302 --> 02:42:11,845
+<font color="#FFFFFF">Is Rome worth one
+good man's life?</font>
+
+1348
+02:42:15,726 --> 02:42:17,518
+<font color="#FFFFFF">We believed it once.</font>
+
+1349
+02:42:20,730 --> 02:42:22,856
+<font color="#FFFFFF">Make us believe it again.</font>
+
+1350
+02:42:26,361 --> 02:42:28,445
+<font color="#FFFFFF">He was a soldier of Rome.</font>
+
+1351
+02:42:32,283 --> 02:42:33,700
+<font color="#FFFFFF">Honor him.</font>
+
+1352
+02:42:34,161 --> 02:42:36,328
+<font color="#FFFFFF">Who will help me carry him?</font>
+
+1353
+02:43:21,083 --> 02:43:22,750
+<font color="#FFFFFF">Now we are free.</font>
+
+1354
+02:43:29,132 --> 02:43:31,009
+<font color="#FFFFFF">I will see you again.</font>
+
+1355
+02:43:33,887 --> 02:43:35,345
+<font color="#FFFFFF">But not yet.</font>
+
+1356
+02:43:36,347 --> 02:43:36,891
+<font color="#FFFFFF">Not yet.</font>
+
+1357
+02:43:36,992 --> 02:43:41,992
+<font color="#FFFFFF">//subscene. com/u/659433
+Improved by: @Ivandrofly</font>
+

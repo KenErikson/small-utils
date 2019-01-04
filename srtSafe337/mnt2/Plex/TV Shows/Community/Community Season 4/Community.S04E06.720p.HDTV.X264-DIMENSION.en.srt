@@ -1,0 +1,2407 @@
+1
+00:00:01,964 --> 00:00:06,964
+<font color="#FFFFFF">Community
+S04E06
+Advanced Documentary Filmmaking</font>
+
+2
+00:00:17,934 --> 00:00:21,099
+<font color="#FFFFFF">My name is Kevin,
+or so they tell me.</font>
+
+3
+00:00:21,431 --> 00:00:24,303
+<font color="#FFFFFF">Actually, they told me my
+birth name is Benjamin Chang,</font>
+
+4
+00:00:24,349 --> 00:00:28,068
+<font color="#FFFFFF">but I can't remember anything
+before six months ago.</font>
+
+5
+00:00:28,096 --> 00:00:29,929
+<font color="#FFFFFF">But by using
+a special, shiny glass</font>
+
+6
+00:00:29,940 --> 00:00:31,693
+<font color="#FFFFFF">called a mirror,</font>
+
+7
+00:00:31,736 --> 00:00:34,171
+<font color="#FFFFFF">I've estimated
+that I'm 15 years old,</font>
+
+8
+00:00:34,213 --> 00:00:36,337
+<font color="#FFFFFF">although I have no way
+of knowing.</font>
+
+9
+00:00:36,915 --> 00:00:39,957
+<font color="#FFFFFF">Changnesia is a fascinating
+and extremely rare disease</font>
+
+10
+00:00:39,982 --> 00:00:42,024
+<font color="#FFFFFF">on the forefront of the
+psychological landscape.</font>
+
+11
+00:00:42,426 --> 00:00:44,636
+<font color="#FFFFFF"><i>Compared with your</i>
+<i>garden variety amnesia,</i></font>
+
+12
+00:00:44,673 --> 00:00:47,761
+<font color="#FFFFFF"><i>Changnesia is immeasurably</i>
+<i>more complex.</i></font>
+
+13
+00:00:49,246 --> 00:00:51,712
+<font color="#FFFFFF"><i>Its varied and seemingly
+random symptoms,</i></font>
+
+14
+00:00:52,040 --> 00:00:55,368
+<font color="#FFFFFF"><i>its resistance to both traditional
+and new age medicine,</i></font>
+
+15
+00:00:55,399 --> 00:00:57,472
+<font color="#FFFFFF"><i>why Changnesia</i>
+<i>affects the memory</i></font>
+
+16
+00:00:57,536 --> 00:00:59,704
+<font color="#FFFFFF"><i>but not the ability</i>
+<i>to make forced puns...</i></font>
+
+17
+00:00:59,767 --> 00:01:02,786
+<font color="#FFFFFF">These are all things we can study
+now that someone finally has it.</font>
+
+18
+00:01:02,853 --> 00:01:05,899
+<font color="#FFFFFF">I first met Chang when I hired him
+as a Spanish teacher at Greendale.</font>
+
+19
+00:01:06,213 --> 00:01:08,977
+<font color="#FFFFFF">Then he became
+a disgraced student,</font>
+
+20
+00:01:08,998 --> 00:01:10,867
+<font color="#FFFFFF">psychopathic music major,</font>
+
+21
+00:01:10,879 --> 00:01:13,444
+<font color="#FFFFFF">homeless vent dweller,
+security guard, keytarist,</font>
+
+22
+00:01:13,459 --> 00:01:15,885
+<font color="#FFFFFF">power hungry warlord,
+and now, Kevin.</font>
+
+23
+00:01:16,174 --> 00:01:17,500
+<font color="#FFFFFF">It's sad to see him like this.</font>
+
+24
+00:01:17,561 --> 00:01:18,692
+<font color="#FFFFFF">Well, it's mixed.</font>
+
+25
+00:01:18,703 --> 00:01:20,186
+<font color="#FFFFFF">He was pretty terrible before.</font>
+
+26
+00:01:20,212 --> 00:01:23,096
+<font color="#FFFFFF">I'm developing a theory
+which some find controversial.</font>
+
+27
+00:01:23,132 --> 00:01:25,314
+<font color="#FFFFFF">Perhaps Chang
+actually used to be Kevin,</font>
+
+28
+00:01:25,334 --> 00:01:27,206
+<font color="#FFFFFF">went crazy, and became Chang.</font>
+
+29
+00:01:27,236 --> 00:01:28,468
+<font color="#FFFFFF">And then, at some point,</font>
+
+30
+00:01:28,486 --> 00:01:30,808
+<font color="#FFFFFF">Chang hit his head,
+went un-crazy,</font>
+
+31
+00:01:30,834 --> 00:01:34,194
+<font color="#FFFFFF">thereby reverting back
+to regular old Kevin again.</font>
+
+32
+00:01:34,218 --> 00:01:36,162
+<font color="#FFFFFF">That makes no sense.</font>
+
+33
+00:01:36,432 --> 00:01:37,787
+<font color="#FFFFFF">Science tells us</font>
+
+34
+00:01:37,831 --> 00:01:40,015
+<font color="#FFFFFF">hitting his head
+would only cure him</font>
+
+35
+00:01:40,033 --> 00:01:42,139
+<font color="#FFFFFF">if hitting his head
+was the original cause.</font>
+
+36
+00:01:42,496 --> 00:01:44,109
+<font color="#FFFFFF">Told you it was controversial.</font>
+
+37
+00:01:44,134 --> 00:01:46,314
+<font color="#FFFFFF">Here at Greendale,
+we accept all students,</font>
+
+38
+00:01:46,326 --> 00:01:49,025
+<font color="#FFFFFF">whoever they may be
+or have forgotten they were.</font>
+
+39
+00:01:49,049 --> 00:01:50,848
+<font color="#FFFFFF">But assisting
+in Kevin's recovery</font>
+
+40
+00:01:50,862 --> 00:01:53,067
+<font color="#FFFFFF">has put a financial strain
+on the school.</font>
+
+41
+00:01:53,085 --> 00:01:54,772
+<font color="#FFFFFF">That's why we are appealing</font>
+
+42
+00:01:54,778 --> 00:01:58,301
+<font color="#FFFFFF"><i>to the Macguffin Neurological Institute
+for this $40,000 Grant,</i></font>
+
+43
+00:01:58,319 --> 00:02:01,733
+<font color="#FFFFFF">so we can continue to fight
+this terrible disease</font>
+
+44
+00:02:01,745 --> 00:02:05,120
+<font color="#FFFFFF">and hopefully, one day,
+pay for this documentary.</font>
+
+45
+00:02:06,063 --> 00:02:08,000
+<font color="#FFFFFF">How was that, Abed?
+That's too beggy?</font>
+
+46
+00:02:08,019 --> 00:02:09,033
+<font color="#FFFFFF">No, that was great.</font>
+
+47
+00:02:09,062 --> 00:02:11,466
+<font color="#FFFFFF">But I could use a new camera,
+with a smoother zoom.</font>
+
+48
+00:02:11,485 --> 00:02:14,176
+<font color="#FFFFFF">Oh, okay. Well, just be sure
+to get my good side, okay?</font>
+
+49
+00:02:14,206 --> 00:02:16,033
+<font color="#FFFFFF">This documentary
+needs to be convincing.</font>
+
+50
+00:02:16,056 --> 00:02:19,597
+<font color="#FFFFFF">This needs to be the <i>hoop dreams
+of things people care about.</i></font>
+
+51
+00:02:19,717 --> 00:02:21,371
+<font color="#FFFFFF">We rolling?</font>
+
+52
+00:02:22,701 --> 00:02:24,266
+<font color="#FFFFFF">The dean
+wants a propaganda film,</font>
+
+53
+00:02:24,286 --> 00:02:26,986
+<font color="#FFFFFF">but I intend to explore all
+sides of this serious issue,</font>
+
+54
+00:02:27,004 --> 00:02:29,311
+<font color="#FFFFFF">including those who don't
+think it's a serious issue.</font>
+
+55
+00:02:29,881 --> 00:02:31,824
+<font color="#FFFFFF">- Hey, Jeff.
+- What are you doing?</font>
+
+56
+00:02:31,938 --> 00:02:33,444
+<font color="#FFFFFF">Making a documentary
+on Changnesia.</font>
+
+57
+00:02:33,468 --> 00:02:35,822
+<font color="#FFFFFF">- You gotta be fucking kidding me.
+- Got it. Beautiful.</font>
+
+58
+00:02:35,837 --> 00:02:37,783
+<font color="#FFFFFF">All right, let's get
+one more for safety.</font>
+
+59
+00:02:37,889 --> 00:02:39,992
+<font color="#FFFFFF">Jeff, back to one.
+Jeff?</font>
+
+60
+00:02:40,829 --> 00:02:44,026
+<font color="#FFFFFF"><i>♪ Give me some rope</i>
+<i>tie me to dream</i></font>
+
+61
+00:02:44,131 --> 00:02:47,207
+<font color="#FFFFFF"><i>♪ give me the hope</i>
+<i>to run out of steam</i></font>
+
+62
+00:02:47,264 --> 00:02:50,620
+<font color="#FFFFFF"><i>♪ somebody said it can be here</i></font>
+
+63
+00:02:50,706 --> 00:02:54,772
+<font color="#FFFFFF"><i>♪ we could be roped up,</i>
+<i>tied up, dead in a year</i></font>
+
+64
+00:02:54,798 --> 00:02:59,555
+<font color="#FFFFFF"><i>♪ I can't count the reasons</i>
+<i>I should stay</i></font>
+
+65
+00:02:59,599 --> 00:03:03,846
+<font color="#FFFFFF"><i>♪ one by one they all</i>
+<i>just fade away ♪</i></font>
+
+66
+00:03:03,887 --> 00:03:06,397
+<font color="#FFFFFF">Sync and corrections by Norther
+www. addic7ed. com</font>
+
+67
+00:03:06,972 --> 00:03:09,540
+<font color="#FFFFFF">I'm telling you, we should have
+sprung for the name brand glitter.</font>
+
+68
+00:03:09,554 --> 00:03:12,393
+<font color="#FFFFFF">Look, cheap glitter,
+expensive glitter.</font>
+
+69
+00:03:12,405 --> 00:03:13,759
+<font color="#FFFFFF">Money talks, people.</font>
+
+70
+00:03:13,783 --> 00:03:14,977
+<font color="#FFFFFF">Guys, did you hear?</font>
+
+71
+00:03:15,032 --> 00:03:17,927
+<font color="#FFFFFF">The history of ice cream class
+had another heart attack.</font>
+
+72
+00:03:17,966 --> 00:03:19,693
+<font color="#FFFFFF">Three more, and we're all in.</font>
+
+73
+00:03:19,711 --> 00:03:20,844
+<font color="#FFFFFF">Yes.</font>
+
+74
+00:03:21,134 --> 00:03:23,034
+<font color="#FFFFFF">What's the Macguffin Institute?</font>
+
+75
+00:03:24,622 --> 00:03:26,002
+<font color="#FFFFFF">Fine.
+I'll tell him.</font>
+
+76
+00:03:26,056 --> 00:03:29,731
+<font color="#FFFFFF">But one day, you'll all be old
+and slow and lose at things,</font>
+
+77
+00:03:29,737 --> 00:03:31,195
+<font color="#FFFFFF">and when that day comes,</font>
+
+78
+00:03:31,215 --> 00:03:33,687
+<font color="#FFFFFF">I won't remember
+what I'm doing now.</font>
+
+79
+00:03:34,031 --> 00:03:36,274
+<font color="#FFFFFF">Lord, the Macguffin institute is
+coming to Greendale on Friday</font>
+
+80
+00:03:36,292 --> 00:03:39,685
+<font color="#FFFFFF">because they might give the
+school money to study Changnesia.</font>
+
+81
+00:03:39,788 --> 00:03:42,598
+<font color="#FFFFFF">Changnesia isn't a disease.
+It's a con.</font>
+
+82
+00:03:42,616 --> 00:03:44,628
+<font color="#FFFFFF">You're seriously
+helping this lunatic?</font>
+
+83
+00:03:44,707 --> 00:03:46,475
+<font color="#FFFFFF">He kept the dean in a dungeon.</font>
+
+84
+00:03:46,502 --> 00:03:49,424
+<font color="#FFFFFF">He tried to kill us.
+He ate his twin in utero.</font>
+
+85
+00:03:49,442 --> 00:03:51,561
+<font color="#FFFFFF">That was Chang.
+This is Kevin.</font>
+
+86
+00:03:51,579 --> 00:03:52,811
+<font color="#FFFFFF">They're the same idiot.</font>
+
+87
+00:03:52,829 --> 00:03:55,540
+<font color="#FFFFFF">How would you know? Have you ever
+even spent any time with him, Jeff?</font>
+
+88
+00:03:55,576 --> 00:03:59,069
+<font color="#FFFFFF">I was reluctant to accept
+Kevin at first, too, but...</font>
+
+89
+00:03:59,341 --> 00:04:01,282
+<font color="#FFFFFF">he's just so sweet.</font>
+
+90
+00:04:01,562 --> 00:04:03,442
+<font color="#FFFFFF">The world is brand new to him.</font>
+
+91
+00:04:03,460 --> 00:04:05,090
+<font color="#FFFFFF">He approaches everything
+with the wonderment</font>
+
+92
+00:04:05,115 --> 00:04:07,375
+<font color="#FFFFFF">of a small child
+or a cartoon alien.</font>
+
+93
+00:04:07,394 --> 00:04:08,356
+<font color="#FFFFFF">Whoa.</font>
+
+94
+00:04:08,584 --> 00:04:10,533
+<font color="#FFFFFF">This makes things smaller.</font>
+
+95
+00:04:10,550 --> 00:04:12,521
+<font color="#FFFFFF">No, no...
+Bigger.</font>
+
+96
+00:04:12,534 --> 00:04:14,532
+<font color="#FFFFFF">Oh, bigger.</font>
+
+97
+00:04:14,548 --> 00:04:17,971
+<font color="#FFFFFF">Well, enjoy your collective delusion.
+I'm going to go get a sandwich,</font>
+
+98
+00:04:17,985 --> 00:04:20,675
+<font color="#FFFFFF">which, unlike Changnesia,
+is real.</font>
+
+99
+00:04:20,735 --> 00:04:22,346
+<font color="#FFFFFF">Jeff, Jeff, Jeff, Jeff, Jeff,
+wait, wait, wait, wait, wait.</font>
+
+100
+00:04:22,384 --> 00:04:24,081
+<font color="#FFFFFF">We want to know how you feel about
+the Macguffin people visiting.</font>
+
+101
+00:04:24,106 --> 00:04:24,889
+<font color="#FFFFFF">I need it on camera.</font>
+
+102
+00:04:24,908 --> 00:04:26,112
+<font color="#FFFFFF">- It's stupid.
+- What's stupid?</font>
+
+103
+00:04:26,137 --> 00:04:27,795
+<font color="#FFFFFF">- The whole thing.
+- Okay, put it together for me.</font>
+
+104
+00:04:27,814 --> 00:04:30,641
+<font color="#FFFFFF">"The whole thing is stupid." All right,
+thanks, buddy. I'll cut it together.</font>
+
+105
+00:04:32,995 --> 00:04:34,009
+<font color="#FFFFFF">- Shirley.
+- Hmm?</font>
+
+106
+00:04:34,036 --> 00:04:36,050
+<font color="#FFFFFF">You don't seriously think
+Chang is Kevin, do you?</font>
+
+107
+00:04:36,081 --> 00:04:38,707
+<font color="#FFFFFF">No, I believe the good lord made
+Chang Chang. Kevin is a choice.</font>
+
+108
+00:04:38,762 --> 00:04:40,600
+<font color="#FFFFFF">Thank you. I'm seriously worried
+about the rest of the group.</font>
+
+109
+00:04:40,624 --> 00:04:42,663
+<font color="#FFFFFF">Not only have they
+drunk the Kevin kool-aid,</font>
+
+110
+00:04:42,677 --> 00:04:45,802
+<font color="#FFFFFF">they're in the study room right now,
+making banners, debating glitter...</font>
+
+111
+00:04:45,821 --> 00:04:47,843
+<font color="#FFFFFF">Well, I'd love to keep talking about this,
+but I gotta get to work.</font>
+
+112
+00:04:47,858 --> 00:04:50,254
+<font color="#FFFFFF">No, Shirley, you've got
+to help me stop this.</font>
+
+113
+00:04:50,271 --> 00:04:52,033
+<font color="#FFFFFF">You're the only
+sane person left.</font>
+
+114
+00:04:52,173 --> 00:04:55,550
+<font color="#FFFFFF">Welcome to Shirley's sandwiches,
+where the food is Kevin-ly.</font>
+
+115
+00:04:55,901 --> 00:04:57,233
+<font color="#FFFFFF">- You hired Chang?
+- Hmm?</font>
+
+116
+00:04:57,259 --> 00:04:58,685
+<font color="#FFFFFF">The customers love Kevin.</font>
+
+117
+00:04:58,848 --> 00:05:00,410
+<font color="#FFFFFF">I think it's because
+he's a good listener.</font>
+
+118
+00:05:00,427 --> 00:05:03,141
+<font color="#FFFFFF">Most words are new to him, so
+it's all still fascinating.</font>
+
+119
+00:05:03,182 --> 00:05:05,083
+<font color="#FFFFFF">I'm Kevin.
+And you are?</font>
+
+120
+00:05:05,101 --> 00:05:06,654
+<font color="#FFFFFF">Not calling you Kevin.</font>
+
+121
+00:05:06,682 --> 00:05:08,814
+<font color="#FFFFFF">Hi, not calling you Kevin.</font>
+
+122
+00:05:09,269 --> 00:05:11,004
+<font color="#FFFFFF">What are you having?</font>
+
+123
+00:05:11,134 --> 00:05:12,865
+<font color="#FFFFFF">- None of this.
+- Okay.</font>
+
+124
+00:05:12,932 --> 00:05:14,226
+<font color="#FFFFFF">Uh, listen.</font>
+
+125
+00:05:14,250 --> 00:05:16,961
+<font color="#FFFFFF">I don't care what he calls
+himself, he's a hard worker.</font>
+
+126
+00:05:16,985 --> 00:05:20,324
+<font color="#FFFFFF">We're all broken people, Jeffrey,
+we all deserve a second chance.</font>
+
+127
+00:05:20,351 --> 00:05:22,223
+<font color="#FFFFFF">Like how I gave Andre
+a second chance.</font>
+
+128
+00:05:22,245 --> 00:05:23,807
+<font color="#FFFFFF">It doesn't mean I forgot.
+I just forgave.</font>
+
+129
+00:05:23,826 --> 00:05:26,709
+<font color="#FFFFFF">Chang didn't sleep with a stripper.
+He tried to kill us.</font>
+
+130
+00:05:26,757 --> 00:05:28,386
+<font color="#FFFFFF">Why does everyone keep
+forgetting about that?</font>
+
+131
+00:05:28,404 --> 00:05:31,437
+<font color="#FFFFFF">But he didn't. And you used
+to be a sleazy lawyer.</font>
+
+132
+00:05:31,463 --> 00:05:34,137
+<font color="#FFFFFF">What if Greendale never
+gave you a second chance?</font>
+
+133
+00:05:35,245 --> 00:05:37,391
+<font color="#FFFFFF"><i>What Shirley said</i>
+<i>really made me think.</i></font>
+
+134
+00:05:37,454 --> 00:05:39,925
+<font color="#FFFFFF">I mean, all my friends
+believe this guy.</font>
+
+135
+00:05:40,223 --> 00:05:42,598
+<font color="#FFFFFF">What does it say about me
+that I don't?</font>
+
+136
+00:05:43,487 --> 00:05:45,052
+<font color="#FFFFFF">Hmm?
+Yes?</font>
+
+137
+00:05:45,817 --> 00:05:48,298
+<font color="#FFFFFF">Ugh, and cue wet blanket Winger</font>
+
+138
+00:05:48,324 --> 00:05:50,182
+<font color="#FFFFFF">to tell us that we're
+all wasting our time.</font>
+
+139
+00:05:50,194 --> 00:05:51,808
+<font color="#FFFFFF">Actually, no.</font>
+
+140
+00:05:51,930 --> 00:05:54,331
+<font color="#FFFFFF">I had a really good
+conversation with Shirley,</font>
+
+141
+00:05:54,358 --> 00:05:56,545
+<font color="#FFFFFF">and I realized
+I've been acting like a jerk.</font>
+
+142
+00:05:56,661 --> 00:05:57,779
+<font color="#FFFFFF">If it's not too late,</font>
+
+143
+00:05:57,822 --> 00:05:59,750
+<font color="#FFFFFF">I'd love to help out
+in any way I can.</font>
+
+144
+00:05:59,862 --> 00:06:01,264
+<font color="#FFFFFF">Jeffrey, that's amazing.</font>
+
+145
+00:06:01,293 --> 00:06:02,225
+<font color="#FFFFFF">I knew you'd come around.</font>
+
+146
+00:06:02,245 --> 00:06:04,033
+<font color="#FFFFFF">All right, Abed, get
+us in panning singles.</font>
+
+147
+00:06:04,050 --> 00:06:06,125
+<font color="#FFFFFF">And can you say "powwow"
+instead of "conversation"?</font>
+
+148
+00:06:06,151 --> 00:06:07,226
+<font color="#FFFFFF">It just sounds more you.</font>
+
+149
+00:06:07,245 --> 00:06:09,735
+<font color="#FFFFFF">All right, action. Okay, you going to
+make an entrance? Great.</font>
+
+150
+00:06:10,285 --> 00:06:11,677
+<font color="#FFFFFF">What does it say?</font>
+
+151
+00:06:12,084 --> 00:06:15,312
+<font color="#FFFFFF">It says I have gullible friends
+who will believe anybody,</font>
+
+152
+00:06:15,338 --> 00:06:18,216
+<font color="#FFFFFF">and I need
+to make that anybody me.</font>
+
+153
+00:06:18,235 --> 00:06:20,985
+<font color="#FFFFFF">By exposing Chang
+in front of the whole school.</font>
+
+154
+00:06:21,209 --> 00:06:23,064
+<font color="#FFFFFF">Wow. Much like the
+classic documentary</font>
+
+155
+00:06:23,076 --> 00:06:24,137
+<font color="#FFFFFF"><i>Capturing the Friedmans,</i></font>
+
+156
+00:06:24,158 --> 00:06:26,526
+<font color="#FFFFFF">my story just took a
+completely unexpected turn.</font>
+
+157
+00:06:26,545 --> 00:06:29,658
+<font color="#FFFFFF">Jeff, if you want this done right,
+I'm going to need a steadicam for Garrett.</font>
+
+158
+00:06:29,721 --> 00:06:31,360
+<font color="#FFFFFF">That's showbiz.</font>
+
+159
+00:06:34,528 --> 00:06:37,028
+<font color="#FFFFFF"><i>We were all pretty
+happy when Jeff came around.</i></font>
+
+160
+00:06:37,052 --> 00:06:39,523
+<font color="#FFFFFF">He became really gung-ho
+about Abed's documentary,</font>
+
+161
+00:06:39,540 --> 00:06:40,610
+<font color="#FFFFFF"><i>and had a lot of great ideas</i></font>
+
+162
+00:06:40,641 --> 00:06:42,372
+<font color="#FFFFFF"><i>about how to impress</i>
+<i>the Macguffin people.</i></font>
+
+163
+00:06:42,406 --> 00:06:44,237
+<font color="#FFFFFF">And that's why Pierce</font>
+
+164
+00:06:44,329 --> 00:06:46,295
+<font color="#FFFFFF">should host the reception.</font>
+
+165
+00:06:46,316 --> 00:06:47,590
+<font color="#FFFFFF">He speaks their language.</font>
+
+166
+00:06:47,608 --> 00:06:49,882
+<font color="#FFFFFF">Finally, somebody's
+making some sense.</font>
+
+167
+00:06:50,016 --> 00:06:52,348
+<font color="#FFFFFF">I've got a blackface
+<i>senor</i> Wences bit</font>
+
+168
+00:06:52,360 --> 00:06:54,093
+<font color="#FFFFFF">I've been workshopping.</font>
+
+169
+00:06:54,110 --> 00:06:54,966
+<font color="#FFFFFF">Perfect.</font>
+
+170
+00:06:54,973 --> 00:06:56,377
+<font color="#FFFFFF">Annie, we need to find out</font>
+
+171
+00:06:56,391 --> 00:06:58,661
+<font color="#FFFFFF">what happened to Kevin before
+he showed up at Greendale.</font>
+
+172
+00:06:58,680 --> 00:07:02,201
+<font color="#FFFFFF">What hellish experiences did he
+overcome during those missing months?</font>
+
+173
+00:07:02,232 --> 00:07:05,444
+<font color="#FFFFFF">Do you think you can use your forensic
+knowhow to do some investigating?</font>
+
+174
+00:07:05,470 --> 00:07:07,971
+<font color="#FFFFFF">Investigating?
+Obvi.</font>
+
+175
+00:07:07,994 --> 00:07:08,956
+<font color="#FFFFFF">Can I help?</font>
+
+176
+00:07:09,106 --> 00:07:10,904
+<font color="#FFFFFF">If you're willing to
+learn, sure, partner.</font>
+
+177
+00:07:10,939 --> 00:07:13,093
+<font color="#FFFFFF">"Partner."
+I like that.</font>
+
+178
+00:07:13,120 --> 00:07:14,466
+<font color="#FFFFFF">I'm going
+to call you "Houlihan."</font>
+
+179
+00:07:14,485 --> 00:07:16,480
+<font color="#FFFFFF">"Partner" and "Houlihan."</font>
+
+180
+00:07:17,211 --> 00:07:17,994
+<font color="#FFFFFF">Okay.</font>
+
+181
+00:07:18,012 --> 00:07:20,788
+<font color="#FFFFFF">The postman found Kevin here.</font>
+
+182
+00:07:20,824 --> 00:07:23,569
+<font color="#FFFFFF">He said he was soaking wet
+and smelled like fish.</font>
+
+183
+00:07:23,661 --> 00:07:24,817
+<font color="#FFFFFF">I know it's not a lot
+to go on...</font>
+
+184
+00:07:24,829 --> 00:07:26,812
+<font color="#FFFFFF">Um, it's almost
+too much to go on.</font>
+
+185
+00:07:26,841 --> 00:07:30,266
+<font color="#FFFFFF">Look, Sullivan's trout farm
+is just 1/4 mile away.</font>
+
+186
+00:07:30,310 --> 00:07:31,875
+<font color="#FFFFFF">Who do you think you're
+dealing with, Winger?</font>
+
+187
+00:07:31,896 --> 00:07:33,612
+<font color="#FFFFFF">I don't know, Houlihan.
+Seems sort of thin.</font>
+
+188
+00:07:33,630 --> 00:07:37,062
+<font color="#FFFFFF">In an investigation, one dude always
+has to go opposite the other dude.</font>
+
+189
+00:07:37,480 --> 00:07:38,675
+<font color="#FFFFFF">That's how they
+get things done.</font>
+
+190
+00:07:38,694 --> 00:07:39,976
+<font color="#FFFFFF">Well, you guys can work it out.</font>
+
+191
+00:07:39,994 --> 00:07:42,875
+<font color="#FFFFFF">- Yeah, we will.
+- No, we won't.</font>
+
+192
+00:07:43,572 --> 00:07:45,437
+<font color="#FFFFFF">- Britta, Shirley...
+- Oh, that's me.</font>
+
+193
+00:07:45,461 --> 00:07:46,930
+<font color="#FFFFFF">I want you to take this camera</font>
+
+194
+00:07:46,949 --> 00:07:48,995
+<font color="#FFFFFF">and follow Chang around
+for his day-to-day.</font>
+
+195
+00:07:49,009 --> 00:07:51,838
+<font color="#FFFFFF">Really get into the life of
+a functioning Changnesiac.</font>
+
+196
+00:07:51,869 --> 00:07:55,187
+<font color="#FFFFFF">I want you to go
+inside his home, work, pod.</font>
+
+197
+00:07:55,218 --> 00:07:56,343
+<font color="#FFFFFF">Just get everything.</font>
+
+198
+00:07:56,350 --> 00:07:58,382
+<font color="#FFFFFF">Ooh, that's great advertising
+for my growing business.</font>
+
+199
+00:07:58,396 --> 00:08:01,254
+<font color="#FFFFFF">Okay, I'll do it. And with
+my photography skills...</font>
+
+200
+00:08:01,273 --> 00:08:03,293
+<font color="#FFFFFF">Jeff, thank you.</font>
+
+201
+00:08:03,490 --> 00:08:05,279
+<font color="#FFFFFF">When the dean told me
+you were going to help me,</font>
+
+202
+00:08:05,302 --> 00:08:06,434
+<font color="#FFFFFF">I couldn't believe it.</font>
+
+203
+00:08:06,449 --> 00:08:08,593
+<font color="#FFFFFF">A cool, smart lawyer
+like yourself</font>
+
+204
+00:08:08,625 --> 00:08:11,000
+<font color="#FFFFFF">reaching out
+to a little nobody like me?</font>
+
+205
+00:08:11,076 --> 00:08:13,288
+<font color="#FFFFFF">I never told you
+I was a lawyer.</font>
+
+206
+00:08:14,654 --> 00:08:15,980
+<font color="#FFFFFF">No, you didn't.</font>
+
+207
+00:08:16,014 --> 00:08:17,279
+<font color="#FFFFFF">Shirley said it, remember?</font>
+
+208
+00:08:17,300 --> 00:08:18,343
+<font color="#FFFFFF">You said,
+"You hired Chang?"</font>
+
+209
+00:08:18,355 --> 00:08:20,045
+<font color="#FFFFFF">And I said, "I'm
+Kevin, and you are?"</font>
+
+210
+00:08:20,055 --> 00:08:21,124
+<font color="#FFFFFF">And you said,
+"Not calling you Kevin,"</font>
+
+211
+00:08:21,143 --> 00:08:22,913
+<font color="#FFFFFF">and I said, "Hi, not calling you Kevin.
+What are you having?"</font>
+
+212
+00:08:22,925 --> 00:08:24,120
+<font color="#FFFFFF">And you said,
+"None of this."</font>
+
+213
+00:08:24,158 --> 00:08:26,153
+<font color="#FFFFFF">And then Shirley said, "I don't
+care what he calls himself.</font>
+
+214
+00:08:26,165 --> 00:08:27,185
+<font color="#FFFFFF">"He's a hard worker.</font>
+
+215
+00:08:27,216 --> 00:08:29,281
+<font color="#FFFFFF">"We're all broken people, and
+we all deserve a second chance.</font>
+
+216
+00:08:29,293 --> 00:08:31,139
+<font color="#FFFFFF">"Like how I gave Andre
+a second chance.</font>
+
+217
+00:08:31,153 --> 00:08:32,936
+<font color="#FFFFFF">"Doesn't mean I forgot.
+I just forgave."</font>
+
+218
+00:08:32,955 --> 00:08:34,960
+<font color="#FFFFFF">And you said, "Chang didn't
+sleep with a stripper.</font>
+
+219
+00:08:34,971 --> 00:08:35,879
+<font color="#FFFFFF">"He tried to kill us.</font>
+
+220
+00:08:35,897 --> 00:08:37,764
+<font color="#FFFFFF">"Why does everyone keep
+forgetting all that?"</font>
+
+221
+00:08:37,784 --> 00:08:39,772
+<font color="#FFFFFF">And then Shirley said,
+"But he didn't.</font>
+
+222
+00:08:39,792 --> 00:08:41,841
+<font color="#FFFFFF">"And you used
+to be a sleazy lawyer."</font>
+
+223
+00:08:41,977 --> 00:08:42,990
+<font color="#FFFFFF">Her words.</font>
+
+224
+00:08:43,280 --> 00:08:45,562
+<font color="#FFFFFF">Wow. That's quite a
+memory you have.</font>
+
+225
+00:08:45,573 --> 00:08:47,911
+<font color="#FFFFFF">Well, my short term memory
+has actually improved.</font>
+
+226
+00:08:47,923 --> 00:08:50,600
+<font color="#FFFFFF">My doctor calls it a, um...</font>
+
+227
+00:08:52,573 --> 00:08:53,840
+<font color="#FFFFFF">side effect.</font>
+
+228
+00:08:53,980 --> 00:08:54,738
+<font color="#FFFFFF"><i>Oh.</i></font>
+
+229
+00:08:54,756 --> 00:08:56,418
+<font color="#FFFFFF">Well played, Chang.</font>
+
+230
+00:08:56,519 --> 00:08:58,375
+<font color="#FFFFFF">The chess match has begun.</font>
+
+231
+00:08:58,393 --> 00:08:59,192
+<font color="#FFFFFF">What...</font>
+
+232
+00:08:59,224 --> 00:09:00,700
+<font color="#FFFFFF">I'm Chinese?</font>
+
+233
+00:09:00,841 --> 00:09:03,150
+<font color="#FFFFFF">Do you want to get some footage
+while we're waiting for Kevin?</font>
+
+234
+00:09:03,168 --> 00:09:05,735
+<font color="#FFFFFF">Maybe we could take some shots
+of my delicious bread baking,</font>
+
+235
+00:09:05,746 --> 00:09:07,188
+<font color="#FFFFFF">or the affordable prices</font>
+
+236
+00:09:07,206 --> 00:09:10,217
+<font color="#FFFFFF">on our new Shirley's
+sandwiches super saver menu.</font>
+
+237
+00:09:10,230 --> 00:09:13,660
+<font color="#FFFFFF">Or we could get to know the
+Shirley behind the sandwiches.</font>
+
+238
+00:09:13,679 --> 00:09:15,427
+<font color="#FFFFFF">- Here, give me that camera.
+- Oh. Okay.</font>
+
+239
+00:09:15,448 --> 00:09:17,581
+<font color="#FFFFFF">Be careful, now.
+It's Abed's camera.</font>
+
+240
+00:09:17,600 --> 00:09:18,628
+<font color="#FFFFFF">- All right.
+- Watch it.</font>
+
+241
+00:09:18,639 --> 00:09:22,774
+<font color="#FFFFFF">Oh, where is
+the stop button on this?</font>
+
+242
+00:09:22,792 --> 00:09:24,373
+<font color="#FFFFFF">Oh, here it is.
+Okay.</font>
+
+243
+00:09:24,403 --> 00:09:25,821
+<font color="#FFFFFF">- You want to hear my pitch?
+- Mmm-hmm.</font>
+
+244
+00:09:25,840 --> 00:09:28,081
+<font color="#FFFFFF">A strong, independent woman,</font>
+
+245
+00:09:28,115 --> 00:09:29,613
+<font color="#FFFFFF">starting her own business.</font>
+
+246
+00:09:29,625 --> 00:09:32,326
+<font color="#FFFFFF">An "entrepreneu-her,"
+if you will.</font>
+
+247
+00:09:32,354 --> 00:09:33,815
+<font color="#FFFFFF">Or maybe a businesswoman?</font>
+
+248
+00:09:33,832 --> 00:09:36,152
+<font color="#FFFFFF">Okay, fine.
+Think inside the box.</font>
+
+249
+00:09:36,167 --> 00:09:38,211
+<font color="#FFFFFF">All right.
+Are you ready?</font>
+
+250
+00:09:38,230 --> 00:09:40,330
+<font color="#FFFFFF">- Mmm-hmm.
+- Action.</font>
+
+251
+00:09:41,625 --> 00:09:43,783
+<font color="#FFFFFF">Cut. Oh! Beautiful.</font>
+
+252
+00:09:43,813 --> 00:09:45,361
+<font color="#FFFFFF">You don't think
+the song was too much?</font>
+
+253
+00:09:45,386 --> 00:09:47,759
+<font color="#FFFFFF">Are you kidding me?
+It made the scene.</font>
+
+254
+00:09:47,790 --> 00:09:48,466
+<font color="#FFFFFF">You know what?</font>
+
+255
+00:09:48,491 --> 00:09:50,378
+<font color="#FFFFFF">I want to get some better
+lighting up in this noise.</font>
+
+256
+00:09:50,389 --> 00:09:51,691
+<font color="#FFFFFF">Let's go hit up Abed.</font>
+
+257
+00:09:51,720 --> 00:09:53,618
+<font color="#FFFFFF">I never told anybody
+that story, Britta.</font>
+
+258
+00:09:53,635 --> 00:09:55,403
+<font color="#FFFFFF">Oh, it was beautiful.</font>
+
+259
+00:09:55,413 --> 00:09:57,601
+<font color="#FFFFFF">I was dead for three minutes.</font>
+
+260
+00:09:57,614 --> 00:09:58,758
+<font color="#FFFFFF">Three minutes?</font>
+
+261
+00:09:58,764 --> 00:10:01,227
+<font color="#FFFFFF">Three whole minutes.
+They thought I was gone.</font>
+
+262
+00:10:01,394 --> 00:10:02,326
+<font color="#FFFFFF">Pierce.</font>
+
+263
+00:10:02,428 --> 00:10:03,557
+<font color="#FFFFFF">How's your act coming?</font>
+
+264
+00:10:03,587 --> 00:10:05,735
+<font color="#FFFFFF">- Blackface <i>senor</i> Wences?
+- Mmm-hmm.</font>
+
+265
+00:10:05,883 --> 00:10:07,982
+<font color="#FFFFFF">How do you think it's coming?</font>
+
+266
+00:10:09,690 --> 00:10:10,859
+<font color="#FFFFFF"><i>In the unlikely event</i></font>
+
+267
+00:10:10,875 --> 00:10:12,788
+<font color="#FFFFFF">I fail to expose Chang,</font>
+
+268
+00:10:13,100 --> 00:10:15,929
+<font color="#FFFFFF">I'm pretty confident Pierce will
+make sure we don't get a Grant.</font>
+
+269
+00:10:15,947 --> 00:10:17,735
+<font color="#FFFFFF">What you talkin' about, hookey?</font>
+
+270
+00:10:17,772 --> 00:10:20,556
+<font color="#FFFFFF">Wow, that bit could not
+get any more perfect.</font>
+
+271
+00:10:20,568 --> 00:10:21,524
+<font color="#FFFFFF">Wait a minute.</font>
+
+272
+00:10:21,543 --> 00:10:25,326
+<font color="#FFFFFF">I haven't introduced you
+to my Asian wife yet.</font>
+
+273
+00:10:25,911 --> 00:10:27,918
+<font color="#FFFFFF">Uh-oh...</font>
+
+274
+00:10:27,990 --> 00:10:29,032
+<font color="#FFFFFF">I was wrong.</font>
+
+275
+00:10:32,548 --> 00:10:34,915
+<font color="#FFFFFF">- This is the place.
+- No, it's not.</font>
+
+276
+00:10:38,033 --> 00:10:39,174
+<font color="#FFFFFF">Garrett, here he comes. Get up.</font>
+
+277
+00:10:39,206 --> 00:10:40,852
+<font color="#FFFFFF">I can't.
+It's too heavy!</font>
+
+278
+00:10:40,878 --> 00:10:41,913
+<font color="#FFFFFF">Garrett, now.</font>
+
+279
+00:10:41,934 --> 00:10:42,865
+<font color="#FFFFFF">Now.</font>
+
+280
+00:10:45,730 --> 00:10:47,470
+<font color="#FFFFFF">Excuse me,
+Mr. Sullivan.</font>
+
+281
+00:10:47,558 --> 00:10:49,125
+<font color="#FFFFFF">This is Houlihan.
+I'm her partner, Partner.</font>
+
+282
+00:10:49,150 --> 00:10:51,884
+<font color="#FFFFFF">- Wait, I'm Partner.
+- No, you're not.</font>
+
+283
+00:10:52,399 --> 00:10:53,778
+<font color="#FFFFFF">We'd like to ask you
+a couple of questions.</font>
+
+284
+00:10:53,803 --> 00:10:55,330
+<font color="#FFFFFF">What are you, the trout police?</font>
+
+285
+00:10:55,556 --> 00:10:58,346
+<font color="#FFFFFF">Because if you are, you're legally bound
+to tell me, or else it's entrapment.</font>
+
+286
+00:10:58,376 --> 00:10:59,787
+<font color="#FFFFFF">We're not the trout police.</font>
+
+287
+00:10:59,813 --> 00:11:02,389
+<font color="#FFFFFF">Have you seen this man?</font>
+
+288
+00:11:03,788 --> 00:11:06,135
+<font color="#FFFFFF">One morning, I see something
+coming out of the trout tank,</font>
+
+289
+00:11:06,159 --> 00:11:09,121
+<font color="#FFFFFF">and at first, I was scared,
+because, uh, I'm the last face</font>
+
+290
+00:11:09,134 --> 00:11:11,455
+<font color="#FFFFFF">that a lot of trout ever see.</font>
+
+291
+00:11:11,485 --> 00:11:14,224
+<font color="#FFFFFF">I'm not saying that the
+trout are a vengeful breed,</font>
+
+292
+00:11:14,254 --> 00:11:15,865
+<font color="#FFFFFF">but if they were, I...</font>
+
+293
+00:11:16,171 --> 00:11:18,821
+<font color="#FFFFFF">I'd probably be public enemy number one.</font>
+
+294
+00:11:18,851 --> 00:11:21,816
+<font color="#FFFFFF">So the figure that emerged,
+it was that man?</font>
+
+295
+00:11:21,847 --> 00:11:24,634
+<font color="#FFFFFF">Yeah, and I was pretty relieved when
+I found out it was a naked Asian guy,</font>
+
+296
+00:11:24,657 --> 00:11:25,970
+<font color="#FFFFFF">and not an angry trout.</font>
+
+297
+00:11:25,988 --> 00:11:27,150
+<font color="#FFFFFF">And when was this?</font>
+
+298
+00:11:27,212 --> 00:11:29,442
+<font color="#FFFFFF">Oh, it must have been
+around June.</font>
+
+299
+00:11:29,466 --> 00:11:31,716
+<font color="#FFFFFF">I remember because
+my milkweed allergies</font>
+
+300
+00:11:31,735 --> 00:11:33,565
+<font color="#FFFFFF">were acting up
+something fierce.</font>
+
+301
+00:11:33,615 --> 00:11:37,187
+<font color="#FFFFFF">I gave him some clothes, and sent
+him on his way the next morning.</font>
+
+302
+00:11:37,335 --> 00:11:38,854
+<font color="#FFFFFF">I don't know what happened
+to him after that.</font>
+
+303
+00:11:38,866 --> 00:11:41,371
+<font color="#FFFFFF">Mr. Sullivan, how many
+employees do you have here?</font>
+
+304
+00:11:41,427 --> 00:11:42,734
+<font color="#FFFFFF">Employees?</font>
+
+305
+00:11:42,797 --> 00:11:44,453
+<font color="#FFFFFF">What do I look like,
+trout world?</font>
+
+306
+00:11:45,706 --> 00:11:47,738
+<font color="#FFFFFF">No employees.
+Heh, just me.</font>
+
+307
+00:11:48,504 --> 00:11:49,495
+<font color="#FFFFFF">And my dog.</font>
+
+308
+00:11:50,341 --> 00:11:51,884
+<font color="#FFFFFF"><i>I knew he was hiding something.</i></font>
+
+309
+00:11:51,909 --> 00:11:53,504
+<font color="#FFFFFF"><i>A spike in production in June,</i></font>
+
+310
+00:11:53,524 --> 00:11:55,799
+<font color="#FFFFFF">at the peak
+of milkweed allergy season?</font>
+
+311
+00:11:55,823 --> 00:11:59,951
+<font color="#FFFFFF">Something on this trout farm was
+starting to smell... wrong.</font>
+
+312
+00:12:00,376 --> 00:12:03,208
+<font color="#FFFFFF">The problem was, I didn't have
+any way to make him talk.</font>
+
+313
+00:12:03,437 --> 00:12:04,602
+<font color="#FFFFFF">Or did I?</font>
+
+314
+00:12:04,854 --> 00:12:07,820
+<font color="#FFFFFF">Well, looks like
+everything checks out here.</font>
+
+315
+00:12:07,826 --> 00:12:08,650
+<font color="#FFFFFF">Right, Troy?</font>
+
+316
+00:12:08,700 --> 00:12:11,822
+<font color="#FFFFFF">No, Houlihan, I don't think
+anything checks out here.</font>
+
+317
+00:12:11,835 --> 00:12:14,274
+<font color="#FFFFFF">No, don't fly off the handle, Partner.</font>
+
+318
+00:12:14,294 --> 00:12:16,850
+<font color="#FFFFFF">Oh, I will fly
+off the handle, Houlihan.</font>
+
+319
+00:12:16,876 --> 00:12:18,539
+<font color="#FFFFFF">What the hell
+are you talking about?</font>
+
+320
+00:12:18,576 --> 00:12:19,875
+<font color="#FFFFFF">I'm sorry,
+Mr. Sullivan.</font>
+
+321
+00:12:19,903 --> 00:12:22,674
+<font color="#FFFFFF">Clearly, you have
+nothing to hide.</font>
+
+322
+00:12:22,710 --> 00:12:24,235
+<font color="#FFFFFF">What are you hiding?</font>
+
+323
+00:12:24,253 --> 00:12:25,554
+<font color="#FFFFFF">Fine!</font>
+
+324
+00:12:25,581 --> 00:12:26,794
+<font color="#FFFFFF">You got me.</font>
+
+325
+00:12:26,860 --> 00:12:29,491
+<font color="#FFFFFF">I've been using that Asian
+guy as unpaid, manual labor</font>
+
+326
+00:12:29,504 --> 00:12:32,115
+<font color="#FFFFFF">for three months before
+I drove him into town.</font>
+
+327
+00:12:32,140 --> 00:12:34,306
+<font color="#FFFFFF">But he wanted me to!</font>
+
+328
+00:12:34,609 --> 00:12:36,125
+<font color="#FFFFFF">We were friends,</font>
+
+329
+00:12:36,144 --> 00:12:40,197
+<font color="#FFFFFF">and I treated him
+with respect and dignity.</font>
+
+330
+00:12:40,494 --> 00:12:42,311
+<font color="#FFFFFF">Partner and Houlihan.</font>
+
+331
+00:12:43,297 --> 00:12:44,327
+<font color="#FFFFFF">Shut up, Kevin!</font>
+
+332
+00:12:44,802 --> 00:12:47,168
+<font color="#FFFFFF">Partner and Houlihan.</font>
+
+333
+00:12:47,855 --> 00:12:48,860
+<font color="#FFFFFF">I don't understand.</font>
+
+334
+00:12:48,885 --> 00:12:50,135
+<font color="#FFFFFF">Why would he work for no money?</font>
+
+335
+00:12:50,161 --> 00:12:51,364
+<font color="#FFFFFF">Because he doesn't know
+about money.</font>
+
+336
+00:12:51,389 --> 00:12:53,788
+<font color="#FFFFFF">Kevin doesn't know about labor
+laws, or 40-hour work weeks,</font>
+
+337
+00:12:53,815 --> 00:12:55,633
+<font color="#FFFFFF">or that that dude named him
+after a dog.</font>
+
+338
+00:12:55,657 --> 00:12:57,232
+<font color="#FFFFFF">Growing up,
+I had a cat named Troy,</font>
+
+339
+00:12:57,258 --> 00:12:59,648
+<font color="#FFFFFF">a bird named Troy,
+and a hamster named Troy.</font>
+
+340
+00:12:59,937 --> 00:13:02,138
+<font color="#FFFFFF">They were all older than me.</font>
+
+341
+00:13:02,870 --> 00:13:04,057
+<font color="#FFFFFF">Oh, my God.</font>
+
+342
+00:13:04,083 --> 00:13:07,899
+<font color="#FFFFFF">I think Kevin's struggle just
+got a lot sexier, Grant-wise.</font>
+
+343
+00:13:07,918 --> 00:13:09,860
+<font color="#FFFFFF">This is horrible.</font>
+
+344
+00:13:10,283 --> 00:13:11,716
+<font color="#FFFFFF"><i>It was horrible.</i></font>
+
+345
+00:13:11,995 --> 00:13:13,864
+<font color="#FFFFFF">They were supposed to
+come back with a smoking gun,</font>
+
+346
+00:13:13,889 --> 00:13:15,886
+<font color="#FFFFFF">and all they found was a
+little human rights abuse.</font>
+
+347
+00:13:15,914 --> 00:13:17,620
+<font color="#FFFFFF">Which, normally, is terrible.</font>
+
+348
+00:13:17,645 --> 00:13:18,833
+<font color="#FFFFFF">So do you believe Kevin now?</font>
+
+349
+00:13:18,851 --> 00:13:20,722
+<font color="#FFFFFF">No.
+I want all your footage.</font>
+
+350
+00:13:20,756 --> 00:13:22,191
+<font color="#FFFFFF">I know Chang slipped up.</font>
+
+351
+00:13:22,216 --> 00:13:24,461
+<font color="#FFFFFF">He's not smart enough
+to play dumb all the time.</font>
+
+352
+00:13:24,533 --> 00:13:26,053
+<font color="#FFFFFF">What about
+Shirley and Britta's footage?</font>
+
+353
+00:13:26,072 --> 00:13:27,085
+<font color="#FFFFFF">It's unusable crap.</font>
+
+354
+00:13:27,116 --> 00:13:28,458
+<font color="#FFFFFF">I don't care.
+I want it all.</font>
+
+355
+00:13:28,477 --> 00:13:29,909
+<font color="#FFFFFF">Do you want it bad enough
+to rent me a crane?</font>
+
+356
+00:13:29,932 --> 00:13:31,442
+<font color="#FFFFFF">And maybe license
+an expensive song?</font>
+
+357
+00:13:31,466 --> 00:13:32,823
+<font color="#FFFFFF">Yeah, whatever.</font>
+
+358
+00:13:33,313 --> 00:13:35,816
+<font color="#FFFFFF"><i>♪ The itsy-bitsy spider</i></font>
+
+359
+00:13:36,048 --> 00:13:39,849
+<font color="#FFFFFF"><i>♪ went up the water spout</i></font>
+
+360
+00:13:42,966 --> 00:13:45,380
+<font color="#FFFFFF">unusable crap is generous.</font>
+
+361
+00:13:46,232 --> 00:13:47,748
+<font color="#FFFFFF">It goes on like this
+for another 12 hours.</font>
+
+362
+00:13:47,773 --> 00:13:50,745
+<font color="#FFFFFF">I couldn't even get through it all,
+and I sat through <i>The Tree of Life.</i></font>
+
+363
+00:13:52,806 --> 00:13:54,866
+<font color="#FFFFFF">Wait, right there.
+What's that?</font>
+
+364
+00:13:56,057 --> 00:13:58,697
+<font color="#FFFFFF">Oh, come on,
+you slippery snake, slip up.</font>
+
+365
+00:13:58,716 --> 00:13:59,787
+<font color="#FFFFFF">Doubtful.
+When he's alone,</font>
+
+366
+00:13:59,793 --> 00:14:03,495
+<font color="#FFFFFF">he mostly just practices smiling
+and frowning. We've all done it.</font>
+
+367
+00:14:11,648 --> 00:14:12,982
+<font color="#FFFFFF">Who's he calling?</font>
+
+368
+00:14:13,000 --> 00:14:14,900
+<font color="#FFFFFF">Good question.</font>
+
+369
+00:14:15,591 --> 00:14:16,791
+<font color="#FFFFFF">We figure that out,</font>
+
+370
+00:14:16,820 --> 00:14:18,716
+<font color="#FFFFFF">we've got our smoking gun.</font>
+
+371
+00:14:19,034 --> 00:14:20,480
+<font color="#FFFFFF">And all thanks to Britta.</font>
+
+372
+00:14:20,504 --> 00:14:22,138
+<font color="#FFFFFF">Don't ruin this.</font>
+
+373
+00:14:22,820 --> 00:14:25,225
+<font color="#FFFFFF"><i>The stage was set for
+a climatic final set piece.</i></font>
+
+374
+00:14:25,263 --> 00:14:26,890
+<font color="#FFFFFF"><i>The Macguffin people</i>
+<i>were on campus,</i></font>
+
+375
+00:14:26,909 --> 00:14:29,232
+<font color="#FFFFFF"><i>and Jeff had prepared</i>
+<i>quite the presentation.</i></font>
+
+376
+00:14:30,966 --> 00:14:32,017
+<font color="#FFFFFF">You shut up.</font>
+
+377
+00:14:32,036 --> 00:14:33,104
+<font color="#FFFFFF">But I love you.</font>
+
+378
+00:14:33,142 --> 00:14:35,019
+<font color="#FFFFFF">You get yourself in the kitchen,
+and make me a burrito.</font>
+
+379
+00:14:35,038 --> 00:14:37,450
+<font color="#FFFFFF">Oh, okay, yay!
+Oh, thank you.</font>
+
+380
+00:14:37,465 --> 00:14:39,144
+<font color="#FFFFFF">Okay, thank you,
+Pierce Hawthorne</font>
+
+381
+00:14:39,157 --> 00:14:42,769
+<font color="#FFFFFF">for your special blend
+of playful racial humor.</font>
+
+382
+00:14:42,796 --> 00:14:45,799
+<font color="#FFFFFF">And genuine thoughts
+on Geraldine ferraro.</font>
+
+383
+00:14:45,812 --> 00:14:47,235
+<font color="#FFFFFF">He's an old Teddy bear.</font>
+
+384
+00:14:47,260 --> 00:14:50,283
+<font color="#FFFFFF">And now, I believe Jeff
+Winger has a presentation.</font>
+
+385
+00:14:50,317 --> 00:14:52,183
+<font color="#FFFFFF">- Yay.
+- Ugh.</font>
+
+386
+00:14:53,221 --> 00:14:55,331
+<font color="#FFFFFF">Thank you.
+I must confess,</font>
+
+387
+00:14:55,345 --> 00:14:58,216
+<font color="#FFFFFF">I was just a short while
+ago quite skeptical</font>
+
+388
+00:14:58,241 --> 00:14:59,599
+<font color="#FFFFFF">about Changnesia.</font>
+
+389
+00:14:59,610 --> 00:15:00,671
+<font color="#FFFFFF">But, with the help
+of my friends,</font>
+
+390
+00:15:00,687 --> 00:15:03,442
+<font color="#FFFFFF">we have uncovered a lot
+about this terrible,</font>
+
+391
+00:15:03,481 --> 00:15:06,650
+<font color="#FFFFFF">newly-discovered,
+completely real disease.</font>
+
+392
+00:15:06,657 --> 00:15:09,621
+<font color="#FFFFFF">I think you'll find it
+as eye-opening as I did.</font>
+
+393
+00:15:09,720 --> 00:15:11,065
+<font color="#FFFFFF">Wait till you see
+what we found.</font>
+
+394
+00:15:11,096 --> 00:15:13,413
+<font color="#FFFFFF">Kevin was a victim
+of human trafficking.</font>
+
+395
+00:15:13,591 --> 00:15:17,576
+<font color="#FFFFFF">Our purpose here tonight
+is to help cure Kevin</font>
+
+396
+00:15:17,614 --> 00:15:19,174
+<font color="#FFFFFF">of his Changnesia.</font>
+
+397
+00:15:19,227 --> 00:15:21,177
+<font color="#FFFFFF">Who better to jog his memory</font>
+
+398
+00:15:21,190 --> 00:15:24,394
+<font color="#FFFFFF">than someone special from
+his allegedly erased past.</font>
+
+399
+00:15:24,534 --> 00:15:29,817
+<font color="#FFFFFF">So please welcome to the stage
+the former Mrs. Ben Chang, Alessandra.</font>
+
+400
+00:15:29,841 --> 00:15:31,321
+<font color="#FFFFFF">Alessandra, come on up.</font>
+
+401
+00:15:31,346 --> 00:15:32,745
+<font color="#FFFFFF">Thank you.</font>
+
+402
+00:15:37,018 --> 00:15:38,491
+<font color="#FFFFFF">Ben...</font>
+
+403
+00:15:38,773 --> 00:15:40,606
+<font color="#FFFFFF">do you remember me?</font>
+
+404
+00:15:42,615 --> 00:15:44,224
+<font color="#FFFFFF">I'm sorry.</font>
+
+405
+00:15:45,613 --> 00:15:46,813
+<font color="#FFFFFF">I don't.</font>
+
+406
+00:15:46,831 --> 00:15:47,807
+<font color="#FFFFFF">Admit it, Kevin.</font>
+
+407
+00:15:47,844 --> 00:15:49,167
+<font color="#FFFFFF">You remember her.</font>
+
+408
+00:15:49,282 --> 00:15:52,139
+<font color="#FFFFFF">This is the woman
+you never stopped loving.</font>
+
+409
+00:15:52,164 --> 00:15:53,865
+<font color="#FFFFFF">Hit the lights!</font>
+
+410
+00:16:05,635 --> 00:16:06,436
+<font color="#FFFFFF">Oh...</font>
+
+411
+00:16:06,472 --> 00:16:08,464
+<font color="#FFFFFF">You love her so much,</font>
+
+412
+00:16:08,495 --> 00:16:12,211
+<font color="#FFFFFF">you called her over and
+over and over again,</font>
+
+413
+00:16:12,234 --> 00:16:13,749
+<font color="#FFFFFF">even though you don't know her</font>
+
+414
+00:16:13,772 --> 00:16:16,941
+<font color="#FFFFFF">or how to use a phone
+or what a number is.</font>
+
+415
+00:16:18,631 --> 00:16:19,960
+<font color="#FFFFFF">What's going on here?</font>
+
+416
+00:16:19,990 --> 00:16:21,500
+<font color="#FFFFFF">You told me
+I was here to help him.</font>
+
+417
+00:16:21,525 --> 00:16:23,822
+<font color="#FFFFFF">Oh, we are here
+to help him, all right.</font>
+
+418
+00:16:23,975 --> 00:16:28,774
+<font color="#FFFFFF">We are here to help him admit that he
+has been faking this whole time.</font>
+
+419
+00:16:28,793 --> 00:16:30,375
+<font color="#FFFFFF">Where'd you get
+the number, Chang?</font>
+
+420
+00:16:30,381 --> 00:16:32,212
+<font color="#FFFFFF">I found it in the vents!</font>
+
+421
+00:16:33,106 --> 00:16:35,341
+<font color="#FFFFFF">It's 555-0190.</font>
+
+422
+00:16:36,316 --> 00:16:38,883
+<font color="#FFFFFF">And it was the most beautiful
+thing I'd ever seen.</font>
+
+423
+00:16:39,203 --> 00:16:41,596
+<font color="#FFFFFF">But I always hung up,
+because...</font>
+
+424
+00:16:42,451 --> 00:16:44,033
+<font color="#FFFFFF">I didn't know if the
+person on the other end</font>
+
+425
+00:16:44,058 --> 00:16:46,128
+<font color="#FFFFFF">would ever want
+to talk to Kevin...</font>
+
+426
+00:16:46,866 --> 00:16:48,433
+<font color="#FFFFFF">after knowing Chang.</font>
+
+427
+00:16:48,490 --> 00:16:50,024
+<font color="#FFFFFF">You seem so nice.</font>
+
+428
+00:16:50,169 --> 00:16:51,760
+<font color="#FFFFFF">If we were really married,</font>
+
+429
+00:16:52,215 --> 00:16:55,297
+<font color="#FFFFFF">I wish I could remember for even
+one moment how lucky I was.</font>
+
+430
+00:16:55,322 --> 00:16:56,642
+<font color="#FFFFFF">- Oh...
+- Aw...</font>
+
+431
+00:16:56,653 --> 00:16:58,190
+<font color="#FFFFFF">Oh, Ben.</font>
+
+432
+00:16:59,926 --> 00:17:00,607
+<font color="#FFFFFF">Uh!</font>
+
+433
+00:17:01,505 --> 00:17:02,884
+<font color="#FFFFFF">Jeffrey, what are you doing?</font>
+
+434
+00:17:02,897 --> 00:17:06,076
+<font color="#FFFFFF">Look, if he doesn't remember her,
+then this wouldn't bother him.</font>
+
+435
+00:17:06,086 --> 00:17:07,854
+<font color="#FFFFFF">My logic is flawless!</font>
+
+436
+00:17:10,079 --> 00:17:12,269
+<font color="#FFFFFF">Doesn't that bother you?
+That bothers you!</font>
+
+437
+00:17:12,295 --> 00:17:13,087
+<font color="#FFFFFF"><i>Things got so ugly,</i></font>
+
+438
+00:17:13,090 --> 00:17:14,847
+<font color="#FFFFFF"><i>I hesitate to even</i>
+<i>show you this footage.</i></font>
+
+439
+00:17:14,865 --> 00:17:16,615
+<font color="#FFFFFF">But I will let you see
+me reacting to it.</font>
+
+440
+00:17:16,645 --> 00:17:18,842
+<font color="#FFFFFF">That'll probably be
+more than you can handle.</font>
+
+441
+00:17:22,432 --> 00:17:23,832
+<font color="#FFFFFF">Mmm...</font>
+
+442
+00:17:25,971 --> 00:17:28,506
+<font color="#FFFFFF">Actually, it's not that bad,
+but this keeps the story moving.</font>
+
+443
+00:17:29,452 --> 00:17:30,548
+<font color="#FFFFFF">Hey, Alessandra,</font>
+
+444
+00:17:30,554 --> 00:17:33,049
+<font color="#FFFFFF">his last girlfriend
+was a charred mannequin leg!</font>
+
+445
+00:17:33,074 --> 00:17:34,979
+<font color="#FFFFFF">Jeffrey!
+Have you lost your mind?</font>
+
+446
+00:17:35,078 --> 00:17:36,223
+<font color="#FFFFFF">You never believed Kevin?</font>
+
+447
+00:17:36,241 --> 00:17:39,185
+<font color="#FFFFFF">You were just lying to manipulate
+us into helping you hurt him?</font>
+
+448
+00:17:39,200 --> 00:17:41,396
+<font color="#FFFFFF">Jeffrey, I trusted you
+and believed in you</font>
+
+449
+00:17:41,423 --> 00:17:44,083
+<font color="#FFFFFF">and fantasized about celebrating
+over mimosas with you!</font>
+
+450
+00:17:44,107 --> 00:17:46,621
+<font color="#FFFFFF">Dean, if this is the sort
+of uphill battle</font>
+
+451
+00:17:46,630 --> 00:17:48,855
+<font color="#FFFFFF">you're facing in the fight
+against Changnesia,</font>
+
+452
+00:17:48,878 --> 00:17:51,223
+<font color="#FFFFFF">well, then, you're gonna need
+all the help you can get.</font>
+
+453
+00:17:51,242 --> 00:17:53,994
+<font color="#FFFFFF">On behalf of the Macguffin
+neurological institute,</font>
+
+454
+00:17:54,019 --> 00:17:55,916
+<font color="#FFFFFF">Grant granted.</font>
+
+455
+00:17:59,824 --> 00:18:02,096
+<font color="#FFFFFF"><i>So...</i>
+<i>I guess I did help.</i></font>
+
+456
+00:18:02,133 --> 00:18:04,348
+<font color="#FFFFFF"><i>Just not in the way</i>
+<i>I wanted to.</i></font>
+
+457
+00:18:04,531 --> 00:18:05,630
+<font color="#FFFFFF">But, on the bright side,</font>
+
+458
+00:18:05,647 --> 00:18:08,215
+<font color="#FFFFFF">this is the most well-documented
+failure of my life.</font>
+
+459
+00:18:12,307 --> 00:18:13,271
+<font color="#FFFFFF">Thank you.</font>
+
+460
+00:18:13,869 --> 00:18:15,946
+<font color="#FFFFFF"><i>By trying to make</i>
+<i>Kevin a pariah,</i></font>
+
+461
+00:18:16,027 --> 00:18:17,508
+<font color="#FFFFFF"><i>I accidentally</i>
+<i>became more Chang</i></font>
+
+462
+00:18:17,527 --> 00:18:19,704
+<font color="#FFFFFF"><i>than Chang at his Changiest.</i></font>
+
+463
+00:18:21,233 --> 00:18:22,590
+<font color="#FFFFFF">That's funny.</font>
+
+464
+00:18:23,000 --> 00:18:25,022
+<font color="#FFFFFF"><i>Well, I didn't try</i>
+<i>to kill anyone.</i></font>
+
+465
+00:18:25,221 --> 00:18:26,637
+<font color="#FFFFFF">Which no one
+seems to care about.</font>
+
+466
+00:18:26,666 --> 00:18:28,232
+<font color="#FFFFFF">But you know what I'm saying.</font>
+
+467
+00:18:30,266 --> 00:18:31,965
+<font color="#FFFFFF">Can I sit here?</font>
+
+468
+00:18:33,393 --> 00:18:35,641
+<font color="#FFFFFF">You sure you want
+to be seen with me?</font>
+
+469
+00:18:35,978 --> 00:18:37,807
+<font color="#FFFFFF">You have a brand-new
+reputation to uphold.</font>
+
+470
+00:18:39,730 --> 00:18:41,250
+<font color="#FFFFFF">I like you.</font>
+
+471
+00:18:41,333 --> 00:18:42,422
+<font color="#FFFFFF">Really?</font>
+
+472
+00:18:42,700 --> 00:18:45,008
+<font color="#FFFFFF">Even after
+everything I did to...</font>
+
+473
+00:18:45,523 --> 00:18:47,030
+<font color="#FFFFFF">Whoever you are?</font>
+
+474
+00:18:47,238 --> 00:18:48,738
+<font color="#FFFFFF">Okay, I get it.</font>
+
+475
+00:18:48,777 --> 00:18:50,988
+<font color="#FFFFFF">Changnesia's hard
+to understand.</font>
+
+476
+00:18:51,156 --> 00:18:52,999
+<font color="#FFFFFF">At least, that's what
+people tell me.</font>
+
+477
+00:18:53,041 --> 00:18:54,413
+<font color="#FFFFFF">Now, I don't know
+a thing about it,</font>
+
+478
+00:18:54,432 --> 00:18:58,086
+<font color="#FFFFFF">which apparently is one of the symptoms,
+and it's so frustrating.</font>
+
+479
+00:18:59,903 --> 00:19:03,406
+<font color="#FFFFFF">Look, I know Chang
+was a bad guy.</font>
+
+480
+00:19:03,656 --> 00:19:07,519
+<font color="#FFFFFF">So he probably deserved
+everything you did to him.</font>
+
+481
+00:19:07,567 --> 00:19:09,284
+<font color="#FFFFFF">But you're not a bad guy.</font>
+
+482
+00:19:09,301 --> 00:19:11,107
+<font color="#FFFFFF">You just made a mistake.</font>
+
+483
+00:19:12,250 --> 00:19:15,175
+<font color="#FFFFFF">And I'm willing to start
+over fresh if you are.</font>
+
+484
+00:19:17,048 --> 00:19:18,548
+<font color="#FFFFFF">Hi.</font>
+
+485
+00:19:18,596 --> 00:19:20,028
+<font color="#FFFFFF">My name's Kevin.</font>
+
+486
+00:19:20,777 --> 00:19:22,765
+<font color="#FFFFFF"><i>I'm not saying I believe him.</i></font>
+
+487
+00:19:22,801 --> 00:19:27,207
+<font color="#FFFFFF">But I have got an idea of what
+it feels like to be Chang.</font>
+
+488
+00:19:27,461 --> 00:19:28,982
+<font color="#FFFFFF">Wanting to leave
+that name behind</font>
+
+489
+00:19:28,989 --> 00:19:31,423
+<font color="#FFFFFF">is the sanest decision
+anyone can make.</font>
+
+490
+00:19:35,563 --> 00:19:37,029
+<font color="#FFFFFF"><i>♪ 1, 2</i></font>
+
+491
+00:19:37,042 --> 00:19:37,878
+<font color="#FFFFFF">Hi.</font>
+
+492
+00:19:37,903 --> 00:19:39,182
+<font color="#FFFFFF"><i>♪ 1, 2, 3</i></font>
+
+493
+00:19:39,252 --> 00:19:41,051
+<font color="#FFFFFF">I'm Jeff.</font>
+
+494
+00:19:43,784 --> 00:19:47,586
+<font color="#FFFFFF"><i>♪ But when the night is falling</i></font>
+
+495
+00:19:47,898 --> 00:19:51,799
+<font color="#FFFFFF"><i>♪ you cannot find the light</i></font>
+
+496
+00:19:51,827 --> 00:19:53,028
+<font color="#FFFFFF">Aw.</font>
+
+497
+00:19:53,050 --> 00:19:53,845
+<font color="#FFFFFF">Thanks.</font>
+
+498
+00:19:53,869 --> 00:19:55,968
+<font color="#FFFFFF">A lot of filmmakers use crane
+shots to elicit emotion.</font>
+
+499
+00:19:55,984 --> 00:19:57,383
+<font color="#FFFFFF">What the heck, Abed?</font>
+
+500
+00:19:57,402 --> 00:19:59,882
+<font color="#FFFFFF">You knew what Jeffrey was
+planning to do the whole time?</font>
+
+501
+00:19:59,900 --> 00:20:01,405
+<font color="#FFFFFF">Why can't you ever
+make a documentary</font>
+
+502
+00:20:01,412 --> 00:20:03,410
+<font color="#FFFFFF">about the thing you plan
+to make a documentary about?</font>
+
+503
+00:20:03,422 --> 00:20:05,121
+<font color="#FFFFFF">Don't censor him!</font>
+
+504
+00:20:05,160 --> 00:20:06,580
+<font color="#FFFFFF">Censorship.</font>
+
+505
+00:20:06,612 --> 00:20:08,713
+<font color="#FFFFFF">- This is the documentary.
+- Ugh.</font>
+
+506
+00:20:08,730 --> 00:20:10,814
+<font color="#FFFFFF">Abed, you gotta teach me
+how to use that camera.</font>
+
+507
+00:20:13,122 --> 00:20:15,523
+<font color="#FFFFFF">Guys... I'm sorry.</font>
+
+508
+00:20:15,758 --> 00:20:17,590
+<font color="#FFFFFF">I really screwed up.</font>
+
+509
+00:20:17,711 --> 00:20:19,810
+<font color="#FFFFFF">I hope you can forgive me.</font>
+
+510
+00:20:19,907 --> 00:20:21,406
+<font color="#FFFFFF">Already forgotten.</font>
+
+511
+00:20:21,455 --> 00:20:22,355
+<font color="#FFFFFF">Oh...</font>
+
+512
+00:20:23,239 --> 00:20:24,788
+<font color="#FFFFFF">- Kevin...
+- What are we laughing about?</font>
+
+513
+00:20:24,818 --> 00:20:26,866
+<font color="#FFFFFF">- Oh, Kevin.
+- Kevin...</font>
+
+514
+00:20:27,699 --> 00:20:29,386
+<font color="#FFFFFF">- Adorable.
+- Good job.</font>
+
+515
+00:20:29,455 --> 00:20:31,056
+<font color="#FFFFFF">I don't get it.</font>
+
+516
+00:20:41,373 --> 00:20:42,705
+<font color="#FFFFFF">Hi, it's me.</font>
+
+517
+00:20:42,968 --> 00:20:44,704
+<font color="#FFFFFF">They all finally bought it.</font>
+
+518
+00:20:44,761 --> 00:20:46,961
+<font color="#FFFFFF">Hook, line, and Winger.</font>
+
+519
+00:20:47,203 --> 00:20:49,535
+<font color="#FFFFFF">I patiently await
+your further instructions.</font>
+
+520
+00:20:49,596 --> 00:20:51,699
+<font color="#FFFFFF">Chang out.</font>
+
+521
+00:20:55,988 --> 00:20:58,788
+<font color="#FFFFFF">Why did I do that?
+Man...</font>
+
+522
+00:21:05,203 --> 00:21:10,203
+<font color="#FFFFFF">Sync and corrections by Norther
+www. addic7ed. com</font>
+

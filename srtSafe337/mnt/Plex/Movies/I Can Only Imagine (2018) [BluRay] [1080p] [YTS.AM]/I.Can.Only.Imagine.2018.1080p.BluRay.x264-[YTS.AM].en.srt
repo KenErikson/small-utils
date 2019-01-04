@@ -1,0 +1,6748 @@
+1
+00:01:04,212 --> 00:01:07,218
+<font color="#FFFFFF">Subtitles by explosiveskull</font>
+
+2
+00:01:16,400 --> 00:01:17,799
+<font color="#FFFFFF"><i>Thank you.</i></font>
+
+3
+00:01:19,799 --> 00:01:24,055
+<font color="#FFFFFF"><i>I found a song
+that saved me through a time.</i></font>
+
+4
+00:01:24,079 --> 00:01:27,216
+<font color="#FFFFFF"><i>You know how music does that?</i></font>
+
+5
+00:01:27,239 --> 00:01:31,632
+<font color="#FFFFFF"><i>I was dealing with loss,
+with pain,</i></font>
+
+6
+00:01:31,760 --> 00:01:33,456
+<font color="#FFFFFF"><i>and I heard this song,</i></font>
+
+7
+00:01:33,479 --> 00:01:36,936
+<font color="#FFFFFF"><i>and it blew my soul wide open.</i></font>
+
+8
+00:01:36,960 --> 00:01:41,055
+<font color="#FFFFFF"><i>It became my anthem.
+It rescued me.</i></font>
+
+9
+00:01:41,079 --> 00:01:46,055
+<font color="#FFFFFF"><i>And I just kept wondering,
+who could write this?</i></font>
+
+10
+00:01:46,079 --> 00:01:48,816
+<font color="#FFFFFF"><i>What did they have to go through</i></font>
+
+11
+00:01:48,840 --> 00:01:51,615
+<font color="#FFFFFF"><i>to be able to give
+this gift to me?</i></font>
+
+12
+00:01:51,640 --> 00:01:56,078
+<font color="#FFFFFF"><i>This is hope, pure hope.</i></font>
+
+13
+00:01:56,200 --> 00:01:58,271
+<font color="#FFFFFF">It's an amazing song.</font>
+
+14
+00:02:01,319 --> 00:02:02,594
+<font color="#FFFFFF">Just kind of happened.</font>
+
+15
+00:02:04,599 --> 00:02:07,256
+<font color="#FFFFFF">Lyrics took about ten minutes,
+I guess.</font>
+
+16
+00:02:07,280 --> 00:02:09,135
+<font color="#FFFFFF">Music took about the same.</font>
+
+17
+00:02:09,159 --> 00:02:14,536
+<font color="#FFFFFF">Bart... you didn't write
+this song in ten minutes.</font>
+
+18
+00:02:14,560 --> 00:02:16,631
+<font color="#FFFFFF">It took a lifetime.</font>
+
+19
+00:02:20,680 --> 00:02:22,796
+<font color="#FFFFFF">How'd you do this?</font>
+
+20
+00:02:57,439 --> 00:03:01,175
+<font color="#FFFFFF">Bart? Bart?</font>
+
+21
+00:03:01,199 --> 00:03:03,715
+<font color="#FFFFFF">Well, mercy me,
+you been out here all day!</font>
+
+22
+00:03:07,280 --> 00:03:09,135
+<font color="#FFFFFF">How'd I do?</font>
+
+23
+00:03:09,159 --> 00:03:13,312
+<font color="#FFFFFF">Oh, you done good, Bart.
+You done real good.</font>
+
+24
+00:03:15,319 --> 00:03:17,879
+<font color="#FFFFFF">I'll see you tomorrow!
+Bye!</font>
+
+25
+00:03:35,039 --> 00:03:38,555
+<font color="#FFFFFF"><i>♪ You got me runnin',
+goin' out of my mind ♪</i></font>
+
+26
+00:03:38,680 --> 00:03:41,735
+<font color="#FFFFFF"><i>♪ You got me thinkin'
+that I'm wastin' my time ♪</i></font>
+
+27
+00:03:41,759 --> 00:03:44,656
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i></font>
+
+28
+00:03:44,680 --> 00:03:47,735
+<font color="#FFFFFF"><i>♪ No, no, no, no, no ♪</i></font>
+
+29
+00:03:47,759 --> 00:03:49,831
+<font color="#FFFFFF"><i>♪ Ooh-ooh-hoo ♪</i></font>
+
+30
+00:03:50,879 --> 00:03:52,695
+<font color="#FFFFFF"><i>♪ I'll tell you once more ♪</i></font>
+
+31
+00:03:52,719 --> 00:03:54,776
+<font color="#FFFFFF"><i>♪ Before
+I get off the floor ♪</i></font>
+
+32
+00:03:54,800 --> 00:03:56,153
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i></font>
+
+33
+00:03:59,439 --> 00:04:02,975
+<font color="#FFFFFF"><i>♪ What happened to
+the girl I used to know? ♪</i></font>
+
+34
+00:04:03,000 --> 00:04:06,615
+<font color="#FFFFFF"><i>♪ You let your mind out
+somewhere down the road ♪</i></font>
+
+35
+00:04:06,639 --> 00:04:09,455
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i></font>
+
+36
+00:04:09,479 --> 00:04:12,790
+<font color="#FFFFFF"><i>♪ No, no, no, no, no ♪</i></font>
+
+37
+00:04:12,919 --> 00:04:15,216
+<font color="#FFFFFF"><i>♪ Ooh-ooh-hoo ♪</i></font>
+
+38
+00:04:15,240 --> 00:04:17,295
+<font color="#FFFFFF"><i>♪ I'll tell you once more ♪</i></font>
+
+39
+00:04:17,319 --> 00:04:19,136
+<font color="#FFFFFF"><i>♪ Before
+I get off the floor ♪</i></font>
+
+40
+00:04:19,160 --> 00:04:21,072
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i></font>
+
+41
+00:04:24,439 --> 00:04:28,353
+<font color="#FFFFFF"><i>♪ You're always talkin'
+'bout your crazy nights ♪</i></font>
+
+42
+00:04:28,480 --> 00:04:31,735
+<font color="#FFFFFF"><i>♪ One of these days
+you're gonna get it right ♪</i></font>
+
+43
+00:04:31,759 --> 00:04:34,656
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i></font>
+
+44
+00:04:34,680 --> 00:04:37,776
+<font color="#FFFFFF"><i>♪ No, no, no, no, no ♪</i></font>
+
+45
+00:04:37,800 --> 00:04:40,656
+<font color="#FFFFFF"><i>♪ Ooh-ooh-hoo ♪</i></font>
+
+46
+00:04:40,680 --> 00:04:42,295
+<font color="#FFFFFF"><i>♪ I'll tell you once more ♪</i></font>
+
+47
+00:04:42,319 --> 00:04:44,255
+<font color="#FFFFFF"><i>♪ Before
+I get off the floor ♪</i></font>
+
+48
+00:04:44,279 --> 00:04:47,656
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i>
+Wait! Wait!</font>
+
+49
+00:04:47,680 --> 00:04:51,255
+<font color="#FFFFFF"><i>♪ Don't bring me down... ♪</i></font>
+
+50
+00:04:52,759 --> 00:04:54,752
+<font color="#FFFFFF">'Cause, for me, you know,
+without the song...</font>
+
+51
+00:04:54,879 --> 00:04:57,136
+<font color="#FFFFFF">it's... it's all about the song.</font>
+
+52
+00:04:57,159 --> 00:04:58,615
+<font color="#FFFFFF">Yeah.
+Doesn't matter what band, you know.</font>
+
+53
+00:04:58,639 --> 00:05:00,216
+<font color="#FFFFFF">You might be interested
+in this band.</font>
+
+54
+00:05:00,240 --> 00:05:02,255
+<font color="#FFFFFF">It was one of the greatest
+concerts I've ever seen.</font>
+
+55
+00:05:02,279 --> 00:05:03,295
+<font color="#FFFFFF">It was amazing.</font>
+
+56
+00:05:03,319 --> 00:05:05,312
+<font color="#FFFFFF"><i>♪ Down, down, down ♪</i></font>
+
+57
+00:05:16,920 --> 00:05:18,735
+<font color="#FFFFFF"><i>♪ I'll tell you once more ♪</i></font>
+
+58
+00:05:18,759 --> 00:05:20,536
+<font color="#FFFFFF"><i>♪ Before
+I get off the floor ♪</i></font>
+
+59
+00:05:20,560 --> 00:05:22,312
+<font color="#FFFFFF"><i>♪ Don't bring me down ♪</i></font>
+
+60
+00:06:08,319 --> 00:06:10,735
+<font color="#FFFFFF">Hey, hon.</font>
+
+61
+00:06:10,759 --> 00:06:12,495
+<font color="#FFFFFF">What you got there?</font>
+
+62
+00:06:12,519 --> 00:06:15,295
+<font color="#FFFFFF">It's a fighter helmet
+that I made</font>
+
+63
+00:06:15,319 --> 00:06:17,016
+<font color="#FFFFFF">during a big battle in space.</font>
+
+64
+00:06:17,040 --> 00:06:18,576
+<font color="#FFFFFF">You sure worked hard on that,
+didn't you?</font>
+
+65
+00:06:18,600 --> 00:06:21,096
+<font color="#FFFFFF">Yeah.</font>
+
+66
+00:06:31,199 --> 00:06:34,216
+<font color="#FFFFFF">What's this?
+It's just... it's just junk.</font>
+
+67
+00:06:34,240 --> 00:06:37,175
+<font color="#FFFFFF"><i>You're a dreamer, Bart.
+That's good.</i></font>
+
+68
+00:06:37,199 --> 00:06:39,536
+<font color="#FFFFFF">Haven't you ever
+imagined anything?</font>
+
+69
+00:06:39,560 --> 00:06:41,696
+<font color="#FFFFFF">I'm gonna teach you
+something, Bart.</font>
+
+70
+00:06:43,199 --> 00:06:47,816
+<font color="#FFFFFF">Dreams don't pay the bills.
+Nothing good comes from it.</font>
+
+71
+00:06:49,639 --> 00:06:52,896
+<font color="#FFFFFF">All it does...</font>
+
+72
+00:06:52,920 --> 00:06:55,355
+<font color="#FFFFFF">is keep you from all this.</font>
+
+73
+00:06:58,079 --> 00:06:59,957
+<font color="#FFFFFF">From knowing what's real.</font>
+
+74
+00:07:02,040 --> 00:07:03,439
+<font color="#FFFFFF"><i>You understand that?</i></font>
+
+75
+00:07:05,879 --> 00:07:09,456
+<font color="#FFFFFF">Huh?
+Yes, Daddy.</font>
+
+76
+00:07:09,480 --> 00:07:13,375
+<font color="#FFFFFF">Well, you say that's
+a piece of junk,</font>
+
+77
+00:07:13,399 --> 00:07:15,471
+<font color="#FFFFFF">why don't you just go
+throw it away?</font>
+
+78
+00:07:18,639 --> 00:07:20,815
+<font color="#FFFFFF">Go, just go.
+He'll take it.</font>
+
+79
+00:07:20,839 --> 00:07:22,175
+<font color="#FFFFFF">It's okay, it's okay.</font>
+
+80
+00:07:44,120 --> 00:07:46,536
+<font color="#FFFFFF"><i>Stay out of it!</i></font>
+
+81
+00:07:46,560 --> 00:07:49,255
+<font color="#FFFFFF"><i>It's none of your business!
+It's between him and me.</i></font>
+
+82
+00:07:49,279 --> 00:07:52,512
+<font color="#FFFFFF"><i>Someone's gotta make sure
+that he is raised up right!</i></font>
+
+83
+00:07:52,639 --> 00:07:56,096
+<font color="#FFFFFF"><i>Shut your mouth!
+Or I'll shut it for you!</i></font>
+
+84
+00:08:00,040 --> 00:08:03,255
+<font color="#FFFFFF"><i>You want some more?
+You want some more?</i></font>
+
+85
+00:08:03,279 --> 00:08:06,192
+<font color="#FFFFFF"><i>Here, had enough yet?
+Had enough yet?</i></font>
+
+86
+00:08:31,399 --> 00:08:34,135
+<font color="#FFFFFF">Hey. Bart? Shh.</font>
+
+87
+00:08:34,159 --> 00:08:36,775
+<font color="#FFFFFF">It's okay. Hey.</font>
+
+88
+00:08:36,799 --> 00:08:38,975
+<font color="#FFFFFF">Mom?
+Ready for an adventure?</font>
+
+89
+00:08:39,000 --> 00:08:40,855
+<font color="#FFFFFF">Now?
+Yes, right now.</font>
+
+90
+00:08:40,879 --> 00:08:43,655
+<font color="#FFFFFF"><i>It's called Camp Glorieta.</i></font>
+
+91
+00:08:43,679 --> 00:08:45,696
+<font color="#FFFFFF"><i>Church down the street
+takes kids there.</i></font>
+
+92
+00:08:45,720 --> 00:08:47,176
+<font color="#FFFFFF"><i>It's a fun camp.</i></font>
+
+93
+00:08:47,200 --> 00:08:49,077
+<font color="#FFFFFF"><i>I called,
+and they said you could go.</i></font>
+
+94
+00:08:50,960 --> 00:08:53,255
+<font color="#FFFFFF">Come on,
+you're gonna have a great time.</font>
+
+95
+00:08:53,279 --> 00:08:58,071
+<font color="#FFFFFF">You're gonna make some friends.
+You'll make some memories.</font>
+
+96
+00:09:01,960 --> 00:09:03,599
+<font color="#FFFFFF">Can we just do this?</font>
+
+97
+00:09:06,600 --> 00:09:08,535
+<font color="#FFFFFF">Do what?</font>
+
+98
+00:09:08,559 --> 00:09:10,895
+<font color="#FFFFFF">Just drive.</font>
+
+99
+00:09:10,919 --> 00:09:12,195
+<font color="#FFFFFF">Drive and listen.</font>
+
+100
+00:09:14,200 --> 00:09:18,193
+<font color="#FFFFFF">Listen to this music.
+Me and you.</font>
+
+101
+00:09:20,720 --> 00:09:22,296
+<font color="#FFFFFF">Just listen to the words.</font>
+
+102
+00:09:22,320 --> 00:09:26,279
+<font color="#FFFFFF"><i>♪ I stay awhile ♪</i></font>
+
+103
+00:09:26,399 --> 00:09:30,375
+<font color="#FFFFFF"><i>♪ I can go back ♪</i></font>
+
+104
+00:09:30,399 --> 00:09:34,936
+<font color="#FFFFFF"><i>♪ Into the heart ♪</i></font>
+
+105
+00:09:34,960 --> 00:09:38,576
+<font color="#FFFFFF"><i>♪ Of a child ♪</i></font>
+
+106
+00:09:38,600 --> 00:09:42,176
+<font color="#FFFFFF"><i>♪ I can smile ♪</i></font>
+
+107
+00:09:42,200 --> 00:09:43,998
+<font color="#FFFFFF"><i>♪ I can go there ♪</i></font>
+
+108
+00:09:45,639 --> 00:09:48,677
+<font color="#FFFFFF"><i>♪ Into the heart ♪</i></font>
+
+109
+00:09:48,799 --> 00:09:52,936
+<font color="#FFFFFF"><i>♪ Into the heart of a child ♪</i></font>
+
+110
+00:09:55,200 --> 00:09:58,113
+<font color="#FFFFFF">Okay. This is it.</font>
+
+111
+00:10:00,600 --> 00:10:04,135
+<font color="#FFFFFF">You ain't never met
+a stranger? Hmm?</font>
+
+112
+00:10:04,159 --> 00:10:06,975
+<font color="#FFFFFF">All right, I can do this.
+<i>Yeah.</i></font>
+
+113
+00:10:07,000 --> 00:10:09,037
+<font color="#FFFFFF">Geronimo.
+Hey.</font>
+
+114
+00:10:11,120 --> 00:10:12,553
+<font color="#FFFFFF">You know I love you, right?</font>
+
+115
+00:10:14,200 --> 00:10:15,553
+<font color="#FFFFFF">Okay.</font>
+
+116
+00:10:17,000 --> 00:10:19,855
+<font color="#FFFFFF">Go on. Get outta here.</font>
+
+117
+00:10:19,879 --> 00:10:22,155
+<font color="#FFFFFF"><i>Bye, Mom.</i></font>
+
+118
+00:10:28,960 --> 00:10:33,415
+<font color="#FFFFFF">Oh, gosh. I can do this.
+I can do this.</font>
+
+119
+00:10:33,440 --> 00:10:36,895
+<font color="#FFFFFF">No Walkmans at camp.
+They'll take it up.</font>
+
+120
+00:10:36,919 --> 00:10:38,274
+<font color="#FFFFFF">Are you kidding?</font>
+
+121
+00:10:40,240 --> 00:10:45,056
+<font color="#FFFFFF">Oh, um, hi.
+Uh, I'm... I'm Bart.</font>
+
+122
+00:10:45,080 --> 00:10:48,456
+<font color="#FFFFFF">My friends, like,
+they call me Bart.</font>
+
+123
+00:10:48,480 --> 00:10:52,536
+<font color="#FFFFFF">I know. I'm Shannon. Duh!</font>
+
+124
+00:10:52,559 --> 00:10:55,096
+<font color="#FFFFFF">Ready for camp?
+Mmm.</font>
+
+125
+00:10:55,120 --> 00:10:57,015
+<font color="#FFFFFF">It's totally safe!</font>
+
+126
+00:10:57,039 --> 00:10:59,456
+<font color="#FFFFFF">See? Safe.</font>
+
+127
+00:10:59,480 --> 00:11:02,176
+<font color="#FFFFFF">Well, except for that one kid.</font>
+
+128
+00:11:02,200 --> 00:11:04,431
+<font color="#FFFFFF">You coming?</font>
+
+129
+00:11:17,320 --> 00:11:20,056
+<font color="#FFFFFF">Sorry, sorry.
+Squeeze in here. Sorry.</font>
+
+130
+00:11:20,080 --> 00:11:21,936
+<font color="#FFFFFF">Oh, sorry 'bout that!</font>
+
+131
+00:11:21,960 --> 00:11:24,816
+<font color="#FFFFFF">Hey, Bart, this is Kent.
+<i>Nice to meet you, Bart.</i></font>
+
+132
+00:11:24,840 --> 00:11:27,855
+<font color="#FFFFFF">Hey, bro. This is the cup game.
+I'm not very good at it.</font>
+
+133
+00:11:27,879 --> 00:11:30,296
+<font color="#FFFFFF"><i>Campers.
+Campers, up here!</i></font>
+
+134
+00:11:30,320 --> 00:11:31,655
+<font color="#FFFFFF"><i>So I'm Rusty.</i></font>
+
+135
+00:11:31,679 --> 00:11:33,456
+<font color="#FFFFFF">For those of you
+who don't know me,</font>
+
+136
+00:11:33,480 --> 00:11:35,735
+<font color="#FFFFFF">I'm the Youth Pastor
+at Greenville Baptist.</font>
+
+137
+00:11:35,759 --> 00:11:36,975
+<font color="#FFFFFF">So if you didn't bring
+your journals, come up here.</font>
+
+138
+00:11:37,000 --> 00:11:38,775
+<font color="#FFFFFF"><i>We got one for you.</i></font>
+
+139
+00:11:38,799 --> 00:11:41,015
+<font color="#FFFFFF">You're gonna need it
+for your session tonight.</font>
+
+140
+00:11:41,039 --> 00:11:43,509
+<font color="#FFFFFF"><i>Let's have a great week.</i>
+Bro, sit down. I got you.</font>
+
+141
+00:11:47,200 --> 00:11:49,840
+<font color="#FFFFFF">So is that like a diary, or?</font>
+
+142
+00:11:49,960 --> 00:11:53,255
+<font color="#FFFFFF">Kinda, but there's more to it.
+Helps get my thoughts ordered.</font>
+
+143
+00:11:53,279 --> 00:11:56,576
+<font color="#FFFFFF">Prayers, problems, dreams,
+stuff I imagine sometimes.</font>
+
+144
+00:11:56,600 --> 00:11:58,056
+<font color="#FFFFFF">Uh, can I see?</font>
+
+145
+00:11:58,080 --> 00:12:00,816
+<font color="#FFFFFF">I'm sorry,
+I... I didn't know.</font>
+
+146
+00:12:00,840 --> 00:12:04,056
+<font color="#FFFFFF">B-9, you're with me for
+kitchen duty, let's do it.</font>
+
+147
+00:12:04,080 --> 00:12:06,336
+<font color="#FFFFFF">Well, that's me.
+See you later, okay?</font>
+
+148
+00:12:06,360 --> 00:12:08,096
+<font color="#FFFFFF">Hey, Bart, I got your journal.</font>
+
+149
+00:12:08,120 --> 00:12:09,576
+<font color="#FFFFFF">Ooh! Kent!</font>
+
+150
+00:12:18,120 --> 00:12:20,536
+<font color="#FFFFFF">Here you go.
+I'm sorry.</font>
+
+151
+00:12:30,519 --> 00:12:33,797
+<font color="#FFFFFF">That's mint.
+I didn't know you could draw.</font>
+
+152
+00:12:33,919 --> 00:12:36,296
+<font color="#FFFFFF">Why're you dressed like that?</font>
+
+153
+00:12:36,320 --> 00:12:39,176
+<font color="#FFFFFF">Come with me
+if you want to live!</font>
+
+154
+00:12:39,200 --> 00:12:41,556
+<font color="#FFFFFF">We're sneaking out.</font>
+
+155
+00:12:41,679 --> 00:12:45,936
+<font color="#FFFFFF">So what do you wanna be
+when you grow up, an artist?</font>
+
+156
+00:12:45,960 --> 00:12:50,216
+<font color="#FFFFFF">Eh, or a football player.
+That's what my dad was.</font>
+
+157
+00:12:50,240 --> 00:12:53,855
+<font color="#FFFFFF">He was really good, actually.
+Kind of famous in college.</font>
+
+158
+00:12:53,879 --> 00:12:57,015
+<font color="#FFFFFF">We're gonna get
+in so much trouble for this.</font>
+
+159
+00:12:57,039 --> 00:12:58,775
+<font color="#FFFFFF">I know, right?
+Got some great stuff.</font>
+
+160
+00:12:58,799 --> 00:13:01,655
+<font color="#FFFFFF">Like industrial grade.
+Set it all up this afternoon.</font>
+
+161
+00:13:01,679 --> 00:13:04,176
+<font color="#FFFFFF">So you guys are gonna go
+over there</font>
+
+162
+00:13:04,200 --> 00:13:05,918
+<font color="#FFFFFF">and face in the north direction,
+got it?</font>
+
+163
+00:13:08,759 --> 00:13:11,753
+<font color="#FFFFFF">And also,
+did you know Bart can draw?</font>
+
+164
+00:13:13,720 --> 00:13:14,789
+<font color="#FFFFFF">Hi.</font>
+
+165
+00:13:18,240 --> 00:13:21,576
+<font color="#FFFFFF">So you can draw?
+I guess so, a little bit.</font>
+
+166
+00:13:21,600 --> 00:13:25,176
+<font color="#FFFFFF">Bart, I'm terrified you saw
+what was written in my journal.</font>
+
+167
+00:13:25,200 --> 00:13:26,975
+<font color="#FFFFFF">Did you?
+No.</font>
+
+168
+00:13:27,000 --> 00:13:29,296
+<font color="#FFFFFF">Wh-what're you talking about?
+You're lying.</font>
+
+169
+00:13:29,320 --> 00:13:31,255
+<font color="#FFFFFF">You saw every word, didn't you?</font>
+
+170
+00:13:31,279 --> 00:13:34,576
+<font color="#FFFFFF">Maybe.</font>
+
+171
+00:13:34,600 --> 00:13:37,855
+<font color="#FFFFFF">Well, then here goes.
+You know what I think?</font>
+
+172
+00:13:37,879 --> 00:13:39,735
+<font color="#FFFFFF">I think that someday
+we're gonna fall in love,</font>
+
+173
+00:13:39,759 --> 00:13:42,480
+<font color="#FFFFFF">get married,
+and that's our destiny.</font>
+
+174
+00:13:43,919 --> 00:13:45,216
+<font color="#FFFFFF">And now I'm mortified.</font>
+
+175
+00:13:45,240 --> 00:13:46,495
+<font color="#FFFFFF">I'm gonna walk down this hill
+and help Kent.</font>
+
+176
+00:13:46,519 --> 00:13:48,750
+<font color="#FFFFFF">Wa-wa-wa-wait wait.
+Shannon, please stay.</font>
+
+177
+00:13:49,559 --> 00:13:53,576
+<font color="#FFFFFF">Why? Afraid of the dark?
+Afraid of monsters?</font>
+
+178
+00:13:53,600 --> 00:13:56,320
+<font color="#FFFFFF">I just don't like being alone.</font>
+
+179
+00:14:29,879 --> 00:14:31,855
+<font color="#FFFFFF">All right, come on, kids.</font>
+
+180
+00:14:31,879 --> 00:14:33,360
+<font color="#FFFFFF">Bart, Bart!</font>
+
+181
+00:14:35,080 --> 00:14:38,056
+<font color="#FFFFFF">Here. It's my favorite.
+Sweet.</font>
+
+182
+00:14:38,080 --> 00:14:40,255
+<font color="#FFFFFF">And I wanna be a singer
+just like her someday.</font>
+
+183
+00:14:40,279 --> 00:14:42,216
+<font color="#FFFFFF">Thank you so much.</font>
+
+184
+00:14:42,240 --> 00:14:45,677
+<font color="#FFFFFF">My parents are here pick me up.
+Bye!</font>
+
+185
+00:15:03,200 --> 00:15:06,272
+<font color="#FFFFFF"><i>Last stop. This is you.</i></font>
+
+186
+00:15:07,480 --> 00:15:10,375
+<font color="#FFFFFF"><i>It was good to meet you, Bart.
+Am I gonna see you on Sunday?</i></font>
+
+187
+00:15:10,399 --> 00:15:11,913
+<font color="#FFFFFF">Yeah. Yeah.</font>
+
+188
+00:15:25,039 --> 00:15:26,076
+<font color="#FFFFFF">Hey.</font>
+
+189
+00:15:33,159 --> 00:15:37,296
+<font color="#FFFFFF">Momma? Momma...</font>
+
+190
+00:15:37,320 --> 00:15:38,576
+<font color="#FFFFFF"><i>Where's Momma?</i></font>
+
+191
+00:15:38,600 --> 00:15:41,696
+<font color="#FFFFFF">She's gone.</font>
+
+192
+00:15:41,720 --> 00:15:43,576
+<font color="#FFFFFF">Gone where?</font>
+
+193
+00:15:43,600 --> 00:15:46,855
+<font color="#FFFFFF">She ran off.
+She ain't coming back.</font>
+
+194
+00:15:46,879 --> 00:15:48,871
+<font color="#FFFFFF"><i>Just you and me now.</i></font>
+
+195
+00:15:53,840 --> 00:15:55,895
+<font color="#FFFFFF">When will she be back?</font>
+
+196
+00:15:55,919 --> 00:15:57,831
+<font color="#FFFFFF">I told you, she run off.</font>
+
+197
+00:15:57,960 --> 00:16:02,135
+<font color="#FFFFFF">She don't want me no more,
+and she don't want you neither.</font>
+
+198
+00:16:02,159 --> 00:16:05,615
+<font color="#FFFFFF">What did you do?</font>
+
+199
+00:16:05,639 --> 00:16:08,056
+<font color="#FFFFFF">Are you bowing up on me, boy?</font>
+
+200
+00:16:08,080 --> 00:16:10,855
+<font color="#FFFFFF">You hurt her, didn't you?</font>
+
+201
+00:16:10,879 --> 00:16:13,475
+<font color="#FFFFFF">Hey!
+You hurt her like you hurt me!</font>
+
+202
+00:16:13,600 --> 00:16:14,615
+<font color="#FFFFFF">Hey!</font>
+
+203
+00:16:14,639 --> 00:16:17,336
+<font color="#FFFFFF">Nothing! That's what I did!</font>
+
+204
+00:16:17,360 --> 00:16:18,634
+<font color="#FFFFFF">Nothing!</font>
+
+205
+00:16:26,559 --> 00:16:28,711
+<font color="#FFFFFF">She didn't leave 'cause of me.</font>
+
+206
+00:16:51,840 --> 00:16:54,375
+<font color="#FFFFFF">I'm sorry, Mom!</font>
+
+207
+00:16:54,399 --> 00:16:56,072
+<font color="#FFFFFF">What did I do?</font>
+
+208
+00:16:58,320 --> 00:17:01,296
+<font color="#FFFFFF">Take me, Mom, please!</font>
+
+209
+00:17:01,320 --> 00:17:02,913
+<font color="#FFFFFF">Stop!</font>
+
+210
+00:17:17,000 --> 00:17:19,515
+<font color="#FFFFFF"><i>So did you ever see her again?</i></font>
+
+211
+00:17:20,680 --> 00:17:22,830
+<font color="#FFFFFF">Uh, she'd call now and then.</font>
+
+212
+00:17:22,960 --> 00:17:25,536
+<font color="#FFFFFF">I tried to live with her once,
+one summer in junior high,</font>
+
+213
+00:17:25,559 --> 00:17:28,576
+<font color="#FFFFFF">but she was in another bad
+relationship.</font>
+
+214
+00:17:28,599 --> 00:17:30,415
+<font color="#FFFFFF">Worse, actually.</font>
+
+215
+00:17:30,440 --> 00:17:35,215
+<font color="#FFFFFF">Um, my dad drove up and threw
+the guy off a staircase</font>
+
+216
+00:17:35,240 --> 00:17:37,415
+<font color="#FFFFFF">onto the hood of his car
+and threatened to kill him</font>
+
+217
+00:17:37,440 --> 00:17:39,256
+<font color="#FFFFFF">if he ever hurt her again</font>
+
+218
+00:17:39,279 --> 00:17:42,352
+<font color="#FFFFFF">and then grabbed me
+and took me home.</font>
+
+219
+00:17:42,480 --> 00:17:44,816
+<font color="#FFFFFF">It's kind of ironic.</font>
+
+220
+00:17:44,839 --> 00:17:48,776
+<font color="#FFFFFF">Um, that was about it.</font>
+
+221
+00:17:48,799 --> 00:17:50,711
+<font color="#FFFFFF">So what did you do?</font>
+
+222
+00:17:52,559 --> 00:17:56,473
+<font color="#FFFFFF">I tried to get good at the only
+thing my dad really cared about.</font>
+
+223
+00:18:01,240 --> 00:18:03,496
+<font color="#FFFFFF">Hey, there.
+Hey there, darlin'.</font>
+
+224
+00:18:03,519 --> 00:18:05,256
+<font color="#FFFFFF">That's so corny.</font>
+
+225
+00:18:05,279 --> 00:18:07,215
+<font color="#FFFFFF">You're making
+everyone in the stadium</font>
+
+226
+00:18:07,240 --> 00:18:08,753
+<font color="#FFFFFF">feel real uncomfortable.</font>
+
+227
+00:18:08,880 --> 00:18:11,576
+<font color="#FFFFFF">Dude, seriously,
+that beard makes you look 35.</font>
+
+228
+00:18:11,599 --> 00:18:14,016
+<font color="#FFFFFF">Kent, shut up.
+Shut up!</font>
+
+229
+00:18:14,039 --> 00:18:15,296
+<font color="#FFFFFF">I like it.</font>
+
+230
+00:18:15,319 --> 00:18:19,655
+<font color="#FFFFFF">Millard!
+Get over here, now.</font>
+
+231
+00:18:19,680 --> 00:18:22,069
+<font color="#FFFFFF">I love you.</font>
+
+232
+00:18:24,200 --> 00:18:25,429
+<font color="#FFFFFF">I know.</font>
+
+233
+00:18:26,759 --> 00:18:28,695
+<font color="#FFFFFF">Unbelievable.</font>
+
+234
+00:18:28,720 --> 00:18:30,790
+<font color="#FFFFFF">Break!
+Break!</font>
+
+235
+00:19:00,079 --> 00:19:03,835
+<font color="#FFFFFF">Hey. Just give me a second.</font>
+
+236
+00:19:07,000 --> 00:19:09,536
+<font color="#FFFFFF">It's sour.
+Jeez.</font>
+
+237
+00:19:09,559 --> 00:19:11,756
+<font color="#FFFFFF">It's a month past its date.</font>
+
+238
+00:19:14,680 --> 00:19:15,954
+<font color="#FFFFFF">I'll make Pop-Tarts, then.</font>
+
+239
+00:19:17,799 --> 00:19:20,215
+<font color="#FFFFFF">Just a few things I ask you
+to do around here, Bart,</font>
+
+240
+00:19:20,240 --> 00:19:21,536
+<font color="#FFFFFF">a few things.</font>
+
+241
+00:19:23,880 --> 00:19:27,536
+<font color="#FFFFFF">I caught before I ran, Dad,
+at practice today.</font>
+
+242
+00:19:27,559 --> 00:19:29,615
+<font color="#FFFFFF">Almost scored.</font>
+
+243
+00:19:29,640 --> 00:19:32,296
+<font color="#FFFFFF">How many of them did it take?
+What?</font>
+
+244
+00:19:32,319 --> 00:19:34,630
+<font color="#FFFFFF">To get you down on the ground.
+How many'd it take?</font>
+
+245
+00:19:34,759 --> 00:19:38,816
+<font color="#FFFFFF">Just one. It's just practice.
+<i>One?</i></font>
+
+246
+00:19:38,839 --> 00:19:41,135
+<font color="#FFFFFF"><i>Nobody could never
+bring me down.</i></font>
+
+247
+00:19:41,160 --> 00:19:45,736
+<font color="#FFFFFF">Took the whole football team.
+It's the way I live my life.</font>
+
+248
+00:19:45,759 --> 00:19:48,319
+<font color="#FFFFFF"><i>Life hits me, I hit back harder.</i></font>
+
+249
+00:19:49,279 --> 00:19:52,636
+<font color="#FFFFFF">I don't go down.
+Not then, not now, not never.</font>
+
+250
+00:19:54,480 --> 00:19:56,038
+<font color="#FFFFFF">You understand?</font>
+
+251
+00:20:00,839 --> 00:20:02,240
+<font color="#FFFFFF">Break!</font>
+
+252
+00:20:04,599 --> 00:20:06,336
+<font color="#FFFFFF"><i>I don't go down.</i></font>
+
+253
+00:20:06,359 --> 00:20:08,576
+<font color="#FFFFFF"><i>You go down too easy.
+That's your problem.</i></font>
+
+254
+00:20:59,759 --> 00:21:01,736
+<font color="#FFFFFF">What'd they say?</font>
+
+255
+00:21:01,759 --> 00:21:04,135
+<font color="#FFFFFF">They said you can't play.</font>
+
+256
+00:21:04,160 --> 00:21:05,935
+<font color="#FFFFFF">For how long?</font>
+
+257
+00:21:05,960 --> 00:21:07,359
+<font color="#FFFFFF">Ever.</font>
+
+258
+00:21:13,240 --> 00:21:15,655
+<font color="#FFFFFF">Well, that's disappointing.</font>
+
+259
+00:21:15,680 --> 00:21:18,036
+<font color="#FFFFFF">Yeah. Yeah, it is.</font>
+
+260
+00:21:26,680 --> 00:21:29,135
+<font color="#FFFFFF">Whoa! Hey.
+Sorry.</font>
+
+261
+00:21:29,160 --> 00:21:31,736
+<font color="#FFFFFF">Where are <i>you</i> driving?
+I should've drove.</font>
+
+262
+00:21:31,759 --> 00:21:33,256
+<font color="#FFFFFF">This is stupid.</font>
+
+263
+00:21:33,279 --> 00:21:35,336
+<font color="#FFFFFF">Graduating high school
+is not stupid.</font>
+
+264
+00:21:35,359 --> 00:21:37,976
+<font color="#FFFFFF">You just have to pick a new
+elective to replace football.</font>
+
+265
+00:21:38,000 --> 00:21:39,576
+<font color="#FFFFFF">Yeah.
+Okay.</font>
+
+266
+00:21:39,599 --> 00:21:43,375
+<font color="#FFFFFF">Oh, man, ever have aspirations
+of being a seamstress?</font>
+
+267
+00:21:43,400 --> 00:21:47,135
+<font color="#FFFFFF">Well, that's full, so.
+They're, like, all full.</font>
+
+268
+00:21:47,160 --> 00:21:50,056
+<font color="#FFFFFF">Yeah.
+Except this one.</font>
+
+269
+00:21:50,079 --> 00:21:53,356
+<font color="#FFFFFF">What?
+Glee Club.</font>
+
+270
+00:21:55,599 --> 00:21:59,496
+<font color="#FFFFFF"><i>♪ And even though
+it all went wrong ♪</i></font>
+
+271
+00:21:59,519 --> 00:22:03,935
+<font color="#FFFFFF"><i>♪ I'll stand before
+the Lord of Song ♪</i></font>
+
+272
+00:22:03,960 --> 00:22:06,976
+<font color="#FFFFFF"><i>♪ With nothing on my tongue ♪</i></font>
+
+273
+00:22:07,000 --> 00:22:10,776
+<font color="#FFFFFF"><i>♪ But Hallelujah ♪</i></font>
+
+274
+00:22:10,799 --> 00:22:15,736
+<font color="#FFFFFF"><i>♪ Hallelujah ♪
+♪ Hallelujah ♪</i></font>
+
+275
+00:22:15,759 --> 00:22:19,415
+<font color="#FFFFFF"><i>♪ Hallelujah ♪
+♪ Hallelujah ♪</i></font>
+
+276
+00:22:19,440 --> 00:22:23,638
+<font color="#FFFFFF"><i>♪ Hallelujah ♪
+♪ Hallelujah ♪</i></font>
+
+277
+00:22:23,759 --> 00:22:29,790
+<font color="#FFFFFF"><i>♪ Hallelu-u-jah ♪</i></font>
+
+278
+00:22:32,000 --> 00:22:36,215
+<font color="#FFFFFF">That's really good.</font>
+
+279
+00:22:36,240 --> 00:22:38,231
+<font color="#FFFFFF">Honey, I think
+you've got the wrong room.</font>
+
+280
+00:22:38,359 --> 00:22:41,576
+<font color="#FFFFFF">I wish. No offense.</font>
+
+281
+00:22:41,599 --> 00:22:43,736
+<font color="#FFFFFF">None taken. You sing?</font>
+
+282
+00:22:43,759 --> 00:22:45,096
+<font color="#FFFFFF">No.</font>
+
+283
+00:22:45,119 --> 00:22:47,455
+<font color="#FFFFFF">Act?
+Not at all.</font>
+
+284
+00:22:47,480 --> 00:22:50,455
+<font color="#FFFFFF">Do you dance?
+Ma'am, I'm in a wheelchair.</font>
+
+285
+00:22:50,480 --> 00:22:52,256
+<font color="#FFFFFF">Please, just kick me
+out of this class.</font>
+
+286
+00:22:53,839 --> 00:22:57,336
+<font color="#FFFFFF">I don't turn anyone away.
+Sugar, what is your name?</font>
+
+287
+00:22:57,359 --> 00:22:59,431
+<font color="#FFFFFF">Uh, Bart Millard.</font>
+
+288
+00:23:00,920 --> 00:23:03,415
+<font color="#FFFFFF">"Bart Millard."
+Yeah.</font>
+
+289
+00:23:03,440 --> 00:23:07,215
+<font color="#FFFFFF">Our new assistant
+technical director.</font>
+
+290
+00:23:07,240 --> 00:23:08,976
+<font color="#FFFFFF">All right!</font>
+
+291
+00:23:09,000 --> 00:23:10,655
+<font color="#FFFFFF">I don't know what that is.</font>
+
+292
+00:23:21,160 --> 00:23:22,913
+<font color="#FFFFFF">Now this I can do.</font>
+
+293
+00:23:30,799 --> 00:23:34,076
+<font color="#FFFFFF"><i>♪ Saddle up your horses ♪</i></font>
+
+294
+00:23:46,319 --> 00:23:48,536
+<font color="#FFFFFF"><i>♪ And I heard somebody say ♪</i></font>
+
+295
+00:23:48,559 --> 00:23:51,816
+<font color="#FFFFFF"><i>♪ Let's go ♪</i></font>
+
+296
+00:23:51,839 --> 00:23:53,816
+<font color="#FFFFFF"><i>♪ Saddle up your horses ♪</i></font>
+
+297
+00:23:53,839 --> 00:23:55,816
+<font color="#FFFFFF"><i>♪ We got a trail to blaze ♪</i></font>
+
+298
+00:23:55,839 --> 00:23:57,398
+<font color="#FFFFFF"><i>♪ Whoa ♪</i></font>
+
+299
+00:23:57,519 --> 00:24:00,056
+<font color="#FFFFFF"><i>♪ Through the wild blue yonder ♪</i></font>
+
+300
+00:24:02,079 --> 00:24:04,215
+<font color="#FFFFFF"><i>♪ Grace ♪</i></font>
+
+301
+00:24:04,240 --> 00:24:07,056
+<font color="#FFFFFF"><i>♪ Let's follow our leader ♪</i></font>
+
+302
+00:24:07,079 --> 00:24:11,455
+<font color="#FFFFFF"><i>♪ Into the glorious unknown ♪</i></font>
+
+303
+00:24:11,480 --> 00:24:15,816
+<font color="#FFFFFF"><i>♪ This is the life like no other ♪</i></font>
+
+304
+00:24:15,839 --> 00:24:17,655
+<font color="#FFFFFF"><i>♪ Whoa, whoa ♪</i></font>
+
+305
+00:24:17,680 --> 00:24:20,957
+<font color="#FFFFFF"><i>♪ This is the great adventure ♪</i></font>
+
+306
+00:24:24,880 --> 00:24:26,359
+<font color="#FFFFFF">Hey, congrats, Bart.</font>
+
+307
+00:24:28,200 --> 00:24:30,175
+<font color="#FFFFFF">What?
+Way to go, Millard.</font>
+
+308
+00:24:30,200 --> 00:24:32,509
+<font color="#FFFFFF"><i>♪ La ♪</i></font>
+
+309
+00:24:33,960 --> 00:24:36,135
+<font color="#FFFFFF">Congratulations!
+What?</font>
+
+310
+00:24:36,160 --> 00:24:38,256
+<font color="#FFFFFF">Nice job, Bart.
+You haven't heard yet?</font>
+
+311
+00:24:38,279 --> 00:24:40,256
+<font color="#FFFFFF">I gotta say,
+I'm a little jealous.</font>
+
+312
+00:24:40,279 --> 00:24:43,096
+<font color="#FFFFFF">What're you t...
+what're you talking about?</font>
+
+313
+00:24:43,119 --> 00:24:45,191
+<font color="#FFFFFF">Congratulations!
+No, no, no, no. Okay.</font>
+
+314
+00:24:53,039 --> 00:24:54,554
+<font color="#FFFFFF">How excited are you?</font>
+
+315
+00:24:58,319 --> 00:24:59,435
+<font color="#FFFFFF">Miss Fincher!</font>
+
+316
+00:25:02,119 --> 00:25:05,455
+<font color="#FFFFFF">Unh-unh. No.
+What're you trying to do to me?</font>
+
+317
+00:25:05,480 --> 00:25:08,256
+<font color="#FFFFFF">I can't do this.
+I didn't even try out.</font>
+
+318
+00:25:08,279 --> 00:25:10,296
+<font color="#FFFFFF">You can. And you will.</font>
+
+319
+00:25:10,319 --> 00:25:12,296
+<font color="#FFFFFF">And there'll be no further
+discussion about it.</font>
+
+320
+00:25:12,319 --> 00:25:14,695
+<font color="#FFFFFF">No, no, no, no, no.
+Look, I'm a Millard.</font>
+
+321
+00:25:14,720 --> 00:25:17,135
+<font color="#FFFFFF">Okay, you don't understand.
+Millards play football.</font>
+
+322
+00:25:17,160 --> 00:25:20,215
+<font color="#FFFFFF">Millards do not sing.
+You have a gift, Bart.</font>
+
+323
+00:25:20,240 --> 00:25:23,016
+<font color="#FFFFFF">And in my class,
+you will be required to use it.</font>
+
+324
+00:25:23,039 --> 00:25:24,935
+<font color="#FFFFFF">Or fail. It's your choice.</font>
+
+325
+00:25:24,960 --> 00:25:26,855
+<font color="#FFFFFF">Look, my leg is still in a cast.
+I can't even walk.</font>
+
+326
+00:25:26,880 --> 00:25:28,976
+<font color="#FFFFFF">There's two months
+until the production.</font>
+
+327
+00:25:29,000 --> 00:25:31,655
+<font color="#FFFFFF">You have plenty of time to heal.
+Please stop making excuses.</font>
+
+328
+00:25:31,680 --> 00:25:34,496
+<font color="#FFFFFF">Okay, I don't sing like that.
+That Broadway stuff.</font>
+
+329
+00:25:34,519 --> 00:25:35,695
+<font color="#FFFFFF">I'll teach you.</font>
+
+330
+00:25:35,720 --> 00:25:37,915
+<font color="#FFFFFF">Look, Miss Fincher,
+I like you, okay?</font>
+
+331
+00:25:38,039 --> 00:25:39,917
+<font color="#FFFFFF">You seem like
+a real good person.</font>
+
+332
+00:25:40,039 --> 00:25:44,016
+<font color="#FFFFFF">I respect you,
+but there is no way, ever,</font>
+
+333
+00:25:44,039 --> 00:25:49,415
+<font color="#FFFFFF">at all, ever that you are
+gonna get me on that stage.</font>
+
+334
+00:25:49,440 --> 00:25:51,396
+<font color="#FFFFFF">Mm-hmm.</font>
+
+335
+00:25:53,039 --> 00:25:56,016
+<font color="#FFFFFF"><i>♪ There's a bright golden haze ♪</i></font>
+
+336
+00:25:56,039 --> 00:25:58,474
+<font color="#FFFFFF"><i>♪ On the meadow ♪</i></font>
+
+337
+00:25:58,599 --> 00:26:01,175
+<font color="#FFFFFF"><i>♪ There's a bright golden haze ♪</i></font>
+
+338
+00:26:01,200 --> 00:26:04,256
+<font color="#FFFFFF"><i>♪ On the meadow ♪</i></font>
+
+339
+00:26:04,279 --> 00:26:06,536
+<font color="#FFFFFF"><i>♪ The corn is as high ♪</i></font>
+
+340
+00:26:06,559 --> 00:26:11,375
+<font color="#FFFFFF"><i>♪ As an elephant's eye ♪</i></font>
+
+341
+00:26:11,400 --> 00:26:14,056
+<font color="#FFFFFF"><i>♪ And it looks like it's climbing ♪</i></font>
+
+342
+00:26:14,079 --> 00:26:18,296
+<font color="#FFFFFF"><i>♪ Clear up to the sky ♪</i></font>
+
+343
+00:26:18,319 --> 00:26:24,175
+<font color="#FFFFFF"><i>♪ Oh, what a beautiful mornin' ♪</i></font>
+
+344
+00:26:24,200 --> 00:26:29,695
+<font color="#FFFFFF"><i>♪ Oh, what a beautiful day ♪</i></font>
+
+345
+00:26:29,720 --> 00:26:32,633
+<font color="#FFFFFF"><i>♪ I've got a beautiful feelin'... ♪</i></font>
+
+346
+00:26:32,759 --> 00:26:35,855
+<font color="#FFFFFF">Mercy me,
+that can't be his real voice.</font>
+
+347
+00:26:35,880 --> 00:26:37,336
+<font color="#FFFFFF">Yeah, it is, Mama.</font>
+
+348
+00:26:37,359 --> 00:26:40,114
+<font color="#FFFFFF"><i>♪ ... goin' my way ♪</i></font>
+
+349
+00:26:42,400 --> 00:26:45,358
+<font color="#FFFFFF">Well, punch a monkey's uncle.</font>
+
+350
+00:26:45,480 --> 00:26:48,096
+<font color="#FFFFFF"><i>♪ All the sounds of the Earth ♪</i></font>
+
+351
+00:26:48,119 --> 00:26:50,976
+<font color="#FFFFFF"><i>♪ Are like music ♪</i></font>
+
+352
+00:26:51,000 --> 00:26:53,695
+<font color="#FFFFFF"><i>♪ All the sounds of the Earth ♪</i></font>
+
+353
+00:26:53,720 --> 00:26:55,935
+<font color="#FFFFFF"><i>♪ Are like music ♪</i></font>
+
+354
+00:26:55,960 --> 00:26:57,951
+<font color="#FFFFFF"><i>♪ The breeze is so busy ♪</i></font>
+
+355
+00:26:59,799 --> 00:27:02,917
+<font color="#FFFFFF"><i>♪ It don't miss a tree ♪</i></font>
+
+356
+00:27:03,039 --> 00:27:06,256
+<font color="#FFFFFF"><i>♪ An' that ol' weepin' willer ♪</i></font>
+
+357
+00:27:06,279 --> 00:27:11,375
+<font color="#FFFFFF"><i>♪ Is laughin' at me ♪</i></font>
+
+358
+00:27:11,400 --> 00:27:16,736
+<font color="#FFFFFF"><i>♪ Oh, what a beautiful mornin' ♪</i></font>
+
+359
+00:27:16,759 --> 00:27:21,895
+<font color="#FFFFFF"><i>♪ Oh, what a beautiful day ♪</i></font>
+
+360
+00:27:21,920 --> 00:27:28,016
+<font color="#FFFFFF"><i>♪ I've got a beautiful feelin' ♪</i></font>
+
+361
+00:27:28,039 --> 00:27:32,796
+<font color="#FFFFFF"><i>♪ Everything's goin' my way ♪</i></font>
+
+362
+00:27:34,079 --> 00:27:40,375
+<font color="#FFFFFF"><i>♪ Oh, what a beautiful ♪</i></font>
+
+363
+00:27:40,400 --> 00:27:46,192
+<font color="#FFFFFF"><i>♪ Da-a-y ♪</i></font>
+
+364
+00:27:51,920 --> 00:27:53,069
+<font color="#FFFFFF">Whoo!</font>
+
+365
+00:28:09,759 --> 00:28:13,615
+<font color="#FFFFFF">Sir, you need to understand.
+It's hospital policy.</font>
+
+366
+00:28:13,640 --> 00:28:16,615
+<font color="#FFFFFF">Well, you can't keep me here.
+I'm free to go.</font>
+
+367
+00:28:16,640 --> 00:28:19,108
+<font color="#FFFFFF">No, you're not.</font>
+
+368
+00:28:19,240 --> 00:28:20,776
+<font color="#FFFFFF">We saw something
+in your blood work</font>
+
+369
+00:28:20,799 --> 00:28:23,336
+<font color="#FFFFFF">that concerned us,
+so we ran a few tests.</font>
+
+370
+00:28:23,359 --> 00:28:25,096
+<font color="#FFFFFF">And I'd like to discuss
+the results with you.</font>
+
+371
+00:28:25,119 --> 00:28:27,455
+<font color="#FFFFFF">You got my number.
+You can call me.</font>
+
+372
+00:28:27,480 --> 00:28:30,016
+<font color="#FFFFFF">We need to have
+this conversation now.</font>
+
+373
+00:28:30,039 --> 00:28:31,519
+<font color="#FFFFFF">Okay.</font>
+
+374
+00:28:35,119 --> 00:28:36,615
+<font color="#FFFFFF">Why did I black out?</font>
+
+375
+00:28:36,640 --> 00:28:39,576
+<font color="#FFFFFF">Because of extremely
+low blood sugar.</font>
+
+376
+00:28:39,599 --> 00:28:43,455
+<font color="#FFFFFF">So you're saying, what?
+I'm diabetic?</font>
+
+377
+00:28:43,480 --> 00:28:45,056
+<font color="#FFFFFF">No.</font>
+
+378
+00:28:45,079 --> 00:28:47,935
+<font color="#FFFFFF">On your MRI,
+we discovered a mass.</font>
+
+379
+00:28:47,960 --> 00:28:50,296
+<font color="#FFFFFF">We believe it's cancer.
+No.</font>
+
+380
+00:28:50,319 --> 00:28:53,576
+<font color="#FFFFFF">No. No, I don't...</font>
+
+381
+00:28:53,599 --> 00:28:55,576
+<font color="#FFFFFF">We'd like to run
+a few more tests</font>
+
+382
+00:28:55,599 --> 00:28:57,875
+<font color="#FFFFFF">and then decide on the best
+treatment options for you.</font>
+
+383
+00:28:59,759 --> 00:29:02,615
+<font color="#FFFFFF">I don't...
+I don't need your treatment.</font>
+
+384
+00:29:02,640 --> 00:29:04,996
+<font color="#FFFFFF">I'm gonna go home.</font>
+
+385
+00:29:07,799 --> 00:29:10,056
+<font color="#FFFFFF">Mr. Millard,
+if you refuse treatment,</font>
+
+386
+00:29:10,079 --> 00:29:12,310
+<font color="#FFFFFF">it could drastically reduce
+your chances.</font>
+
+387
+00:29:23,160 --> 00:29:26,296
+<font color="#FFFFFF">Dad. What happened?</font>
+
+388
+00:29:26,319 --> 00:29:29,615
+<font color="#FFFFFF">Oh, I'm fine.
+I'm just fine.</font>
+
+389
+00:29:29,640 --> 00:29:31,135
+<font color="#FFFFFF">Okay, well,
+let me drive you home.</font>
+
+390
+00:29:31,160 --> 00:29:32,655
+<font color="#FFFFFF">I-I can make it myself.</font>
+
+391
+00:29:32,680 --> 00:29:35,935
+<font color="#FFFFFF">Mr. Millard, are you okay?</font>
+
+392
+00:29:35,960 --> 00:29:38,736
+<font color="#FFFFFF">I'm Shannon, Bart's girlfriend?</font>
+
+393
+00:29:38,759 --> 00:29:41,855
+<font color="#FFFFFF">Oh, hello, Shannon.</font>
+
+394
+00:29:41,880 --> 00:29:44,998
+<font color="#FFFFFF">How'd Bart wind up
+with someone as pretty as you?</font>
+
+395
+00:29:45,119 --> 00:29:46,816
+<font color="#FFFFFF">Thank you.</font>
+
+396
+00:29:46,839 --> 00:29:49,175
+<font color="#FFFFFF">I'm fine.
+I'm gonna be all right.</font>
+
+397
+00:29:49,200 --> 00:29:51,056
+<font color="#FFFFFF">But did they say what's wrong?</font>
+
+398
+00:29:51,079 --> 00:29:52,455
+<font color="#FFFFFF">Uh, I just had a little incident.</font>
+
+399
+00:29:52,480 --> 00:29:54,056
+<font color="#FFFFFF">I had low blood sugar.</font>
+
+400
+00:29:54,079 --> 00:29:57,655
+<font color="#FFFFFF">I was over at the diner,
+and... and I fell down.</font>
+
+401
+00:29:57,680 --> 00:30:01,215
+<font color="#FFFFFF">And actually,
+I was looking at your name</font>
+
+402
+00:30:01,240 --> 00:30:04,311
+<font color="#FFFFFF">on an advertisement for a play.</font>
+
+403
+00:30:05,799 --> 00:30:08,109
+<font color="#FFFFFF">Didn't think you'd wanna come.</font>
+
+404
+00:30:10,079 --> 00:30:13,855
+<font color="#FFFFFF">Did he ever sing for you?
+'Cause I-I had no idea.</font>
+
+405
+00:30:13,880 --> 00:30:15,496
+<font color="#FFFFFF">I had no idea at all.</font>
+
+406
+00:30:15,519 --> 00:30:16,976
+<font color="#FFFFFF">He was good.
+He was real good.</font>
+
+407
+00:30:17,000 --> 00:30:18,976
+<font color="#FFFFFF">I'm sorry, Dad.
+I should've invited you.</font>
+
+408
+00:30:19,000 --> 00:30:21,736
+<font color="#FFFFFF">Oh, don't... we'll talk
+about it later, son.</font>
+
+409
+00:30:21,759 --> 00:30:23,375
+<font color="#FFFFFF">Just let me drive you home.
+Oh, no.</font>
+
+410
+00:30:23,400 --> 00:30:26,816
+<font color="#FFFFFF">You take care
+of your pretty girl there.</font>
+
+411
+00:30:26,839 --> 00:30:31,175
+<font color="#FFFFFF">Where're you going?</font>
+
+412
+00:30:31,200 --> 00:30:34,352
+<font color="#FFFFFF">Going to the cast party.
+I'm not missing it for this.</font>
+
+413
+00:30:37,039 --> 00:30:40,455
+<font color="#FFFFFF">Excuse me. I'm sorry.
+What's wrong with him?</font>
+
+414
+00:30:40,480 --> 00:30:42,615
+<font color="#FFFFFF">Are you family?
+No.</font>
+
+415
+00:30:42,640 --> 00:30:44,855
+<font color="#FFFFFF">Well, you need to ask him.</font>
+
+416
+00:30:44,880 --> 00:30:46,256
+<font color="#FFFFFF">Thank you.</font>
+
+417
+00:31:03,400 --> 00:31:05,375
+<font color="#FFFFFF">You're up early.</font>
+
+418
+00:31:05,400 --> 00:31:07,895
+<font color="#FFFFFF">Made my son breakfast.</font>
+
+419
+00:31:07,920 --> 00:31:10,736
+<font color="#FFFFFF">What's with the getup?
+Going to a funeral?</font>
+
+420
+00:31:10,759 --> 00:31:13,855
+<font color="#FFFFFF">No.
+Just going to church, Dad.</font>
+
+421
+00:31:13,880 --> 00:31:15,519
+<font color="#FFFFFF">Church.</font>
+
+422
+00:31:18,519 --> 00:31:20,272
+<font color="#FFFFFF">Sit down and eat.</font>
+
+423
+00:31:22,519 --> 00:31:26,576
+<font color="#FFFFFF">C'mon, sit down and eat.
+Getting cold.</font>
+
+424
+00:31:26,599 --> 00:31:30,935
+<font color="#FFFFFF">Hey'd you see this?
+Did you see that?</font>
+
+425
+00:31:30,960 --> 00:31:35,397
+<font color="#FFFFFF">Look at that.
+Front page.</font>
+
+426
+00:31:35,519 --> 00:31:37,695
+<font color="#FFFFFF">You look like
+a Pinocchio cowboy.</font>
+
+427
+00:31:37,720 --> 00:31:41,269
+<font color="#FFFFFF">It's a good joke.</font>
+
+428
+00:31:41,400 --> 00:31:44,153
+<font color="#FFFFFF">So that's what I am to you,
+a joke?</font>
+
+429
+00:31:44,279 --> 00:31:46,895
+<font color="#FFFFFF">I didn't say that.
+You just said it.</font>
+
+430
+00:31:46,920 --> 00:31:48,496
+<font color="#FFFFFF">Don't put words in my mouth.</font>
+
+431
+00:31:48,519 --> 00:31:51,536
+<font color="#FFFFFF">What if I wanna sing?
+Why's that so funny?</font>
+
+432
+00:31:51,559 --> 00:31:53,576
+<font color="#FFFFFF">I mean, maybe I'm good at it.</font>
+
+433
+00:31:53,599 --> 00:31:56,415
+<font color="#FFFFFF">The pastor of the church
+asked me to sing this morning.</font>
+
+434
+00:31:56,440 --> 00:31:58,056
+<font color="#FFFFFF">It's gotta mean something.</font>
+
+435
+00:31:58,079 --> 00:32:00,215
+<font color="#FFFFFF">He ask you to sing for a living?</font>
+
+436
+00:32:00,240 --> 00:32:01,753
+<font color="#FFFFFF">That's what I'm saying.</font>
+
+437
+00:32:01,880 --> 00:32:03,895
+<font color="#FFFFFF">You're gonna need to find
+something you're good at</font>
+
+438
+00:32:03,920 --> 00:32:05,615
+<font color="#FFFFFF">that you can actually earn
+a living at</font>
+
+439
+00:32:05,640 --> 00:32:07,536
+<font color="#FFFFFF">'cause you're gonna have
+to support yourself</font>
+
+440
+00:32:07,559 --> 00:32:08,976
+<font color="#FFFFFF">one of these days.
+How do you even know?</font>
+
+441
+00:32:09,000 --> 00:32:11,296
+<font color="#FFFFFF">You've never even heard me sing.</font>
+
+442
+00:32:11,319 --> 00:32:12,976
+<font color="#FFFFFF">Well, that's not my fault.</font>
+
+443
+00:32:13,000 --> 00:32:16,016
+<font color="#FFFFFF">All I hear out of you
+is whining and moaning.</font>
+
+444
+00:32:16,039 --> 00:32:19,976
+<font color="#FFFFFF">Okay. I'm singing
+this morning at church.</font>
+
+445
+00:32:20,000 --> 00:32:21,895
+<font color="#FFFFFF">10:00 on radio AM 1080.</font>
+
+446
+00:32:21,920 --> 00:32:23,976
+<font color="#FFFFFF">Why don't you come watch me sing?
+No, I can't do that.</font>
+
+447
+00:32:24,000 --> 00:32:25,976
+<font color="#FFFFFF">Why not?
+No. I just don't belong there.</font>
+
+448
+00:32:26,000 --> 00:32:28,515
+<font color="#FFFFFF">Why?
+I just don't. I don't!</font>
+
+449
+00:32:30,359 --> 00:32:31,999
+<font color="#FFFFFF">Don't belong there.</font>
+
+450
+00:32:32,119 --> 00:32:33,634
+<font color="#FFFFFF">Okay.</font>
+
+451
+00:32:39,759 --> 00:32:41,576
+<font color="#FFFFFF">My boy Bart's, oh,</font>
+
+452
+00:32:41,599 --> 00:32:43,336
+<font color="#FFFFFF">he's nothin'
+but a big disappointment.</font>
+
+453
+00:32:43,359 --> 00:32:46,175
+<font color="#FFFFFF">I wish he'd never been born.
+Everything'd been just fine.</font>
+
+454
+00:32:46,200 --> 00:32:48,455
+<font color="#FFFFFF">Hey...
+All my problems are because of Bart.</font>
+
+455
+00:32:48,480 --> 00:32:49,895
+<font color="#FFFFFF">Hey, hey,
+you put words in my mouth.</font>
+
+456
+00:32:49,920 --> 00:32:51,935
+<font color="#FFFFFF">I'm gonna put a fist
+in your face.</font>
+
+457
+00:32:51,960 --> 00:32:53,096
+<font color="#FFFFFF">Yeah, I'm a little big
+for that, Dad.</font>
+
+458
+00:32:53,119 --> 00:32:54,816
+<font color="#FFFFFF">You think?
+I think those days are over.</font>
+
+459
+00:32:54,839 --> 00:32:56,776
+<font color="#FFFFFF">Is that what you think?
+Yeah! I do, yeah!</font>
+
+460
+00:32:56,799 --> 00:32:58,615
+<font color="#FFFFFF">Listen, you have
+to talk to me with respect.</font>
+
+461
+00:32:58,640 --> 00:33:00,496
+<font color="#FFFFFF">I'm the one that puts
+the food on the table.</font>
+
+462
+00:33:00,519 --> 00:33:02,816
+<font color="#FFFFFF">I earn the living around here,
+and I'm the one who stayed.</font>
+
+463
+00:33:02,839 --> 00:33:04,576
+<font color="#FFFFFF">I don't see your Momma anywhere.</font>
+
+464
+00:33:04,599 --> 00:33:06,239
+<font color="#FFFFFF">Yeah, well, nobody blames
+her for leaving, Dad!</font>
+
+465
+00:33:06,359 --> 00:33:07,349
+<font color="#FFFFFF">I would've left, too!</font>
+
+466
+00:33:10,599 --> 00:33:12,695
+<font color="#FFFFFF">Just shut up.
+Just shut up and eat.</font>
+
+467
+00:33:12,720 --> 00:33:14,415
+<font color="#FFFFFF">I'm not hungry.
+Eat your food.</font>
+
+468
+00:33:14,440 --> 00:33:16,113
+<font color="#FFFFFF">I'm not hungry!</font>
+
+469
+00:33:19,799 --> 00:33:21,439
+<font color="#FFFFFF">All right, then.</font>
+
+470
+00:33:28,119 --> 00:33:32,455
+<font color="#FFFFFF">You kidding me?
+Stay away from me!</font>
+
+471
+00:33:32,480 --> 00:33:34,816
+<font color="#FFFFFF">I'm serious!
+Don't touch me!</font>
+
+472
+00:33:34,839 --> 00:33:38,880
+<font color="#FFFFFF">I'm done with you! You're crazy!
+Get away from me!</font>
+
+473
+00:34:17,880 --> 00:34:19,096
+<font color="#FFFFFF">Bart, what happened
+to your head?</font>
+
+474
+00:34:19,119 --> 00:34:20,735
+<font color="#FFFFFF">It's bleeding.</font>
+
+475
+00:34:20,760 --> 00:34:22,536
+<font color="#FFFFFF">Oh, it's nothing, it's fine.
+Are you okay?</font>
+
+476
+00:34:22,559 --> 00:34:24,039
+<font color="#FFFFFF">Are you sure?
+I'm fine</font>
+
+477
+00:34:26,119 --> 00:34:27,775
+<font color="#FFFFFF"><i>I'm wondering
+if you guys could all</i></font>
+
+478
+00:34:27,800 --> 00:34:29,775
+<font color="#FFFFFF"><i>maybe pray for a friend of mine?</i></font>
+
+479
+00:34:29,800 --> 00:34:33,856
+<font color="#FFFFFF">This friend I think is lying
+to me about their life.</font>
+
+480
+00:34:33,880 --> 00:34:35,976
+<font color="#FFFFFF">I don't know what to do
+because I wanna help,</font>
+
+481
+00:34:36,000 --> 00:34:38,016
+<font color="#FFFFFF">and they just won't let me,
+and I just feel like</font>
+
+482
+00:34:38,039 --> 00:34:41,775
+<font color="#FFFFFF">the more I try,
+it just kind of gets worse and worse.</font>
+
+483
+00:34:41,800 --> 00:34:45,588
+<font color="#FFFFFF">And so now when I look at them,
+all I see is a mask.</font>
+
+484
+00:34:46,719 --> 00:34:49,096
+<font color="#FFFFFF"><i>Pray for them.</i></font>
+
+485
+00:34:49,119 --> 00:34:52,635
+<font color="#FFFFFF">No one can live a lie forever,
+okay?</font>
+
+486
+00:34:52,760 --> 00:34:54,295
+<font color="#FFFFFF"><i>Okay, thanks.</i></font>
+
+487
+00:34:54,320 --> 00:34:56,135
+<font color="#FFFFFF"><i>Course they know
+you're talking about me.</i></font>
+
+488
+00:34:56,159 --> 00:34:57,896
+<font color="#FFFFFF"><i>Do you know how embarrassing
+that is?</i></font>
+
+489
+00:34:57,920 --> 00:35:00,215
+<font color="#FFFFFF">I was just trying
+to get you to listen!</font>
+
+490
+00:35:00,239 --> 00:35:01,655
+<font color="#FFFFFF">What is going on with you?</font>
+
+491
+00:35:01,679 --> 00:35:04,400
+<font color="#FFFFFF">I'm fine.
+You're not fine!</font>
+
+492
+00:35:04,519 --> 00:35:06,215
+<font color="#FFFFFF">Is it your dad?
+I could help.</font>
+
+493
+00:35:06,239 --> 00:35:09,056
+<font color="#FFFFFF">Just let me come over.
+I don't want you at my house.</font>
+
+494
+00:35:09,079 --> 00:35:11,615
+<font color="#FFFFFF">Why?
+'Cause I just don't.</font>
+
+495
+00:35:11,639 --> 00:35:13,153
+<font color="#FFFFFF">Where is this coming from?</font>
+
+496
+00:35:13,280 --> 00:35:15,157
+<font color="#FFFFFF">I don't know, maybe from deep
+inside my mask.</font>
+
+497
+00:35:15,280 --> 00:35:17,032
+<font color="#FFFFFF">That's not funny.
+It's kinda funny.</font>
+
+498
+00:35:17,159 --> 00:35:18,896
+<font color="#FFFFFF">Please, don't do this.
+You got me all figured out.</font>
+
+499
+00:35:18,920 --> 00:35:21,335
+<font color="#FFFFFF">You push everyone away!
+Don't add me to that list.</font>
+
+500
+00:35:21,360 --> 00:35:22,952
+<font color="#FFFFFF">I love you.
+I've always loved you!</font>
+
+501
+00:35:23,079 --> 00:35:25,072
+<font color="#FFFFFF">Yeah, well,
+I've never really loved you.</font>
+
+502
+00:35:27,280 --> 00:35:29,775
+<font color="#FFFFFF">I mean, we're...
+we're graduating soon.</font>
+
+503
+00:35:29,800 --> 00:35:31,295
+<font color="#FFFFFF">You're going off to college.
+I'm chasing some stupid dream.</font>
+
+504
+00:35:31,320 --> 00:35:33,376
+<font color="#FFFFFF">Right?
+I never said your dream was stupid.</font>
+
+505
+00:35:33,400 --> 00:35:35,615
+<font color="#FFFFFF">I mean, this has been fun.
+No regrets for me, all right?</font>
+
+506
+00:35:35,639 --> 00:35:37,135
+<font color="#FFFFFF">But people change,
+you know what I mean?</font>
+
+507
+00:35:37,159 --> 00:35:38,856
+<font color="#FFFFFF">We obviously can't
+get along anymore.</font>
+
+508
+00:35:38,880 --> 00:35:43,318
+<font color="#FFFFFF">I'm leaving, Shannon.
+After graduation I'm... I'm gone.</font>
+
+509
+00:35:49,000 --> 00:35:51,175
+<font color="#FFFFFF"><i>Please don't.</i></font>
+
+510
+00:35:51,199 --> 00:35:53,775
+<font color="#FFFFFF"><i>What?</i></font>
+
+511
+00:35:53,800 --> 00:35:55,856
+<font color="#FFFFFF"><i>Go.</i></font>
+
+512
+00:35:55,880 --> 00:35:57,951
+<font color="#FFFFFF"><i>I can't stay here, Shannon.</i></font>
+
+513
+00:36:27,280 --> 00:36:29,695
+<font color="#FFFFFF">You know, Mike, it's amazing how
+people quit when they don't get paid.</font>
+
+514
+00:36:29,719 --> 00:36:31,278
+<font color="#FFFFFF">I should try that sometime.
+All right, look, we are opening</font>
+
+515
+00:36:31,400 --> 00:36:34,199
+<font color="#FFFFFF">for the opening act
+at a youth conference.</font>
+
+516
+00:36:34,320 --> 00:36:36,152
+<font color="#FFFFFF">It's impossible,
+that's the whole problem.</font>
+
+517
+00:36:36,280 --> 00:36:38,976
+<font color="#FFFFFF">"Whether you think you can
+or you think you can't,</font>
+
+518
+00:36:39,000 --> 00:36:41,016
+<font color="#FFFFFF">you're right"...
+that's Confucius.</font>
+
+519
+00:36:41,039 --> 00:36:42,735
+<font color="#FFFFFF">I don't even know
+what that means.</font>
+
+520
+00:36:42,760 --> 00:36:44,335
+<font color="#FFFFFF">And it's offensive to me
+as an artist.</font>
+
+521
+00:36:44,360 --> 00:36:46,615
+<font color="#FFFFFF">An artist?
+We're making 90 bucks!</font>
+
+522
+00:36:46,639 --> 00:36:48,056
+<font color="#FFFFFF">Right.
+Between the three of us.</font>
+
+523
+00:36:48,079 --> 00:36:50,255
+<font color="#FFFFFF">We have no vocals.
+We got no show.</font>
+
+524
+00:36:50,280 --> 00:36:52,016
+<font color="#FFFFFF">It's impossible.</font>
+
+525
+00:36:52,039 --> 00:36:54,096
+<font color="#FFFFFF">Yeah, well, the
+only impossible things</font>
+
+526
+00:36:54,119 --> 00:36:55,856
+<font color="#FFFFFF">are the things
+that we call impossible.</font>
+
+527
+00:36:55,880 --> 00:36:57,255
+<font color="#FFFFFF">What is that? Aristotle?</font>
+
+528
+00:36:57,280 --> 00:36:59,936
+<font color="#FFFFFF">No, that one's a fortune cookie.</font>
+
+529
+00:36:59,960 --> 00:37:02,335
+<font color="#FFFFFF">Nathan,
+nobody understands you, man!</font>
+
+530
+00:37:02,360 --> 00:37:04,135
+<font color="#FFFFFF">Hey, guys.
+You're always so cranky, man.</font>
+
+531
+00:37:04,159 --> 00:37:05,815
+<font color="#FFFFFF">Yeah, since Des Moines.
+Oh, Des Moines.</font>
+
+532
+00:37:05,840 --> 00:37:07,416
+<font color="#FFFFFF">Why bring up Des Moines again?</font>
+
+533
+00:37:07,440 --> 00:37:10,016
+<font color="#FFFFFF">Hey, guys, if you guys
+need a singer, I'll sing.</font>
+
+534
+00:37:10,039 --> 00:37:13,271
+<font color="#FFFFFF">I'm, uh...
+I also patch cables,</font>
+
+535
+00:37:13,400 --> 00:37:15,135
+<font color="#FFFFFF">and, you know,
+I can run the board,</font>
+
+536
+00:37:15,159 --> 00:37:20,615
+<font color="#FFFFFF">and turn the lights on,
+and I write songs, too.</font>
+
+537
+00:37:20,639 --> 00:37:22,039
+<font color="#FFFFFF">Kind of. Sometimes.</font>
+
+538
+00:37:24,519 --> 00:37:25,670
+<font color="#FFFFFF">Who are you?</font>
+
+539
+00:37:28,159 --> 00:37:30,335
+<font color="#FFFFFF"><i>I joined up with the band.</i></font>
+
+540
+00:37:30,360 --> 00:37:32,829
+<font color="#FFFFFF"><i>All we had was the clothes
+on our backs.</i></font>
+
+541
+00:37:32,960 --> 00:37:34,936
+<font color="#FFFFFF"><i>Took every gig we could,</i></font>
+
+542
+00:37:34,960 --> 00:37:36,376
+<font color="#FFFFFF"><i>anywhere they'd let us play.</i></font>
+
+543
+00:37:36,400 --> 00:37:38,675
+<font color="#FFFFFF"><i>We were all technically
+homeless, I guess.</i></font>
+
+544
+00:37:44,760 --> 00:37:47,335
+<font color="#FFFFFF"><i>♪ When you can't find
+what you're looking for ♪</i></font>
+
+545
+00:37:47,360 --> 00:37:49,815
+<font color="#FFFFFF"><i>♪ And your heart's been
+screaming for more and more ♪</i></font>
+
+546
+00:37:49,840 --> 00:37:51,536
+<font color="#FFFFFF"><i>♪ When you search so long,
+you can't even stand ♪</i></font>
+
+547
+00:37:51,559 --> 00:37:54,295
+<font color="#FFFFFF"><i>♪ And the way back home
+is the Father's hand ♪</i></font>
+
+548
+00:37:54,320 --> 00:37:56,416
+<font color="#FFFFFF"><i>♪ Your heart says yes,
+your head says more ♪</i></font>
+
+549
+00:37:56,440 --> 00:37:58,456
+<font color="#FFFFFF"><i>♪ And in between
+is where you're torn ♪</i></font>
+
+550
+00:37:58,480 --> 00:38:00,815
+<font color="#FFFFFF"><i>♪ Trace your steps
+to where you were ♪</i></font>
+
+551
+00:38:00,840 --> 00:38:06,456
+<font color="#FFFFFF"><i>♪ Befo-o-re ♪</i></font>
+
+552
+00:38:06,480 --> 00:38:09,438
+<font color="#FFFFFF"><i>♪ Ohh ♪</i></font>
+
+553
+00:38:12,559 --> 00:38:14,472
+<font color="#FFFFFF"><i>♪ Trace your steps, now ♪</i></font>
+
+554
+00:38:16,880 --> 00:38:20,576
+<font color="#FFFFFF"><i>♪ Oh, yeah ♪</i></font>
+
+555
+00:38:20,599 --> 00:38:22,815
+<font color="#FFFFFF"><i>♪ Yeah ♪</i></font>
+
+556
+00:38:22,840 --> 00:38:25,559
+<font color="#FFFFFF"><i>♪ Ooh, whoa, yeah ♪</i></font>
+
+557
+00:38:25,679 --> 00:38:28,478
+<font color="#FFFFFF"><i>♪ Yeah ♪</i></font>
+
+558
+00:38:31,719 --> 00:38:33,175
+<font color="#FFFFFF">Whoo!</font>
+
+559
+00:38:33,199 --> 00:38:35,615
+<font color="#FFFFFF">Give it up for Mike
+on the guitar!</font>
+
+560
+00:38:35,639 --> 00:38:37,278
+<font color="#FFFFFF">Yeah!</font>
+
+561
+00:38:37,400 --> 00:38:42,096
+<font color="#FFFFFF">Mr. Nathan on the bass!
+Give it up for Nathan!</font>
+
+562
+00:38:42,119 --> 00:38:45,856
+<font color="#FFFFFF">Jim on the keys!</font>
+
+563
+00:38:45,880 --> 00:38:47,576
+<font color="#FFFFFF">Yeah!
+Yeah, and I'm Bart.</font>
+
+564
+00:38:47,599 --> 00:38:50,376
+<font color="#FFFFFF">And we are Mercy...</font>
+
+565
+00:38:50,400 --> 00:38:53,615
+<font color="#FFFFFF">And Robbie on the drums!</font>
+
+566
+00:38:56,159 --> 00:38:57,695
+<font color="#FFFFFF">He's new.</font>
+
+567
+00:38:57,719 --> 00:38:59,695
+<font color="#FFFFFF">Thank you all
+for being here tonight.</font>
+
+568
+00:38:59,719 --> 00:39:01,135
+<font color="#FFFFFF">Y'all have a good time?</font>
+
+569
+00:39:01,159 --> 00:39:03,295
+<font color="#FFFFFF"><i>Yeah!</i></font>
+
+570
+00:39:03,320 --> 00:39:07,199
+<font color="#FFFFFF">I sure hope so 'cause
+that's all the songs we got.</font>
+
+571
+00:39:09,760 --> 00:39:12,735
+<font color="#FFFFFF"><i>Encore!</i></font>
+
+572
+00:39:12,760 --> 00:39:14,175
+<font color="#FFFFFF">You know what?</font>
+
+573
+00:39:14,199 --> 00:39:15,896
+<font color="#FFFFFF">Let me tell you a story
+before we go.</font>
+
+574
+00:39:15,920 --> 00:39:20,416
+<font color="#FFFFFF">Um... 'cause when I was, uh...</font>
+
+575
+00:39:20,440 --> 00:39:24,115
+<font color="#FFFFFF">ten, 11 years old,
+life was tough.</font>
+
+576
+00:39:24,239 --> 00:39:27,016
+<font color="#FFFFFF"><i>I mean, it...
+it was really tough, actually.</i></font>
+
+577
+00:39:27,039 --> 00:39:30,016
+<font color="#FFFFFF">I needed something,
+and I remember, I've...</font>
+
+578
+00:39:30,039 --> 00:39:33,335
+<font color="#FFFFFF">I've always loved music,
+you know?</font>
+
+579
+00:39:33,360 --> 00:39:37,416
+<font color="#FFFFFF"><i>And I found some songs
+that I just...</i></font>
+
+580
+00:39:37,440 --> 00:39:41,536
+<font color="#FFFFFF"><i>man, I... I held onto,
+you know what I mean?</i></font>
+
+581
+00:39:41,559 --> 00:39:45,295
+<font color="#FFFFFF"><i>Like an anchor in a storm.
+And they got me through.</i></font>
+
+582
+00:39:45,320 --> 00:39:49,536
+<font color="#FFFFFF">And they told me about
+a Father in heaven that...</font>
+
+583
+00:39:49,559 --> 00:39:51,175
+<font color="#FFFFFF">that wanted me.</font>
+
+584
+00:39:51,199 --> 00:39:54,976
+<font color="#FFFFFF"><i>You know,
+a Father that loves me so much</i></font>
+
+585
+00:39:55,000 --> 00:39:57,896
+<font color="#FFFFFF">that He died for me.</font>
+
+586
+00:39:57,920 --> 00:39:59,536
+<font color="#FFFFFF">A Father
+that would never leave me.</font>
+
+587
+00:39:59,559 --> 00:40:02,376
+<font color="#FFFFFF"><i>And I listened to these songs
+over and over</i></font>
+
+588
+00:40:02,400 --> 00:40:06,815
+<font color="#FFFFFF"><i>and over and over again and...
+and they gave me hope.</i></font>
+
+589
+00:40:06,840 --> 00:40:09,775
+<font color="#FFFFFF">'Cause I needed it.</font>
+
+590
+00:40:09,800 --> 00:40:12,416
+<font color="#FFFFFF">And maybe tonight, so do you.</font>
+
+591
+00:40:12,440 --> 00:40:14,896
+<font color="#FFFFFF"><i>Sing this with me.</i></font>
+
+592
+00:40:14,920 --> 00:40:17,215
+<font color="#FFFFFF"><i>♪ Oh, Lord ♪</i></font>
+
+593
+00:40:17,239 --> 00:40:20,277
+<font color="#FFFFFF"><i>♪ You're beautiful ♪</i></font>
+
+594
+00:40:22,920 --> 00:40:24,976
+<font color="#FFFFFF"><i>♪ Your face ♪</i></font>
+
+595
+00:40:25,000 --> 00:40:28,471
+<font color="#FFFFFF"><i>♪ Is all I seek ♪</i></font>
+
+596
+00:40:30,239 --> 00:40:34,135
+<font color="#FFFFFF"><i>♪ For when Your eyes ♪</i></font>
+
+597
+00:40:34,159 --> 00:40:37,976
+<font color="#FFFFFF"><i>♪ Are on this child ♪</i></font>
+
+598
+00:40:38,000 --> 00:40:43,155
+<font color="#FFFFFF"><i>♪ Your grace abounds to me ♪</i></font>
+
+599
+00:40:45,400 --> 00:40:50,474
+<font color="#FFFFFF"><i>♪ Oh, Lord,
+please light the fire ♪</i></font>
+
+600
+00:40:53,440 --> 00:40:54,896
+<font color="#FFFFFF"><i>♪ That once ♪</i></font>
+
+601
+00:40:54,920 --> 00:41:00,255
+<font color="#FFFFFF"><i>♪ Burned bright and clear ♪</i></font>
+
+602
+00:41:00,280 --> 00:41:04,215
+<font color="#FFFFFF"><i>♪ Replace the lamp ♪</i></font>
+
+603
+00:41:04,239 --> 00:41:08,016
+<font color="#FFFFFF"><i>♪ Of my first love ♪</i></font>
+
+604
+00:41:08,039 --> 00:41:13,398
+<font color="#FFFFFF"><i>♪ That burns with holy fear ♪</i></font>
+
+605
+00:41:15,639 --> 00:41:20,396
+<font color="#FFFFFF"><i>♪ Oh, Lord, You're beautiful ♪</i></font>
+
+606
+00:41:23,039 --> 00:41:28,320
+<font color="#FFFFFF"><i>♪ Your face is all I seek ♪</i></font>
+
+607
+00:41:30,639 --> 00:41:34,295
+<font color="#FFFFFF"><i>♪ For when Your eyes ♪</i></font>
+
+608
+00:41:34,320 --> 00:41:37,949
+<font color="#FFFFFF"><i>♪ Are on this child ♪</i></font>
+
+609
+00:41:38,079 --> 00:41:43,632
+<font color="#FFFFFF"><i>♪ Your grace abounds to me ♪</i></font>
+
+610
+00:41:54,480 --> 00:41:57,735
+<font color="#FFFFFF">Thanks for coming, guys. Appreciate it.
+Hey, Bart.</font>
+
+611
+00:41:57,760 --> 00:42:00,655
+<font color="#FFFFFF">Hey, where you headed, man?
+Someone I gotta see, man.</font>
+
+612
+00:42:00,679 --> 00:42:02,353
+<font color="#FFFFFF">Who?
+Scott Brickell.</font>
+
+613
+00:42:02,480 --> 00:42:04,615
+<font color="#FFFFFF">He manages Audio Adrenaline
+and a bunch of others.</font>
+
+614
+00:42:04,639 --> 00:42:07,215
+<font color="#FFFFFF">Yeah, well, why was he here?
+'Cause I wrote him a letter</font>
+
+615
+00:42:07,239 --> 00:42:09,056
+<font color="#FFFFFF">every week
+for the past two years.</font>
+
+616
+00:42:09,079 --> 00:42:10,719
+<font color="#FFFFFF">Gotta go.
+Uh...</font>
+
+617
+00:42:13,719 --> 00:42:17,536
+<font color="#FFFFFF">Mr. Brickell!
+It's just Brickell.</font>
+
+618
+00:42:17,559 --> 00:42:19,576
+<font color="#FFFFFF">Uh, yeah, uh-huh, okay.</font>
+
+619
+00:42:19,599 --> 00:42:23,175
+<font color="#FFFFFF">Um, I didn't know
+you were coming. Thank you.</font>
+
+620
+00:42:23,199 --> 00:42:24,775
+<font color="#FFFFFF">Yeah, well, I did.
+Merry Christmas.</font>
+
+621
+00:42:24,800 --> 00:42:28,615
+<font color="#FFFFFF">Uh, you know, we mostly
+just play, uh, big shows,</font>
+
+622
+00:42:28,639 --> 00:42:31,416
+<font color="#FFFFFF">you know, but sometimes
+we like to get back to,</font>
+
+623
+00:42:31,440 --> 00:42:33,496
+<font color="#FFFFFF">you know,
+smaller venues like this one.</font>
+
+624
+00:42:33,519 --> 00:42:36,335
+<font color="#FFFFFF">Yeah, look, Barth, uh...
+Uh, it's Bart.</font>
+
+625
+00:42:36,360 --> 00:42:39,295
+<font color="#FFFFFF">Sorry. And what's the name
+of your band again?</font>
+
+626
+00:42:39,320 --> 00:42:42,175
+<font color="#FFFFFF">It's Mercy Me, you know,
+'cause when I told my memaw</font>
+
+627
+00:42:42,199 --> 00:42:44,175
+<font color="#FFFFFF">that we were starting a band,
+she was, like,</font>
+
+628
+00:42:44,199 --> 00:42:46,016
+<font color="#FFFFFF">"Mercy me, get a real job."</font>
+
+629
+00:42:46,039 --> 00:42:47,735
+<font color="#FFFFFF">And I was, like,
+"Aw, Memaw!"</font>
+
+630
+00:42:47,760 --> 00:42:49,936
+<font color="#FFFFFF">And then the guys were like,
+"Did she really say that?"</font>
+
+631
+00:42:49,960 --> 00:42:52,936
+<font color="#FFFFFF">I was, like, "Yeah, we
+have to name the band Mercy..."</font>
+
+632
+00:42:52,960 --> 00:42:55,775
+<font color="#FFFFFF">So that's what we called it.</font>
+
+633
+00:42:55,800 --> 00:42:57,615
+<font color="#FFFFFF">Son, the sheer volume of words</font>
+
+634
+00:42:57,639 --> 00:43:01,235
+<font color="#FFFFFF">that comes outta your mouth
+is... exhausting.</font>
+
+635
+00:43:04,280 --> 00:43:07,496
+<font color="#FFFFFF">You're not ready.
+That's what I think.</font>
+
+636
+00:43:07,519 --> 00:43:09,751
+<font color="#FFFFFF">You got talent.
+You got potential.</font>
+
+637
+00:43:09,880 --> 00:43:14,215
+<font color="#FFFFFF">You can sing, but I don't think
+you've found your song,</font>
+
+638
+00:43:14,239 --> 00:43:15,992
+<font color="#FFFFFF">Found your soul,
+you know what I'm saying?</font>
+
+639
+00:43:18,800 --> 00:43:23,056
+<font color="#FFFFFF">Look, that last thing you did,
+that was... that was special.</font>
+
+640
+00:43:23,079 --> 00:43:27,096
+<font color="#FFFFFF">Next gig, you should do that
+the whole time, the entire show.</font>
+
+641
+00:43:27,119 --> 00:43:28,655
+<font color="#FFFFFF">See how that works for you.</font>
+
+642
+00:43:28,679 --> 00:43:30,815
+<font color="#FFFFFF">That's not the kind of music
+that we sing, though.</font>
+
+643
+00:43:30,840 --> 00:43:33,576
+<font color="#FFFFFF">Trust me, son, you have no idea
+what kind of music you sing.</font>
+
+644
+00:43:33,599 --> 00:43:35,615
+<font color="#FFFFFF">We write our own music.
+We don't just do covers.</font>
+
+645
+00:43:35,639 --> 00:43:37,775
+<font color="#FFFFFF">Well, then write
+something like that,</font>
+
+646
+00:43:37,800 --> 00:43:39,655
+<font color="#FFFFFF">and then give me a call.
+No, no, no. Wait, wait, wait.</font>
+
+647
+00:43:39,679 --> 00:43:42,735
+<font color="#FFFFFF">You gotta go with us.
+We got two more shows in Texas.</font>
+
+648
+00:43:42,760 --> 00:43:45,456
+<font color="#FFFFFF">We got plenty of room
+on the bus, all right?</font>
+
+649
+00:43:45,480 --> 00:43:47,215
+<font color="#FFFFFF">You know, you can't just
+change up our whole act</font>
+
+650
+00:43:47,239 --> 00:43:48,976
+<font color="#FFFFFF">and then abandon us, right?</font>
+
+651
+00:43:49,000 --> 00:43:51,639
+<font color="#FFFFFF">You don't seem like that
+kind of person, I can tell.</font>
+
+652
+00:43:52,960 --> 00:43:55,679
+<font color="#FFFFFF">I flew coach in a middle seat</font>
+
+653
+00:43:55,800 --> 00:43:59,536
+<font color="#FFFFFF">to rent a car
+that I can't even fit in</font>
+
+654
+00:43:59,559 --> 00:44:01,815
+<font color="#FFFFFF">to drive three hours
+to the middle of nowhere</font>
+
+655
+00:44:01,840 --> 00:44:07,016
+<font color="#FFFFFF">to have you tell me you want me
+to travel on <i>that...</i></font>
+
+656
+00:44:07,039 --> 00:44:08,440
+<font color="#FFFFFF">with you?</font>
+
+657
+00:44:10,800 --> 00:44:11,896
+<font color="#FFFFFF">Yeah.</font>
+
+658
+00:44:17,599 --> 00:44:20,195
+<font color="#FFFFFF">That's funny.</font>
+
+659
+00:44:21,400 --> 00:44:23,471
+<font color="#FFFFFF">I need to get another job.</font>
+
+660
+00:44:34,679 --> 00:44:35,936
+<font color="#FFFFFF"><i>Hello?</i></font>
+
+661
+00:44:35,960 --> 00:44:37,335
+<font color="#FFFFFF">Yes, is this Shannon Street?</font>
+
+662
+00:44:37,360 --> 00:44:39,215
+<font color="#FFFFFF"><i>Yes. Who is this?</i></font>
+
+663
+00:44:39,239 --> 00:44:41,815
+<font color="#FFFFFF">Uh, it's the police, ma'am.
+Uh, we need to speak with you.</font>
+
+664
+00:44:41,840 --> 00:44:45,277
+<font color="#FFFFFF">Can you come downstairs?
+It's for your own safety.</font>
+
+665
+00:44:50,079 --> 00:44:52,639
+<font color="#FFFFFF">Get the girl, Bart!
+Woo-woo!</font>
+
+666
+00:44:57,000 --> 00:44:59,376
+<font color="#FFFFFF">Shannon!
+Bart!</font>
+
+667
+00:44:59,400 --> 00:45:03,496
+<font color="#FFFFFF">Hey. Long time no see.
+You look great.</font>
+
+668
+00:45:03,519 --> 00:45:05,175
+<font color="#FFFFFF">It's midnight, Bart.
+What are you doing here?</font>
+
+669
+00:45:05,199 --> 00:45:06,815
+<font color="#FFFFFF">We just played a gig here.</font>
+
+670
+00:45:06,840 --> 00:45:08,615
+<font color="#FFFFFF">I don't know
+if you know this yet, but we...</font>
+
+671
+00:45:08,639 --> 00:45:11,335
+<font color="#FFFFFF">we actually have a CD now
+with actual songs on it.</font>
+
+672
+00:45:11,360 --> 00:45:14,655
+<font color="#FFFFFF">Like a real CD.
+Here, that's for you.</font>
+
+673
+00:45:14,679 --> 00:45:17,896
+<font color="#FFFFFF">We have three more shows.
+What if you came with us?</font>
+
+674
+00:45:17,920 --> 00:45:19,536
+<font color="#FFFFFF">We could go on the road,
+we could grab Kent.</font>
+
+675
+00:45:19,559 --> 00:45:21,255
+<font color="#FFFFFF">Hit the road.
+It'd be like before.</font>
+
+676
+00:45:21,280 --> 00:45:23,896
+<font color="#FFFFFF">Three Musketeers.
+I'm going to bed.</font>
+
+677
+00:45:23,920 --> 00:45:27,295
+<font color="#FFFFFF">Aw, come on, Shannon.
+Go on an adventure!</font>
+
+678
+00:45:27,320 --> 00:45:28,856
+<font color="#FFFFFF">It'll be fun!</font>
+
+679
+00:45:28,880 --> 00:45:30,936
+<font color="#FFFFFF">Adventure?</font>
+
+680
+00:45:30,960 --> 00:45:32,576
+<font color="#FFFFFF">Really?
+Yeah.</font>
+
+681
+00:45:32,599 --> 00:45:35,255
+<font color="#FFFFFF">What're you thinking,
+coming here like this?</font>
+
+682
+00:45:35,280 --> 00:45:36,896
+<font color="#FFFFFF">I don't know.
+I didn't really think about it.</font>
+
+683
+00:45:36,920 --> 00:45:38,576
+<font color="#FFFFFF">I just thought
+it'd be fun, you know?</font>
+
+684
+00:45:38,599 --> 00:45:42,536
+<font color="#FFFFFF">Just an idea.
+That's it? Only reason?</font>
+
+685
+00:45:42,559 --> 00:45:44,896
+<font color="#FFFFFF">Yep.</font>
+
+686
+00:45:44,920 --> 00:45:48,231
+<font color="#FFFFFF">I don't want to go on
+any more adventures with you.</font>
+
+687
+00:45:54,440 --> 00:45:55,735
+<font color="#FFFFFF">You know, I want you to know</font>
+
+688
+00:45:55,760 --> 00:45:58,135
+<font color="#FFFFFF">that I pray for you
+all the time.</font>
+
+689
+00:45:58,159 --> 00:46:01,135
+<font color="#FFFFFF">I do. I really do.</font>
+
+690
+00:46:01,159 --> 00:46:02,936
+<font color="#FFFFFF">And I hope that you find</font>
+
+691
+00:46:02,960 --> 00:46:06,376
+<font color="#FFFFFF">whatever it is that
+you're looking for out there.</font>
+
+692
+00:46:06,400 --> 00:46:08,311
+<font color="#FFFFFF">Thank you for the CD.</font>
+
+693
+00:46:11,719 --> 00:46:13,791
+<font color="#FFFFFF">Forrest Gump's taking
+his time back there.</font>
+
+694
+00:46:15,719 --> 00:46:17,536
+<font color="#FFFFFF">She will not be joining us.</font>
+
+695
+00:46:17,559 --> 00:46:19,896
+<font color="#FFFFFF">Shocker.</font>
+
+696
+00:46:19,920 --> 00:46:22,514
+<font color="#FFFFFF">Well, ain't <i>she the</i> smart one?</font>
+
+697
+00:46:50,920 --> 00:46:53,673
+<font color="#FFFFFF">It's good.
+Nathan, it's real good.</font>
+
+698
+00:46:56,519 --> 00:46:59,751
+<font color="#FFFFFF">Let's do it.
+Let's blow him away.</font>
+
+699
+00:47:01,679 --> 00:47:04,456
+<font color="#FFFFFF"><i>♪ From the top of the world ♪</i></font>
+
+700
+00:47:04,480 --> 00:47:06,496
+<font color="#FFFFFF"><i>♪ I will sing ♪</i></font>
+
+701
+00:47:06,519 --> 00:47:09,295
+<font color="#FFFFFF"><i>♪ Of the joy that flows ♪</i></font>
+
+702
+00:47:09,320 --> 00:47:12,695
+<font color="#FFFFFF"><i>♪ From my glorious king ♪</i></font>
+
+703
+00:47:12,719 --> 00:47:16,335
+<font color="#FFFFFF"><i>♪ And in my heart, Lord ♪</i></font>
+
+704
+00:47:16,360 --> 00:47:19,056
+<font color="#FFFFFF"><i>♪ I can see ♪</i></font>
+
+705
+00:47:19,079 --> 00:47:21,695
+<font color="#FFFFFF"><i>♪ Your loving arms ♪</i></font>
+
+706
+00:47:21,719 --> 00:47:25,615
+<font color="#FFFFFF"><i>♪ Coming down to me ♪</i></font>
+
+707
+00:47:25,639 --> 00:47:28,215
+<font color="#FFFFFF"><i>♪ By your blood ♪</i></font>
+
+708
+00:47:28,239 --> 00:47:32,215
+<font color="#FFFFFF"><i>♪ That washed over me ♪</i></font>
+
+709
+00:47:32,239 --> 00:47:34,135
+<font color="#FFFFFF"><i>♪ By Your grace ♪</i></font>
+
+710
+00:47:34,159 --> 00:47:37,655
+<font color="#FFFFFF"><i>♪ That came down and kissed me ♪</i></font>
+
+711
+00:47:37,679 --> 00:47:40,856
+<font color="#FFFFFF"><i>♪ Jesus, You have cleaned my heart ♪</i></font>
+
+712
+00:47:40,880 --> 00:47:42,496
+<font color="#FFFFFF"><i>♪ And my soul ♪</i></font>
+
+713
+00:47:42,519 --> 00:47:46,255
+<font color="#FFFFFF"><i>♪ For Your glory, it made me ♪</i></font>
+
+714
+00:47:46,280 --> 00:47:50,335
+<font color="#FFFFFF"><i>♪ Made me beautiful ♪</i></font>
+
+715
+00:47:59,320 --> 00:48:01,496
+<font color="#FFFFFF">Hey! Where you going?</font>
+
+716
+00:48:01,519 --> 00:48:02,856
+<font color="#FFFFFF">Back to Nashville.</font>
+
+717
+00:48:02,880 --> 00:48:05,952
+<font color="#FFFFFF">I've seen all I need to see.</font>
+
+718
+00:48:08,199 --> 00:48:09,936
+<font color="#FFFFFF">Plus, I need to make some plans
+on account</font>
+
+719
+00:48:09,960 --> 00:48:12,175
+<font color="#FFFFFF">of booking you guys
+a venue for GMA week.</font>
+
+720
+00:48:12,199 --> 00:48:15,431
+<font color="#FFFFFF">What is GMA week? What is that?</font>
+
+721
+00:48:15,559 --> 00:48:17,215
+<font color="#FFFFFF">It's only the biggest
+convention in music...</font>
+
+722
+00:48:17,239 --> 00:48:19,695
+<font color="#FFFFFF">Just go on the bus!
+All right.</font>
+
+723
+00:48:19,719 --> 00:48:21,096
+<font color="#FFFFFF">I couldn't get the main stage,</font>
+
+724
+00:48:21,119 --> 00:48:23,016
+<font color="#FFFFFF">but I'll get
+some record labels there.</font>
+
+725
+00:48:23,039 --> 00:48:26,856
+<font color="#FFFFFF">What I need you to do is invite
+every youth group you can.</font>
+
+726
+00:48:26,880 --> 00:48:28,108
+<font color="#FFFFFF">Stack the room.</font>
+
+727
+00:48:28,239 --> 00:48:29,856
+<font color="#FFFFFF">And then just do
+what you did tonight.</font>
+
+728
+00:48:29,880 --> 00:48:32,615
+<font color="#FFFFFF">Wait.
+So you liked tonight?</font>
+
+729
+00:48:32,639 --> 00:48:34,393
+<font color="#FFFFFF">Don't get cocky, kid.</font>
+
+730
+00:48:55,119 --> 00:48:56,976
+<font color="#FFFFFF"><i>Hey, this is Shannon.
+Leave a message.</i></font>
+
+731
+00:48:57,000 --> 00:49:00,335
+<font color="#FFFFFF"><i>Hey, Shannon.</i></font>
+
+732
+00:49:00,360 --> 00:49:02,456
+<font color="#FFFFFF"><i>Uh, it's Bart.</i></font>
+
+733
+00:49:02,480 --> 00:49:04,456
+<font color="#FFFFFF">Just uh...</font>
+
+734
+00:49:04,480 --> 00:49:06,695
+<font color="#FFFFFF">look, you said you, uh,
+prayed for me</font>
+
+735
+00:49:06,719 --> 00:49:09,135
+<font color="#FFFFFF">all the time, and I, uh...</font>
+
+736
+00:49:09,159 --> 00:49:12,376
+<font color="#FFFFFF"><i>we're playing this, uh,
+big showcase tomorrow,</i></font>
+
+737
+00:49:12,400 --> 00:49:15,416
+<font color="#FFFFFF"><i>and, uh, it's a big deal for us,</i></font>
+
+738
+00:49:15,440 --> 00:49:17,815
+<font color="#FFFFFF"><i>and we just, uh... we're ready.</i></font>
+
+739
+00:49:17,840 --> 00:49:22,789
+<font color="#FFFFFF">But we're, uh, terrified too, um...</font>
+
+740
+00:49:24,760 --> 00:49:28,976
+<font color="#FFFFFF"><i>I guess that's it.
+Just wanted to tell you that.</i></font>
+
+741
+00:49:29,000 --> 00:49:29,911
+<font color="#FFFFFF"><i>Uh...</i></font>
+
+742
+00:49:53,000 --> 00:49:54,295
+<font color="#FFFFFF">Little off-Broadway,
+I know, but it's the best</font>
+
+743
+00:49:54,320 --> 00:49:56,376
+<font color="#FFFFFF">I could do on short notice.
+Are you kidding me?</font>
+
+744
+00:49:56,400 --> 00:49:58,096
+<font color="#FFFFFF">This is perfect.</font>
+
+745
+00:49:58,119 --> 00:50:00,096
+<font color="#FFFFFF">Oh, and, guys,
+this is your sound man, Dingo.</font>
+
+746
+00:50:00,119 --> 00:50:02,456
+<font color="#FFFFFF">Anything you need,
+you just let him know.</font>
+
+747
+00:50:02,480 --> 00:50:04,496
+<font color="#FFFFFF">You got us a sound guy?</font>
+
+748
+00:50:04,519 --> 00:50:06,376
+<font color="#FFFFFF">Did you get a label to come?</font>
+
+749
+00:50:06,400 --> 00:50:08,496
+<font color="#FFFFFF">No.</font>
+
+750
+00:50:08,519 --> 00:50:11,592
+<font color="#FFFFFF">I got five.
+Working on a few more.</font>
+
+751
+00:50:11,719 --> 00:50:14,871
+<font color="#FFFFFF">I just need you to make sure
+this place is full.</font>
+
+752
+00:50:18,400 --> 00:50:20,096
+<font color="#FFFFFF">And bring the rain, gentlemen.</font>
+
+753
+00:50:20,119 --> 00:50:22,056
+<font color="#FFFFFF">Yeah, you got it.
+Absolutely.</font>
+
+754
+00:50:34,440 --> 00:50:37,536
+<font color="#FFFFFF">Buddy, you ready for this?</font>
+
+755
+00:50:37,559 --> 00:50:38,710
+<font color="#FFFFFF"><i>Good crowd, huh?</i></font>
+
+756
+00:50:40,840 --> 00:50:43,416
+<font color="#FFFFFF">Bart,
+we've got a little situation</font>
+
+757
+00:50:43,440 --> 00:50:45,510
+<font color="#FFFFFF">I need to talk to you about.</font>
+
+758
+00:50:47,519 --> 00:50:48,954
+<font color="#FFFFFF"><i>Come on.</i></font>
+
+759
+00:50:52,159 --> 00:50:54,335
+<font color="#FFFFFF">So, Bart, there's somebody
+I want you to meet.</font>
+
+760
+00:50:54,360 --> 00:50:55,588
+<font color="#FFFFFF">This is a friend of mine.</font>
+
+761
+00:50:55,719 --> 00:50:57,215
+<font color="#FFFFFF">He came down here tonight
+to see us.</font>
+
+762
+00:50:57,239 --> 00:50:59,815
+<font color="#FFFFFF">Whoa, Smitty?
+This is Michael W. Smith.</font>
+
+763
+00:50:59,840 --> 00:51:03,016
+<font color="#FFFFFF">Smitty, right?
+That's what your friends call you, right?</font>
+
+764
+00:51:03,039 --> 00:51:05,135
+<font color="#FFFFFF">Yeah, yeah, uh,
+nice to meet you.</font>
+
+765
+00:51:05,159 --> 00:51:08,856
+<font color="#FFFFFF">I am, like, a huge fan
+from, like, all the...</font>
+
+766
+00:51:08,880 --> 00:51:10,496
+<font color="#FFFFFF">sorry, like, That's okay, man.</font>
+
+767
+00:51:10,519 --> 00:51:11,976
+<font color="#FFFFFF">All the way back.
+Way back.</font>
+
+768
+00:51:12,000 --> 00:51:15,416
+<font color="#FFFFFF">Your tour with Amy Grant
+was just so inspiring for me.</font>
+
+769
+00:51:15,440 --> 00:51:18,655
+<font color="#FFFFFF">I remember you wore
+that vest, that red vest!</font>
+
+770
+00:51:18,679 --> 00:51:20,456
+<font color="#FFFFFF">Dude, that was bold.
+I don't think I wore a red vest.</font>
+
+771
+00:51:20,480 --> 00:51:21,856
+<font color="#FFFFFF">I would buy that vest.
+No, you did.</font>
+
+772
+00:51:21,880 --> 00:51:23,916
+<font color="#FFFFFF">You wore this red vest.
+You remember?</font>
+
+773
+00:51:24,039 --> 00:51:26,695
+<font color="#FFFFFF">Di... did I wear a red vest
+on our tour?</font>
+
+774
+00:51:26,719 --> 00:51:27,789
+<font color="#FFFFFF">He did.
+<i>Yes, you did.</i></font>
+
+775
+00:51:27,920 --> 00:51:30,335
+<font color="#FFFFFF"><i>It was velvet.</i></font>
+
+776
+00:51:30,360 --> 00:51:32,135
+<font color="#FFFFFF">Oh, man.</font>
+
+777
+00:51:32,159 --> 00:51:33,615
+<font color="#FFFFFF">What?</font>
+
+778
+00:51:33,639 --> 00:51:36,916
+<font color="#FFFFFF">Miss Bart, I'm...
+oh, we're... okay.</font>
+
+779
+00:51:40,480 --> 00:51:42,072
+<font color="#FFFFFF">Uh...</font>
+
+780
+00:51:43,760 --> 00:51:46,016
+<font color="#FFFFFF">You okay?
+I just threw up a little bit.</font>
+
+781
+00:51:46,039 --> 00:51:49,175
+<font color="#FFFFFF">Yeah. No, I'm good.
+I just... you are like...</font>
+
+782
+00:51:49,199 --> 00:51:52,896
+<font color="#FFFFFF">The first Christian tape
+I ever got was "Never Alone."</font>
+
+783
+00:51:52,920 --> 00:51:56,896
+<font color="#FFFFFF">And it was like...
+like an anchor for me.</font>
+
+784
+00:51:56,920 --> 00:51:58,295
+<font color="#FFFFFF">Thank you so much.
+That means so much to me.</font>
+
+785
+00:51:58,320 --> 00:52:01,255
+<font color="#FFFFFF">Yeah, it was just...
+It was... it was great.</font>
+
+786
+00:52:01,280 --> 00:52:02,335
+<font color="#FFFFFF">There you are.</font>
+
+787
+00:52:02,360 --> 00:52:04,255
+<font color="#FFFFFF">We're just so excited
+to cheer you on.</font>
+
+788
+00:52:04,280 --> 00:52:06,096
+<font color="#FFFFFF"><i>Here's Wonder Woman!</i>
+Go get him, please.</font>
+
+789
+00:52:06,119 --> 00:52:08,056
+<font color="#FFFFFF">Here's Amy Grant!
+You are like a super hero...</font>
+
+790
+00:52:08,079 --> 00:52:10,335
+<font color="#FFFFFF">We gotta roll. Sorry.
+What? We're hanging out.</font>
+
+791
+00:52:10,360 --> 00:52:12,096
+<font color="#FFFFFF">Hi, guys.
+This is Mike.</font>
+
+792
+00:52:12,119 --> 00:52:15,815
+<font color="#FFFFFF">Hey. Good luck, Bart.
+Yeah, good... have a good one.</font>
+
+793
+00:52:15,840 --> 00:52:17,856
+<font color="#FFFFFF">Did you see who that was?
+I did.</font>
+
+794
+00:52:17,880 --> 00:52:20,554
+<font color="#FFFFFF">That was Amy Grant.
+She talked to me.</font>
+
+795
+00:52:39,679 --> 00:52:42,856
+<font color="#FFFFFF">Come on, Nashvi-I-lle!</font>
+
+796
+00:52:42,880 --> 00:52:45,856
+<font color="#FFFFFF">Whoo! What's up, GMA?</font>
+
+797
+00:52:45,880 --> 00:52:48,269
+<font color="#FFFFFF">Are you guys ready
+to rock tonight?</font>
+
+798
+00:52:51,440 --> 00:52:54,655
+<font color="#FFFFFF">Man, we are so glad
+to be here with you!</font>
+
+799
+00:52:54,679 --> 00:52:57,096
+<font color="#FFFFFF">Ever feel like everything
+in your life</font>
+
+800
+00:52:57,119 --> 00:53:01,215
+<font color="#FFFFFF">is just building and building
+and building to one big moment?</font>
+
+801
+00:53:01,239 --> 00:53:04,516
+<font color="#FFFFFF">That's how we feel tonight!
+Let's do this!</font>
+
+802
+00:53:17,679 --> 00:53:19,831
+<font color="#FFFFFF">Whoo!</font>
+
+803
+00:53:24,000 --> 00:53:27,655
+<font color="#FFFFFF">Bart.
+You're stressing me out, man.</font>
+
+804
+00:53:27,679 --> 00:53:32,215
+<font color="#FFFFFF">Sorry.
+It's nerves, you know.</font>
+
+805
+00:53:32,239 --> 00:53:34,231
+<font color="#FFFFFF">I wish they'd hurry up.</font>
+
+806
+00:53:36,280 --> 00:53:38,175
+<font color="#FFFFFF">I thought it was good, right?
+It felt good.</font>
+
+807
+00:53:38,199 --> 00:53:40,135
+<font color="#FFFFFF">It was good.
+It was good, man.</font>
+
+808
+00:53:40,159 --> 00:53:42,914
+<font color="#FFFFFF">Best show we ever played.
+Crowd was into it, man.</font>
+
+809
+00:53:44,880 --> 00:53:47,056
+<font color="#FFFFFF">I'm gonna go talk to them.
+No! Hey! Hey!</font>
+
+810
+00:53:47,079 --> 00:53:50,016
+<font color="#FFFFFF">Don't do that, Bart!
+Brickell's got it.</font>
+
+811
+00:53:50,039 --> 00:53:51,976
+<font color="#FFFFFF">Let him do his job.</font>
+
+812
+00:53:52,000 --> 00:53:54,117
+<font color="#FFFFFF">What if he can't?</font>
+
+813
+00:54:01,039 --> 00:54:02,376
+<font color="#FFFFFF">Hey!
+Wait! Wait!</font>
+
+814
+00:54:02,400 --> 00:54:04,391
+<font color="#FFFFFF">Dude, no!
+That's a mistake.</font>
+
+815
+00:54:05,320 --> 00:54:06,958
+<font color="#FFFFFF">But if you could see
+how far they've come from</font>
+
+816
+00:54:07,079 --> 00:54:09,856
+<font color="#FFFFFF">the first time I saw 'em...
+Hey! Hey, guys!</font>
+
+817
+00:54:09,880 --> 00:54:13,056
+<font color="#FFFFFF">Gentlemen.
+Oh, and also lady.</font>
+
+818
+00:54:13,079 --> 00:54:14,735
+<font color="#FFFFFF">So you guys know Bart?
+<i>Nice to meet y'all.</i></font>
+
+819
+00:54:14,760 --> 00:54:16,416
+<font color="#FFFFFF">Thanks for coming out tonight.
+<i>And I've been getting</i></font>
+
+820
+00:54:16,440 --> 00:54:18,175
+<font color="#FFFFFF">some good feedback
+from these guys,</font>
+
+821
+00:54:18,199 --> 00:54:20,456
+<font color="#FFFFFF"><i>and I'm almost finished...
+Was that awesome or what?</i></font>
+
+822
+00:54:20,480 --> 00:54:21,775
+<font color="#FFFFFF"><i>I mean, don't y'all agree?</i></font>
+
+823
+00:54:21,800 --> 00:54:23,016
+<font color="#FFFFFF">I think we're pretty much
+finished up here anyway.</font>
+
+824
+00:54:23,039 --> 00:54:25,416
+<font color="#FFFFFF">Ah, come on,
+I wanna know what you think!</font>
+
+825
+00:54:25,440 --> 00:54:28,717
+<font color="#FFFFFF">Let me, let me finish up here...
+I want to know what they think.</font>
+
+826
+00:54:38,679 --> 00:54:40,159
+<font color="#FFFFFF">You really wanna know?</font>
+
+827
+00:54:40,280 --> 00:54:43,376
+<font color="#FFFFFF">Yeah, I do!
+Come on, lay it on me.</font>
+
+828
+00:54:43,400 --> 00:54:45,255
+<font color="#FFFFFF">Give me all you got,
+Mr. Music Man.</font>
+
+829
+00:54:45,280 --> 00:54:48,989
+<font color="#FFFFFF">I have the skin of a rhino.
+All I got, okay.</font>
+
+830
+00:54:49,119 --> 00:54:51,896
+<font color="#FFFFFF">I'm sorry to have to be
+the one tell you this, kid,</font>
+
+831
+00:54:51,920 --> 00:54:56,775
+<font color="#FFFFFF">but, um...
+you're just not good enough.</font>
+
+832
+00:54:56,800 --> 00:54:58,096
+<font color="#FFFFFF"><i>Not yet, anyway.</i></font>
+
+833
+00:54:58,119 --> 00:55:02,135
+<font color="#FFFFFF">What? You're wrong.</font>
+
+834
+00:55:02,159 --> 00:55:05,255
+<font color="#FFFFFF">Seventh graders at youth camp,
+that's one thing, Bart.</font>
+
+835
+00:55:05,280 --> 00:55:07,215
+<font color="#FFFFFF">But this,
+this is about record sales.</font>
+
+836
+00:55:07,239 --> 00:55:08,936
+<font color="#FFFFFF">And I just can't sell
+what you're doing up there.</font>
+
+837
+00:55:08,960 --> 00:55:11,215
+<font color="#FFFFFF">Seventh gr...
+we packed the house, man.</font>
+
+838
+00:55:11,239 --> 00:55:13,175
+<font color="#FFFFFF">We've been selling our
+own albums for years now.</font>
+
+839
+00:55:13,199 --> 00:55:16,936
+<font color="#FFFFFF">I mean, what... what world
+are you guys living in?</font>
+
+840
+00:55:16,960 --> 00:55:18,599
+<font color="#FFFFFF"><i>Reality.</i></font>
+
+841
+00:55:20,199 --> 00:55:22,576
+<font color="#FFFFFF">Look, you need to embrace
+reality, Bart.</font>
+
+842
+00:55:22,599 --> 00:55:24,456
+<font color="#FFFFFF"><i>Your stuff...</i></font>
+
+843
+00:55:24,480 --> 00:55:28,416
+<font color="#FFFFFF"><i>You're not good enough, Bart.
+Dreams don't pay the bills.</i></font>
+
+844
+00:55:28,440 --> 00:55:30,936
+<font color="#FFFFFF">All it does...</font>
+
+845
+00:55:30,960 --> 00:55:34,695
+<font color="#FFFFFF">is keep you from all this...</font>
+
+846
+00:55:34,719 --> 00:55:37,376
+<font color="#FFFFFF"><i>from knowing what's real.</i></font>
+
+847
+00:55:37,400 --> 00:55:39,335
+<font color="#FFFFFF">What about the stuff
+we played at the end?</font>
+
+848
+00:55:39,360 --> 00:55:40,713
+<font color="#FFFFFF"><i>The worship music?</i></font>
+
+849
+00:55:40,840 --> 00:55:42,295
+<font color="#FFFFFF">Oh, it was beautiful,
+magical, truly.</font>
+
+850
+00:55:42,320 --> 00:55:44,096
+<font color="#FFFFFF">I've got a brother-in-law
+in Denver.</font>
+
+851
+00:55:44,119 --> 00:55:45,456
+<font color="#FFFFFF">He's looking
+for a worship pastor.</font>
+
+852
+00:55:45,480 --> 00:55:47,496
+<font color="#FFFFFF">I could put you two together.
+Is she serious?</font>
+
+853
+00:55:47,519 --> 00:55:50,295
+<font color="#FFFFFF">It's the truth you're mad at,
+not me.</font>
+
+854
+00:55:50,320 --> 00:55:52,436
+<font color="#FFFFFF"><i>My high school football team,
+there were a couple of guys</i></font>
+
+855
+00:55:52,559 --> 00:55:55,695
+<font color="#FFFFFF">that were good enough to make
+a big noise in a small town.</font>
+
+856
+00:55:55,719 --> 00:55:57,313
+<font color="#FFFFFF"><i>But that was it.
+You know what?</i></font>
+
+857
+00:55:57,440 --> 00:55:59,976
+<font color="#FFFFFF"><i>They're still there.
+They're stuck.</i></font>
+
+858
+00:56:00,000 --> 00:56:01,936
+<font color="#FFFFFF"><i>And that's what'll happen
+to you.</i></font>
+
+859
+00:56:01,960 --> 00:56:03,815
+<font color="#FFFFFF">You gotta be good
+at something we can sell.</font>
+
+860
+00:56:03,840 --> 00:56:05,536
+<font color="#FFFFFF">Just stop!
+Do you guys not get it?</font>
+
+861
+00:56:05,559 --> 00:56:07,615
+<font color="#FFFFFF">Okay? We've given everything
+for this moment.</font>
+
+862
+00:56:07,639 --> 00:56:09,536
+<font color="#FFFFFF">There is no plan B for us. Okay?
+We will do whatever it takes.</font>
+
+863
+00:56:09,559 --> 00:56:11,615
+<font color="#FFFFFF">We will work harder
+than anybody else.</font>
+
+864
+00:56:11,639 --> 00:56:13,655
+<font color="#FFFFFF">Tell me what you need me to do.
+Look, I work with a lot of bands,</font>
+
+865
+00:56:13,679 --> 00:56:17,416
+<font color="#FFFFFF">and I can recognize who's
+gonna make it and who isn't.</font>
+
+866
+00:56:17,440 --> 00:56:20,536
+<font color="#FFFFFF">And I gotta tell you the truth, Bart.
+You won't.</font>
+
+867
+00:56:20,559 --> 00:56:22,896
+<font color="#FFFFFF">How dare you say that?
+You don't even know me.</font>
+
+868
+00:56:22,920 --> 00:56:26,416
+<font color="#FFFFFF">Go home.
+That's what you should do.</font>
+
+869
+00:56:26,440 --> 00:56:28,175
+<font color="#FFFFFF"><i>Dad, I can do this.
+No, you can't.</i></font>
+
+870
+00:56:28,199 --> 00:56:29,856
+<font color="#FFFFFF">I can do this!
+No, you can't!</font>
+
+871
+00:56:29,880 --> 00:56:31,335
+<font color="#FFFFFF">And you're gonna blink
+your eyes,</font>
+
+872
+00:56:31,360 --> 00:56:33,416
+<font color="#FFFFFF">and you're gonna realize
+that you're nothing,</font>
+
+873
+00:56:33,440 --> 00:56:35,255
+<font color="#FFFFFF"><i>and that life
+has got you nowhere</i></font>
+
+874
+00:56:35,280 --> 00:56:38,496
+<font color="#FFFFFF">because you chased
+some stupid dream!</font>
+
+875
+00:56:38,519 --> 00:56:39,615
+<font color="#FFFFFF">Wake up!</font>
+
+876
+00:56:39,639 --> 00:56:41,175
+<font color="#FFFFFF">Let me finish up here.
+No!</font>
+
+877
+00:56:41,199 --> 00:56:43,192
+<font color="#FFFFFF">No, I'm not leaving!
+I'm not leaving!</font>
+
+878
+00:56:43,320 --> 00:56:45,197
+<font color="#FFFFFF"><i>Yes, you are.
+Let me finish up.</i></font>
+
+879
+00:56:52,400 --> 00:56:55,335
+<font color="#FFFFFF">What happened?
+What'd they say?</font>
+
+880
+00:56:55,360 --> 00:56:57,896
+<font color="#FFFFFF">Bart? You okay?</font>
+
+881
+00:56:57,920 --> 00:57:00,036
+<font color="#FFFFFF">You're not good enough, Bart.</font>
+
+882
+00:57:02,039 --> 00:57:03,838
+<font color="#FFFFFF">You're not.</font>
+
+883
+00:57:05,000 --> 00:57:07,878
+<font color="#FFFFFF"><i>Well, that didn't take
+very long.</i></font>
+
+884
+00:57:09,280 --> 00:57:11,215
+<font color="#FFFFFF"><i>So what now?
+What do we do now?</i></font>
+
+885
+00:57:11,239 --> 00:57:12,976
+<font color="#FFFFFF">I don't know.
+Give me a second.</font>
+
+886
+00:57:13,000 --> 00:57:14,976
+<font color="#FFFFFF">There's gotta be something
+we can do. I mean...</font>
+
+887
+00:57:15,000 --> 00:57:16,215
+<font color="#FFFFFF">Just let me think for a second.</font>
+
+888
+00:57:16,239 --> 00:57:17,615
+<font color="#FFFFFF"><i>You're just gonna take that
+from them out there? Huh?</i></font>
+
+889
+00:57:17,639 --> 00:57:19,056
+<font color="#FFFFFF"><i>You're the manager.
+Do you not have an idea?</i></font>
+
+890
+00:57:19,079 --> 00:57:20,735
+<font color="#FFFFFF">Hold on.
+What is the next step?</font>
+
+891
+00:57:20,760 --> 00:57:24,096
+<font color="#FFFFFF">Sometimes there is no
+next step, Bart! Okay?</font>
+
+892
+00:57:24,119 --> 00:57:25,615
+<font color="#FFFFFF">You just ticked off
+half of Nashville in there.</font>
+
+893
+00:57:25,639 --> 00:57:28,815
+<font color="#FFFFFF">What's he talking about?
+You know what?</font>
+
+894
+00:57:28,840 --> 00:57:31,115
+<font color="#FFFFFF">If this is all there is...</font>
+
+895
+00:57:31,239 --> 00:57:32,655
+<font color="#FFFFFF">then I'm done.</font>
+
+896
+00:57:32,679 --> 00:57:34,896
+<font color="#FFFFFF">What?
+Then I quit.</font>
+
+897
+00:57:34,920 --> 00:57:36,215
+<font color="#FFFFFF">What?
+Wow, really?</font>
+
+898
+00:57:36,239 --> 00:57:37,936
+<font color="#FFFFFF">Classy.
+What about us?</font>
+
+899
+00:57:37,960 --> 00:57:40,416
+<font color="#FFFFFF">What about the band?
+What band, Mike?</font>
+
+900
+00:57:40,440 --> 00:57:43,335
+<font color="#FFFFFF">What about it?
+They hated it.</font>
+
+901
+00:57:43,360 --> 00:57:45,237
+<font color="#FFFFFF">They hated all of it.
+They hated us.</font>
+
+902
+00:57:48,039 --> 00:57:49,554
+<font color="#FFFFFF">I'm done.</font>
+
+903
+00:57:50,880 --> 00:57:52,280
+<font color="#FFFFFF">Sorry to disappoint.</font>
+
+904
+00:57:57,800 --> 00:58:01,554
+<font color="#FFFFFF">Can I come in, or you wanna sulk
+a little longer?</font>
+
+905
+00:58:08,519 --> 00:58:09,431
+<font color="#FFFFFF">So...</font>
+
+906
+00:58:11,880 --> 00:58:15,998
+<font color="#FFFFFF">You just gonna quit?
+Is that it?</font>
+
+907
+00:58:16,119 --> 00:58:18,215
+<font color="#FFFFFF">You got a better idea?</font>
+
+908
+00:58:18,239 --> 00:58:21,835
+<font color="#FFFFFF">I'm tired, man. I'm...</font>
+
+909
+00:58:21,960 --> 00:58:23,615
+<font color="#FFFFFF"><i>I got nothing left.</i></font>
+
+910
+00:58:23,639 --> 00:58:28,376
+<font color="#FFFFFF">I'm gonna be honest with you,
+like I told you I would be.</font>
+
+911
+00:58:28,400 --> 00:58:30,655
+<font color="#FFFFFF">Sometimes when you're up there,</font>
+
+912
+00:58:30,679 --> 00:58:33,175
+<font color="#FFFFFF">it's like you're singing
+somebody else's music.</font>
+
+913
+00:58:33,199 --> 00:58:34,815
+<font color="#FFFFFF">It's like a fake imitation.</font>
+
+914
+00:58:34,840 --> 00:58:37,230
+<font color="#FFFFFF">I don't believe it.
+I don't believe <i>you.</i></font>
+
+915
+00:58:39,679 --> 00:58:43,215
+<font color="#FFFFFF">Well, this has gone
+from bad to worse, thank you.</font>
+
+916
+00:58:43,239 --> 00:58:45,896
+<font color="#FFFFFF">But then there're times...</font>
+
+917
+00:58:45,920 --> 00:58:47,936
+<font color="#FFFFFF">when I see something real.</font>
+
+918
+00:58:47,960 --> 00:58:50,269
+<font color="#FFFFFF">I see something authentic.</font>
+
+919
+00:58:52,840 --> 00:58:57,295
+<font color="#FFFFFF">But as soon as it shows up,
+it's like you're afraid, and...</font>
+
+920
+00:58:57,320 --> 00:59:01,335
+<font color="#FFFFFF">and then it vanishes
+just as quick as it came.</font>
+
+921
+00:59:01,360 --> 00:59:04,175
+<font color="#FFFFFF"><i>And that's what makes you
+a puzzle to me.</i></font>
+
+922
+00:59:04,199 --> 00:59:06,936
+<font color="#FFFFFF">Let me ask you something, Bart.</font>
+
+923
+00:59:06,960 --> 00:59:08,518
+<font color="#FFFFFF"><i>What're you running from?</i></font>
+
+924
+00:59:11,920 --> 00:59:13,148
+<font color="#FFFFFF">My dad.</font>
+
+925
+00:59:17,719 --> 00:59:21,335
+<font color="#FFFFFF">He, uh...
+he...</font>
+
+926
+00:59:21,360 --> 00:59:23,536
+<font color="#FFFFFF"><i>He beat you, didn't he?</i></font>
+
+927
+00:59:23,559 --> 00:59:26,016
+<font color="#FFFFFF">You ain't got
+no poker face, kid.</font>
+
+928
+00:59:26,039 --> 00:59:29,175
+<font color="#FFFFFF">And I carry that.
+I have to live with that.</font>
+
+929
+00:59:29,199 --> 00:59:31,936
+<font color="#FFFFFF">You know?
+I always will.</font>
+
+930
+00:59:31,960 --> 00:59:33,393
+<font color="#FFFFFF"><i>Then write about it.</i></font>
+
+931
+00:59:34,880 --> 00:59:37,496
+<font color="#FFFFFF">Stop running from it.</font>
+
+932
+00:59:37,519 --> 00:59:41,615
+<font color="#FFFFFF">Let that pain
+become your inspiration.</font>
+
+933
+00:59:41,639 --> 00:59:45,376
+<font color="#FFFFFF"><i>And then you'll have something
+that people can believe in.</i></font>
+
+934
+00:59:45,400 --> 00:59:48,949
+<font color="#FFFFFF"><i>But to do that, you got to face
+your fears, son.</i></font>
+
+935
+00:59:53,000 --> 00:59:54,275
+<font color="#FFFFFF">You know, Bart...</font>
+
+936
+00:59:56,199 --> 00:59:59,135
+<font color="#FFFFFF">I may not always believe
+in your music,</font>
+
+937
+00:59:59,159 --> 01:00:00,496
+<font color="#FFFFFF">but I do believe in you.</font>
+
+938
+01:00:00,519 --> 01:00:03,255
+<font color="#FFFFFF">You sold me, kid.</font>
+
+939
+01:00:03,280 --> 01:00:05,192
+<font color="#FFFFFF">Don't quit.</font>
+
+940
+01:00:20,119 --> 01:00:22,112
+<font color="#FFFFFF">Hey, guys, uh...</font>
+
+941
+01:00:27,960 --> 01:00:28,949
+<font color="#FFFFFF">I'm sorry.</font>
+
+942
+01:00:32,719 --> 01:00:36,474
+<font color="#FFFFFF">Um... there's some things
+I need to take care of.</font>
+
+943
+01:00:38,280 --> 01:00:40,431
+<font color="#FFFFFF">Some stuff I need to sort out.</font>
+
+944
+01:00:45,000 --> 01:00:46,320
+<font color="#FFFFFF">I gotta go home.</font>
+
+945
+01:00:54,639 --> 01:00:57,599
+<font color="#FFFFFF">But I'd really, really like it
+if you guys would wait for me.</font>
+
+946
+01:01:00,039 --> 01:01:02,536
+<font color="#FFFFFF">So we're still a band?</font>
+
+947
+01:01:02,559 --> 01:01:05,951
+<font color="#FFFFFF">No, uh, we're a family.</font>
+
+948
+01:01:06,079 --> 01:01:07,594
+<font color="#FFFFFF">Okay.</font>
+
+949
+01:01:13,880 --> 01:01:18,056
+<font color="#FFFFFF"><i>The band continued east,
+and I headed back west</i></font>
+
+950
+01:01:18,079 --> 01:01:19,753
+<font color="#FFFFFF"><i>hoping they would wait on me.</i></font>
+
+951
+01:01:21,559 --> 01:01:24,456
+<font color="#FFFFFF"><i>I knew I needed to deal
+with things at home.</i></font>
+
+952
+01:01:24,480 --> 01:01:28,615
+<font color="#FFFFFF"><i>I needed to face the pain,
+but the closer I got,</i></font>
+
+953
+01:01:28,639 --> 01:01:33,192
+<font color="#FFFFFF"><i>the only thing I felt
+was... dread.</i></font>
+
+954
+01:02:05,039 --> 01:02:06,268
+<font color="#FFFFFF">I can't do this.</font>
+
+955
+01:02:11,199 --> 01:02:12,599
+<font color="#FFFFFF">Hey, Bart.</font>
+
+956
+01:02:14,800 --> 01:02:16,153
+<font color="#FFFFFF">Are you hungry?</font>
+
+957
+01:02:18,559 --> 01:02:21,576
+<font color="#FFFFFF">I, uh... I heard you
+come in last night,</font>
+
+958
+01:02:21,599 --> 01:02:26,576
+<font color="#FFFFFF">so, I made some bacon
+and, uh, cinnamon rolls</font>
+
+959
+01:02:26,599 --> 01:02:31,469
+<font color="#FFFFFF">and... a-a frittata, which I
+just learned how to make.</font>
+
+960
+01:02:32,599 --> 01:02:34,576
+<font color="#FFFFFF">When did you learn how to cook?</font>
+
+961
+01:02:34,599 --> 01:02:37,195
+<font color="#FFFFFF">Oh, I been learning
+a lot lately.</font>
+
+962
+01:02:38,880 --> 01:02:41,793
+<font color="#FFFFFF">Why don't you go on in there?
+I-I set the table.</font>
+
+963
+01:02:44,000 --> 01:02:45,480
+<font color="#FFFFFF">Go on.</font>
+
+964
+01:02:48,159 --> 01:02:49,594
+<font color="#FFFFFF">Here.</font>
+
+965
+01:02:56,559 --> 01:03:02,351
+<font color="#FFFFFF">The key to the frittata
+is how hot you make the pan.</font>
+
+966
+01:03:04,519 --> 01:03:05,920
+<font color="#FFFFFF">That's the secret.</font>
+
+967
+01:03:11,320 --> 01:03:12,913
+<font color="#FFFFFF">Go on and sit down.</font>
+
+968
+01:03:16,239 --> 01:03:18,471
+<font color="#FFFFFF">Take that one.
+Yeah, go ahead.</font>
+
+969
+01:03:21,960 --> 01:03:23,360
+<font color="#FFFFFF">Want some bacon?</font>
+
+970
+01:03:29,719 --> 01:03:33,655
+<font color="#FFFFFF">Well, uh... wanna say grace?</font>
+
+971
+01:03:33,679 --> 01:03:36,478
+<font color="#FFFFFF">What?</font>
+
+972
+01:03:38,199 --> 01:03:39,554
+<font color="#FFFFFF">I'll do it.</font>
+
+973
+01:03:42,199 --> 01:03:45,795
+<font color="#FFFFFF">God, it's me here, Arthur.</font>
+
+974
+01:03:46,480 --> 01:03:51,679
+<font color="#FFFFFF">I wanna thank you
+for, uh, answering my prayer.</font>
+
+975
+01:03:53,239 --> 01:03:54,576
+<font color="#FFFFFF">And, uh...</font>
+
+976
+01:03:54,599 --> 01:03:57,976
+<font color="#FFFFFF">rub-a-dub-dub,
+and thanks for the grub.</font>
+
+977
+01:03:58,000 --> 01:03:59,320
+<font color="#FFFFFF">Amen.</font>
+
+978
+01:04:12,440 --> 01:04:16,815
+<font color="#FFFFFF">So you f...
+found God or something?</font>
+
+979
+01:04:16,840 --> 01:04:20,175
+<font color="#FFFFFF">Well, I-I been listening
+to some preachers on the radio</font>
+
+980
+01:04:20,199 --> 01:04:25,150
+<font color="#FFFFFF">and, uh, re... uh,
+reading the Bible and whatnot.</font>
+
+981
+01:04:25,280 --> 01:04:26,335
+<font color="#FFFFFF">What part?</font>
+
+982
+01:04:26,360 --> 01:04:28,615
+<font color="#FFFFFF">All of it.</font>
+
+983
+01:04:28,639 --> 01:04:32,655
+<font color="#FFFFFF">And, uh, couple of times,
+actually.</font>
+
+984
+01:04:32,679 --> 01:04:36,215
+<font color="#FFFFFF">And, uh, it's pretty confusing.</font>
+
+985
+01:04:36,239 --> 01:04:39,438
+<font color="#FFFFFF">It's... like <i>Leviticus.</i></font>
+
+986
+01:04:41,960 --> 01:04:46,135
+<font color="#FFFFFF">What is that?
+I-I-I don't get it.</font>
+
+987
+01:04:46,159 --> 01:04:47,559
+<font color="#FFFFFF">What prayer?</font>
+
+988
+01:04:49,039 --> 01:04:51,695
+<font color="#FFFFFF">You said God answered a prayer.
+What prayer?</font>
+
+989
+01:04:51,719 --> 01:04:54,440
+<font color="#FFFFFF">Just seeing you again.</font>
+
+990
+01:04:56,119 --> 01:04:58,735
+<font color="#FFFFFF">Well, Dad, I been busy.</font>
+
+991
+01:04:58,760 --> 01:05:02,135
+<font color="#FFFFFF">Yeah.</font>
+
+992
+01:05:02,159 --> 01:05:05,376
+<font color="#FFFFFF">I guess you noticed
+I've got a few projects</font>
+
+993
+01:05:05,400 --> 01:05:06,976
+<font color="#FFFFFF">going on around here.</font>
+
+994
+01:05:07,000 --> 01:05:09,016
+<font color="#FFFFFF">And I got one out in the garage</font>
+
+995
+01:05:09,039 --> 01:05:10,856
+<font color="#FFFFFF">I was hoping
+that you'd help me with.</font>
+
+996
+01:05:10,880 --> 01:05:16,456
+<font color="#FFFFFF">Uh... I been, uh,
+rebuilding that Jeep of mine.</font>
+
+997
+01:05:16,480 --> 01:05:19,295
+<font color="#FFFFFF">And, man, when I was your age,</font>
+
+998
+01:05:19,320 --> 01:05:21,496
+<font color="#FFFFFF">I made some memories
+in that Jeep.</font>
+
+999
+01:05:21,519 --> 01:05:25,672
+<font color="#FFFFFF">And I was hoping
+that maybe we could, uh,</font>
+
+1000
+01:05:25,800 --> 01:05:29,554
+<font color="#FFFFFF">get it running again and...
+I don't know...</font>
+
+1001
+01:05:31,079 --> 01:05:32,514
+<font color="#FFFFFF">Go somewhere, do some...
+What're you doing?</font>
+
+1002
+01:05:32,639 --> 01:05:36,030
+<font color="#FFFFFF">What is this?</font>
+
+1003
+01:05:39,400 --> 01:05:41,576
+<font color="#FFFFFF">Well, I-I-I wrote you
+some letters.</font>
+
+1004
+01:05:41,599 --> 01:05:42,775
+<font color="#FFFFFF">Did you get 'em?</font>
+
+1005
+01:05:42,800 --> 01:05:45,456
+<font color="#FFFFFF">Yeah. Threw 'em away.</font>
+
+1006
+01:05:45,480 --> 01:05:48,135
+<font color="#FFFFFF">Did you read 'em?</font>
+
+1007
+01:05:48,159 --> 01:05:49,389
+<font color="#FFFFFF"><i>Nope.</i></font>
+
+1008
+01:05:51,559 --> 01:05:53,391
+<font color="#FFFFFF">Oh.</font>
+
+1009
+01:05:55,320 --> 01:05:57,630
+<font color="#FFFFFF">I thought that's why
+you came back last night.</font>
+
+1010
+01:05:59,840 --> 01:06:02,215
+<font color="#FFFFFF">I'm... well...</font>
+
+1011
+01:06:02,239 --> 01:06:04,655
+<font color="#FFFFFF">I was just trying to make
+a memory, that's all.</font>
+
+1012
+01:06:04,679 --> 01:06:07,295
+<font color="#FFFFFF">That's kind of hard
+for me to do, Dad.</font>
+
+1013
+01:06:07,320 --> 01:06:10,255
+<font color="#FFFFFF">'Cause all the memories
+that we have together are bad.</font>
+
+1014
+01:06:10,280 --> 01:06:13,590
+<font color="#FFFFFF">Uh, do you want some...
+I'll get some ketchup.</font>
+
+1015
+01:06:21,000 --> 01:06:25,856
+<font color="#FFFFFF">Son, I-I know that
+I-I did some things that...</font>
+
+1016
+01:06:25,880 --> 01:06:28,110
+<font color="#FFFFFF"><i>You did some things?</i></font>
+
+1017
+01:06:29,639 --> 01:06:30,960
+<font color="#FFFFFF">I got a memory for you, Dad.</font>
+
+1018
+01:06:32,800 --> 01:06:35,295
+<font color="#FFFFFF">That night you beat me so badly</font>
+
+1019
+01:06:35,320 --> 01:06:38,391
+<font color="#FFFFFF">that I had to sleep on my
+stomach 'cause I was so bruised?</font>
+
+1020
+01:06:39,480 --> 01:06:40,800
+<font color="#FFFFFF">I couldn't move.</font>
+
+1021
+01:06:42,519 --> 01:06:45,114
+<font color="#FFFFFF"><i>What was I, ten? 11?</i></font>
+
+1022
+01:06:48,480 --> 01:06:50,039
+<font color="#FFFFFF">Yeah, I remember that.</font>
+
+1023
+01:06:52,239 --> 01:06:56,056
+<font color="#FFFFFF">That, uh...
+that tore me up.</font>
+
+1024
+01:06:56,079 --> 01:06:59,436
+<font color="#FFFFFF">I-I cried that... all night
+about what I did to you then.</font>
+
+1025
+01:06:59,559 --> 01:07:01,815
+<font color="#FFFFFF"><i>I cried too, Dad.</i></font>
+
+1026
+01:07:01,840 --> 01:07:05,117
+<font color="#FFFFFF">In pain all night.</font>
+
+1027
+01:07:07,719 --> 01:07:09,119
+<font color="#FFFFFF">Why were you?</font>
+
+1028
+01:07:12,840 --> 01:07:15,115
+<font color="#FFFFFF">And now you just wanna
+come back in here?</font>
+
+1029
+01:07:15,239 --> 01:07:16,655
+<font color="#FFFFFF">Make breakfast?</font>
+
+1030
+01:07:16,679 --> 01:07:17,936
+<font color="#FFFFFF">Pretend like nothing
+ever happened?</font>
+
+1031
+01:07:17,960 --> 01:07:19,952
+<font color="#FFFFFF">It doesn't work that way, Dad!</font>
+
+1032
+01:07:24,159 --> 01:07:27,755
+<font color="#FFFFFF">What am I gonna do, Bart?
+I-I just...</font>
+
+1033
+01:07:27,880 --> 01:07:31,655
+<font color="#FFFFFF">I wanna make things right
+with you and me.</font>
+
+1034
+01:07:31,679 --> 01:07:33,114
+<font color="#FFFFFF">And, um...</font>
+
+1035
+01:07:36,039 --> 01:07:37,335
+<font color="#FFFFFF"><i>I don't know what to say.</i></font>
+
+1036
+01:07:37,360 --> 01:07:41,856
+<font color="#FFFFFF"><i>I don't know how to do it.
+I'm trying.</i></font>
+
+1037
+01:07:41,880 --> 01:07:45,032
+<font color="#FFFFFF">I'm reading a lot of books
+I don't understand, and I'm...</font>
+
+1038
+01:07:47,960 --> 01:07:52,096
+<font color="#FFFFFF">I just got a lot of questions
+about myself.</font>
+
+1039
+01:07:52,119 --> 01:07:54,077
+<font color="#FFFFFF"><i>I don't have nobody to...</i></font>
+
+1040
+01:07:56,559 --> 01:07:59,233
+<font color="#FFFFFF"><i>to answer 'em for me.</i></font>
+
+1041
+01:08:03,639 --> 01:08:08,735
+<font color="#FFFFFF">If God can forgive
+everybody else...</font>
+
+1042
+01:08:08,760 --> 01:08:10,876
+<font color="#FFFFFF">why can't He forgive me?</font>
+
+1043
+01:08:18,560 --> 01:08:20,596
+<font color="#FFFFFF">God <i>can</i> forgive you.</font>
+
+1044
+01:08:23,600 --> 01:08:24,828
+<font color="#FFFFFF">I can't.</font>
+
+1045
+01:08:29,239 --> 01:08:31,095
+<font color="#FFFFFF">I can't believe
+I came back here.</font>
+
+1046
+01:08:31,119 --> 01:08:33,555
+<font color="#FFFFFF">Can't you give me a chance?
+No!</font>
+
+1047
+01:08:35,520 --> 01:08:39,416
+<font color="#FFFFFF">You've just gotta give up
+on that dream, Dad.</font>
+
+1048
+01:08:39,439 --> 01:08:43,672
+<font color="#FFFFFF">'Cause it keeps you from this.
+From knowing what's real.</font>
+
+1049
+01:10:43,560 --> 01:10:45,815
+<font color="#FFFFFF">Do it.</font>
+
+1050
+01:10:45,840 --> 01:10:47,274
+<font color="#FFFFFF">Go ahead.</font>
+
+1051
+01:10:49,479 --> 01:10:51,073
+<font color="#FFFFFF">Just do it.</font>
+
+1052
+01:11:43,319 --> 01:11:45,073
+<font color="#FFFFFF">Dad, are you dying?</font>
+
+1053
+01:11:54,800 --> 01:11:56,074
+<font color="#FFFFFF">Yeah.</font>
+
+1054
+01:12:06,479 --> 01:12:07,913
+<font color="#FFFFFF">I can show you, Dad.</font>
+
+1055
+01:12:11,079 --> 01:12:13,720
+<font color="#FFFFFF">With your questions,
+I can show you how.</font>
+
+1056
+01:12:41,479 --> 01:12:43,775
+<font color="#FFFFFF"><i>So if you didn't
+bring your journals,</i></font>
+
+1057
+01:12:43,800 --> 01:12:45,199
+<font color="#FFFFFF"><i>come up here.</i></font>
+
+1058
+01:12:45,319 --> 01:12:47,515
+<font color="#FFFFFF"><i>You're gonna need them
+for your session tonight.</i></font>
+
+1059
+01:12:53,279 --> 01:12:56,775
+<font color="#FFFFFF"><i>Tonight we're gonna talk
+about forgiveness.</i></font>
+
+1060
+01:12:56,800 --> 01:13:00,095
+<font color="#FFFFFF"><i>So find a blank page in your journal,</i></font>
+
+1061
+01:13:00,119 --> 01:13:02,456
+<font color="#FFFFFF"><i>and I want you to write these words...</i></font>
+
+1062
+01:13:02,479 --> 01:13:07,600
+<font color="#FFFFFF">"God, tonight I choose to forgive,"</font>
+
+1063
+01:13:07,720 --> 01:13:09,676
+<font color="#FFFFFF"><i>and I want you to finish that sentence.</i></font>
+
+1064
+01:13:10,840 --> 01:13:12,496
+<font color="#FFFFFF"><i>Now, you may say to me,</i></font>
+
+1065
+01:13:12,520 --> 01:13:16,615
+<font color="#FFFFFF"><i>"You don't know how hard it is for me
+to forgive this person.</i></font>
+
+1066
+01:13:16,640 --> 01:13:19,015
+<font color="#FFFFFF"><i>You don't know what they've done to me."</i></font>
+
+1067
+01:13:19,039 --> 01:13:22,396
+<font color="#FFFFFF">And I'd say, "I know it's hard.</font>
+
+1068
+01:13:23,840 --> 01:13:26,376
+<font color="#FFFFFF"><i>But if you have been forgiven by God,</i></font>
+
+1069
+01:13:26,399 --> 01:13:28,994
+<font color="#FFFFFF"><i>then he gives you the power
+to forgive others."</i></font>
+
+1070
+01:13:58,920 --> 01:14:01,037
+<font color="#FFFFFF">Better late than never.</font>
+
+1071
+01:14:04,119 --> 01:14:05,997
+<font color="#FFFFFF">I'll get the door.</font>
+
+1072
+01:14:13,199 --> 01:14:16,238
+<font color="#FFFFFF"><i>We got a special treat
+for you this morning.</i></font>
+
+1073
+01:14:17,840 --> 01:14:21,037
+<font color="#FFFFFF"><i>Any of y'all heard the story
+of John Newton?</i></font>
+
+1074
+01:14:22,279 --> 01:14:24,935
+<font color="#FFFFFF"><i>He was a sea captain.</i></font>
+
+1075
+01:14:24,960 --> 01:14:26,895
+<font color="#FFFFFF"><i>Slave trader.</i></font>
+
+1076
+01:14:26,920 --> 01:14:29,456
+<font color="#FFFFFF"><i>He was tormented and racked</i></font>
+
+1077
+01:14:29,479 --> 01:14:32,576
+<font color="#FFFFFF"><i>with guilt and shame.</i></font>
+
+1078
+01:14:32,600 --> 01:14:34,556
+<font color="#FFFFFF"><i>Well, he found for forgiveness.</i></font>
+
+1079
+01:14:35,960 --> 01:14:37,695
+<font color="#FFFFFF"><i>He found Christ.</i></font>
+
+1080
+01:14:37,720 --> 01:14:41,015
+<font color="#FFFFFF"><i>He wrote a little song about that</i></font>
+
+1081
+01:14:41,039 --> 01:14:43,935
+<font color="#FFFFFF"><i>called "Amazing Grace."</i></font>
+
+1082
+01:14:43,960 --> 01:14:46,095
+<font color="#FFFFFF"><i>That song touched the world.</i></font>
+
+1083
+01:14:46,119 --> 01:14:47,975
+<font color="#FFFFFF">Hey.
+<i>What?</i></font>
+
+1084
+01:14:48,000 --> 01:14:50,496
+<font color="#FFFFFF">I figured out why you like junk.</font>
+
+1085
+01:14:50,520 --> 01:14:53,095
+<font color="#FFFFFF">What?
+Why you like to fix things.</font>
+
+1086
+01:14:53,119 --> 01:14:54,935
+<font color="#FFFFFF">Why you...</font>
+
+1087
+01:14:54,960 --> 01:14:57,555
+<font color="#FFFFFF">you make something
+out of nothing all the time.</font>
+
+1088
+01:14:58,399 --> 01:15:02,095
+<font color="#FFFFFF">They got a word for that.</font>
+
+1089
+01:15:02,119 --> 01:15:05,815
+<font color="#FFFFFF"><i>What's that word?</i>
+It's "redemption."</font>
+
+1090
+01:15:05,840 --> 01:15:07,456
+<font color="#FFFFFF">Redemption.</font>
+
+1091
+01:15:07,479 --> 01:15:09,935
+<font color="#FFFFFF">Yeah. Hey.</font>
+
+1092
+01:15:09,960 --> 01:15:12,296
+<font color="#FFFFFF">What is... what is this note here?</font>
+
+1093
+01:15:12,319 --> 01:15:14,496
+<font color="#FFFFFF">Right there.
+What is that note?</font>
+
+1094
+01:15:14,520 --> 01:15:16,456
+<font color="#FFFFFF">G.
+Yeah.</font>
+
+1095
+01:15:16,479 --> 01:15:18,655
+<font color="#FFFFFF">What's that note?
+C.</font>
+
+1096
+01:15:18,680 --> 01:15:20,136
+<font color="#FFFFFF">C, all right.
+G to C.</font>
+
+1097
+01:15:20,159 --> 01:15:22,935
+<font color="#FFFFFF">You got some competition now, boy.</font>
+
+1098
+01:15:22,960 --> 01:15:25,315
+<font color="#FFFFFF">Yeah.
+Yeah.</font>
+
+1099
+01:15:42,840 --> 01:15:44,319
+<font color="#FFFFFF"><i>Bart Millard!</i></font>
+
+1100
+01:15:45,600 --> 01:15:47,751
+<font color="#FFFFFF">You gotta hold still, Dad.</font>
+
+1101
+01:15:47,880 --> 01:15:50,895
+<font color="#FFFFFF">Oh, sorry.
+<i>It's okay.</i></font>
+
+1102
+01:15:54,039 --> 01:15:55,855
+<font color="#FFFFFF"><i>Oh, I wanted to be there.</i></font>
+
+1103
+01:15:55,880 --> 01:15:58,076
+<font color="#FFFFFF">That's all right, Dad.
+Ahh.</font>
+
+1104
+01:15:59,239 --> 01:16:01,095
+<font color="#FFFFFF">Hey, there's Shannon.</font>
+
+1105
+01:16:03,880 --> 01:16:06,775
+<font color="#FFFFFF"><i>Boy, you better hang onto that girl.</i></font>
+
+1106
+01:16:06,800 --> 01:16:09,416
+<font color="#FFFFFF">Don't you ever let her get away.</font>
+
+1107
+01:16:09,439 --> 01:16:11,975
+<font color="#FFFFFF">Dad, we're not... we're not dating anymore.</font>
+
+1108
+01:16:12,000 --> 01:16:14,895
+<font color="#FFFFFF"><i>What? What?</i></font>
+
+1109
+01:16:14,920 --> 01:16:16,376
+<font color="#FFFFFF"><i>What'd you do?</i></font>
+
+1110
+01:16:16,399 --> 01:16:18,695
+<font color="#FFFFFF">You two are meant for each other.</font>
+
+1111
+01:16:18,720 --> 01:16:20,951
+<font color="#FFFFFF"><i>Whatever you did,</i></font>
+
+1112
+01:16:21,079 --> 01:16:24,198
+<font color="#FFFFFF">even if you don't know what you did,
+you're wrong.</font>
+
+1113
+01:16:26,399 --> 01:16:28,960
+<font color="#FFFFFF">Did I ever tell you how I met your mom?</font>
+
+1114
+01:16:32,439 --> 01:16:34,296
+<font color="#FFFFFF">Tell me.</font>
+
+1115
+01:16:34,319 --> 01:16:36,895
+<font color="#FFFFFF"><i>Hey, this is Shannon.</i></font>
+
+1116
+01:16:36,920 --> 01:16:38,735
+<font color="#FFFFFF"><i>Leave a message.</i></font>
+
+1117
+01:16:38,760 --> 01:16:41,296
+<font color="#FFFFFF"><i>Hey, Shannon.</i></font>
+
+1118
+01:16:41,319 --> 01:16:43,695
+<font color="#FFFFFF"><i>I don't know if you're getting
+these messages or not,</i></font>
+
+1119
+01:16:43,720 --> 01:16:47,176
+<font color="#FFFFFF"><i>but I just wanted you to know
+that I'm... I'm back home,</i></font>
+
+1120
+01:16:47,199 --> 01:16:50,296
+<font color="#FFFFFF"><i>and I'm... I'm journaling again.</i></font>
+
+1121
+01:16:50,319 --> 01:16:54,376
+<font color="#FFFFFF"><i>I'm writing a lot like we did
+when we were kids.</i></font>
+
+1122
+01:16:54,399 --> 01:16:56,278
+<font color="#FFFFFF"><i>It feels really good.</i></font>
+
+1123
+01:17:58,640 --> 01:18:00,471
+<font color="#FFFFFF">I love you, boy.</font>
+
+1124
+01:18:17,119 --> 01:18:19,510
+<font color="#FFFFFF">I was listening, Bart.</font>
+
+1125
+01:18:21,079 --> 01:18:23,390
+<font color="#FFFFFF"><i>I was listening to you.</i></font>
+
+1126
+01:18:25,960 --> 01:18:27,712
+<font color="#FFFFFF">On the radio.</font>
+
+1127
+01:18:30,359 --> 01:18:33,055
+<font color="#FFFFFF"><i>'Cause you'd sing...</i></font>
+
+1128
+01:18:33,079 --> 01:18:35,615
+<font color="#FFFFFF"><i>and I'd listen to every word.</i></font>
+
+1129
+01:18:35,640 --> 01:18:38,296
+<font color="#FFFFFF"><i>And then...</i></font>
+
+1130
+01:18:38,319 --> 01:18:39,935
+<font color="#FFFFFF"><i>you'd finish.</i></font>
+
+1131
+01:18:39,960 --> 01:18:44,216
+<font color="#FFFFFF"><i>And then I'd listen to what they were
+talking about there at church.</i></font>
+
+1132
+01:18:44,239 --> 01:18:46,277
+<font color="#FFFFFF"><i>That's what saved me.</i></font>
+
+1133
+01:18:49,000 --> 01:18:51,560
+<font color="#FFFFFF"><i>I was real proud of you.</i></font>
+
+1134
+01:18:54,199 --> 01:18:56,237
+<font color="#FFFFFF"><i>Was real proud.</i></font>
+
+1135
+01:18:57,920 --> 01:19:01,515
+<font color="#FFFFFF"><i>I told you not to follow your dreams.</i></font>
+
+1136
+01:19:02,880 --> 01:19:05,935
+<font color="#FFFFFF"><i>But that's only because mine,</i></font>
+
+1137
+01:19:05,960 --> 01:19:08,190
+<font color="#FFFFFF"><i>they never came true.</i></font>
+
+1138
+01:19:09,239 --> 01:19:11,197
+<font color="#FFFFFF"><i>But you're not me.</i></font>
+
+1139
+01:19:13,960 --> 01:19:15,837
+<font color="#FFFFFF">You're not like me.</font>
+
+1140
+01:19:17,920 --> 01:19:19,354
+<font color="#FFFFFF">Unh-unh.</font>
+
+1141
+01:19:22,239 --> 01:19:24,550
+<font color="#FFFFFF">And you, you have a gift.</font>
+
+1142
+01:19:26,239 --> 01:19:28,231
+<font color="#FFFFFF">A real gift.</font>
+
+1143
+01:19:30,159 --> 01:19:32,277
+<font color="#FFFFFF">I wanna take care of you, Bart.</font>
+
+1144
+01:19:33,279 --> 01:19:36,576
+<font color="#FFFFFF">I got something for you, Bart.</font>
+
+1145
+01:19:36,600 --> 01:19:38,256
+<font color="#FFFFFF">Here.</font>
+
+1146
+01:19:38,279 --> 01:19:40,475
+<font color="#FFFFFF">I want, uh...</font>
+
+1147
+01:19:42,199 --> 01:19:45,855
+<font color="#FFFFFF">I never made much money.</font>
+
+1148
+01:19:45,880 --> 01:19:48,536
+<font color="#FFFFFF"><i>But I have my life insurance.</i></font>
+
+1149
+01:19:48,560 --> 01:19:53,918
+<font color="#FFFFFF"><i>And I... I tried to save
+everything I could.</i></font>
+
+1150
+01:19:56,279 --> 01:19:59,376
+<font color="#FFFFFF">And I want you to have that...</font>
+
+1151
+01:19:59,399 --> 01:20:03,474
+<font color="#FFFFFF">so you can pay attention to your singing.</font>
+
+1152
+01:20:04,920 --> 01:20:08,095
+<font color="#FFFFFF">And you'll get a check every month</font>
+
+1153
+01:20:08,119 --> 01:20:10,635
+<font color="#FFFFFF">so you can go chase your dream.</font>
+
+1154
+01:20:13,279 --> 01:20:16,238
+<font color="#FFFFFF">And I want you to catch it.</font>
+
+1155
+01:20:18,279 --> 01:20:19,760
+<font color="#FFFFFF">Hmm?</font>
+
+1156
+01:20:20,920 --> 01:20:22,832
+<font color="#FFFFFF">Don't you ever look back.</font>
+
+1157
+01:20:25,479 --> 01:20:27,311
+<font color="#FFFFFF"><i>You promise?</i></font>
+
+1158
+01:20:28,319 --> 01:20:29,878
+<font color="#FFFFFF">I promise.</font>
+
+1159
+01:20:32,000 --> 01:20:34,435
+<font color="#FFFFFF">Will you sing a song, son?</font>
+
+1160
+01:20:36,319 --> 01:20:38,277
+<font color="#FFFFFF">I'm sleepy.</font>
+
+1161
+01:20:41,399 --> 01:20:43,296
+<font color="#FFFFFF">Sing.</font>
+
+1162
+01:20:43,319 --> 01:20:49,296
+<font color="#FFFFFF"><i>♪ Amazing grace ♪</i></font>
+
+1163
+01:20:49,319 --> 01:20:52,456
+<font color="#FFFFFF"><i>♪ How sweet ♪</i></font>
+
+1164
+01:20:52,479 --> 01:20:55,895
+<font color="#FFFFFF"><i>♪ The sound ♪</i></font>
+
+1165
+01:20:55,920 --> 01:20:59,296
+<font color="#FFFFFF"><i>♪ That saved ♪</i></font>
+
+1166
+01:20:59,319 --> 01:21:02,176
+<font color="#FFFFFF"><i>♪ A wretch ♪</i></font>
+
+1167
+01:21:02,199 --> 01:21:07,815
+<font color="#FFFFFF"><i>♪ Like me ♪</i></font>
+
+1168
+01:21:07,840 --> 01:21:11,336
+<font color="#FFFFFF"><i>♪ I once ♪</i></font>
+
+1169
+01:21:11,359 --> 01:21:13,935
+<font color="#FFFFFF"><i>♪ Was lost ♪</i></font>
+
+1170
+01:21:13,960 --> 01:21:16,655
+<font color="#FFFFFF"><i>♪ But now ♪</i></font>
+
+1171
+01:21:16,680 --> 01:21:20,015
+<font color="#FFFFFF"><i>♪ I'm found ♪</i></font>
+
+1172
+01:21:20,039 --> 01:21:23,296
+<font color="#FFFFFF"><i>♪ Was blind ♪</i></font>
+
+1173
+01:21:23,319 --> 01:21:26,676
+<font color="#FFFFFF"><i>♪ But now ♪</i></font>
+
+1174
+01:21:26,800 --> 01:21:30,588
+<font color="#FFFFFF"><i>♪ I see ♪</i></font>
+
+1175
+01:21:32,399 --> 01:21:34,975
+<font color="#FFFFFF"><i>♪ When we've ♪</i></font>
+
+1176
+01:21:35,000 --> 01:21:37,815
+<font color="#FFFFFF"><i>♪ Been there ♪</i></font>
+
+1177
+01:21:37,840 --> 01:21:43,279
+<font color="#FFFFFF"><i>♪ Ten thousand years ♪</i></font>
+
+1178
+01:21:43,399 --> 01:21:49,336
+<font color="#FFFFFF"><i>♪ Bright shining as ♪</i></font>
+
+1179
+01:21:49,359 --> 01:21:54,376
+<font color="#FFFFFF"><i>♪ The sun ♪</i></font>
+
+1180
+01:21:54,399 --> 01:21:57,376
+<font color="#FFFFFF"><i>♪ We've no ♪</i></font>
+
+1181
+01:21:57,399 --> 01:22:00,055
+<font color="#FFFFFF"><i>♪ Less days ♪</i></font>
+
+1182
+01:22:00,079 --> 01:22:02,695
+<font color="#FFFFFF"><i>♪ To sing ♪</i></font>
+
+1183
+01:22:02,720 --> 01:22:05,975
+<font color="#FFFFFF"><i>♪ God's praise ♪</i></font>
+
+1184
+01:22:06,000 --> 01:22:08,895
+<font color="#FFFFFF"><i>♪ Than when ♪</i></font>
+
+1185
+01:22:08,920 --> 01:22:11,496
+<font color="#FFFFFF"><i>♪ We first ♪</i></font>
+
+1186
+01:22:11,520 --> 01:22:15,639
+<font color="#FFFFFF"><i>♪ Begun ♪</i></font>
+
+1187
+01:22:18,760 --> 01:22:21,256
+<font color="#FFFFFF">Imagine what he's seeing up there, Bart.</font>
+
+1188
+01:22:21,279 --> 01:22:22,872
+<font color="#FFFFFF">Just imagine.</font>
+
+1189
+01:22:59,399 --> 01:23:01,356
+<font color="#FFFFFF">Welcome back, man.
+Thanks, man.</font>
+
+1190
+01:23:01,479 --> 01:23:03,576
+<font color="#FFFFFF">Yeah.</font>
+
+1191
+01:23:03,600 --> 01:23:05,655
+<font color="#FFFFFF">Where we going?</font>
+
+1192
+01:23:05,680 --> 01:23:07,956
+<font color="#FFFFFF">West. Couple gigs in New Mexico.</font>
+
+1193
+01:24:48,560 --> 01:24:50,198
+<font color="#FFFFFF">Okay, God.</font>
+
+1194
+01:24:51,560 --> 01:24:52,993
+<font color="#FFFFFF">Okay.</font>
+
+1195
+01:25:36,439 --> 01:25:39,376
+<font color="#FFFFFF"><i>Thank you! Thank you.</i></font>
+
+1196
+01:25:39,399 --> 01:25:40,576
+<font color="#FFFFFF"><i>It's good to be back.</i></font>
+
+1197
+01:25:40,600 --> 01:25:42,536
+<font color="#FFFFFF"><i>Man, I, uh...</i></font>
+
+1198
+01:25:42,560 --> 01:25:45,456
+<font color="#FFFFFF"><i>I haven't been on stage
+since I lost my dad.</i></font>
+
+1199
+01:25:45,479 --> 01:25:48,256
+<font color="#FFFFFF"><i>And, uh, I'm learning to deal with it.</i></font>
+
+1200
+01:25:48,279 --> 01:25:50,975
+<font color="#FFFFFF">And I deal with it
+the only way I know how,</font>
+
+1201
+01:25:51,000 --> 01:25:52,576
+<font color="#FFFFFF">and that's to write a song.</font>
+
+1202
+01:25:52,600 --> 01:25:54,478
+<font color="#FFFFFF">And I'm gonna...</font>
+
+1203
+01:25:58,920 --> 01:26:00,615
+<font color="#FFFFFF"><i>Well, I'm gonna sing it for you now.</i></font>
+
+1204
+01:26:00,640 --> 01:26:02,551
+<font color="#FFFFFF"><i>This is called "I Can Only Imagine."</i></font>
+
+1205
+01:26:51,399 --> 01:26:53,073
+<font color="#FFFFFF">That kid wrote this?</font>
+
+1206
+01:26:54,520 --> 01:26:56,216
+<font color="#FFFFFF">Yeah, he did.</font>
+
+1207
+01:26:56,239 --> 01:26:58,695
+<font color="#FFFFFF">Wow.</font>
+
+1208
+01:26:58,720 --> 01:27:00,855
+<font color="#FFFFFF">I know.</font>
+
+1209
+01:27:00,880 --> 01:27:02,917
+<font color="#FFFFFF">I can't stop listening to it.</font>
+
+1210
+01:27:03,880 --> 01:27:05,677
+<font color="#FFFFFF">I'm gonna start pitching it around town.</font>
+
+1211
+01:27:06,720 --> 01:27:08,359
+<font color="#FFFFFF">I know who you need to send it to.</font>
+
+1212
+01:27:12,920 --> 01:27:14,855
+<font color="#FFFFFF">Phone!</font>
+
+1213
+01:27:14,880 --> 01:27:16,951
+<font color="#FFFFFF">Jim, get it. You're right there.</font>
+
+1214
+01:27:18,520 --> 01:27:20,615
+<font color="#FFFFFF">Phone!</font>
+
+1215
+01:27:20,640 --> 01:27:22,376
+<font color="#FFFFFF">Seriously?</font>
+
+1216
+01:27:22,399 --> 01:27:24,935
+<font color="#FFFFFF">Phone! No, man, I got it.
+It's cool. No, I got it.</font>
+
+1217
+01:27:24,960 --> 01:27:26,576
+<font color="#FFFFFF"><i>You look really...</i>
+No, I got it! Let it go, let it...</font>
+
+1218
+01:27:26,600 --> 01:27:28,336
+<font color="#FFFFFF">Okay, thanks, man, appreciate it.</font>
+
+1219
+01:27:28,359 --> 01:27:29,760
+<font color="#FFFFFF">Hello?</font>
+
+1220
+01:27:31,319 --> 01:27:33,198
+<font color="#FFFFFF">Who is this?</font>
+
+1221
+01:27:35,119 --> 01:27:36,975
+<font color="#FFFFFF">Sure. Yeah, hold on.</font>
+
+1222
+01:27:37,000 --> 01:27:38,194
+<font color="#FFFFFF">Let me get him.</font>
+
+1223
+01:27:39,119 --> 01:27:41,655
+<font color="#FFFFFF">Bart, phone's for you.</font>
+
+1224
+01:27:41,680 --> 01:27:42,954
+<font color="#FFFFFF"><i>Bart!</i></font>
+
+1225
+01:27:46,560 --> 01:27:47,835
+<font color="#FFFFFF">Hello?</font>
+
+1226
+01:27:49,199 --> 01:27:52,256
+<font color="#FFFFFF">Yeah, right.
+Good one, guys, Real good joke.</font>
+
+1227
+01:27:52,279 --> 01:27:54,576
+<font color="#FFFFFF">Whose idea was that? Amy Grant.</font>
+
+1228
+01:27:54,600 --> 01:27:56,496
+<font color="#FFFFFF">Uh, that... that was her, man.</font>
+
+1229
+01:27:56,520 --> 01:27:59,775
+<font color="#FFFFFF">That... that was Amy Grant
+you hung up on.</font>
+
+1230
+01:27:59,800 --> 01:28:01,416
+<font color="#FFFFFF">Are you serious? Give me the phone!
+Yeah, that happened.</font>
+
+1231
+01:28:01,439 --> 01:28:05,069
+<font color="#FFFFFF">Any? Hello? Hello?
+Actual Amy Grant?</font>
+
+1232
+01:28:05,199 --> 01:28:07,032
+<font color="#FFFFFF">Jim, how do I re-dial?
+It's a rotary phone, Bart.</font>
+
+1233
+01:28:07,159 --> 01:28:09,216
+<font color="#FFFFFF">There's gotta be a way to redial.
+Call her back.</font>
+
+1234
+01:28:09,239 --> 01:28:11,675
+<font color="#FFFFFF">How do I get in...</font>
+
+1235
+01:28:15,760 --> 01:28:17,735
+<font color="#FFFFFF">Hey, Amy.</font>
+
+1236
+01:28:17,760 --> 01:28:22,152
+<font color="#FFFFFF"><i>Bart... you didn't write
+this song in ten minutes.</i></font>
+
+1237
+01:28:23,000 --> 01:28:25,216
+<font color="#FFFFFF"><i>It took a lifetime.</i></font>
+
+1238
+01:28:25,239 --> 01:28:28,015
+<font color="#FFFFFF"><i>Scott gave me a Imagine when I was</i></font>
+
+1239
+01:28:28,039 --> 01:28:31,256
+<font color="#FFFFFF">dealing with a friend losing a battle,
+you know?</font>
+
+1240
+01:28:31,279 --> 01:28:33,376
+<font color="#FFFFFF">And it got me through.</font>
+
+1241
+01:28:33,399 --> 01:28:35,256
+<font color="#FFFFFF">I couldn't stop listening.</font>
+
+1242
+01:28:35,279 --> 01:28:38,176
+<font color="#FFFFFF">I mean, it's a career-maker.</font>
+
+1243
+01:28:38,199 --> 01:28:41,078
+<font color="#FFFFFF">And I know some songs
+can be real personal.</font>
+
+1244
+01:28:42,079 --> 01:28:44,072
+<font color="#FFFFFF"><i>Is this what you really want?</i></font>
+
+1245
+01:28:52,079 --> 01:28:55,470
+<font color="#FFFFFF">You know,
+I've never told anybody my story.</font>
+
+1246
+01:29:00,800 --> 01:29:03,269
+<font color="#FFFFFF">My dad was a monster.</font>
+
+1247
+01:29:05,119 --> 01:29:07,270
+<font color="#FFFFFF">I mean, that's the only word for it.</font>
+
+1248
+01:29:08,840 --> 01:29:13,296
+<font color="#FFFFFF">And I saw God transform him</font>
+
+1249
+01:29:13,319 --> 01:29:15,935
+<font color="#FFFFFF">from a man that I hated</font>
+
+1250
+01:29:15,960 --> 01:29:17,952
+<font color="#FFFFFF">into the man I wanted to become...</font>
+
+1251
+01:29:19,840 --> 01:29:21,832
+<font color="#FFFFFF">into my best friend.</font>
+
+1252
+01:29:24,640 --> 01:29:27,536
+<font color="#FFFFFF">And I didn't realize it soon enough.</font>
+
+1253
+01:29:27,560 --> 01:29:29,869
+<font color="#FFFFFF">I guess that I didn't think
+that God could do that.</font>
+
+1254
+01:29:33,840 --> 01:29:35,637
+<font color="#FFFFFF">And so I wrote this song.</font>
+
+1255
+01:29:37,039 --> 01:29:39,760
+<font color="#FFFFFF">And I want as many people
+as possible to hear it.</font>
+
+1256
+01:29:41,640 --> 01:29:43,393
+<font color="#FFFFFF">And you can do that.</font>
+
+1257
+01:29:46,199 --> 01:29:47,918
+<font color="#FFFFFF">I can't.</font>
+
+1258
+01:29:49,840 --> 01:29:51,559
+<font color="#FFFFFF"><i>So...</i></font>
+
+1259
+01:29:52,560 --> 01:29:54,775
+<font color="#FFFFFF">yes.</font>
+
+1260
+01:29:54,800 --> 01:29:56,472
+<font color="#FFFFFF">This is what I want.</font>
+
+1261
+01:29:58,880 --> 01:30:02,576
+<font color="#FFFFFF">So, Brick, you know us.</font>
+
+1262
+01:30:02,600 --> 01:30:04,655
+<font color="#FFFFFF">We lay our cards on the table.</font>
+
+1263
+01:30:04,680 --> 01:30:09,015
+<font color="#FFFFFF">Amy needs a comeback song.
+We believe this is it.</font>
+
+1264
+01:30:09,039 --> 01:30:11,655
+<font color="#FFFFFF"><i>Amy is doing a homecoming date</i></font>
+
+1265
+01:30:11,680 --> 01:30:13,775
+<font color="#FFFFFF"><i>here in Nashville
+to kick off a fall tour.</i></font>
+
+1266
+01:30:13,800 --> 01:30:17,256
+<font color="#FFFFFF"><i>We'd like to showcase it there.</i></font>
+
+1267
+01:30:24,239 --> 01:30:27,176
+<font color="#FFFFFF"><i>Hey, this is Shannon.
+Leave a message.</i></font>
+
+1268
+01:30:27,199 --> 01:30:29,136
+<font color="#FFFFFF">Hey, Shannon, um...</font>
+
+1269
+01:30:29,159 --> 01:30:31,095
+<font color="#FFFFFF"><i>I just wanted to call you
+and let you know,</i></font>
+
+1270
+01:30:31,119 --> 01:30:34,556
+<font color="#FFFFFF"><i>uh, I wrote a new song.</i></font>
+
+1271
+01:30:34,680 --> 01:30:38,015
+<font color="#FFFFFF">It feels different than anything
+I've written before.</font>
+
+1272
+01:30:38,039 --> 01:30:40,216
+<font color="#FFFFFF"><i>Um... I think it might be...</i></font>
+
+1273
+01:30:40,239 --> 01:30:42,576
+<font color="#FFFFFF"><i>might be something special.</i></font>
+
+1274
+01:30:42,600 --> 01:30:44,193
+<font color="#FFFFFF"><i>Um...</i></font>
+
+1275
+01:30:47,560 --> 01:30:49,815
+<font color="#FFFFFF">Shannon, I'm sorry I hurt you.</font>
+
+1276
+01:30:49,840 --> 01:30:52,895
+<font color="#FFFFFF"><i>I know I hurt you over and over
+and over again,</i></font>
+
+1277
+01:30:52,920 --> 01:30:55,376
+<font color="#FFFFFF"><i>and I... I'm sorry.</i></font>
+
+1278
+01:30:55,399 --> 01:30:59,154
+<font color="#FFFFFF">I just...
+It had nothing to do with you.</font>
+
+1279
+01:31:00,680 --> 01:31:02,831
+<font color="#FFFFFF">It never did.
+It had nothing to do with you.</font>
+
+1280
+01:31:02,960 --> 01:31:04,394
+<font color="#FFFFFF">I just...</font>
+
+1281
+01:31:06,600 --> 01:31:08,000
+<font color="#FFFFFF">I'm sorry I hurt you.</font>
+
+1282
+01:31:11,640 --> 01:31:12,914
+<font color="#FFFFFF">Hello?</font>
+
+1283
+01:31:36,920 --> 01:31:38,354
+<font color="#FFFFFF">Beautiful, isn't it?</font>
+
+1284
+01:31:41,840 --> 01:31:45,055
+<font color="#FFFFFF">I can't think of a better place
+to unveil "Imagine."</font>
+
+1285
+01:31:45,079 --> 01:31:47,975
+<font color="#FFFFFF">I hope I can do it justice.</font>
+
+1286
+01:31:48,000 --> 01:31:49,935
+<font color="#FFFFFF">It's gonna be something.</font>
+
+1287
+01:31:49,960 --> 01:31:52,095
+<font color="#FFFFFF">Mm-hmm.</font>
+
+1288
+01:31:52,119 --> 01:31:54,336
+<font color="#FFFFFF">When do you record it?</font>
+
+1289
+01:31:54,359 --> 01:31:55,815
+<font color="#FFFFFF">Soon.</font>
+
+1290
+01:31:55,840 --> 01:31:58,815
+<font color="#FFFFFF">Just gotta find that sound.</font>
+
+1291
+01:31:58,840 --> 01:32:01,055
+<font color="#FFFFFF">I've listened to your tape 1,000 times.</font>
+
+1292
+01:32:01,079 --> 01:32:03,515
+<font color="#FFFFFF">Well, thank you.</font>
+
+1293
+01:32:06,479 --> 01:32:09,775
+<font color="#FFFFFF">Is there anything you want me to say</font>
+
+1294
+01:32:09,800 --> 01:32:11,996
+<font color="#FFFFFF">after I sing it?</font>
+
+1295
+01:32:15,159 --> 01:32:17,470
+<font color="#FFFFFF">Tell 'em I wrote it for my dad.</font>
+
+1296
+01:32:20,840 --> 01:32:23,639
+<font color="#FFFFFF"><i>♪ Be with me now ♪</i></font>
+
+1297
+01:32:26,680 --> 01:32:30,753
+<font color="#FFFFFF"><i>♪ Breath of heaven ♪</i></font>
+
+1298
+01:32:30,880 --> 01:32:34,416
+<font color="#FFFFFF"><i>♪ Hold me together ♪</i></font>
+
+1299
+01:32:34,439 --> 01:32:38,376
+<font color="#FFFFFF"><i>♪ Be forever near me ♪</i></font>
+
+1300
+01:32:38,399 --> 01:32:41,676
+<font color="#FFFFFF"><i>♪ Breath of heaven ♪</i></font>
+
+1301
+01:32:42,960 --> 01:32:47,015
+<font color="#FFFFFF"><i>♪ Breath of heaven ♪</i></font>
+
+1302
+01:32:47,039 --> 01:32:50,015
+<font color="#FFFFFF"><i>♪ Lighten my darkness ♪</i></font>
+
+1303
+01:32:50,039 --> 01:32:54,615
+<font color="#FFFFFF"><i>♪ Pour over me your holiness ♪</i></font>
+
+1304
+01:32:54,640 --> 01:32:58,256
+<font color="#FFFFFF">Did you send one to DJC
+in Birmingham?</font>
+
+1305
+01:32:58,279 --> 01:33:00,033
+<font color="#FFFFFF">Okay, bribe him with chocolate.</font>
+
+1306
+01:33:00,159 --> 01:33:02,496
+<font color="#FFFFFF">Actually, Snickers bars,
+he loves 'em, okay?</font>
+
+1307
+01:33:02,520 --> 01:33:05,095
+<font color="#FFFFFF">Yeah. I got it.
+<i>And you put on there</i></font>
+
+1308
+01:33:05,119 --> 01:33:07,136
+<font color="#FFFFFF">"From the writers of
+'I Can Only Imagine'."</font>
+
+1309
+01:33:07,159 --> 01:33:09,296
+<font color="#FFFFFF">Yeah, yeah, I've got 'em. 200 copies.</font>
+
+1310
+01:33:09,319 --> 01:33:10,456
+<font color="#FFFFFF"><i>Okay, good.</i></font>
+
+1311
+01:33:10,479 --> 01:33:13,055
+<font color="#FFFFFF">Hey, uh, delivery truck just got here.
+So I'll load 'em up.</font>
+
+1312
+01:33:13,079 --> 01:33:14,336
+<font color="#FFFFFF">All right, good. Okay.</font>
+
+1313
+01:33:14,359 --> 01:33:18,036
+<font color="#FFFFFF"><i>♪ Breath of heaven ♪</i></font>
+
+1314
+01:33:36,039 --> 01:33:38,055
+<font color="#FFFFFF">Thank you.</font>
+
+1315
+01:33:38,079 --> 01:33:40,815
+<font color="#FFFFFF">Thank you so much.</font>
+
+1316
+01:33:40,840 --> 01:33:44,615
+<font color="#FFFFFF">This next song is really
+something special.</font>
+
+1317
+01:33:44,640 --> 01:33:48,855
+<font color="#FFFFFF">See, I found a song
+that saved me through a time.</font>
+
+1318
+01:33:48,880 --> 01:33:52,793
+<font color="#FFFFFF"><i>You know how music does that?</i></font>
+
+1319
+01:33:52,920 --> 01:33:54,496
+<font color="#FFFFFF"><i>See I was, um...</i></font>
+
+1320
+01:33:54,520 --> 01:33:58,336
+<font color="#FFFFFF">I was dealing with loss, with pain.</font>
+
+1321
+01:33:58,359 --> 01:34:00,975
+<font color="#FFFFFF">And I heard this song,</font>
+
+1322
+01:34:01,000 --> 01:34:04,456
+<font color="#FFFFFF">and it just blew my soul wide open.</font>
+
+1323
+01:34:04,479 --> 01:34:08,394
+<font color="#FFFFFF">It lifted me up. It rescued me.</font>
+
+1324
+01:34:10,479 --> 01:34:13,095
+<font color="#FFFFFF">And you're the first ones to ever hear it.</font>
+
+1325
+01:34:13,119 --> 01:34:15,475
+<font color="#FFFFFF">This is "I Can Only Imagine."</font>
+
+1326
+01:34:48,720 --> 01:34:51,536
+<font color="#FFFFFF">Bart, would you come up here, please?</font>
+
+1327
+01:34:51,560 --> 01:34:54,815
+<font color="#FFFFFF">Ladies and gentlemen,
+the writer of the song is here tonight,</font>
+
+1328
+01:34:54,840 --> 01:34:57,354
+<font color="#FFFFFF">and I want y'all to meet him.</font>
+
+1329
+01:34:58,159 --> 01:35:01,576
+<font color="#FFFFFF"><i>Bart, come on up.</i></font>
+
+1330
+01:35:01,600 --> 01:35:04,479
+<font color="#FFFFFF">I'm not joking, come on up!</font>
+
+1331
+01:35:18,600 --> 01:35:21,655
+<font color="#FFFFFF">It's not just the song that's special.</font>
+
+1332
+01:35:21,680 --> 01:35:23,456
+<font color="#FFFFFF">It's you.</font>
+
+1333
+01:35:23,479 --> 01:35:26,775
+<font color="#FFFFFF">And this story is not my story.</font>
+
+1334
+01:35:26,800 --> 01:35:28,456
+<font color="#FFFFFF">It's yours.</font>
+
+1335
+01:35:28,479 --> 01:35:33,176
+<font color="#FFFFFF">And this moment,
+it doesn't belong to me.</font>
+
+1336
+01:35:33,199 --> 01:35:34,792
+<font color="#FFFFFF">It belongs to you.</font>
+
+1337
+01:35:35,960 --> 01:35:37,109
+<font color="#FFFFFF">Take it.</font>
+
+1338
+01:35:40,680 --> 01:35:44,895
+<font color="#FFFFFF">Bart Millard wrote this song,
+this beautiful song,</font>
+
+1339
+01:35:44,920 --> 01:35:47,216
+<font color="#FFFFFF">and want him to be the one
+to sing it for y'all tonight</font>
+
+1340
+01:35:47,239 --> 01:35:48,993
+<font color="#FFFFFF">for the first time ever.</font>
+
+1341
+01:35:49,119 --> 01:35:50,679
+<font color="#FFFFFF"><i>Bart?</i></font>
+
+1342
+01:36:03,439 --> 01:36:05,158
+<font color="#FFFFFF">This is for my dad.</font>
+
+1343
+01:36:19,920 --> 01:36:22,935
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1344
+01:36:22,960 --> 01:36:26,256
+<font color="#FFFFFF"><i>♪ What it will be like ♪</i></font>
+
+1345
+01:36:26,279 --> 01:36:29,256
+<font color="#FFFFFF"><i>♪ When I walk ♪</i></font>
+
+1346
+01:36:29,279 --> 01:36:32,136
+<font color="#FFFFFF"><i>♪ By Your side ♪</i></font>
+
+1347
+01:36:32,159 --> 01:36:35,256
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1348
+01:36:35,279 --> 01:36:38,055
+<font color="#FFFFFF"><i>♪ What my eyes will see ♪</i></font>
+
+1349
+01:36:38,079 --> 01:36:41,256
+<font color="#FFFFFF"><i>♪ When Your face ♪</i></font>
+
+1350
+01:36:41,279 --> 01:36:43,576
+<font color="#FFFFFF"><i>♪ Is before me ♪</i></font>
+
+1351
+01:36:43,600 --> 01:36:46,434
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1352
+01:36:49,960 --> 01:36:52,555
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1353
+01:36:56,640 --> 01:36:59,496
+<font color="#FFFFFF"><i>♪ Surrounded by Your glory ♪</i></font>
+
+1354
+01:36:59,520 --> 01:37:02,194
+<font color="#FFFFFF"><i>♪ What will my heart feel? ♪</i></font>
+
+1355
+01:37:02,319 --> 01:37:05,536
+<font color="#FFFFFF"><i>♪ Will I dance for You, Jesus ♪</i></font>
+
+1356
+01:37:05,560 --> 01:37:08,296
+<font color="#FFFFFF"><i>♪ Or in awe of You be still? ♪</i></font>
+
+1357
+01:37:08,319 --> 01:37:11,536
+<font color="#FFFFFF"><i>♪ Will I stand in Your presence ♪</i></font>
+
+1358
+01:37:11,560 --> 01:37:14,256
+<font color="#FFFFFF"><i>♪ Or to my knees will I fall? ♪</i></font>
+
+1359
+01:37:14,279 --> 01:37:17,136
+<font color="#FFFFFF"><i>♪ Will I sing Hallelujah? ♪</i></font>
+
+1360
+01:37:17,159 --> 01:37:19,975
+<font color="#FFFFFF"><i>♪ Will I be able to speak at all? ♪</i></font>
+
+1361
+01:37:20,000 --> 01:37:23,037
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1362
+01:37:25,640 --> 01:37:28,439
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1363
+01:37:31,960 --> 01:37:35,015
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1364
+01:37:35,039 --> 01:37:38,136
+<font color="#FFFFFF"><i>♪ When that day comes ♪</i></font>
+
+1365
+01:37:38,159 --> 01:37:41,055
+<font color="#FFFFFF"><i>♪ And I find myself ♪</i></font>
+
+1366
+01:37:41,079 --> 01:37:43,935
+<font color="#FFFFFF"><i>♪ Standing in the sun ♪</i></font>
+
+1367
+01:37:43,960 --> 01:37:46,975
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1368
+01:37:47,000 --> 01:37:50,336
+<font color="#FFFFFF"><i>♪ When all I will do ♪</i></font>
+
+1369
+01:37:50,359 --> 01:37:53,015
+<font color="#FFFFFF"><i>♪ Is forever ♪</i></font>
+
+1370
+01:37:53,039 --> 01:37:55,655
+<font color="#FFFFFF"><i>♪ Forever worship You ♪</i></font>
+
+1371
+01:37:55,680 --> 01:37:58,797
+<font color="#FFFFFF"><i>♪ I can only imagine, yeah ♪</i></font>
+
+1372
+01:38:02,000 --> 01:38:04,435
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1373
+01:38:08,479 --> 01:38:11,376
+<font color="#FFFFFF"><i>♪ Surrounded by Your glory ♪</i></font>
+
+1374
+01:38:11,399 --> 01:38:14,216
+<font color="#FFFFFF"><i>♪ What will my heart feel? ♪</i></font>
+
+1375
+01:38:14,239 --> 01:38:17,438
+<font color="#FFFFFF"><i>♪ Will I dance for You, Jesus ♪</i></font>
+
+1376
+01:38:17,560 --> 01:38:20,336
+<font color="#FFFFFF"><i>♪ Or in awe of You be still? ♪</i></font>
+
+1377
+01:38:20,359 --> 01:38:23,536
+<font color="#FFFFFF"><i>♪ Will I stand in Your presence ♪</i></font>
+
+1378
+01:38:23,560 --> 01:38:26,176
+<font color="#FFFFFF"><i>♪ Or to my knees will I fall? ♪</i></font>
+
+1379
+01:38:26,199 --> 01:38:29,113
+<font color="#FFFFFF"><i>♪ Will I sing Hallelujah? ♪</i></font>
+
+1380
+01:38:29,239 --> 01:38:32,015
+<font color="#FFFFFF"><i>♪ Will I be able to speak at all? ♪</i></font>
+
+1381
+01:38:32,039 --> 01:38:35,376
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1382
+01:38:35,399 --> 01:38:37,695
+<font color="#FFFFFF"><i>♪ Yeah ♪</i></font>
+
+1383
+01:38:37,720 --> 01:38:41,855
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1384
+01:38:41,880 --> 01:38:44,536
+<font color="#FFFFFF"><i>♪ Yeah ♪</i></font>
+
+1385
+01:38:44,560 --> 01:38:47,416
+<font color="#FFFFFF"><i>♪ Surrounded by Your glory ♪</i></font>
+
+1386
+01:38:47,439 --> 01:38:50,256
+<font color="#FFFFFF"><i>♪ What will my heart feel? ♪</i></font>
+
+1387
+01:38:50,279 --> 01:38:53,576
+<font color="#FFFFFF"><i>♪ Will I dance for You, Jesus ♪</i></font>
+
+1388
+01:38:53,600 --> 01:38:56,055
+<font color="#FFFFFF"><i>♪ Or in awe of You be still? ♪</i></font>
+
+1389
+01:38:56,079 --> 01:38:59,336
+<font color="#FFFFFF"><i>♪ Will I stand in Your presence ♪</i></font>
+
+1390
+01:38:59,359 --> 01:39:02,256
+<font color="#FFFFFF"><i>♪ Or to my knees will I fall? ♪</i></font>
+
+1391
+01:39:02,279 --> 01:39:05,318
+<font color="#FFFFFF"><i>♪ Will I sing Hallelujah? ♪</i></font>
+
+1392
+01:39:05,439 --> 01:39:08,136
+<font color="#FFFFFF"><i>♪ Will I be able to speak at all? ♪</i></font>
+
+1393
+01:39:08,159 --> 01:39:11,416
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1394
+01:39:11,439 --> 01:39:13,615
+<font color="#FFFFFF"><i>♪ Yeah ♪</i></font>
+
+1395
+01:39:13,640 --> 01:39:17,536
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1396
+01:39:17,560 --> 01:39:19,895
+<font color="#FFFFFF"><i>♪ Yeah, yeah ♪</i></font>
+
+1397
+01:39:19,920 --> 01:39:23,416
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1398
+01:39:23,439 --> 01:39:25,576
+<font color="#FFFFFF"><i>♪ Yeah, yeah ♪</i></font>
+
+1399
+01:39:25,600 --> 01:39:34,190
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1400
+01:39:35,399 --> 01:39:37,416
+<font color="#FFFFFF"><i>♪ Yeah ♪</i></font>
+
+1401
+01:39:37,439 --> 01:39:40,877
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1402
+01:39:46,640 --> 01:39:49,815
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1403
+01:39:49,840 --> 01:39:53,015
+<font color="#FFFFFF"><i>♪ When all I will do ♪</i></font>
+
+1404
+01:39:53,039 --> 01:39:56,216
+<font color="#FFFFFF"><i>♪ Is forever ♪</i></font>
+
+1405
+01:39:56,239 --> 01:39:58,800
+<font color="#FFFFFF"><i>♪ Forever worship You ♪</i></font>
+
+1406
+01:40:04,479 --> 01:40:09,713
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1407
+01:41:36,840 --> 01:41:38,176
+<font color="#FFFFFF"><i>Wasn't that great?</i></font>
+
+1408
+01:41:38,199 --> 01:41:42,256
+<font color="#FFFFFF">Bart and his band MercyMe will be
+releasing that song as their first single,</font>
+
+1409
+01:41:42,279 --> 01:41:45,351
+<font color="#FFFFFF"><i>and I want all y'all to keep
+an eye out for it, okay?</i></font>
+
+1410
+01:41:51,600 --> 01:41:52,670
+<font color="#FFFFFF">Shannon!</font>
+
+1411
+01:42:11,399 --> 01:42:13,456
+<font color="#FFFFFF"><i>It's always been you.</i></font>
+
+1412
+01:42:13,479 --> 01:42:15,948
+<font color="#FFFFFF">I've always loved you.
+I know.</font>
+
+1413
+01:42:17,279 --> 01:42:19,416
+<font color="#FFFFFF">Excuse me, sir.
+I hate to be rude.</font>
+
+1414
+01:42:19,439 --> 01:42:21,576
+<font color="#FFFFFF">This is an emergency.
+I-I, I promise.</font>
+
+1415
+01:42:21,600 --> 01:42:23,136
+<font color="#FFFFFF">I promise, 'Kay?</font>
+
+1416
+01:42:27,119 --> 01:42:28,235
+<font color="#FFFFFF">Come on, Jim.</font>
+
+1417
+01:42:29,520 --> 01:42:31,336
+<font color="#FFFFFF">Hello?
+Hey, stop the truck.</font>
+
+1418
+01:42:31,359 --> 01:42:32,895
+<font color="#FFFFFF">What?
+<i>You have to stop the truck.</i></font>
+
+1419
+01:42:32,920 --> 01:42:34,855
+<font color="#FFFFFF">Amy's giving the song back to us.</font>
+
+1420
+01:42:34,880 --> 01:42:36,456
+<font color="#FFFFFF"><i>She's giving us Imagine.</i></font>
+
+1421
+01:42:36,479 --> 01:42:38,536
+<font color="#FFFFFF"><i>Imagine is going out as our first single.</i></font>
+
+1422
+01:42:38,560 --> 01:42:40,055
+<font color="#FFFFFF">Stop the truck!
+Why?</font>
+
+1423
+01:42:40,079 --> 01:42:42,055
+<font color="#FFFFFF">Amy's giving it back!
+Stop staring at me!</font>
+
+1424
+01:42:42,079 --> 01:42:43,832
+<font color="#FFFFFF">Stop the truck!</font>
+
+1425
+01:43:07,039 --> 01:43:10,735
+<font color="#FFFFFF"><i>Here's a new song
+for you on Magic 104.5.</i></font>
+
+1426
+01:43:10,760 --> 01:43:13,319
+<font color="#FFFFFF"><i>Uh, guys?
+Guess who's on the radio.</i></font>
+
+1427
+01:43:15,079 --> 01:43:16,416
+<font color="#FFFFFF">Hey, can we give this a try?</font>
+
+1428
+01:43:16,439 --> 01:43:19,775
+<font color="#FFFFFF"><i>Here's a brand-new song
+from a brand-new band.</i></font>
+
+1429
+01:43:19,800 --> 01:43:22,815
+<font color="#FFFFFF">In this week of the countdown
+in the number one slot...</font>
+
+1430
+01:43:22,840 --> 01:43:25,855
+<font color="#FFFFFF"><i>Have you heard this song?
+This song's gonna blow you away.</i></font>
+
+1431
+01:43:25,880 --> 01:43:29,855
+<font color="#FFFFFF"><i>This song already means
+so much to so many people.</i></font>
+
+1432
+01:43:29,880 --> 01:43:32,176
+<font color="#FFFFFF">This is MercyMe,
+it's called "I Can Only Imagine."</font>
+
+1433
+01:43:32,199 --> 01:43:33,815
+<font color="#FFFFFF"><i>It's the number one
+Christian song in America,</i></font>
+
+1434
+01:43:33,840 --> 01:43:36,376
+<font color="#FFFFFF"><i>now charting on country
+and pop charts as well.</i></font>
+
+1435
+01:43:36,399 --> 01:43:38,496
+<font color="#FFFFFF"><i>I love this song.</i></font>
+
+1436
+01:43:38,520 --> 01:43:41,576
+<font color="#FFFFFF"><i>This is MercyMe on the Delilah Show.</i></font>
+
+1437
+01:43:41,600 --> 01:43:43,416
+<font color="#FFFFFF"><i>So you know this
+is not a religious station,</i></font>
+
+1438
+01:43:43,439 --> 01:43:46,695
+<font color="#FFFFFF"><i>and we are not religious people,
+not by a long shot.</i></font>
+
+1439
+01:43:46,720 --> 01:43:49,015
+<font color="#FFFFFF"><i>But believe it or not,
+this is the number one</i></font>
+
+1440
+01:43:49,039 --> 01:43:50,855
+<font color="#FFFFFF"><i>most requested song on the station.</i></font>
+
+1441
+01:43:50,880 --> 01:43:53,679
+<font color="#FFFFFF"><i>It's "I Can Only Imagine" by MercyMe.</i></font>
+
+1442
+01:45:02,279 --> 01:45:04,815
+<font color="#FFFFFF"><i>To sing his great song,
+"Can Only Imagine,"</i></font>
+
+1443
+01:45:04,840 --> 01:45:06,855
+<font color="#FFFFFF"><i>please welcome Bart.</i></font>
+
+1444
+01:45:06,880 --> 01:45:08,216
+<font color="#FFFFFF"><i>Bart!</i></font>
+
+1445
+01:45:08,239 --> 01:45:11,256
+<font color="#FFFFFF"><i>If anybody I went to
+high school with is listening,</i></font>
+
+1446
+01:45:11,279 --> 01:45:12,509
+<font color="#FFFFFF"><i>I made it!</i></font>
+
+1447
+01:45:13,960 --> 01:45:15,655
+<font color="#FFFFFF">"I Can Only Imagine," the song,</font>
+
+1448
+01:45:15,680 --> 01:45:19,496
+<font color="#FFFFFF">was written after my father passed away
+with cancer many years ago.</font>
+
+1449
+01:45:19,520 --> 01:45:22,015
+<font color="#FFFFFF">He was abusive most of my... my life.</font>
+
+1450
+01:45:22,039 --> 01:45:23,895
+<font color="#FFFFFF">If he had a bad day, he took it out on me.</font>
+
+1451
+01:45:23,920 --> 01:45:26,376
+<font color="#FFFFFF">And he was diagnosed with cancer
+when I was in high school.</font>
+
+1452
+01:45:26,399 --> 01:45:29,496
+<font color="#FFFFFF"><i>I saw Jesus change him completely.</i></font>
+
+1453
+01:45:29,520 --> 01:45:31,256
+<font color="#FFFFFF"><i>He went from a monster to being a man,</i></font>
+
+1454
+01:45:31,279 --> 01:45:33,735
+<font color="#FFFFFF"><i>that was desperately
+and passionately in love with Jesus.</i></font>
+
+1455
+01:45:33,760 --> 01:45:36,456
+<font color="#FFFFFF"><i>And it kind of set me on
+this warpath for the Gospel.</i></font>
+
+1456
+01:45:36,479 --> 01:45:39,176
+<font color="#FFFFFF"><i>'Cause if the Gospel
+can change that dude,</i></font>
+
+1457
+01:45:39,199 --> 01:45:41,176
+<font color="#FFFFFF"><i>the Gospel can change anybody,
+you know?</i></font>
+
+1458
+01:46:05,159 --> 01:46:08,815
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1459
+01:46:08,840 --> 01:46:11,895
+<font color="#FFFFFF"><i>♪ What it will be like ♪</i></font>
+
+1460
+01:46:11,920 --> 01:46:14,815
+<font color="#FFFFFF"><i>♪ When I walk ♪</i></font>
+
+1461
+01:46:14,840 --> 01:46:16,832
+<font color="#FFFFFF"><i>♪ By Your side ♪</i></font>
+
+1462
+01:46:18,039 --> 01:46:21,216
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1463
+01:46:21,239 --> 01:46:24,456
+<font color="#FFFFFF"><i>♪ What my eyes will see ♪</i></font>
+
+1464
+01:46:24,479 --> 01:46:27,655
+<font color="#FFFFFF"><i>♪ When Your face ♪</i></font>
+
+1465
+01:46:27,680 --> 01:46:30,376
+<font color="#FFFFFF"><i>♪ Is before me ♪</i></font>
+
+1466
+01:46:30,399 --> 01:46:32,994
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1467
+01:46:36,439 --> 01:46:39,034
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1468
+01:46:43,760 --> 01:46:46,775
+<font color="#FFFFFF"><i>♪ Surrounded by Your glory ♪</i></font>
+
+1469
+01:46:46,800 --> 01:46:49,655
+<font color="#FFFFFF"><i>♪ What will my heart feel? ♪</i></font>
+
+1470
+01:46:49,680 --> 01:46:52,695
+<font color="#FFFFFF"><i>♪ Will I dance for You, Jesus ♪</i></font>
+
+1471
+01:46:52,720 --> 01:46:55,376
+<font color="#FFFFFF"><i>♪ Or in awe of You be still? ♪</i></font>
+
+1472
+01:46:55,399 --> 01:46:58,855
+<font color="#FFFFFF"><i>♪ Will I stand in Your presence ♪</i></font>
+
+1473
+01:46:58,880 --> 01:47:02,015
+<font color="#FFFFFF"><i>♪ Or to my knees will I fall? ♪</i></font>
+
+1474
+01:47:02,039 --> 01:47:05,216
+<font color="#FFFFFF"><i>♪ Will I sing Hallelujah? ♪</i></font>
+
+1475
+01:47:05,239 --> 01:47:07,895
+<font color="#FFFFFF"><i>♪ Will I be able to speak at all? ♪</i></font>
+
+1476
+01:47:07,920 --> 01:47:10,832
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1477
+01:47:13,960 --> 01:47:17,216
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1478
+01:47:17,239 --> 01:47:20,655
+<font color="#FFFFFF"><i>♪ When that day comes ♪</i></font>
+
+1479
+01:47:20,680 --> 01:47:23,536
+<font color="#FFFFFF"><i>♪ And I find myself ♪</i></font>
+
+1480
+01:47:23,560 --> 01:47:26,456
+<font color="#FFFFFF"><i>♪ Standing in the sun ♪</i></font>
+
+1481
+01:47:26,479 --> 01:47:29,895
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1482
+01:47:29,920 --> 01:47:32,895
+<font color="#FFFFFF"><i>♪ When all I will do ♪</i></font>
+
+1483
+01:47:32,920 --> 01:47:35,895
+<font color="#FFFFFF"><i>♪ Is forever ♪</i></font>
+
+1484
+01:47:35,920 --> 01:47:38,895
+<font color="#FFFFFF"><i>♪ Forever worship You ♪</i></font>
+
+1485
+01:47:38,920 --> 01:47:41,354
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1486
+01:47:44,119 --> 01:47:48,033
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1487
+01:47:52,479 --> 01:47:55,095
+<font color="#FFFFFF"><i>♪ Surrounded by Your glory ♪</i></font>
+
+1488
+01:47:55,119 --> 01:47:58,216
+<font color="#FFFFFF"><i>♪ What will my heart feel? ♪</i></font>
+
+1489
+01:47:58,239 --> 01:48:01,416
+<font color="#FFFFFF"><i>♪ Will I dance for You, Jesus ♪</i></font>
+
+1490
+01:48:01,439 --> 01:48:04,216
+<font color="#FFFFFF"><i>♪ Or in awe of You be still? ♪</i></font>
+
+1491
+01:48:04,239 --> 01:48:07,735
+<font color="#FFFFFF"><i>♪ Will I stand in Your presence ♪</i></font>
+
+1492
+01:48:07,760 --> 01:48:10,456
+<font color="#FFFFFF"><i>♪ Or to my knees will I fall? ♪</i></font>
+
+1493
+01:48:10,479 --> 01:48:13,775
+<font color="#FFFFFF"><i>♪ Will I sing Hallelujah? ♪</i></font>
+
+1494
+01:48:13,800 --> 01:48:16,615
+<font color="#FFFFFF"><i>♪ Will I be able to speak at all? ♪</i></font>
+
+1495
+01:48:16,640 --> 01:48:19,474
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1496
+01:48:22,319 --> 01:48:25,836
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1497
+01:48:25,960 --> 01:48:29,296
+<font color="#FFFFFF"><i>♪ Yeah, yeah ♪</i></font>
+
+1498
+01:48:29,319 --> 01:48:32,576
+<font color="#FFFFFF"><i>♪ Surrounded by Your glory ♪</i></font>
+
+1499
+01:48:32,600 --> 01:48:35,376
+<font color="#FFFFFF"><i>♪ What will my heart feel? ♪</i></font>
+
+1500
+01:48:35,399 --> 01:48:38,695
+<font color="#FFFFFF"><i>♪ Will I dance for You, Jesus ♪</i></font>
+
+1501
+01:48:38,720 --> 01:48:41,655
+<font color="#FFFFFF"><i>♪ Or in awe of You be still? ♪</i></font>
+
+1502
+01:48:41,680 --> 01:48:45,015
+<font color="#FFFFFF"><i>♪ Will I stand in Your presence ♪</i></font>
+
+1503
+01:48:45,039 --> 01:48:47,735
+<font color="#FFFFFF"><i>♪ Or to my knees will I fall? ♪</i></font>
+
+1504
+01:48:47,760 --> 01:48:51,275
+<font color="#FFFFFF"><i>♪ Will I sing Hallelujah? ♪</i></font>
+
+1505
+01:48:51,399 --> 01:48:54,015
+<font color="#FFFFFF"><i>♪ Will I be able to speak at all? ♪</i></font>
+
+1506
+01:48:54,039 --> 01:48:57,336
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1507
+01:48:57,359 --> 01:48:59,695
+<font color="#FFFFFF"><i>♪ Hey, yeah ♪</i></font>
+
+1508
+01:48:59,720 --> 01:49:03,918
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1509
+01:49:04,039 --> 01:49:06,416
+<font color="#FFFFFF"><i>♪ Yeah, yeah ♪</i></font>
+
+1510
+01:49:06,439 --> 01:49:09,000
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1511
+01:49:10,079 --> 01:49:12,416
+<font color="#FFFFFF"><i>♪ Ooh, whoa ♪</i></font>
+
+1512
+01:49:12,439 --> 01:49:15,238
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1513
+01:49:18,359 --> 01:49:22,176
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1514
+01:49:22,199 --> 01:49:25,015
+<font color="#FFFFFF"><i>♪ When all I will do ♪</i></font>
+
+1515
+01:49:25,039 --> 01:49:28,015
+<font color="#FFFFFF"><i>♪ Is forever ♪</i></font>
+
+1516
+01:49:28,039 --> 01:49:30,793
+<font color="#FFFFFF"><i>♪ Forever worship You ♪</i></font>
+
+1517
+01:49:38,680 --> 01:49:40,432
+<font color="#FFFFFF"><i>♪ Whoa ♪</i></font>
+
+1518
+01:49:44,880 --> 01:49:46,632
+<font color="#FFFFFF"><i>♪ Whoa ♪</i></font>
+
+1519
+01:49:49,840 --> 01:49:51,695
+<font color="#FFFFFF"><i>♪ I can only imagine ♪</i></font>
+
+1520
+01:49:51,720 --> 01:49:53,472
+<font color="#FFFFFF"><i>♪ Whoa ♪</i></font>
+
+1521
+01:49:57,079 --> 01:49:59,355
+<font color="#FFFFFF"><i>♪ Whoa ♪</i></font>
+

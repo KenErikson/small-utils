@@ -1,0 +1,133 @@
+1
+00:00:00,040 --> 00:00:05,525
+<font color="#FFFFFF">Translated By:
+killer_sub</font>
+
+2
+00:00:09,660 --> 00:00:12,460
+<font color="#FFFFFF">I think it's safe to say the Maze Trails were a complete success.</font>
+
+3
+00:00:14,282 --> 00:00:16,123
+<font color="#FFFFFF">It's too soon to say, but...</font>
+
+4
+00:00:16,123 --> 00:00:17,535
+<font color="#FFFFFF">they could be the key to everything.</font>
+
+5
+00:00:19,510 --> 00:00:21,910
+<font color="#FFFFFF">It's time now to begin... Phase Two.</font>
+
+6
+00:00:23,256 --> 00:00:24,775
+<font color="#FFFFFF">Welcome to The Scorch!</font>
+
+7
+00:00:27,320 --> 00:00:30,160
+<font color="#FFFFFF">The world outside is hanging on by a very thin thread.</font>
+
+8
+00:00:30,760 --> 00:00:32,119
+<font color="#FFFFFF">Beyond this door...</font>
+
+9
+00:00:32,362 --> 00:00:34,843
+<font color="#FFFFFF">lies the beginning of your new lives.</font>
+
+10
+00:00:35,936 --> 00:00:36,735
+<font color="#FFFFFF">Hey Thomas!</font>
+
+11
+00:00:36,735 --> 00:00:37,917
+<font color="#FFFFFF">We weren't the only maze!</font>
+
+12
+00:00:39,939 --> 00:00:41,479
+<font color="#FFFFFF">What do you remember about Wicked?</font>
+
+13
+00:00:41,479 --> 00:00:43,531
+<font color="#FFFFFF">I remember they sent me into the maze.</font>
+
+14
+00:00:44,700 --> 00:00:46,880
+<font color="#FFFFFF">I remember watching my friends die in front of me.</font>
+
+15
+00:00:47,340 --> 00:00:48,899
+<font color="#FFFFFF">Don't you want to understand?</font>
+
+16
+00:00:48,899 --> 00:00:50,042
+<font color="#FFFFFF">Understand what?</font>
+
+17
+00:00:50,042 --> 00:00:51,179
+<font color="#FFFFFF">Why this all happened.</font>
+
+18
+00:00:52,268 --> 00:00:53,707
+<font color="#FFFFFF">I just need to know...</font>
+
+19
+00:00:53,783 --> 00:00:55,222
+<font color="#FFFFFF">whose side are you on?</font>
+
+20
+00:00:56,773 --> 00:00:58,612
+<font color="#FFFFFF">They're hiding something.</font>
+
+21
+00:00:58,612 --> 00:00:59,860
+<font color="#FFFFFF">Come on, you don't know that!</font>
+
+22
+00:01:00,750 --> 00:01:01,789
+<font color="#FFFFFF">They lied to us.</font>
+
+23
+00:01:01,932 --> 00:01:03,133
+<font color="#FFFFFF">We never escaped.</font>
+
+24
+00:01:03,133 --> 00:01:04,438
+<font color="#FFFFFF">This has all just been part of their plan.</font>
+
+25
+00:01:04,438 --> 00:01:05,399
+<font color="#FFFFFF">What do they want from us?</font>
+
+26
+00:01:08,507 --> 00:01:09,067
+<font color="#FFFFFF">Thomas!</font>
+
+27
+00:01:09,069 --> 00:01:10,510
+<font color="#FFFFFF">The maze is one thing!</font>
+
+28
+00:01:11,159 --> 00:01:13,439
+<font color="#FFFFFF">But you kids won't last one day out in The Scorch!</font>
+
+29
+00:01:21,396 --> 00:01:22,516
+<font color="#FFFFFF">What the hell -?</font>
+
+30
+00:01:25,329 --> 00:01:27,168
+<font color="#FFFFFF">The course of your lives...</font>
+
+31
+00:01:27,168 --> 00:01:29,087
+<font color="#FFFFFF">will determine the course of humanity.</font>
+
+32
+00:01:31,918 --> 00:01:32,878
+<font color="#FFFFFF">Into light...</font>
+
+33
+00:01:33,088 --> 00:01:34,049
+<font color="#FFFFFF">and darkness.</font>
+

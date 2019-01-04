@@ -1,0 +1,521 @@
+1
+00:01:11,805 --> 00:01:14,549
+<font color="#FFFFFF">DISAPPEARED!</font>
+
+2
+00:02:14,540 --> 00:02:18,265
+<font color="#FFFFFF"><i>It's okay.</i></font>
+
+3
+00:03:23,552 --> 00:03:25,795
+<font color="#FFFFFF"><i>It's okay.</i></font>
+
+4
+00:03:58,638 --> 00:04:01,020
+<font color="#FFFFFF"><i>Rocket.</i></font>
+
+5
+00:04:01,664 --> 00:04:04,480
+<font color="#FFFFFF"><i>Well done!</i></font>
+
+6
+00:04:05,693 --> 00:04:09,794
+<font color="#FFFFFF"><i>This is how... we're going
+to escape this planet.</i></font>
+
+7
+00:05:19,613 --> 00:05:23,869
+<font color="#FFFFFF"><i>Go to your mother.</i></font>
+
+8
+00:05:32,887 --> 00:05:36,531
+<font color="#FFFFFF"><i>It's for the radio?</i></font>
+
+9
+00:05:36,641 --> 00:05:39,670
+<font color="#FFFFFF"><i>It will help us
+amplify the signal.</i></font>
+
+10
+00:05:49,793 --> 00:05:51,146
+<font color="#FFFFFF"><i>For you.</i></font>
+
+11
+00:05:51,146 --> 00:05:53,100
+<font color="#FFFFFF"><i>Thanks.</i></font>
+
+12
+00:05:55,379 --> 00:05:58,601
+<font color="#FFFFFF"><i>It will soon darken.</i></font>
+
+13
+00:06:38,682 --> 00:06:40,702
+<font color="#FFFFFF"><i>Listen to me.</i></font>
+
+14
+00:06:42,036 --> 00:06:44,968
+<font color="#FFFFFF"><i>It's very noisy.</i></font>
+
+15
+00:12:21,860 --> 00:12:25,780
+<font color="#FFFFFF"><i>- HOW MANY IN THE AREA?</i></font>
+
+16
+00:17:20,289 --> 00:17:28,794
+<font color="#FFFFFF"><i>Sorry.</i></font>
+
+17
+00:17:45,048 --> 00:17:47,383
+<font color="#FFFFFF"><i>Dinner.</i></font>
+
+18
+00:17:47,865 --> 00:17:50,397
+<font color="#FFFFFF"><i>Thank you.</i></font>
+
+19
+00:23:28,599 --> 00:23:31,037
+<font color="#FFFFFF"><i>Beautiful...</i></font>
+
+20
+00:23:34,657 --> 00:23:36,894
+<font color="#FFFFFF"><i>I said Nothing...</i></font>
+
+21
+00:27:59,183 --> 00:28:02,624
+<font color="#FFFFFF"><i>- Do not go down there!
+- Why not?</i></font>
+
+22
+00:28:02,835 --> 00:28:07,011
+<font color="#FFFFFF"><i>- You don't know why...
+- I'm going... I will not make any noise!</i></font>
+
+23
+00:28:07,662 --> 00:28:10,517
+<font color="#FFFFFF"><i>Don't do it.</i></font>
+
+24
+00:28:10,518 --> 00:28:12,586
+<font color="#FFFFFF"><i>Please.</i></font>
+
+25
+00:28:21,391 --> 00:28:26,108
+<font color="#FFFFFF"><i>This time, use these
+little stereo amplifiers.</i></font>
+
+26
+00:28:26,212 --> 00:28:29,263
+<font color="#FFFFFF"><i>It will not work.</i></font>
+
+27
+00:28:29,265 --> 00:28:32,054
+<font color="#FFFFFF"><i>No, this should increase
+the frequency to...</i></font>
+
+28
+00:28:32,055 --> 00:28:35,028
+<font color="#FFFFFF"><i>28min 19 - 29min 21
+it never worked!</i></font>
+
+29
+00:28:35,029 --> 00:28:36,759
+<font color="#FFFFFF"><i>But...</i></font>
+
+30
+00:28:36,760 --> 00:28:42,242
+<font color="#FFFFFF"><i>We will continue to try, until it works.</i></font>
+
+31
+00:28:55,262 --> 00:28:59,277
+<font color="#FFFFFF"><i>Enough! Enough.</i></font>
+
+32
+00:28:59,278 --> 00:29:00,977
+<font color="#FFFFFF"><i>Enough!</i></font>
+
+33
+00:29:00,978 --> 00:29:03,843
+<font color="#FFFFFF"><i>Enough, already!</i></font>
+
+34
+00:29:25,631 --> 00:29:29,440
+<font color="#FFFFFF"><i>Remember... you have to divide.</i></font>
+
+35
+00:29:37,790 --> 00:29:41,210
+<font color="#FFFFFF"><i>We have three.</i></font>
+
+36
+00:29:48,794 --> 00:29:51,190
+<font color="#FFFFFF"><i>Amazing!</i></font>
+
+37
+00:29:59,694 --> 00:30:02,405
+<font color="#FFFFFF"><i>Time to leave.</i></font>
+
+38
+00:30:09,885 --> 00:30:11,773
+<font color="#FFFFFF"><i>Don't force me to go with him.</i></font>
+
+39
+00:30:11,775 --> 00:30:18,519
+<font color="#FFFFFF"><i>You'll be fine. Your father will
+protect you. Always.</i></font>
+
+40
+00:30:26,880 --> 00:30:32,612
+<font color="#FFFFFF"><i>Look... It's important
+that you learn these things.</i></font>
+
+41
+00:30:41,652 --> 00:30:44,623
+<font color="#FFFFFF"><i>also take care of me...</i></font>
+
+42
+00:30:46,012 --> 00:30:50,947
+<font color="#FFFFFF"><i>when I'm old... And gray...</i></font>
+
+43
+00:30:53,123 --> 00:30:55,781
+<font color="#FFFFFF"><i>And no longer have teeth...</i></font>
+
+44
+00:31:03,356 --> 00:31:07,503
+<font color="#FFFFFF"><i>Do not worry...</i></font>
+
+45
+00:31:19,596 --> 00:31:23,268
+<font color="#FFFFFF"><i>- I do not want to go...
+- There is nothing to fear.</i></font>
+
+46
+00:31:26,583 --> 00:31:28,395
+<font color="#FFFFFF"><i>I will go...</i></font>
+
+47
+00:31:30,916 --> 00:31:35,976
+<font color="#FFFFFF"><i>You stay here. I need you to
+stay here and help your mother.</i></font>
+
+48
+00:31:48,500 --> 00:31:50,267
+<font color="#FFFFFF"><i>I want to go.</i></font>
+
+49
+00:31:50,268 --> 00:31:52,461
+<font color="#FFFFFF"><i>You stay here.</i></font>
+
+50
+00:31:52,462 --> 00:31:55,272
+<font color="#FFFFFF"><i>You will be safe here.</i></font>
+
+51
+00:32:08,923 --> 00:32:11,311
+<font color="#FFFFFF"><i>She will go next time.</i></font>
+
+52
+00:35:36,822 --> 00:35:40,364
+<font color="#FFFFFF"><i>They are going to hear you!</i></font>
+
+53
+00:35:41,996 --> 00:35:45,688
+<font color="#FFFFFF"><i>Look at me.</i></font>
+
+54
+00:35:48,969 --> 00:35:51,452
+<font color="#FFFFFF"><i>Listen out.</i></font>
+
+55
+00:35:52,871 --> 00:35:55,137
+<font color="#FFFFFF"><i>The river... It's noisy.</i></font>
+
+56
+00:35:57,349 --> 00:36:00,295
+<font color="#FFFFFF"><i>The soft noises... are safe.</i></font>
+
+57
+00:36:01,625 --> 00:36:05,594
+<font color="#FFFFFF"><i>The loud noises... are not.</i></font>
+
+58
+00:36:05,918 --> 00:36:08,264
+<font color="#FFFFFF"><i>Unless...</i></font>
+
+59
+00:36:12,818 --> 00:36:16,659
+<font color="#FFFFFF"><i>There's another noise nearby...
+Strong one...</i></font>
+
+60
+00:36:19,184 --> 00:36:21,672
+<font color="#FFFFFF"><i>You are safe.</i></font>
+
+61
+00:36:27,293 --> 00:36:30,487
+<font color="#FFFFFF"><i>Let me show you something.</i></font>
+
+62
+00:38:10,096 --> 00:38:11,998
+<font color="#FFFFFF">You're alright.</font>
+
+63
+00:38:13,516 --> 00:38:15,277
+<font color="#FFFFFF">You're alright.</font>
+
+64
+00:38:18,568 --> 00:38:20,398
+<font color="#FFFFFF">I promise.</font>
+
+65
+00:39:40,333 --> 00:39:43,050
+<font color="#FFFFFF">Why did't you let her come?</font>
+
+66
+00:39:52,217 --> 00:39:56,153
+<font color="#FFFFFF">Do you blame her...
+for what happened?</font>
+
+67
+00:40:08,958 --> 00:40:10,561
+<font color="#FFFFFF">Don't...</font>
+
+68
+00:40:14,365 --> 00:40:17,128
+<font color="#FFFFFF">Because she blames herself.</font>
+
+69
+00:40:47,822 --> 00:40:50,177
+<font color="#FFFFFF">It's no one's fault...</font>
+
+70
+00:41:08,338 --> 00:41:10,893
+<font color="#FFFFFF">You still love her, right?</font>
+
+71
+00:41:12,590 --> 00:41:14,335
+<font color="#FFFFFF">Of course I do.</font>
+
+72
+00:41:29,110 --> 00:41:31,255
+<font color="#FFFFFF">You should tell her.</font>
+
+73
+00:49:49,717 --> 00:49:51,677
+<font color="#FFFFFF"><i>Your mother...</i></font>
+
+74
+00:49:52,844 --> 00:49:57,889
+<font color="#FFFFFF"><i>I want you to make a noise...
+Strong one.</i></font>
+
+75
+00:49:59,385 --> 00:50:03,068
+<font color="#FFFFFF"><i>Your mother... needs your help.</i></font>
+
+76
+00:50:04,012 --> 00:50:07,217
+<font color="#FFFFFF"><i>You can do it.</i></font>
+
+77
+00:57:36,159 --> 00:57:38,804
+<font color="#FFFFFF">It's okay, it's okay...</font>
+
+78
+00:57:39,550 --> 00:57:41,382
+<font color="#FFFFFF">You are safe.</font>
+
+79
+00:57:41,681 --> 00:57:43,668
+<font color="#FFFFFF">They can't hear us.</font>
+
+80
+00:57:46,246 --> 00:57:48,237
+<font color="#FFFFFF">It worked?</font>
+
+81
+00:57:49,878 --> 00:57:52,447
+<font color="#FFFFFF">You just need to rest now.</font>
+
+82
+00:58:01,842 --> 00:58:03,914
+<font color="#FFFFFF">Where are they?</font>
+
+83
+00:58:05,648 --> 00:58:07,559
+<font color="#FFFFFF">Where are they?</font>
+
+84
+00:58:08,275 --> 00:58:10,690
+<font color="#FFFFFF">I'll find them.</font>
+
+85
+00:58:14,291 --> 00:58:15,615
+<font color="#FFFFFF">She was with me...</font>
+
+86
+00:58:15,617 --> 00:58:19,610
+<font color="#FFFFFF">She was with me and then I had
+to go down to laundry.</font>
+
+87
+00:58:20,806 --> 00:58:23,186
+<font color="#FFFFFF">He was with you, wasn't he?</font>
+
+88
+00:58:23,186 --> 00:58:24,994
+<font color="#FFFFFF">Rockets.</font>
+
+89
+00:58:28,452 --> 00:58:31,184
+<font color="#FFFFFF">- He'll still be there?
+- Surely.</font>
+
+90
+00:58:31,184 --> 00:58:35,371
+<font color="#FFFFFF">He knows he should wait for you.
+And she is...</font>
+
+91
+00:58:35,373 --> 00:58:38,565
+<font color="#FFFFFF">She is smart...
+You will find the place...</font>
+
+92
+00:58:38,722 --> 00:58:40,867
+<font color="#FFFFFF">They know what to do.</font>
+
+93
+00:58:59,635 --> 00:59:01,628
+<font color="#FFFFFF">It's a boy.</font>
+
+94
+00:59:03,382 --> 00:59:05,235
+<font color="#FFFFFF">It's a boy.</font>
+
+95
+00:59:09,190 --> 00:59:11,360
+<font color="#FFFFFF">I couldn't carred him.</font>
+
+96
+00:59:18,539 --> 00:59:21,105
+<font color="#FFFFFF">He was heavy, isn't he?</font>
+
+97
+00:59:26,289 --> 00:59:32,510
+<font color="#FFFFFF">Still... I can feel his
+weight in my arms...</font>
+
+98
+00:59:33,920 --> 00:59:38,309
+<font color="#FFFFFF">Small, but... So heavy...</font>
+
+99
+00:59:45,844 --> 00:59:49,268
+<font color="#FFFFFF">And my hands were free...</font>
+
+100
+00:59:53,717 --> 00:59:56,182
+<font color="#FFFFFF">I was carrying the bag...
+But my hands were free.</font>
+
+101
+00:59:56,184 --> 00:59:58,516
+<font color="#FFFFFF">You have to stop.</font>
+
+102
+01:00:00,530 --> 01:00:03,414
+<font color="#FFFFFF">I'm sorry, I couldn't carred...</font>
+
+103
+01:00:05,614 --> 01:00:08,139
+<font color="#FFFFFF">I should have carred.</font>
+
+104
+01:00:14,492 --> 01:00:16,429
+<font color="#FFFFFF">Who are we?</font>
+
+105
+01:00:17,952 --> 01:00:20,480
+<font color="#FFFFFF">We can't protect them.</font>
+
+106
+01:00:22,192 --> 01:00:24,074
+<font color="#FFFFFF">Who are we?</font>
+
+107
+01:00:26,677 --> 01:00:29,195
+<font color="#FFFFFF">You have to protect them.</font>
+
+108
+01:00:30,420 --> 01:00:32,565
+<font color="#FFFFFF">Promise me...</font>
+
+109
+01:00:32,945 --> 01:00:35,606
+<font color="#FFFFFF">that you will to protect them.</font>
+
+110
+01:02:56,384 --> 01:03:00,248
+<font color="#FFFFFF"><i>Don't worry...
+He will come to us.</i></font>
+
+111
+01:06:40,538 --> 01:06:42,356
+<font color="#FFFFFF"><i>We can not stay here.</i></font>
+
+112
+01:06:42,358 --> 01:06:44,367
+<font color="#FFFFFF"><i>We must go.</i></font>
+
+113
+01:06:44,489 --> 01:06:46,998
+<font color="#FFFFFF"><i>He will come for us.</i></font>
+
+114
+01:06:48,003 --> 01:06:51,068
+<font color="#FFFFFF"><i>He will come for us.</i></font>
+
+115
+01:06:51,438 --> 01:06:53,907
+<font color="#FFFFFF"><i>He will come for you!</i></font>
+
+116
+01:06:53,980 --> 01:06:55,425
+<font color="#FFFFFF"><i>No, you're wrong</i></font>
+
+117
+01:06:55,427 --> 01:06:56,963
+<font color="#FFFFFF"><i>he told me!</i></font>
+
+118
+01:07:21,974 --> 01:07:23,539
+<font color="#FFFFFF"><i>Do not move.</i></font>
+
+119
+01:07:29,048 --> 01:07:30,900
+<font color="#FFFFFF"><i>Stop.</i></font>
+
+120
+01:11:50,917 --> 01:11:52,649
+<font color="#FFFFFF"><i>Are you fine?</i></font>
+
+121
+01:11:52,801 --> 01:11:54,777
+<font color="#FFFFFF"><i>Are you fine?</i></font>
+
+122
+01:12:23,889 --> 01:12:26,686
+<font color="#FFFFFF"><i>We must go to that truck.</i></font>
+
+123
+01:13:27,371 --> 01:13:29,391
+<font color="#FFFFFF">Dad!</font>
+
+124
+01:14:54,081 --> 01:14:58,786
+<font color="#FFFFFF"><i>I love you.</i></font>
+
+125
+01:17:27,313 --> 01:17:30,662
+<font color="#FFFFFF">SURVIVE <i>-</font></i>
+

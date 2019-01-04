@@ -1,0 +1,4 @@
+1
+00:26:09,546 --> 00:26:10,046
+<font color="#FFFFFF">Yahoo!</font>
+

@@ -1,0 +1,820 @@
+
+[1;32m#######################
+Checking subtitles in:
+  [1;33m/mnt/Plex/ /mnt2/Plex/ /mnt3/torrent/[1;32m
+#######################[0m
+
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E01.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E02.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/Game Of Thrones/Game.Of.Thrones.S01.Season.1.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/Game.Of.Thrones.S01E09.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e03-XL Flotsam.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e12-XL Food.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e06-XL Fakes.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e02 Fire.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e07-XL Fingers.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e10-XL Flora.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e11-XL Film.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e05-XL France.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e01 Families.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e09-XL Future.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e04-XL Fight.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 6/QI-s06-e08-XL Fashion.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e02 Ganimals.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e13 Gothic.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e17 VG1.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e07 Girls and Boys.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e18 VG2.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e15 Green.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e16 Geometry.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e03 Games.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e12 Gravity.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e04 Geography.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e14 Greeks.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e05 Groovy.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e06 Genius.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e10 Greats.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e08 Germany.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e09 Gallimaufrey.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e01 Gardens.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 7/QI-s07-e11 Gifts.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e11 Beats.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e01 Blue.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e02 Birds.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e12 Birth.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e10 Bills.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e04 Bible.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e06 Beavers.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e09 Bats.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e05 Bears.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e03 Bombs.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e07 Biscuits.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 2/QI-s02-e08 Bees.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e01-XL I-Spy.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e19 Sport Relief.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e11-XL Infantile.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e05-XL Invertebrates.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e10-XL Inland revenue.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e03-XL Imbroglio.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e15 VG2.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e00 Making QI.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e16-XL Ice.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e18-XL Idleness.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e12-XL Illumination.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e09-XL Illness.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e08-XL Inequality.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e04-XL Indecision.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e07-XL Incomprehensible.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e13-XL Intelligence.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e06-XL Inventive.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e17-XL Immortal Bard.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e02-XL International.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 9/QI-s09-e14 VG1.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e10 Aviation.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e09 Africa.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e08 Albania.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e12 Advent.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e03 Aquatic.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e01 Adam.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e07 Arthropods.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e11 Arts.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e06 Antidotes.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e05 Advertising.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e02 Astronomy.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 1/QI-s01-e04 Atoms.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e07 Espionage.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e08 Eyes&Ears.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e04 Exploration.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e09 Entertainment.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e11 Endings.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e02 Electricity.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e03 Eating.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e10 England.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e05 Europe.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e01 Engineering.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e12 Empire.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e06 Everything.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 5/QI-s05-e13 Elephants.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e07 Differences.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e06 Drinks.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e13 December.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e08 Descendants.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e02 Discoveries.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e09 Doves.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e10 Divination.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e12 Domesticity.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e01 Danger.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e11 Denial.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e05 Death.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e03 Dogs.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 4/QI-s04-e04 Dictionaries.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e02 Cummingtonite.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e04 Cheating.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e11 Carnival.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e12 Combustion.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e09 Creatures.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e05 Cat's Eyes.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e03 Common Knowledge.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e07 Constellations.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e10 Cleve.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e06 Cockneys.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e08 Corby.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 3/QI-s03-e01 Campanology.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e09 Jeopardy.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e02 Jam.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e06 Joints.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e07 Journalism.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e11 Jumpers.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e08 Jumble.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e16 VG2.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e04 Jack and Jill.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e17 Jolly.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e05 J-Places.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e18 Just the Job.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e15 VG1.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e13 Jobs.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e12 Justice.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e01 Jargon.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e14 Jingle Bells.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e10 Jungles.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 10/QI-s10-e03 Journeys.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e09-XL House and Home.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e16-XL History.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e05-XL Hanimals.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e04-XL Humans.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e12-XL Horses and Hunting.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e13-XL Holidays.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e11-XL Highs and Lows.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e02-XL Hanatomy.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e17 VG1.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e07-XL Horrible.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e01-XL Hodge Podge.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e08-XL Hypothetical.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e14-XL Hocus Pocus.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e18 VG2.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e15-XL Hypnosis and Hallucinations.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e06-XL Happiness.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e03-XL Hoaxes.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e10-XL Health and Safety.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/QI/QI Season 8/QI-s08-e19 Red Nose Day.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E11 Child Abduction is Not Funny (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E04 Fun With Veal (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E17 Red Sleigh Down (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E06 Professor Chaos (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E08 Red Hot Catholic Love (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E16 My Future Self n' Me (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E07 The Simpsons Already Did I (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E05 The New Terrance and Phillip Movie Trailer (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E09 Free Hat (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E10 Bebe's Boobs Destroy Society (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E12 A Ladder to Heaven (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E14 The Death Camp of Tolerance (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E13 The Return of the Fellowship of the Ring to the Two Towers (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E03 Freak Strike (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E02 Asspen (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E01 Jared Has Aides (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 6 (1080p x265 q22 Joy)/South Park S06E15 The Biggest Douche in the Universe (1080 x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E07.Oh.Jeez.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E10.The.End.of.Serialization.as.We.Know.It.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E03.The.Damned.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E01.Member.Berries.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E09.Not.Funny.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E08.Members.Only.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E04.Wieners.Out.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E06.Fort.Collins.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E02.Skank.Hunt.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.20.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S20E05.Douche.and.a.Danish.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E08 Two Days Before the Day After Tomorrow (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E02 Die Hippie, Die (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E13 Free Willzyx (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E04 Best Friends Forever (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E07 Erection Day (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E12 Trapped in the Closet (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E03 Wing (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E10 Follow That Egg (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E06 The Death of Eric Cartman (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E09 Marjorine (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E14 Bloody Mary (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E05 The Losing Edge (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E01 Mr. Garrison's Fancy New Vagina (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 9 (1080p x265 q22 Joy)/South Park S09E11 Ginger Kids (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E02  Cash For Gold (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E10 Insecurity (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E06 I Should Have Never Gone Ziplining (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E09 Raising The Bar (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E07 Cartman Finds Love (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E11 Going Native (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E14 Obama Wins (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E03 Faith Hilling (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E01 Reverse Cowgirl (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E08 Sarcastaball (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E13 A Scause For Applause (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E04 Jewpacabra (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E05 Butterballs (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 16 (1080p x265 q22 Joy)/South Park S16E12 A Nightmare On Facetime (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E04 You Have 0 Friends (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E09 It's a Jersey Thing (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E06 201 (720p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E08 Poor and Stupid (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E03 Medicinal Fried Chicken (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E02 The Tale of Scrotie McBoogerballs (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E01 Sexual Healing (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E07 Crippled Summer (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E10 Insheeption (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E13 Coon Vs. Coon & Friends (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E14 Crème Fraiche (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E05 200 (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E12 Mysterion Rises (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 14 (1080p x265 q22 Joy)/South Park S14E11 Coon 2- Hindsight (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E10 W.T.F. (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E09 Butters' Bottom Bitch (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E13 Dances With Smurfs (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E02 The Coon (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E04 Eat, Pray, Queef (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E07 Fatbeard (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E01 The Ring (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E06 Pinewood Derby (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E08 Dead Celebrities (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E05 Fishsticks (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E14 Pee (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E11 Whale Whores (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E03 Margaritaville (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 13 (1080p x265 q22 Joy)/South Park S13E12 The F Word (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E05 Crack Baby Athletic Association (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E14 The Poor Kid (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E06 City Sushi (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E12 1% (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E08 Ass Burgers (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E11 Broadway Bro Down (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E10 Bass to Mouth (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E07 You're Getting Old (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E03 Royal Pudding (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E01 HUMANCENTiPAD (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E13 A History Channel Thanksgiving (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E04 T.M.I. (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E02 Funnybot (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 15 (1080p x265 q22 Joy)/South Park S15E09 The Last of the Meheecans (1080p x265 q22 Joy).mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E05.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E01.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E07.720p.BluRay.x264.ShAaNiG.mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E03.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E09.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E06.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E04.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E10.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E02.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.19.720p.BluRay.x264.ShAaNiG/South.Park.S19E08.720p.BluRay.x264.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E01.White.People.Renovating.Houses.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E04.Franchise.Prequel.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E08.Moss.Piglets.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E07.Doubling.Down.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E10.Splatty.Tomato.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E02.Put.It.Down.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E09.SUPER.HARD.PCness.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E06.Sons.a.Witches.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E05.Hummels.and.Heroin.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.21.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S21E03.Holiday.Special.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E12.All About Mormons/South Park.S07E12.All About Mormons.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E10.Grey Dawn/South Park.S07E10.Grey Dawn.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E11.Casa Bonita/South Park.S07E11.Casa Bonita.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E02.Krazy Kripples/South Park.S07E02.Krazy Kripples.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E06.Lil' Crime Stoppers/South Park.S07E06.Lil' Crime Stoppers.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E15.It's Christmas in Canada/South Park.S07E15.It's Christmas in Canada.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E09.Christian Rock Hard/South Park.S07E09.Christian Rock Hard.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E03.Toilet Paper/South Park.S07E03.Toilet Paper.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E08.South Park Is Gay/South Park.S07E08.South Park Is Gay.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E13.Butt Out/South Park.S07E13.Butt Out.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E01.Cancelled/South Park.S07E01.Cancelled.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E07.Red Man's Greed/South Park.S07E07.Red Man's Greed.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E05.Fat Butt and Pancake Head/South Park.S07E05.Fat Butt and Pancake Head.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E04.I'm a Little Bit Country/South Park.S07E04.I'm a Little Bit Country.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 7/S07E14.Raisins/South Park.S07E14.Raisins.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E02 Cripple Fight (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E05 Terrance and Phillip- Behind the Blow (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E03 Super Best Friends (480p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E06 Cartmanland (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E14 Butters' Very Own Episode (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E10 How to Eat with Your Butt (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E09 Osama Bin Laden Has Farty Pants (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E11 The Entity (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E12 Here Comes the Neighborhood (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E01 It Hits the Fan (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E07 Proper Condom Use (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E08 Towelie (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E04 Scott Tenorman Must Die (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 5 (1080p x265 q22 Joy)/South Park S05E13 Kenny Dies (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E10 Probably (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E13 Helen Keller! The Musical (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E06 Cherokee Hair Tampons (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E14 Pip (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E04 Quintuplets (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E11 Fourth Grade (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E17 A Very Crappy Christmas (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E08 Something You Can Do with Your Finger (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E12 Trapper Keeper (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E15 Fat Camp (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E07 Chef Goes Nanners (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E03 Timmy 2000 (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E09 Do the Handicapped Go to Hell (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E01 The Tooth Fairy Tats (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E02 Cartman's Silly Hate Crime (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E16 The Wacky Molestation Adventure (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 4 (1080p x265 q22 Joy)/South Park S04E05 Cartman Joins NAMBLA (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E14.The Ungroundable/South Park.S12E14.The Ungroundable.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E13.Elementary School Musical/South Park.S12E13.Elementary School Musical.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E07.Super Fun Time/South Park.S12E07.Super Fun Time.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E06.Over Logging/South Park.S12E06.Over Logging.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E10.Pandemic/South Park.S12E10.Pandemic.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E04.Canada on Strike/South Park.S12E04.Canada on Strike.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E01.Tonsil Trouble/South Park.S12E01.Tonsil Trouble.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E08.The China Probrem/South Park.S12E08.The China Probrem.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E05.Eek, a Penis!/South Park.S12E05.Eek, a Penis!.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E03.Major Boobage/South Park.S12E03.Major Boobage.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E09.Breast Cancer Show Ever/South Park.S12E09.Breast Cancer Show Ever.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E11.Pandemic 2- The Startling/South Park.S12E11.Pandemic 2- The Startling.avi
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 12/S12E02.Britney's New Look/South Park.S12E02.Britney's New Look.avi
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E05.Taming.Strange.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E07.Black.Friday.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E06.Ginger.Cow.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E10.The.Hobbit.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E04.Goth.Kids.3.Dawn.of.the.Posers.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E03.World.War.Zimmerman.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E01.Let.Go.Let.Gov.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E02.Informative.Murder.Porn.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E08.A.Song.of.Ass.and.Fire.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;32mSubs found: [0m/mnt/Plex/TV Shows/South Park/South.Park.Season.17.Complete.UNCENSORED.720p.WEB-DL.x264.AAC/South.Park.S17E09.Titties.and.Dragons.UNCENSORED.720p.WEB-DL.x264.AAC.mp4
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E07 Goobacks (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E08 Douche and Turd (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E02 Up the Down Steroid (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E04 You Got F'd in the A (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E13 Cartman's Incredible Gift (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E14 Woodland Critter Christmas (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E05 AWESOM-O (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E11 Quest for Ratings (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E10 Pre-School (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E01 Good Times with Weapons (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E03 The Passion of the Jew (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E12 Stupid Spoiled Whore Video Playset (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E09 Something Wall-Mart This Way Comes (1080p x265 q22 Joy).mkv
+[1;31mNo subtitl: [0m/mnt/Plex/TV Shows/South Park/South Park Season 8 (1080p x265 q22 Joy)/South Park S08E06 The Jeffersons (1080p x265 q22 Joy).mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E09.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E10.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E02.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E07.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E01.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E04.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E11.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E13.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E03.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E12.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E05.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E06.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 4/Community.S04E08.720p.HDTV.X264-DIMENSION.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E24.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E08.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E07.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E16.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E20.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E18.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E01.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E23.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E03.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E10.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E14.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E02.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E12.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E09.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E06.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E21.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E15.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E19.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E22.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E13.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E17.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E05.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E11.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 2/Community.S02E04.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E05.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E04.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E02.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E01.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E08.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E07.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E10.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;31mNo subtitl: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E03.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E09.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E13.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E12.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E06.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 6/Community.S06E11.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E17.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E21.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E11.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E14.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E02.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E12.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E04.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E01.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E19.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E20.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E09.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E22.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E15.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E08.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E07.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E16.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E18.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E10.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E06.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E13.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;31mNo subtitl: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E03.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 3/Community.S03E05.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E02.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E13.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E12.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E07.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E05.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E03.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E10.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E06.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E09.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E04.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E01.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E11.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 5/Community.S05E08.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E22.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E20.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E09.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E05.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E14.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E18.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E16.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E15.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E19.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E02.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E03.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E10.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E13.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E17.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E08.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E12.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E04.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E11.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E06.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E01.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E21.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E23.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E07.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt2/Plex/TV Shows/Community/Community Season 1/Community.S01E24.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/111 Kelon sisäinen ääni.mkv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/024 Majakka.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/078 Nipsu rakastuu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/029 Jälleen yhdessä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/090 Aarrekartta.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/002 Taikurin hattu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/068 Muumipeikon iso kala.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/008 Taikurin taika.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/053 Muumipapan toinen nuoruus.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/022 Talven vieraita.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/091 Nipsu apumiehenä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/080 Hemulitäti tulee Muumitaloon.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/086 Muumitalvi.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/023 Kiirehdi, Nuuskamuikkunen.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/014 Niiskuneiti potee muistinmenetystä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/003 Rannalta löytynyt hylky.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/019 Muumipeikko pelastaa tiikerit.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/073 Satumainen smaragdi.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/058 Kauhea Pikku Myy.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/063 Naamiaiset.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/065 Tuoli.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/061 Muumipapan muistelmat 2.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/048 Jättikurpitsa.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/056 Taiteilijoita Muumilaaksossa.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/021 Muumipeikon ja Pikku Myyn talvinen seikkailu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/082 Hiekkaveistoksia.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/004 Tervetuloa hattivattien saarelle.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/005 Hattivattien salaisuudet.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/085 Aikakone.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/110 Muumit ja taistelu merirosvoa vastaan.mkv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/084 Poliisimestarin veljenpoika.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/046 Kuuma lähde.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/034 Noita.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/036 Keskitalven kokko.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/099 Koulu kutsuu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/072 Ihana lahja.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/018 Viidakon kätköissä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/009 Näkymätön lapsi.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/041 Auringonpimennys.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/057 Noitakävelyä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/037 Loitsu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/015 Olioita avaruudesta.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/050 Aarteenetsintää.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/028 Kadonneet lapset.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/027 Laineilla lipuva teatteri.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/062 Muumipapan muistelmat 3.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/081 Muumipeikko ja kultainen häntä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/060 Muumipapan muistelmat 1.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/097 Aikakoneella renessanssiin.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/095 Pikku Myyn lyhyt romanssi.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/092 Muumipeikko ja haisuli vaihdokkaina.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/043 Hauska syntymäpäivä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/083 Merirosvojen huviretki.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/001 Muumilaakson kevät.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/030 Iso jysäys.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/012 Maailman viimeinen lohikäärme.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/039 Salaperäistä ilotulitusta.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/042 Primadonna.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/051 Vedenneito.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/089 Muumit muinaisuudessa 2.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/101 Kultainen valtakunta.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/016 Muumipappa kaipaa vaihtelua.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/069 Tyrmääjäsieni.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/031 Kultakala.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/077 Muumipeikon kihlaus.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/044 Muumipeikko rakentaa talon.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/064 Vampyyri.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/075 Suuri lentokilpailu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/074 Talon maalausta.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/071 Luola.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/007 Matkalaukku.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/100 Salainen lääke.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/038 Jysähdyksiä yössä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/088 Muumit muinaisuudessa 1.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/020 Nuuskamuikkunen lähtee pois.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/033 Leija.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/076 Kohti etelää.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/055 Äidinrakkaus.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/087 Joulutarina.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/052 Timantti.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/010 Ninni saa hymynsä takaisin.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/112 Syntymäpäiväyllätys.mkv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/098 Punainen täysikuu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/035 Joulu on ovella.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/025 Majakka syttyy.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/096 Lohikäärmeen kyyneleitä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/094 Muumipeikon Robinson-seikkailu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/045 Musta kreivitär.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/047 Kuplia.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/059 Muumipeikko ennustaa korteista.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/049 Niiskuneiti selvänäkijänä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/070 Muumipeikko ja delfiini.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/066 Muumipeikko ja linnut.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/067 Feeniks-lintu.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/032 Lampun henki.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/040 Rosvoja Muumilaaksossa.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/054 Salainen ruokalaji.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/017 Taikasiemeniä valtamerestä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/079 Uusi elämä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/006 Pikkuruiset vieraat.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/093 Muumipeikko Villissä lännessä.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/011 Niisku leijailee taivaalla.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/013 Tiukka naapuri.flv
+[1;33mIgnored:    [0m/mnt2/Plex/TV Shows/Muumilaakson Tarinoita/026 Jenni-täti on miljonääri.flv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/The.Man.in.the.High.Castle/Season 1/The.Man.in.the.High.Castle.S01E03.The.illustrated.Woman.720p.WEBRip.x264-[MULVAcoded].mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/The.Man.in.the.High.Castle/Season 1/The.Man.in.the.High.Castle.S01E02.Sunrise.720p.WEBRip.x264-[MULVAcoded].mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E01 Offred.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E05 Faithful.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E02 Birth Day.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E03 Late.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E07 The Other Side.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E06 A Woman's Place.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E04 Nolite Te Bastardes Carborundorum.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E10 Night.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E09 The Bridge.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Handmaids Tale/Season 1/The Handmaids Tale S01E08 Jezebels.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E09.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E01.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E02.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 3/Game.Of.Thrones.S03E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E10.720p.BluRay.500MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E05.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E07.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E08.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E02.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E06.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E04.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E03.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E01.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Game Of Thrones/Season 2/Game.of.Thrones.S02E09.720p.BluRay.450MB.ShAaNiG.com.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e05 - Gun Fever.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e07 - Charlie Got Molested.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e03 - Underage Drinking A National Concern.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e06 - The Gang Finds a Dead Guy.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e02 - Charlie Wants an Abortion.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e01 - The Gang Gets Racist.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s01/Its Always Sunny in Philadelphia s01e04 - Charlie Has Cancer.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e07 - Who Pooped the Bed.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e04 - Mac's Banging the Waitress.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e03 - America's Next Top Paddy's Billboard Model Contest.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e09 - Dennis Reynolds An Erotic Life.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e08 - Paddy's Pub The Worst Bar in Philadelphia.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e13 - The Nightman Cometh.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e10 - Sweet Dee Has a Heart Attack.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e06 - Mac and Charlie Die (Part 2).avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e12 - The Gang Gets Extreme Home Makeover Edition.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e05 - Mac and Charlie Die (Part 1).avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e02 - The Gang Solves the Gas Crisis.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e01 - Mac & Dennis Manhunters.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s04/Its Always Sunny in Philadelphia s04e11 - The Gang Cracks the Liberty Bell.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e07 - The Gang Exploits a Miracle.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e09 - Charlie Goes America All Over Everybody's Ass.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e10 - Dennis and Dee Get a New Dad.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e05 - Hundred Dollar Baby.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e01 - Charlie Gets Crippled.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e06 - The Gang Gives Back.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e04 - Mac Bangs Dennis' Mom.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e03 - Dennis and Dee Go on Welfare.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e08 - The Gang Runs for Office.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s02/Its Always Sunny in Philadelphia s02e02 - The Gang Goes Jihad.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e08 - The Gang Gets a New Member.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e09 - Dee Reynolds Shaping America's Youth.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e04 - Mac's Big Break.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e05 - Mac and Charlie White Trash.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e10 - Charlie Kelly King of the Rats.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e03 - The Gang Buys a Boat.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e07 - Who Got Dee Pregnant.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e02 - Dennis Gets Divorced.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e12 - Dee Gives Birth.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e06 - Mac's Mom Burns Her House Down.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e11 - The Gang Gets Stranded in the Woods.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s06/Its Always Sunny in Philadelphia s06e01 - Mac Fights Gay Marriage.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e13 & 14 - A Very Sunny Christmas.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e07 - The Gang Wrestles for the Troops.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e11 - Mac and Charlie Write a Movie.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e06 - The World Series Defense.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e01 - The Gang Exploits the Mortgage Crisis.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e09 - Mac and Dennis Break Up.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e10 - The D.E.N.N.I.S. System.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e04 - The Gang Gives Frank an Intervention.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e02 - The Gang Hits the Road.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e08 - Paddy's Pub Home of the Original Kitten Mittens.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e03 - The Great Recession.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e05 - The Waitress Is Getting Married.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s05/Its Always Sunny in Philadelphia s05e12 - The Gang Reignites the Rivalry.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e06 - Charlie's Mom Has Cancer.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e03 - The Maureen Ponderosa Wedding Massacre.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e09 - The Gang Dines Out.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e02 - The Gang Recycles Their Trash.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e05 - The Gang Gets Analyzed.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e01 - Pop–Pop The Final Solution.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e07 - Frank's Back in Business.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e04 - Charlie and Dee Find Love.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e10 - Reynolds vs. Reynolds The Cereal Defense.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s08/Its Always Sunny in Philadelphia s08e08 - Charlie Rules the World.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E11.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E04.Sweet.Dee.Gets.Audited.HDTV.XviD-FQM.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E09.HDTV.XviD-P0W4.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E03.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E05.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E01.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E12.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E07.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E02.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E10.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E08.The.Anti-Social.Network.HDTV.XviD-FQM.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E06.HDTV.XviD-ASAP.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s07/Its.Always.Sunny.in.Philadelphia.S07E13.HDTV.XviD-P0W4.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e13 - The Gang Gets Whacked (Part 2).avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e14 - Bums Making a Mess All Over the City.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e08 - Frank Sets Sweet Dee on Fire.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e01 - The Gang Finds a Dumpster Baby.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e12 - The Gang Gets Whacked (Part 1).avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e03 - Dennis and Dee's Mom Is Dead.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e07 - The Gang Sells Out.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e05 - The Aluminum Monster vs. Fatty McGoo.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e06 - The Gang Solves the North Korea Situation.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e10 - Mac is a Serial Killer.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e04 - The Gang Gets Held Hostage.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e02 - The Gang Gets Invincible.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e15 - The Gang Dances Their Asses Off.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e11 - Dennis Looks Like a Registered Sex Offender.avi
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Its Always Sunny in Philadelphia/s03/Its Always Sunny in Philadelphia s03e09 - Sweet Dee's Dating a Retarded Person.avi
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E01.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E07.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E03.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E04.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E05.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E06.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E02.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E08.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E10.720p.WEB-DL.x264.mp4
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Westworld/Season 2/[TorrentCouch.com].Westworld.S02E09.720p.WEB-DL.x264.mp4
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/The Orville /Season 1/The Orville S01E03 About a Girl.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E02 - Seeing Things - Ehhhh.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E04 - Who Goes There - Ehhhh.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E05 - The Secret Fate of All Life - Ehhhh.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E08 - Form and Void - Ehhhh.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E06 - Haunted Houses - Ehhhh.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E07 - After You've Gone - Ehhhh.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E01 - The Long Bright Dark - Ehhhh.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/True Detective /Season 1/True Detective S01E03 - The Locked Room - Ehhhh.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Bodyguard/Season 1/Bodyguard S01E03 Episode 3.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Bodyguard/Season 1/Bodyguard S01E05 Episode 5.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Bodyguard/Season 1/Bodyguard S01E04 Episode 4.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Bodyguard/Season 1/Bodyguard S01E01 Episode 1.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Bodyguard/Season 1/Bodyguard S01E06 Episode 6.mkv
+[1;31mNo subtitl: [0m/mnt3/torrent/TV Shows/Bodyguard/Season 1/Bodyguard S01E02 Episode 2.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E07.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E08.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E05.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01e09.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E04.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E06.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E02.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E03.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt3/torrent/TV Shows/Vikings/Season 1/Vikings.S01E01.720p.BluRay.x265.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Angels & Demons (2009) [1080p]/Angels.&.Demons.2009.1080p.BrRip.x264.YIFY+HI.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Half Blood Prince (2009) [1080p]/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Hunger Games 4 Film Complete Collection 1080p BluRay 5.1Ch x265 HEVC SUJAIDR/The Hunger Games Mockingjay Part 2 (2015) 1080p BluRay 5.1Ch x265 HEVC SUJAIDR.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Hunger Games 4 Film Complete Collection 1080p BluRay 5.1Ch x265 HEVC SUJAIDR/The Hunger Games Catching Fire (2013) 1080p BluRay 5.1Ch x265 HEVC SUJAIDR.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Hunger Games 4 Film Complete Collection 1080p BluRay 5.1Ch x265 HEVC SUJAIDR/The Hunger Games (2012) 1080p BluRay 5.1Ch x265 HEVC SUJAIDR.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Hunger Games 4 Film Complete Collection 1080p BluRay 5.1Ch x265 HEVC SUJAIDR/The Hunger Games Mockingjay Part 1 (2014) 1080p BluRay 5.1Ch x265 HEVC SUJAIDR.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/V for Vendetta (2006) [1080p]/V.For.Vendetta.2006.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Black Panther (2018) [BluRay] [1080p] [YTS.AM]/Black.Panther.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Den Of Thieves (2018) [BluRay] [1080p] [YTS.AM]/Den.Of.Thieves.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Eagle.Eye.2008.1080p.BluRay.H264.AAC-RARBG/RARBG.COM.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Eagle.Eye.2008.1080p.BluRay.H264.AAC-RARBG/Eagle.Eye.2008.1080p.BluRay.H264.AAC-RARBG.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/A Wrinkle In Time (2018) [BluRay] [1080p] [YTS.AM]/A.Wrinkle.In.Time.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Pacific Rim Uprising (2018) [WEBRip] [1080p] [YTS.AM]/Pacific.Rim.Uprising.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Annihilation (2018) [WEBRip] [720p] [YTS.AM]/Annihilation.2018.720p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Tomb Raider (2018) [BluRay] [1080p] [YTS.AM]/Tomb.Raider.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Kingsman The Golden Circle (2017) [YTS.AG]/Kingsman.The.Golden.Circle.2017.720p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Peter Rabbit (2018) [BluRay] [1080p] [YTS.AM]/Peter.Rabbit.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The.Da.Vinci.Code.2006.REMASTERED.1080p.BluRay.6CH.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Se7en ( 1995 )/Se7en(1995)1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Coco (2017) [1080p] [YTS.AG]/Coco.2017.1080p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Commuter (2018) [BluRay] [720p] [YTS.AM]/The.Commuter.2018.720p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Insurgent (2015)/Insurgent.2015.720p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The.Road.to.El.Dorado.2000.1080p.WEBRip.AC3.x264.ENG.GRE-ETRG/The.Road.to.El.Dorado.2000.1080p.WEBRip.AC3.x264.ENG.GRE-ETRG.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/The.Road.to.El.Dorado.2000.1080p.WEBRip.AC3.x264.ENG.GRE-ETRG/ETRG.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/American Made (2017) [1080p] [YTS.AG]/American.Made.2017.1080p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/I Can Only Imagine (2018) [BluRay] [1080p] [YTS.AM]/I.Can.Only.Imagine.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/12.Strong.2018.720p.WEB-DL.1GB.MkvCage.com.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Interstellar (2014) (2014) [1080p]/Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The.Prestige.2006.1080p.BluRay.x264.anoXmous/The.Prestige.2006.1080p.BluRay.x264.anoXmous_.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Love, Simon (2018) [WEBRip] [1080p] [YTS.AM]/Love,.Simon.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Mad Max Fury Road (2015) [1080p]/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Chamber of Secrets (2002) [1080p]/Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Captain America The Winter Soldier (2014) [1080p]/Captain.America.The.Winter.Soldier.2014.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Deathly Hallows Part 1 (2010) [1080p]/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Goblet of Fire (2005) [1080p]/Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Imitation Game (2014) [1080p]/The.Imitation.Game.2014.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Shape Of Water (2017) [BluRay] [1080p] [YTS.AM]/The.Shape.Of.Water.2017.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Death Wish (2018) [WEBRip] [1080p] [YTS.AM]/Death.Wish.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Fantastic.Beasts.and.Where.to.Find.Them.2016.1080p.BRRip.x264.AAC-ETRG/Fantastic.Beasts.and.Where.to.Find.Them.2016.1080p.BRRip.x264.AAC-ETRG.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/A Quiet Place.2018.720p.HC.HDRip.X264.AC3-EVO[EtHD]/A Quiet Place.2018.720p.HC.HDRip.X264.AC3-EVO[EtHD].mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Maze Runner The Death Cure (2018) [BluRay] [1080p] [YTS.AM]/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Avengers Age of Ultron (2015) [1080p]/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Maze.Runner.The.Scorch.Trials.2015.1080p.BRRip.x264.AAC-ETRG/Maze.Runner.The.Scorch.Trials.2015.1080p.BRRip.x264.AAC-ETRG.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Prisoner of Azkaban (2004) 1080p.BRrip.scOrp.sujaidr (pimprg)/Harry Potter and the Prisoner of Azkaban (2004) 1080p.BRrip.scOrp.sujaidr (pimprg).mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter And The Deathly Hallows Part 2 2011 1080p Bluray x264 (DTS) - HarryLala/Harry Potter And The Deathly Hallows Part 2 2011 1080p Bluray x264 (DTS) - HarryLala.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Sorcerers Stone (2001) [1080p]/Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Harry Potter and the Order of the Phoenix (2007) [1080p]/Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Ghost In The Shell (2017) [1080p] [YTS.AG]/Ghost.In.The.Shell.2017.1080p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Crazy4TV.com - Spider-Man.Homecoming.2017.1080p.6CH.BluRay.x265-HETeam/Crazy4TV.com - Spider-Man.Homecoming.2017.1080p.BluRay.x265-HETeam.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Divergent (2014)/Divergent.2014.720p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Allegiant.2016.1080p.BluRay.6CH.ShAaNiG.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Whiplash (2014) [1080p]/Whiplash.2014.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Black Water (2018) [WEBRip] [720p] [YTS.AM]/Black.Water.2018.720p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Thor Ragnarok (2017) [1080p] [YTS.AG]/Thor.Ragnarok.2017.1080p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Inferno.2016.HC.HDRip.X264.AC3-EVO/Inferno.2016.HC.HDRip.X264.AC3-EVO.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/The greatest Showman/The.Greatest.Showman.2017.1080p.HC.HDRip.MkvCage.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Maze Runner (2014) [1080p]/The.Maze.Runner.2014.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Gladiator (2000)/Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Insidious The Last Key (2018) [BluRay] [720p] [YTS.AM]/Insidious.The.Last.Key.2018.720p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Red Sparrow (2018) [BluRay] [720p] [YTS.AM]/Red.Sparrow.2018.720p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Foreigner (2017) [1080p] [YTS.AG]/The.Foreigner.2017.1080p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Memento (2000) [1080p]/Memento.2000.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Game Night (2018) [BluRay] [1080p] [YTS.AM]/Game.Night.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Batman The Dark Knight (2008) [1080p]/Batman.The.Dark.Knight.2008.1080p.BluRay.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Inception (2010) [1080p]/Inception.2010.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Darkest Hour (2017) [1080p] [YTS.AM]/Darkest.Hour.2017.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Moana 2016 1080p BluRay x264 DTS-JYK/Moana 2016 1080p BluRay x264 DTS-JYK.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG/Dunkirk.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/The Boss Baby (2017) [YTS.AG]/The.Boss.Baby.2017.720p.BluRay.x264-[YTS.AG].mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Fight Club (1999) [1080p]/Fight.Club.10th.Anniversary.Edition.1999.1080p.BrRip.x264.YIFY.mp4
+[1;32mSubs found: [0m/mnt/Plex/Movies/Baby.Driver.2017.1080p.WEB-DL.H264.AC3-EVO/Baby.Driver.2017.1080p.WEB-DL.H264.AC3-EVO.mkv
+[1;32mSubs found: [0m/mnt/Plex/Movies/Terminal (2018) [WEBRip] [720p] [YTS.AM]/Terminal.2018.720p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]/Johnny.English.Strikes.Again.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/Venom (2018) [WEBRip] [1080p] [YTS.AM]/Venom.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/Avengers Infinity War (2018) [WEBRip] [1080p] [YTS.AM]/Avengers.Infinity.War.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/Mowgli Legend Of The Jungle (2018) [WEBRip] [1080p] [YTS.AM]/Mowgli.Legend.Of.The.Jungle.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/A Simple Favor (2018) [BluRay] [1080p] [YTS.AM]/A.Simple.Favor.2018.1080p.BluRay.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/Mile 22 (2018) [WEBRip] [1080p] [YTS.AM]/Mile.22.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/The Predator (2018) [WEBRip] [1080p] [YTS.AM]/The.Predator.2018.1080p.WEBRip.x264-[YTS.AM].mp4
+[1;32mSubs found: [0m/mnt2/Plex/Movies/The Greatest Showman (2017) [1080p] [YTS.ME]/The.Greatest.Showman.2017.1080p.BluRay.x264-[YTS.ME].mp4
+
+[1;31mMissing Subtitles: [0m410

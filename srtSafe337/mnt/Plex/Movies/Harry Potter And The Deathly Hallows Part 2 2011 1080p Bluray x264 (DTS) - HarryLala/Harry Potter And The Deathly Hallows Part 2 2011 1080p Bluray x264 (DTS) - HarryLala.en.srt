@@ -1,0 +1,4141 @@
+1
+00:02:33,617 --> 00:02:34,925
+<font color="#FFFFFF">It's beautiful here.</font>
+
+2
+00:02:36,349 --> 00:02:39,909
+<font color="#FFFFFF">It was our aunt's.
+We used to come here as kids.</font>
+
+3
+00:02:41,423 --> 00:02:43,128
+<font color="#FFFFFF">The Order uses it
+now as a safe house.</font>
+
+4
+00:02:45,346 --> 00:02:46,675
+<font color="#FFFFFF">What's left of us at least.</font>
+
+5
+00:02:49,615 --> 00:02:51,351
+<font color="#FFFFFF">Muggles think these
+things keep evil away.</font>
+
+6
+00:02:52,251 --> 00:02:52,938
+<font color="#FFFFFF">But they're wrong.</font>
+
+7
+00:02:56,094 --> 00:02:57,469
+<font color="#FFFFFF">I need to talk to the Goblin.</font>
+
+8
+00:03:09,990 --> 00:03:10,883
+<font color="#FFFFFF">How are you?</font>
+
+9
+00:03:13,211 --> 00:03:13,989
+<font color="#FFFFFF">Alive.</font>
+
+10
+00:03:20,184 --> 00:03:21,098
+<font color="#FFFFFF">You probably don't
+remember that you...</font>
+
+11
+00:03:21,223 --> 00:03:23,813
+<font color="#FFFFFF">That I showed you to your vault,
+the first time you came to Gringotts.</font>
+
+12
+00:03:25,151 --> 00:03:27,531
+<font color="#FFFFFF">Even amongst Goblins, you are famous
+Harry Potter.</font>
+
+13
+00:03:32,023 --> 00:03:34,563
+<font color="#FFFFFF">- You buried the elf?
+- Yes.</font>
+
+14
+00:03:35,583 --> 00:03:36,462
+<font color="#FFFFFF">And brought me here.</font>
+
+15
+00:03:39,344 --> 00:03:40,517
+<font color="#FFFFFF">You are...</font>
+
+16
+00:03:42,814 --> 00:03:44,481
+<font color="#FFFFFF">Pretty unusual, is it?</font>
+
+17
+00:03:52,668 --> 00:03:54,197
+<font color="#FFFFFF">How did you come by the sword?</font>
+
+18
+00:03:59,222 --> 00:04:00,532
+<font color="#FFFFFF">It's complicated.</font>
+
+19
+00:04:02,854 --> 00:04:05,689
+<font color="#FFFFFF">Why did Bellatrix Lestrange think
+it should be in her vault at Gringotts?</font>
+
+20
+00:04:07,693 --> 00:04:09,255
+<font color="#FFFFFF">It's complicated.</font>
+
+21
+00:04:13,138 --> 00:04:15,983
+<font color="#FFFFFF">The sword presented itself to us,
+in moment of need.</font>
+
+22
+00:04:16,905 --> 00:04:18,049
+<font color="#FFFFFF">We didn't steal it.</font>
+
+23
+00:04:21,603 --> 00:04:24,847
+<font color="#FFFFFF">There is a sword in Madam Lestrange's
+vault identical to this one.</font>
+
+24
+00:04:24,972 --> 00:04:26,274
+<font color="#FFFFFF">But it is a fake.</font>
+
+25
+00:04:27,253 --> 00:04:28,592
+<font color="#FFFFFF">It was placed there this past summer.</font>
+
+26
+00:04:28,717 --> 00:04:30,378
+<font color="#FFFFFF">And she never suspected
+it was a fake.</font>
+
+27
+00:04:30,620 --> 00:04:31,765
+<font color="#FFFFFF">The replica is very convincing.</font>
+
+28
+00:04:32,222 --> 00:04:35,522
+<font color="#FFFFFF">Only a goblin would recognize that
+this is the true Sword of Gryffindor.</font>
+
+29
+00:04:36,448 --> 00:04:37,328
+<font color="#FFFFFF">Who is the acquaintance?</font>
+
+30
+00:04:38,491 --> 00:04:39,525
+<font color="#FFFFFF">A Hogwarts Professor.</font>
+
+31
+00:04:40,656 --> 00:04:42,324
+<font color="#FFFFFF">As I understand that
+he's now Headmaster.</font>
+
+32
+00:04:43,617 --> 00:04:44,221
+<font color="#FFFFFF">Snape.</font>
+
+33
+00:04:45,768 --> 00:04:47,675
+<font color="#FFFFFF">He put a fake sword
+in Bellatrix's vault.</font>
+
+34
+00:04:49,045 --> 00:04:49,679
+<font color="#FFFFFF">Why?</font>
+
+35
+00:04:50,311 --> 00:04:53,826
+<font color="#FFFFFF">There are more than a few curious things
+in the vaults at Gringotts.</font>
+
+36
+00:04:55,543 --> 00:04:57,920
+<font color="#FFFFFF">And in Madam Lestrange's
+vault as well?</font>
+
+37
+00:05:01,236 --> 00:05:02,149
+<font color="#FFFFFF">Perhaps.</font>
+
+38
+00:05:04,935 --> 00:05:08,100
+<font color="#FFFFFF">I need to get into Gringotts.
+Into one of the vaults.</font>
+
+39
+00:05:09,064 --> 00:05:11,659
+<font color="#FFFFFF">- It is impossible.
+- Alone, yes.</font>
+
+40
+00:05:12,051 --> 00:05:13,598
+<font color="#FFFFFF">But with you, no.</font>
+
+41
+00:05:19,500 --> 00:05:21,926
+<font color="#FFFFFF">- Why should I help you?
+- I have gold.</font>
+
+42
+00:05:22,757 --> 00:05:23,725
+<font color="#FFFFFF">Lots of it.</font>
+
+43
+00:05:24,029 --> 00:05:25,105
+<font color="#FFFFFF">I've no interest in gold.</font>
+
+44
+00:05:25,893 --> 00:05:26,365
+<font color="#FFFFFF">Then what?</font>
+
+45
+00:05:32,260 --> 00:05:32,799
+<font color="#FFFFFF">That.</font>
+
+46
+00:05:34,467 --> 00:05:35,595
+<font color="#FFFFFF">That is my price.</font>
+
+47
+00:05:49,349 --> 00:05:51,624
+<font color="#FFFFFF">Are you thinking there's a
+Horcrux in Bellatrix's vault?</font>
+
+48
+00:05:52,338 --> 00:05:54,178
+<font color="#FFFFFF">Well, she was terrified when she
+thought we had been in there.</font>
+
+49
+00:05:54,937 --> 00:05:56,284
+<font color="#FFFFFF">She kept asking you,
+what else was taken?</font>
+
+50
+00:05:57,059 --> 00:05:59,832
+<font color="#FFFFFF">I bet you anything, there's Horcrux
+in there. Another piece of his soul.</font>
+
+51
+00:06:00,089 --> 00:06:03,122
+<font color="#FFFFFF">Let's find it, kill it, and we are
+one step closer to killing him.</font>
+
+52
+00:06:03,247 --> 00:06:04,280
+<font color="#FFFFFF">And what happens when we find it,</font>
+
+53
+00:06:05,152 --> 00:06:07,289
+<font color="#FFFFFF">How're we supposed to destroy it,
+now you're giving the sword to Griphook?</font>
+
+54
+00:06:08,930 --> 00:06:10,251
+<font color="#FFFFFF">I'm still working on that part.</font>
+
+55
+00:06:13,164 --> 00:06:13,696
+<font color="#FFFFFF">He's weak.</font>
+
+56
+00:06:24,169 --> 00:06:24,680
+<font color="#FFFFFF">Who?</font>
+
+57
+00:06:27,154 --> 00:06:27,887
+<font color="#FFFFFF">Mr. Ollivander</font>
+
+58
+00:06:29,287 --> 00:06:30,888
+<font color="#FFFFFF">I need to ask you a few questions.</font>
+
+59
+00:06:31,472 --> 00:06:33,163
+<font color="#FFFFFF">Anything, m'boy.
+Anything!</font>
+
+60
+00:06:35,464 --> 00:06:39,459
+<font color="#FFFFFF">Would you mind identifying this wand?
+We need to know if it's safe to use.</font>
+
+61
+00:06:43,555 --> 00:06:47,337
+<font color="#FFFFFF">Uhh... Walnut</font>
+
+62
+00:06:49,233 --> 00:06:50,809
+<font color="#FFFFFF">Dragon Heartstring</font>
+
+63
+00:06:52,527 --> 00:06:54,135
+<font color="#FFFFFF">12 and three quarter inches.</font>
+
+64
+00:06:56,142 --> 00:06:56,919
+<font color="#FFFFFF">Unyie...</font>
+
+65
+00:07:00,121 --> 00:07:01,172
+<font color="#FFFFFF">Unyielding.</font>
+
+66
+00:07:02,846 --> 00:07:06,442
+<font color="#FFFFFF">This belonged to Bellatrix Lestrange.</font>
+
+67
+00:07:10,779 --> 00:07:11,659
+<font color="#FFFFFF">And this?</font>
+
+68
+00:07:15,637 --> 00:07:16,127
+<font color="#FFFFFF">Hawthorn.</font>
+
+69
+00:07:18,761 --> 00:07:20,083
+<font color="#FFFFFF">An unicorn hair.</font>
+
+70
+00:07:21,515 --> 00:07:22,192
+<font color="#FFFFFF">10 inches.</font>
+
+71
+00:07:23,478 --> 00:07:25,152
+<font color="#FFFFFF">Reasonably pliant.</font>
+
+72
+00:07:29,776 --> 00:07:33,091
+<font color="#FFFFFF">This was the wand of Draco Malfoy.</font>
+
+73
+00:07:34,992 --> 00:07:35,478
+<font color="#FFFFFF">Was?</font>
+
+74
+00:07:36,396 --> 00:07:37,158
+<font color="#FFFFFF">Is it not still?</font>
+
+75
+00:07:37,716 --> 00:07:40,529
+<font color="#FFFFFF">Well, perhaps not.
+If you won it from him.</font>
+
+76
+00:07:44,134 --> 00:07:46,704
+<font color="#FFFFFF">I sense its allegiance has changed.</font>
+
+77
+00:07:52,473 --> 00:07:56,151
+<font color="#FFFFFF">You talk about wands,
+as if they have feelings...</font>
+
+78
+00:07:59,279 --> 00:08:00,057
+<font color="#FFFFFF">can think!</font>
+
+79
+00:08:03,950 --> 00:08:07,417
+<font color="#FFFFFF">The wand chooses the wizard, Mr.
+Potter.</font>
+
+80
+00:08:08,907 --> 00:08:13,535
+<font color="#FFFFFF">That much has always been clear to
+those of us who've studied wandlore.</font>
+
+81
+00:08:15,534 --> 00:08:18,123
+<font color="#FFFFFF">And, what do you know
+about the Deathly Hallows?</font>
+
+82
+00:08:23,480 --> 00:08:25,486
+<font color="#FFFFFF">It is rumored there are three.</font>
+
+83
+00:08:28,492 --> 00:08:35,786
+<font color="#FFFFFF">The Elder Wand, the Cloak of Invisibility,
+to hide you from your enemies...</font>
+
+84
+00:08:36,691 --> 00:08:41,521
+<font color="#FFFFFF">and the Resurrection Stone, to bring
+back loved ones from the dead.</font>
+
+85
+00:08:42,722 --> 00:08:46,816
+<font color="#FFFFFF">Together,
+they make one the Master of Death.</font>
+
+86
+00:08:48,139 --> 00:08:54,001
+<font color="#FFFFFF">But few,
+truly believe that such objects exist.</font>
+
+87
+00:08:54,126 --> 00:08:54,726
+<font color="#FFFFFF">Do you?</font>
+
+88
+00:08:56,410 --> 00:08:57,782
+<font color="#FFFFFF">Do you believe they exist, sir?</font>
+
+89
+00:09:00,295 --> 00:09:01,266
+<font color="#FFFFFF">Well...</font>
+
+90
+00:09:01,916 --> 00:09:07,459
+<font color="#FFFFFF">I see no reason to put
+stock into an old wives' tale.</font>
+
+91
+00:09:09,071 --> 00:09:09,739
+<font color="#FFFFFF">You're lying!</font>
+
+92
+00:09:11,549 --> 00:09:12,908
+<font color="#FFFFFF">You know one exists.</font>
+
+93
+00:09:14,011 --> 00:09:18,292
+<font color="#FFFFFF">You told him about it.
+You told him about the Elder Wand...</font>
+
+94
+00:09:18,769 --> 00:09:20,962
+<font color="#FFFFFF">and where he could go looking for it.</font>
+
+95
+00:09:24,803 --> 00:09:26,204
+<font color="#FFFFFF">He tortured me.</font>
+
+96
+00:09:29,734 --> 00:09:30,716
+<font color="#FFFFFF">Besides...</font>
+
+97
+00:09:32,577 --> 00:09:34,245
+<font color="#FFFFFF">I only conveyed rumors.</font>
+
+98
+00:09:37,083 --> 00:09:37,634
+<font color="#FFFFFF">There's...</font>
+
+99
+00:09:39,987 --> 00:09:42,387
+<font color="#FFFFFF">There's no telling
+whether he will find it.</font>
+
+100
+00:09:45,965 --> 00:09:47,391
+<font color="#FFFFFF">He has found it, sir.</font>
+
+101
+00:09:53,775 --> 00:09:54,568
+<font color="#FFFFFF">We'll let you rest.</font>
+
+102
+00:09:58,041 --> 00:10:00,099
+<font color="#FFFFFF">He's after you, Mr. Potter.</font>
+
+103
+00:10:01,065 --> 00:10:03,317
+<font color="#FFFFFF">If it's true what you say,</font>
+
+104
+00:10:04,229 --> 00:10:05,951
+<font color="#FFFFFF">that he has the Elder Wand,</font>
+
+105
+00:10:08,581 --> 00:10:09,702
+<font color="#FFFFFF">I'm afraid,</font>
+
+106
+00:10:11,048 --> 00:10:13,129
+<font color="#FFFFFF">you really don't stand a chance.</font>
+
+107
+00:10:15,334 --> 00:10:17,361
+<font color="#FFFFFF">Well, I suppose I'll have to kill him,
+before he finds me, then.</font>
+
+108
+00:10:23,928 --> 00:10:25,083
+<font color="#FFFFFF">You're sure that's hers?</font>
+
+109
+00:10:27,700 --> 00:10:28,441
+<font color="#FFFFFF">Positive.</font>
+
+110
+00:10:35,490 --> 00:10:36,167
+<font color="#FFFFFF">Well?</font>
+
+111
+00:10:38,144 --> 00:10:39,129
+<font color="#FFFFFF">How do I look?</font>
+
+112
+00:10:40,396 --> 00:10:41,025
+<font color="#FFFFFF">Hideous.</font>
+
+113
+00:10:42,869 --> 00:10:45,332
+<font color="#FFFFFF">You can give that to Hermione to hold.
+Alright, Griphook?</font>
+
+114
+00:11:05,950 --> 00:11:07,001
+<font color="#FFFFFF">We're relying on you, Griphook.</font>
+
+115
+00:11:07,126 --> 00:11:09,041
+<font color="#FFFFFF">If you get us past the
+guards into the vault...</font>
+
+116
+00:11:09,404 --> 00:11:10,104
+<font color="#FFFFFF">The sword's yours.</font>
+
+117
+00:11:23,849 --> 00:11:24,702
+<font color="#FFFFFF">Madam Lestrange.</font>
+
+118
+00:11:25,205 --> 00:11:25,831
+<font color="#FFFFFF">Good morning.</font>
+
+119
+00:11:28,294 --> 00:11:31,017
+<font color="#FFFFFF">Good morning?
+Good morning?</font>
+
+120
+00:11:31,816 --> 00:11:34,412
+<font color="#FFFFFF">You're Bellatrix Lestrange,
+not some school girl!</font>
+
+121
+00:11:34,537 --> 00:11:35,921
+<font color="#FFFFFF">Hey!
+Easy!</font>
+
+122
+00:11:37,055 --> 00:11:41,324
+<font color="#FFFFFF">If she gives us away, we must swear to
+use that sword to slit our own throats.</font>
+
+123
+00:11:42,097 --> 00:11:42,841
+<font color="#FFFFFF">Understand?</font>
+
+124
+00:11:43,904 --> 00:11:44,850
+<font color="#FFFFFF">No, he's right.</font>
+
+125
+00:11:45,362 --> 00:11:46,379
+<font color="#FFFFFF">I speak stupid.</font>
+
+126
+00:11:47,725 --> 00:11:50,138
+<font color="#FFFFFF">Okay.
+Let's do it.</font>
+
+127
+00:12:55,711 --> 00:12:58,167
+<font color="#FFFFFF">I wish to enter my vault.</font>
+
+128
+00:13:01,891 --> 00:13:03,741
+<font color="#FFFFFF">Identification?</font>
+
+129
+00:13:07,219 --> 00:13:09,172
+<font color="#FFFFFF">I hardly think that
+would be necessary.</font>
+
+130
+00:13:12,376 --> 00:13:13,572
+<font color="#FFFFFF">Madam Lestrange.</font>
+
+131
+00:13:19,515 --> 00:13:21,247
+<font color="#FFFFFF">I don't like to be kept waiting.</font>
+
+132
+00:13:22,208 --> 00:13:22,930
+<font color="#FFFFFF"><i>I know...</i></font>
+
+133
+00:13:24,071 --> 00:13:25,351
+<font color="#FFFFFF"><i>They know she's an impostor.</i></font>
+
+134
+00:13:29,078 --> 00:13:30,174
+<font color="#FFFFFF"><i>They'd be warned.</i></font>
+
+135
+00:13:38,756 --> 00:13:39,332
+<font color="#FFFFFF">Harry...</font>
+
+136
+00:13:40,983 --> 00:13:42,034
+<font color="#FFFFFF">What do we do, Harry?</font>
+
+137
+00:13:48,654 --> 00:13:52,039
+<font color="#FFFFFF">Madam Lestrange,
+would you mind presenting your wand?</font>
+
+138
+00:13:53,255 --> 00:13:54,632
+<font color="#FFFFFF">And why should I do that?</font>
+
+139
+00:13:54,757 --> 00:13:59,567
+<font color="#FFFFFF">It's the bank's policy! I'm sure you
+understand, given current climate.</font>
+
+140
+00:14:00,930 --> 00:14:03,619
+<font color="#FFFFFF">No! I most certainly
+do not understand!</font>
+
+141
+00:14:04,044 --> 00:14:07,053
+<font color="#FFFFFF">I'm afraid, I must insist.</font>
+
+142
+00:14:13,116 --> 00:14:13,949
+<font color="#FFFFFF"><i>Imperio!</i></font>
+
+143
+00:14:20,591 --> 00:14:22,419
+<font color="#FFFFFF">Very well, Madam Lestrange.</font>
+
+144
+00:14:22,999 --> 00:14:24,138
+<font color="#FFFFFF">If you will follow me?</font>
+
+145
+00:15:01,139 --> 00:15:01,832
+<font color="#FFFFFF">What is that, Griphook?</font>
+
+146
+00:15:07,478 --> 00:15:07,938
+<font color="#FFFFFF">Griphook!</font>
+
+147
+00:15:27,342 --> 00:15:29,091
+<font color="#FFFFFF"><i>Aresto Momentum</i></font>
+
+148
+00:15:33,932 --> 00:15:34,824
+<font color="#FFFFFF">Well done, Hermione.</font>
+
+149
+00:15:43,565 --> 00:15:45,016
+<font color="#FFFFFF">Oh no, you two're like you again.</font>
+
+150
+00:15:46,016 --> 00:15:49,403
+<font color="#FFFFFF">The Thief's Downfall,
+washes away all enchantments.</font>
+
+151
+00:15:50,174 --> 00:15:51,027
+<font color="#FFFFFF">Can be deadly.</font>
+
+152
+00:15:51,533 --> 00:15:52,148
+<font color="#FFFFFF">You don't say.</font>
+
+153
+00:15:53,136 --> 00:15:55,300
+<font color="#FFFFFF">Just out of interest,
+is there any other way out of here?</font>
+
+154
+00:15:56,331 --> 00:15:56,752
+<font color="#FFFFFF">No.</font>
+
+155
+00:15:58,965 --> 00:16:02,116
+<font color="#FFFFFF">What the devil are all
+you doing down here?</font>
+
+156
+00:16:02,990 --> 00:16:03,646
+<font color="#FFFFFF">Thieves!</font>
+
+157
+00:16:04,302 --> 00:16:04,954
+<font color="#FFFFFF">You gave up the...</font>
+
+158
+00:16:05,079 --> 00:16:06,009
+<font color="#FFFFFF"><i>- Imperio
+- You!</i></font>
+
+159
+00:16:17,870 --> 00:16:18,811
+<font color="#FFFFFF">That doesn't sound good.</font>
+
+160
+00:16:30,527 --> 00:16:31,198
+<font color="#FFFFFF">Bloody hell!</font>
+
+161
+00:16:31,778 --> 00:16:32,953
+<font color="#FFFFFF">That's an Ukrainian Ironbelly.</font>
+
+162
+00:16:33,331 --> 00:16:33,725
+<font color="#FFFFFF">Here.</font>
+
+163
+00:16:45,639 --> 00:16:48,101
+<font color="#FFFFFF">It's been trained to expect pain
+when it hears the noise.</font>
+
+164
+00:16:49,061 --> 00:16:49,707
+<font color="#FFFFFF">That's barbaric!</font>
+
+165
+00:17:20,317 --> 00:17:20,973
+<font color="#FFFFFF"><i>Lumos</i></font>
+
+166
+00:17:26,386 --> 00:17:27,044
+<font color="#FFFFFF">Blimey!</font>
+
+167
+00:17:35,091 --> 00:17:36,077
+<font color="#FFFFFF"><i>Accio Horcrux</i></font>
+
+168
+00:17:38,840 --> 00:17:40,323
+<font color="#FFFFFF">You seem you're gonna try
+that one to get over here?</font>
+
+169
+00:17:40,841 --> 00:17:42,548
+<font color="#FFFFFF">No kind of magic would work in here.</font>
+
+170
+00:17:47,847 --> 00:17:48,887
+<font color="#FFFFFF">It's in here, Harry?</font>
+
+171
+00:17:50,672 --> 00:17:51,653
+<font color="#FFFFFF">Can you feel anything?</font>
+
+172
+00:18:13,918 --> 00:18:16,072
+<font color="#FFFFFF">That's it!
+Up there!</font>
+
+173
+00:18:20,041 --> 00:18:23,069
+<font color="#FFFFFF">They have added the Gemino curse.
+Everything you touch will multiply.</font>
+
+174
+00:18:23,615 --> 00:18:24,295
+<font color="#FFFFFF">Give me the sword.</font>
+
+175
+00:18:42,838 --> 00:18:43,849
+<font color="#FFFFFF">Stop moving!</font>
+
+176
+00:19:07,158 --> 00:19:07,665
+<font color="#FFFFFF">Do it!</font>
+
+177
+00:19:11,274 --> 00:19:13,735
+<font color="#FFFFFF">- We had deal, Griphook!
+- The cup for the sword!</font>
+
+178
+00:19:20,220 --> 00:19:24,121
+<font color="#FFFFFF">I said I'll get you in, I didn't
+say anything about getting you out.</font>
+
+179
+00:19:46,945 --> 00:19:48,870
+<font color="#FFFFFF">Griphook! Thieves!
+Griphook!</font>
+
+180
+00:19:49,145 --> 00:19:50,283
+<font color="#FFFFFF">Hey, thieves!</font>
+
+181
+00:19:54,150 --> 00:19:55,060
+<font color="#FFFFFF">Is that okay?</font>
+
+182
+00:19:55,925 --> 00:19:56,928
+<font color="#FFFFFF">We've still got Bogrod.</font>
+
+183
+00:20:04,608 --> 00:20:05,495
+<font color="#FFFFFF">That's unfortunate.</font>
+
+184
+00:20:10,206 --> 00:20:12,215
+<font color="#FFFFFF">We can't just stand here,
+You got any idea?</font>
+
+185
+00:20:12,689 --> 00:20:13,576
+<font color="#FFFFFF">You're the brilliant one.</font>
+
+186
+00:20:14,121 --> 00:20:16,116
+<font color="#FFFFFF">I've got something, but it's mad!</font>
+
+187
+00:20:16,954 --> 00:20:17,701
+<font color="#FFFFFF"><i>Reducto</i></font>
+
+188
+00:20:30,622 --> 00:20:31,700
+<font color="#FFFFFF">Well, come on, then!</font>
+
+189
+00:20:34,315 --> 00:20:35,221
+<font color="#FFFFFF"><i>Relashio</i></font>
+
+190
+00:21:22,982 --> 00:21:23,691
+<font color="#FFFFFF">Keep moving!</font>
+
+191
+00:21:51,525 --> 00:21:52,270
+<font color="#FFFFFF">Now what?</font>
+
+192
+00:21:52,782 --> 00:21:53,552
+<font color="#FFFFFF"><i>Reducto</i></font>
+
+193
+00:21:55,484 --> 00:21:56,111
+<font color="#FFFFFF">Hold on.</font>
+
+194
+00:22:06,225 --> 00:22:09,006
+<font color="#FFFFFF">That was brilliant!
+Absolutely brilliant!</font>
+
+195
+00:22:37,599 --> 00:22:38,456
+<font color="#FFFFFF">We're dropping!</font>
+
+196
+00:22:42,299 --> 00:22:44,037
+<font color="#FFFFFF">- I say we jump!
+- When?</font>
+
+197
+00:22:44,623 --> 00:22:45,250
+<font color="#FFFFFF">Now!</font>
+
+198
+00:23:40,492 --> 00:23:40,995
+<font color="#FFFFFF">He knows.</font>
+
+199
+00:23:41,917 --> 00:23:42,655
+<font color="#FFFFFF">You-Know-Who.</font>
+
+200
+00:23:43,611 --> 00:23:44,863
+<font color="#FFFFFF">He knows we broke into Gringotts.</font>
+
+201
+00:23:45,359 --> 00:23:48,041
+<font color="#FFFFFF">He knows what we took,
+and he knows we're hunting Horcruxes.</font>
+
+202
+00:23:48,715 --> 00:23:50,066
+<font color="#FFFFFF">- How is it you know?
+- I saw him.</font>
+
+203
+00:23:50,715 --> 00:23:53,184
+<font color="#FFFFFF">You let him in?
+Harry, you can't do that!</font>
+
+204
+00:23:53,309 --> 00:23:54,880
+<font color="#FFFFFF">Hermione, I can't always help it!</font>
+
+205
+00:23:55,379 --> 00:23:56,845
+<font color="#FFFFFF">Well, maybe I can.
+I don't know!</font>
+
+206
+00:23:57,174 --> 00:23:58,192
+<font color="#FFFFFF">Never mind!
+What happened?</font>
+
+207
+00:23:58,756 --> 00:24:00,402
+<font color="#FFFFFF">Well, he's angry...</font>
+
+208
+00:24:00,989 --> 00:24:01,926
+<font color="#FFFFFF">and scared too.</font>
+
+209
+00:24:02,451 --> 00:24:05,384
+<font color="#FFFFFF">He knows, if we find and destroy all the
+Horcruxes, we'll be able to kill him.</font>
+
+210
+00:24:06,166 --> 00:24:08,661
+<font color="#FFFFFF">I reckon he'll stop at nothing
+to make sure we don't find the rest.</font>
+
+211
+00:24:11,010 --> 00:24:11,675
+<font color="#FFFFFF">And there's more.</font>
+
+212
+00:24:12,059 --> 00:24:13,053
+<font color="#FFFFFF">One of them is at Hogwarts.</font>
+
+213
+00:24:13,493 --> 00:24:14,078
+<font color="#FFFFFF">What?</font>
+
+214
+00:24:15,187 --> 00:24:15,954
+<font color="#FFFFFF">You saw it?</font>
+
+215
+00:24:16,079 --> 00:24:16,850
+<font color="#FFFFFF">I saw the castle.</font>
+
+216
+00:24:16,975 --> 00:24:18,061
+<font color="#FFFFFF">And Rowena Ravenclaw.</font>
+
+217
+00:24:18,186 --> 00:24:19,384
+<font color="#FFFFFF">It must have something
+to do with her.</font>
+
+218
+00:24:19,509 --> 00:24:20,620
+<font color="#FFFFFF">We have to go there, now!</font>
+
+219
+00:24:20,970 --> 00:24:22,048
+<font color="#FFFFFF">Well, we can't do that!</font>
+
+220
+00:24:22,695 --> 00:24:24,387
+<font color="#FFFFFF">We've got to plan,
+we've got to figure it out!</font>
+
+221
+00:24:24,512 --> 00:24:27,443
+<font color="#FFFFFF">Hermione, when have any of
+our plans ever actually worked?</font>
+
+222
+00:24:27,694 --> 00:24:29,647
+<font color="#FFFFFF">We plan, we get there,
+all hell breaks loose.</font>
+
+223
+00:24:31,219 --> 00:24:33,311
+<font color="#FFFFFF">He's right!
+One problem...</font>
+
+224
+00:24:34,127 --> 00:24:36,849
+<font color="#FFFFFF">Snape's Headmaster now,
+we can't just move from the front door!</font>
+
+225
+00:24:38,268 --> 00:24:40,492
+<font color="#FFFFFF">Well, we'll go to Hogsmeade,</font>
+
+226
+00:24:40,976 --> 00:24:41,784
+<font color="#FFFFFF">to Honeydukes.</font>
+
+227
+00:24:42,043 --> 00:24:43,387
+<font color="#FFFFFF">Take the secret
+passage in the cellar.</font>
+
+228
+00:24:44,526 --> 00:24:44,944
+<font color="#FFFFFF">It's...</font>
+
+229
+00:24:45,725 --> 00:24:47,054
+<font color="#FFFFFF">There's something wrong with him.</font>
+
+230
+00:24:48,023 --> 00:24:49,265
+<font color="#FFFFFF">It's like, you know, in the past...</font>
+
+231
+00:24:50,318 --> 00:24:52,009
+<font color="#FFFFFF">I've always been able
+to follow his thoughts.</font>
+
+232
+00:24:52,627 --> 00:24:54,385
+<font color="#FFFFFF">And now everything just
+feels disconnected.</font>
+
+233
+00:24:55,596 --> 00:24:57,699
+<font color="#FFFFFF">Maybe it's the Horcruxes.
+Maybe he's growing weaker.</font>
+
+234
+00:24:57,824 --> 00:24:58,671
+<font color="#FFFFFF">Maybe he's dying!</font>
+
+235
+00:24:59,145 --> 00:24:59,526
+<font color="#FFFFFF">No!</font>
+
+236
+00:25:00,185 --> 00:25:01,721
+<font color="#FFFFFF">No, it's...
+it's more like he's wounded.</font>
+
+237
+00:25:02,630 --> 00:25:04,272
+<font color="#FFFFFF">If anything, he feels more dangerous.</font>
+
+238
+00:25:55,120 --> 00:25:56,646
+<font color="#FFFFFF">- Right here. Come on!
+- Search everywhere.</font>
+
+239
+00:25:56,771 --> 00:25:57,214
+<font color="#FFFFFF">Go, move!</font>
+
+240
+00:26:17,008 --> 00:26:18,102
+<font color="#FFFFFF">Faster!</font>
+
+241
+00:26:31,087 --> 00:26:32,006
+<font color="#FFFFFF">In here, Potter.</font>
+
+242
+00:26:36,704 --> 00:26:37,831
+<font color="#FFFFFF"><i>Come on, move!</i></font>
+
+243
+00:26:46,096 --> 00:26:46,982
+<font color="#FFFFFF">Did you look at him?</font>
+
+244
+00:26:48,133 --> 00:26:50,785
+<font color="#FFFFFF">- For a second I thought that was...
+- I know. Dumbledore!</font>
+
+245
+00:27:07,513 --> 00:27:08,104
+<font color="#FFFFFF">Harry?</font>
+
+246
+00:27:10,759 --> 00:27:12,065
+<font color="#FFFFFF">I can see you in this.</font>
+
+247
+00:27:26,015 --> 00:27:28,587
+<font color="#FFFFFF">Bloody fools,
+what were you thinking, coming here?</font>
+
+248
+00:27:29,017 --> 00:27:31,273
+<font color="#FFFFFF">Have you any idea
+how dangerous it is?</font>
+
+249
+00:27:31,398 --> 00:27:34,090
+<font color="#FFFFFF">You're Aberforth,
+Dumbledore's brother.</font>
+
+250
+00:27:35,736 --> 00:27:37,188
+<font color="#FFFFFF">It's you who I've
+been seeing in here.</font>
+
+251
+00:27:38,385 --> 00:27:39,460
+<font color="#FFFFFF">You're the one who sent Dobby.</font>
+
+252
+00:27:40,077 --> 00:27:42,383
+<font color="#FFFFFF">- Why've you left him?
+- He's dead.</font>
+
+253
+00:27:43,744 --> 00:27:45,496
+<font color="#FFFFFF">Sorry to hear it.
+I liked that elf.</font>
+
+254
+00:27:45,774 --> 00:27:46,687
+<font color="#FFFFFF">Who gave that to you?</font>
+
+255
+00:27:47,016 --> 00:27:47,623
+<font color="#FFFFFF">The mirror?</font>
+
+256
+00:27:49,320 --> 00:27:51,588
+<font color="#FFFFFF">Mundungus Fletcher, 'bout a year ago.</font>
+
+257
+00:27:51,713 --> 00:27:53,405
+<font color="#FFFFFF">Dung had no right selling that to you.
+It belongs to...</font>
+
+258
+00:27:53,530 --> 00:27:54,096
+<font color="#FFFFFF">Sirius...</font>
+
+259
+00:27:55,615 --> 00:27:56,840
+<font color="#FFFFFF">Albus told me.</font>
+
+260
+00:27:58,050 --> 00:28:00,565
+<font color="#FFFFFF">He also told me you'd
+likely be hacked off,</font>
+
+261
+00:28:00,829 --> 00:28:03,515
+<font color="#FFFFFF">if you ever found that I had it.
+But, ask yourself;</font>
+
+262
+00:28:04,269 --> 00:28:06,292
+<font color="#FFFFFF">Where would you be if I didn't?</font>
+
+263
+00:28:10,477 --> 00:28:11,446
+<font color="#FFFFFF">Do you have any others much?</font>
+
+264
+00:28:11,794 --> 00:28:12,453
+<font color="#FFFFFF">From the Order?</font>
+
+265
+00:28:13,201 --> 00:28:14,303
+<font color="#FFFFFF">The Order's finished.</font>
+
+266
+00:28:15,284 --> 00:28:16,333
+<font color="#FFFFFF">You-Know-Who's won,</font>
+
+267
+00:28:16,936 --> 00:28:19,861
+<font color="#FFFFFF">anyone who says otherwise
+is killing themselves.</font>
+
+268
+00:28:20,403 --> 00:28:22,628
+<font color="#FFFFFF">We need to get into Hogwarts,
+tonight.</font>
+
+269
+00:28:23,533 --> 00:28:24,813
+<font color="#FFFFFF">Dumbledore gave us a job to do.</font>
+
+270
+00:28:25,246 --> 00:28:26,102
+<font color="#FFFFFF">Did he now...</font>
+
+271
+00:28:27,110 --> 00:28:29,341
+<font color="#FFFFFF">Nice job?
+Easy?</font>
+
+272
+00:28:30,173 --> 00:28:31,516
+<font color="#FFFFFF">We've been hunting Horcruxes.</font>
+
+273
+00:28:32,897 --> 00:28:34,742
+<font color="#FFFFFF">And we think the last one's inside
+the castle.</font>
+
+274
+00:28:34,867 --> 00:28:36,239
+<font color="#FFFFFF">But we'll need your help getting in.</font>
+
+275
+00:28:36,364 --> 00:28:39,915
+<font color="#FFFFFF">Which job my brother has given you no,
+it's a suicide mission.</font>
+
+276
+00:28:40,237 --> 00:28:42,163
+<font color="#FFFFFF">Do yourself a favor, boy.
+Go home!</font>
+
+277
+00:28:42,705 --> 00:28:43,666
+<font color="#FFFFFF">Live a little longer.</font>
+
+278
+00:28:43,791 --> 00:28:45,461
+<font color="#FFFFFF">Dumbledore trusted
+me to see this through.</font>
+
+279
+00:28:45,586 --> 00:28:47,458
+<font color="#FFFFFF">What makes you think
+you can trust him?</font>
+
+280
+00:28:48,853 --> 00:28:51,361
+<font color="#FFFFFF">What makes you think you can believe
+anything my brother told you?</font>
+
+281
+00:28:51,616 --> 00:28:52,633
+<font color="#FFFFFF">And in all the time you knew him...</font>
+
+282
+00:28:53,324 --> 00:28:54,765
+<font color="#FFFFFF">Did he ever mention my name?</font>
+
+283
+00:28:56,296 --> 00:28:57,728
+<font color="#FFFFFF">Did he ever mentioned hers?</font>
+
+284
+00:28:58,574 --> 00:29:00,148
+<font color="#FFFFFF">- Why should he...
+- Keep secrets.</font>
+
+285
+00:29:00,273 --> 00:29:01,714
+<font color="#FFFFFF">You tell me?</font>
+
+286
+00:29:03,291 --> 00:29:05,740
+<font color="#FFFFFF">- I trusted him.
+- That's a boy's answer.</font>
+
+287
+00:29:07,102 --> 00:29:11,622
+<font color="#FFFFFF">A boy goes chasing Horcruxes on the word of a
+man who wouldn't even tell him where to start.</font>
+
+288
+00:29:11,878 --> 00:29:12,679
+<font color="#FFFFFF">You're lying!</font>
+
+289
+00:29:13,751 --> 00:29:17,295
+<font color="#FFFFFF">Not just on me, that doesn't matter.
+To yourself as well.</font>
+
+290
+00:29:17,716 --> 00:29:18,957
+<font color="#FFFFFF">That's what a fool does.</font>
+
+291
+00:29:19,873 --> 00:29:23,414
+<font color="#FFFFFF">You don't strike me as a fool,
+Harry Potter!</font>
+
+292
+00:29:23,966 --> 00:29:27,460
+<font color="#FFFFFF">So, I'll ask you again,
+there must be a reason.</font>
+
+293
+00:29:30,496 --> 00:29:32,705
+<font color="#FFFFFF">I'm not interested in what happened
+between you and your brother.</font>
+
+294
+00:29:34,528 --> 00:29:35,965
+<font color="#FFFFFF">I don't care that you've given up.</font>
+
+295
+00:29:39,204 --> 00:29:40,766
+<font color="#FFFFFF">I trusted the man I knew.</font>
+
+296
+00:29:44,946 --> 00:29:46,583
+<font color="#FFFFFF">We need to get into
+the castle tonight.</font>
+
+297
+00:29:53,362 --> 00:29:54,706
+<font color="#FFFFFF">You know what to do.</font>
+
+298
+00:30:02,352 --> 00:30:03,290
+<font color="#FFFFFF">Where've you sent her?</font>
+
+299
+00:30:04,743 --> 00:30:05,461
+<font color="#FFFFFF">You'll see.</font>
+
+300
+00:30:06,510 --> 00:30:07,448
+<font color="#FFFFFF">Soon enough.</font>
+
+301
+00:30:14,660 --> 00:30:16,332
+<font color="#FFFFFF">That's your sister, Ariana.
+Isn't it?</font>
+
+302
+00:30:18,281 --> 00:30:19,927
+<font color="#FFFFFF">She died very young, didn't she?</font>
+
+303
+00:30:21,910 --> 00:30:25,259
+<font color="#FFFFFF">My brother sacrificed many things,
+Mr. Potter.</font>
+
+304
+00:30:25,926 --> 00:30:27,635
+<font color="#FFFFFF">On his journey to find power.</font>
+
+305
+00:30:28,650 --> 00:30:29,768
+<font color="#FFFFFF">Including Ariana.</font>
+
+306
+00:30:31,022 --> 00:30:32,959
+<font color="#FFFFFF">And she was devoted to him.</font>
+
+307
+00:30:34,630 --> 00:30:35,903
+<font color="#FFFFFF">He gave her everything,</font>
+
+308
+00:30:38,172 --> 00:30:38,862
+<font color="#FFFFFF">but time.</font>
+
+309
+00:30:41,265 --> 00:30:42,493
+<font color="#FFFFFF">Thank you, Mr. Dumbledore.</font>
+
+310
+00:30:50,458 --> 00:30:51,876
+<font color="#FFFFFF">He did save our lives twice!</font>
+
+311
+00:30:53,501 --> 00:30:54,612
+<font color="#FFFFFF">Kept an eye on us on that mirror.</font>
+
+312
+00:30:57,228 --> 00:30:58,868
+<font color="#FFFFFF">That doesn't seem like
+someone who's given up!</font>
+
+313
+00:31:05,445 --> 00:31:06,180
+<font color="#FFFFFF">She's coming back.</font>
+
+314
+00:31:08,231 --> 00:31:08,939
+<font color="#FFFFFF">What's that with her?</font>
+
+315
+00:31:17,924 --> 00:31:18,381
+<font color="#FFFFFF">Neville!</font>
+
+316
+00:31:18,825 --> 00:31:20,438
+<font color="#FFFFFF">- How you look...
+- Like hell, I reckon.</font>
+
+317
+00:31:21,679 --> 00:31:22,331
+<font color="#FFFFFF">This is nothing.</font>
+
+318
+00:31:23,061 --> 00:31:23,861
+<font color="#FFFFFF">Seamus is worse.</font>
+
+319
+00:31:24,756 --> 00:31:25,596
+<font color="#FFFFFF">Hey, Ab!</font>
+
+320
+00:31:25,864 --> 00:31:27,261
+<font color="#FFFFFF">We've got a couple
+more coming through.</font>
+
+321
+00:31:29,709 --> 00:31:31,022
+<font color="#FFFFFF">Don't remember this
+on the Marauder's Map.</font>
+
+322
+00:31:31,630 --> 00:31:33,066
+<font color="#FFFFFF">That's because it
+never existed till now.</font>
+
+323
+00:31:33,745 --> 00:31:36,450
+<font color="#FFFFFF">The seven secret passages were sealed
+off, before the start of the year.</font>
+
+324
+00:31:37,089 --> 00:31:38,279
+<font color="#FFFFFF">This is the only way in or out, now.</font>
+
+325
+00:31:39,442 --> 00:31:41,312
+<font color="#FFFFFF">The grounds are crawled with
+Death Eaters and Dementors.</font>
+
+326
+00:31:41,936 --> 00:31:43,483
+<font color="#FFFFFF">How about Mr. Snape as Headmaster?</font>
+
+327
+00:31:43,728 --> 00:31:44,529
+<font color="#FFFFFF">Hardly ever seen.</font>
+
+328
+00:31:44,790 --> 00:31:46,291
+<font color="#FFFFFF">It's the Carrows who's watch out for.</font>
+
+329
+00:31:47,102 --> 00:31:47,644
+<font color="#FFFFFF">Carrows?</font>
+
+330
+00:31:47,924 --> 00:31:50,269
+<font color="#FFFFFF">Yeah. Brother and sister.
+Incharge of discipline.</font>
+
+331
+00:31:50,840 --> 00:31:52,023
+<font color="#FFFFFF">They like punishment, the Carrows.</font>
+
+332
+00:31:52,739 --> 00:31:53,410
+<font color="#FFFFFF">They did that to you?</font>
+
+333
+00:31:54,092 --> 00:31:54,561
+<font color="#FFFFFF">Why?</font>
+
+334
+00:31:54,943 --> 00:31:57,886
+<font color="#FFFFFF">Today's Dark Arts lesson was
+practicing the Cruciatus curse.</font>
+
+335
+00:31:58,728 --> 00:31:59,560
+<font color="#FFFFFF">On first years.</font>
+
+336
+00:32:00,795 --> 00:32:01,449
+<font color="#FFFFFF">I refused.</font>
+
+337
+00:32:03,410 --> 00:32:04,490
+<font color="#FFFFFF">Hogwarts has changed.</font>
+
+338
+00:32:18,362 --> 00:32:19,930
+<font color="#FFFFFF">Let's have a bit of fun, shall we?</font>
+
+339
+00:32:26,003 --> 00:32:27,579
+<font color="#FFFFFF">Hey, listen up you lot!</font>
+
+340
+00:32:28,167 --> 00:32:29,053
+<font color="#FFFFFF">I've for you a surprise.</font>
+
+341
+00:32:29,178 --> 00:32:30,914
+<font color="#FFFFFF">No more Aberforth's cook gonna help.</font>
+
+342
+00:32:31,571 --> 00:32:32,953
+<font color="#FFFFFF">We'll be surprised if
+we can digest that.</font>
+
+343
+00:32:35,877 --> 00:32:38,148
+<font color="#FFFFFF">- Oh my!
+- Harry!</font>
+
+344
+00:32:52,510 --> 00:32:54,549
+<font color="#FFFFFF">Get the word out to Remus and
+the others, that Harry is back.</font>
+
+345
+00:32:55,314 --> 00:32:56,027
+<font color="#FFFFFF">Okay, okay!</font>
+
+346
+00:32:56,553 --> 00:32:57,791
+<font color="#FFFFFF">Let's not kill him
+before You-Know-Who does.</font>
+
+347
+00:32:57,916 --> 00:33:02,103
+<font color="#FFFFFF">Do you read? We've a new weather report.
+Lightning has struck. I repeat: Lightning has struck.</font>
+
+348
+00:33:02,228 --> 00:33:02,730
+<font color="#FFFFFF">What's the fun, Harry?</font>
+
+349
+00:33:09,310 --> 00:33:09,964
+<font color="#FFFFFF">Okay.</font>
+
+350
+00:33:11,122 --> 00:33:12,437
+<font color="#FFFFFF">There's something we need to find.</font>
+
+351
+00:33:13,477 --> 00:33:15,359
+<font color="#FFFFFF">Something hidden here, in the castle.</font>
+
+352
+00:33:15,849 --> 00:33:17,557
+<font color="#FFFFFF">And it may help us to defeat
+You-Know-Who.</font>
+
+353
+00:33:18,559 --> 00:33:21,121
+<font color="#FFFFFF">- Alright, what is it?
+- We don't know.</font>
+
+354
+00:33:23,686 --> 00:33:25,624
+<font color="#FFFFFF">- Where is it?
+- We don't know that either.</font>
+
+355
+00:33:27,985 --> 00:33:29,112
+<font color="#FFFFFF">I realize there's not much to go on.</font>
+
+356
+00:33:29,237 --> 00:33:30,078
+<font color="#FFFFFF">That's nothing to go on.</font>
+
+357
+00:33:31,181 --> 00:33:33,065
+<font color="#FFFFFF">I think it has something
+to do with Ravenclaw.</font>
+
+358
+00:33:34,261 --> 00:33:38,178
+<font color="#FFFFFF">It'll be small, easily concealed.</font>
+
+359
+00:33:39,480 --> 00:33:40,689
+<font color="#FFFFFF">Anyone, any ideas?</font>
+
+360
+00:33:43,015 --> 00:33:45,323
+<font color="#FFFFFF">Well, there's Rowena
+Ravenclaw's lost diadem.</font>
+
+361
+00:33:45,556 --> 00:33:46,621
+<font color="#FFFFFF">Oh, bloody hell!
+Here we go!</font>
+
+362
+00:33:48,272 --> 00:33:49,770
+<font color="#FFFFFF">Lost diadem of Ravenclaw?</font>
+
+363
+00:33:50,918 --> 00:33:52,254
+<font color="#FFFFFF">Hasn't anyone heard of this?</font>
+
+364
+00:33:53,248 --> 00:33:54,169
+<font color="#FFFFFF">It's quite famous.</font>
+
+365
+00:33:54,869 --> 00:33:56,703
+<font color="#FFFFFF">Yes. But, Luna, it's lost.</font>
+
+366
+00:33:57,064 --> 00:34:00,505
+<font color="#FFFFFF">For centuries. There's no person
+alive today who's seen it.</font>
+
+367
+00:34:01,419 --> 00:34:03,244
+<font color="#FFFFFF">Excuse me, can someone tell
+me what bloody diadem is?</font>
+
+368
+00:34:03,762 --> 00:34:04,917
+<font color="#FFFFFF">It's a sort of crown.</font>
+
+369
+00:34:05,364 --> 00:34:06,384
+<font color="#FFFFFF">You know, like a tiara.</font>
+
+370
+00:34:09,735 --> 00:34:10,406
+<font color="#FFFFFF">Harry!</font>
+
+371
+00:34:12,023 --> 00:34:12,851
+<font color="#FFFFFF">Hi, there.</font>
+
+372
+00:34:16,772 --> 00:34:19,342
+<font color="#FFFFFF">Six months she doesn't see me and
+it's like I'm a frankie first-year.</font>
+
+373
+00:34:19,993 --> 00:34:20,614
+<font color="#FFFFFF">I'm her brother!</font>
+
+374
+00:34:20,739 --> 00:34:23,483
+<font color="#FFFFFF">- She's got lots of them, but she's got only one Harry.
+- Shut up, Seamus!</font>
+
+375
+00:34:24,438 --> 00:34:25,062
+<font color="#FFFFFF">What is it, Ginny?</font>
+
+376
+00:34:26,001 --> 00:34:29,342
+<font color="#FFFFFF">Snape knows... he knows
+that Harry was spotted in Hogsmeade.</font>
+
+377
+00:35:09,382 --> 00:35:13,694
+<font color="#FFFFFF">Many of you are surely wondering,
+why I have summoned you at this hour.</font>
+
+378
+00:35:17,189 --> 00:35:19,854
+<font color="#FFFFFF">It's come to my attention,
+that earlier this evening...</font>
+
+379
+00:35:22,356 --> 00:35:24,352
+<font color="#FFFFFF">Harry Potter was
+sighted in Hogsmeade.</font>
+
+380
+00:35:27,222 --> 00:35:27,920
+<font color="#FFFFFF">Now...</font>
+
+381
+00:35:29,094 --> 00:35:30,296
+<font color="#FFFFFF">should anyone...</font>
+
+382
+00:35:32,047 --> 00:35:37,372
+<font color="#FFFFFF">student or staff attempt to aid Mr.
+Potter?</font>
+
+383
+00:35:38,727 --> 00:35:46,730
+<font color="#FFFFFF">They will be punished in a manner consistent with
+the severity of their transcription, further more...</font>
+
+384
+00:35:48,149 --> 00:35:51,749
+<font color="#FFFFFF">Any person found to have
+knowledge of these events...</font>
+
+385
+00:35:54,107 --> 00:35:57,396
+<font color="#FFFFFF">who fails to come forward...</font>
+
+386
+00:35:59,063 --> 00:36:06,615
+<font color="#FFFFFF">will be treated as equally guilty.</font>
+
+387
+00:36:09,677 --> 00:36:10,483
+<font color="#FFFFFF">Another...</font>
+
+388
+00:36:15,275 --> 00:36:22,637
+<font color="#FFFFFF">If anyone in here has any knowledge of
+Mr. Potter's movements this evening.</font>
+
+389
+00:36:25,939 --> 00:36:28,745
+<font color="#FFFFFF">I invite them to step forward.</font>
+
+390
+00:36:33,231 --> 00:36:34,476
+<font color="#FFFFFF">Now!</font>
+
+391
+00:36:49,730 --> 00:36:53,154
+<font color="#FFFFFF">It seems, despite your
+exhaustive defensive strategies,</font>
+
+392
+00:36:53,735 --> 00:36:55,890
+<font color="#FFFFFF">you still have a bit of
+security problem, Headmaster.</font>
+
+393
+00:37:00,004 --> 00:37:01,508
+<font color="#FFFFFF">I'm afraid it's quite extensive.</font>
+
+394
+00:37:03,498 --> 00:37:05,361
+<font color="#FFFFFF">How dare you stand where he stood?</font>
+
+395
+00:37:07,384 --> 00:37:11,164
+<font color="#FFFFFF">Tell them how it happened that night?
+Tell them how you looked him in the eye...</font>
+
+396
+00:37:11,529 --> 00:37:13,841
+<font color="#FFFFFF">A man who trusted you,
+and killed him.</font>
+
+397
+00:37:14,559 --> 00:37:15,098
+<font color="#FFFFFF">Tell them!</font>
+
+398
+00:37:41,498 --> 00:37:42,083
+<font color="#FFFFFF">COWARD!</font>
+
+399
+00:37:51,461 --> 00:37:53,295
+<font color="#FFFFFF"><i>Harry.</i></font>
+
+400
+00:37:54,816 --> 00:37:55,442
+<font color="#FFFFFF">Potter?</font>
+
+401
+00:38:30,663 --> 00:38:35,538
+<font color="#FFFFFF"><i>I know that many of
+you will want to fight.</i></font>
+
+402
+00:38:36,270 --> 00:38:41,544
+<font color="#FFFFFF"><i>Some of you may even think
+that to fight is wise.</i></font>
+
+403
+00:38:41,778 --> 00:38:43,565
+<font color="#FFFFFF"><i>But this is folly.</i></font>
+
+404
+00:38:45,283 --> 00:38:47,860
+<font color="#FFFFFF"><i>Give me Harry Potter.</i></font>
+
+405
+00:38:49,157 --> 00:38:52,849
+<font color="#FFFFFF"><i>Do this and none shall be harmed.</i></font>
+
+406
+00:38:53,283 --> 00:38:59,512
+<font color="#FFFFFF"><i>Give me Harry Potter,
+and I shall leave Hogwarts untouched.</i></font>
+
+407
+00:38:59,831 --> 00:39:06,786
+<font color="#FFFFFF"><i>Give me Harry Potter,
+and you will be rewarded.</i></font>
+
+408
+00:39:06,911 --> 00:39:09,596
+<font color="#FFFFFF"><i>You have one hour.</i></font>
+
+409
+00:39:20,188 --> 00:39:23,105
+<font color="#FFFFFF">What're you waiting for?
+Someone grab him!</font>
+
+410
+00:39:32,714 --> 00:39:37,136
+<font color="#FFFFFF">Students out of bed!
+Students out of bed!</font>
+
+411
+00:39:37,871 --> 00:39:39,278
+<font color="#FFFFFF">Students in the corridor!</font>
+
+412
+00:39:39,403 --> 00:39:42,543
+<font color="#FFFFFF">They're supposed to be out of bed,
+you blithering idiot!</font>
+
+413
+00:39:46,292 --> 00:39:47,185
+<font color="#FFFFFF">Sorry ma'am.</font>
+
+414
+00:39:47,494 --> 00:39:48,828
+<font color="#FFFFFF">As it happens, Mr. Filch...</font>
+
+415
+00:39:49,106 --> 00:39:50,786
+<font color="#FFFFFF">Your arrival is most opportune.</font>
+
+416
+00:39:51,609 --> 00:39:58,203
+<font color="#FFFFFF">If you would, I would like you please, to lead Miss
+Parkinson and the rest of Slytherin house, from the hall.</font>
+
+417
+00:39:58,479 --> 00:40:01,087
+<font color="#FFFFFF">Exactly where is it I'll
+be leading 'em to, ma'am?</font>
+
+418
+00:40:01,212 --> 00:40:02,627
+<font color="#FFFFFF">The dungeons would do.</font>
+
+419
+00:40:08,553 --> 00:40:10,830
+<font color="#FFFFFF">I presume you have a reason
+for returning, Potter.</font>
+
+420
+00:40:10,955 --> 00:40:12,092
+<font color="#FFFFFF">What is it you need?</font>
+
+421
+00:40:12,217 --> 00:40:14,863
+<font color="#FFFFFF">Time, Professor.
+As much as you can get me.</font>
+
+422
+00:40:15,641 --> 00:40:16,594
+<font color="#FFFFFF">Do what you have to do.</font>
+
+423
+00:40:17,103 --> 00:40:18,378
+<font color="#FFFFFF">I'll secure the castle.</font>
+
+424
+00:40:20,158 --> 00:40:20,708
+<font color="#FFFFFF">Potter...</font>
+
+425
+00:40:23,712 --> 00:40:24,636
+<font color="#FFFFFF">It's good to see you.</font>
+
+426
+00:40:26,325 --> 00:40:27,613
+<font color="#FFFFFF">It's good to see you too, Professor.</font>
+
+427
+00:40:29,229 --> 00:40:30,229
+<font color="#FFFFFF">Hold the fort, Neville.</font>
+
+428
+00:40:42,937 --> 00:40:43,344
+<font color="#FFFFFF">Harry!</font>
+
+429
+00:40:44,379 --> 00:40:47,290
+<font color="#FFFFFF">Hermione and I've been thinking,
+it doesn't matter if we find a Horcrux.</font>
+
+430
+00:40:47,743 --> 00:40:48,427
+<font color="#FFFFFF">What do you mean?</font>
+
+431
+00:40:48,674 --> 00:40:50,022
+<font color="#FFFFFF">Unless we can destroy it.</font>
+
+432
+00:40:50,347 --> 00:40:51,453
+<font color="#FFFFFF">So, we were thinking...</font>
+
+433
+00:40:51,578 --> 00:40:52,907
+<font color="#FFFFFF">Well, Ron was thinking,
+it was Ron's idea.</font>
+
+434
+00:40:53,073 --> 00:40:53,902
+<font color="#FFFFFF">It's completely brilliant.</font>
+
+435
+00:40:54,302 --> 00:40:56,527
+<font color="#FFFFFF">You destroyed Tom Riddle's diary
+with a Basilisk's fang, right?</font>
+
+436
+00:40:57,657 --> 00:40:59,835
+<font color="#FFFFFF">Well, me and Hermione did remind
+where we might find one.</font>
+
+437
+00:41:00,096 --> 00:41:00,657
+<font color="#FFFFFF">Okay.</font>
+
+438
+00:41:02,062 --> 00:41:03,066
+<font color="#FFFFFF">Okay, but take this.</font>
+
+439
+00:41:03,689 --> 00:41:04,995
+<font color="#FFFFFF">That way,
+you can find me when you get back.</font>
+
+440
+00:41:05,780 --> 00:41:06,551
+<font color="#FFFFFF">Where're you going?</font>
+
+441
+00:41:06,676 --> 00:41:08,897
+<font color="#FFFFFF">Ravenclaw common room,
+Gotta start somewhere.</font>
+
+442
+00:41:15,781 --> 00:41:16,281
+<font color="#FFFFFF">Harry!</font>
+
+443
+00:41:17,682 --> 00:41:18,199
+<font color="#FFFFFF">Harry!</font>
+
+444
+00:41:19,325 --> 00:41:20,421
+<font color="#FFFFFF">Let me get this straight,
+Professor...</font>
+
+445
+00:41:21,028 --> 00:41:22,606
+<font color="#FFFFFF">You're actually giving us
+permission to do this?</font>
+
+446
+00:41:22,949 --> 00:41:24,624
+<font color="#FFFFFF">That is correct, Longbottom.</font>
+
+447
+00:41:25,223 --> 00:41:26,326
+<font color="#FFFFFF">To blow it up!
+Boom!</font>
+
+448
+00:41:26,720 --> 00:41:27,326
+<font color="#FFFFFF">Boom!</font>
+
+449
+00:41:28,372 --> 00:41:29,065
+<font color="#FFFFFF">Wicked!</font>
+
+450
+00:41:29,799 --> 00:41:30,934
+<font color="#FFFFFF">But how on earth are
+we gonna do that?</font>
+
+451
+00:41:31,912 --> 00:41:33,868
+<font color="#FFFFFF">Why don't you confer with Mr.
+Finnigan?</font>
+
+452
+00:41:34,405 --> 00:41:37,985
+<font color="#FFFFFF">As I recall, he has a particular
+proclivity for pyro-technics.</font>
+
+453
+00:41:38,110 --> 00:41:39,116
+<font color="#FFFFFF">I can bring it down.</font>
+
+454
+00:41:39,241 --> 00:41:40,561
+<font color="#FFFFFF">That's the spirit!
+Away, you go.</font>
+
+455
+00:41:42,629 --> 00:41:46,095
+<font color="#FFFFFF">You do realize, of course, we can't
+keep out You-Know-Who indefinitely.</font>
+
+456
+00:41:46,220 --> 00:41:48,152
+<font color="#FFFFFF">That doesn't mean we can't delay him.</font>
+
+457
+00:41:50,020 --> 00:41:54,184
+<font color="#FFFFFF">And his name is Voldemort.
+Filius, you might as well use it.</font>
+
+458
+00:41:54,681 --> 00:41:57,004
+<font color="#FFFFFF">He's come to try to kill you,
+either way!</font>
+
+459
+00:41:59,958 --> 00:42:02,706
+<font color="#FFFFFF"><i>Piertotum Locomotor.</i></font>
+
+460
+00:42:18,763 --> 00:42:20,080
+<font color="#FFFFFF">Hogwarts is threatened.</font>
+
+461
+00:42:20,656 --> 00:42:24,067
+<font color="#FFFFFF">Man the boundaries! Protect us.
+Do your duty...</font>
+
+462
+00:42:24,370 --> 00:42:25,805
+<font color="#FFFFFF">to our school.</font>
+
+463
+00:42:29,917 --> 00:42:32,493
+<font color="#FFFFFF">I've always wanted to use that spell!</font>
+
+464
+00:42:42,594 --> 00:42:43,441
+<font color="#FFFFFF"><i>Protego Maxima</i></font>
+
+465
+00:42:43,566 --> 00:42:44,377
+<font color="#FFFFFF"><i>Fianto Duri</i></font>
+
+466
+00:42:44,708 --> 00:42:45,388
+<font color="#FFFFFF"><i>Repello Inimigotum</i></font>
+
+467
+00:42:45,513 --> 00:42:47,066
+<font color="#FFFFFF"><i>Protego Maxima</i></font>
+
+468
+00:42:47,886 --> 00:42:49,255
+<font color="#FFFFFF"><i>Fianto Duri</i></font>
+
+469
+00:42:49,864 --> 00:42:50,350
+<font color="#FFFFFF"><i>Repello...</i></font>
+
+470
+00:42:50,475 --> 00:42:51,316
+<font color="#FFFFFF"><i>Protego Maxima</i></font>
+
+471
+00:42:51,796 --> 00:42:52,651
+<font color="#FFFFFF"><i>Fianto Duri</i></font>
+
+472
+00:42:53,269 --> 00:42:55,119
+<font color="#FFFFFF"><i>Repello Inimigotum</i></font>
+
+473
+00:42:55,244 --> 00:42:56,291
+<font color="#FFFFFF"><i>Protego Maxima</i></font>
+
+474
+00:43:25,120 --> 00:43:26,548
+<font color="#FFFFFF">Harry, wait!</font>
+
+475
+00:43:27,193 --> 00:43:28,114
+<font color="#FFFFFF">I need to talk to you!</font>
+
+476
+00:43:28,239 --> 00:43:30,926
+<font color="#FFFFFF">- I'm a bit pre-occupied at the moment, Luna.
+- You don't know anything where you're going.</font>
+
+477
+00:43:31,051 --> 00:43:31,990
+<font color="#FFFFFF">You're wasting your time!</font>
+
+478
+00:43:32,461 --> 00:43:33,657
+<font color="#FFFFFF">Look, we'll talk later, okay, Luna?</font>
+
+479
+00:43:33,782 --> 00:43:35,179
+<font color="#FFFFFF">- Harry?
+- Later.</font>
+
+480
+00:43:35,304 --> 00:43:37,571
+<font color="#FFFFFF">Harry Potter,
+you listen to me right now!</font>
+
+481
+00:43:39,850 --> 00:43:42,738
+<font color="#FFFFFF">Do you remember what Cho said
+about Rowena Ravenclaw's diadem?</font>
+
+482
+00:43:43,235 --> 00:43:44,997
+<font color="#FFFFFF">There is not a person
+alive who's seen it.</font>
+
+483
+00:43:46,659 --> 00:43:47,742
+<font color="#FFFFFF">It's obvious, isn't it?</font>
+
+484
+00:43:48,502 --> 00:43:50,339
+<font color="#FFFFFF">We have to talk to
+someone who's dead.</font>
+
+485
+00:44:01,529 --> 00:44:03,036
+<font color="#FFFFFF">It's very impressive, isn't it?</font>
+
+486
+00:44:19,538 --> 00:44:22,260
+<font color="#FFFFFF">If you've to find her,
+you'll find her down there.</font>
+
+487
+00:44:22,385 --> 00:44:23,692
+<font color="#FFFFFF">- Aren't you coming?
+- No.</font>
+
+488
+00:44:23,967 --> 00:44:25,887
+<font color="#FFFFFF">I think it's best if
+you two talk alone.</font>
+
+489
+00:44:26,611 --> 00:44:27,619
+<font color="#FFFFFF">She's very shy.</font>
+
+490
+00:44:55,324 --> 00:44:56,254
+<font color="#FFFFFF">You're the Grey Lady.</font>
+
+491
+00:44:57,734 --> 00:44:59,277
+<font color="#FFFFFF">The ghost of Ravenclaw tower.</font>
+
+492
+00:44:59,645 --> 00:45:01,437
+<font color="#FFFFFF">I do not answer to that name!</font>
+
+493
+00:45:01,668 --> 00:45:03,069
+<font color="#FFFFFF">No, I'm sorry, I'm sorry!</font>
+
+494
+00:45:03,520 --> 00:45:04,684
+<font color="#FFFFFF">It's Helena, isn't it?</font>
+
+495
+00:45:05,272 --> 00:45:07,738
+<font color="#FFFFFF">Helena Ravenclaw, Rowena's daughter.</font>
+
+496
+00:45:08,917 --> 00:45:10,399
+<font color="#FFFFFF">Are you a friend of Luna's?</font>
+
+497
+00:45:11,010 --> 00:45:11,655
+<font color="#FFFFFF">Yes.</font>
+
+498
+00:45:12,896 --> 00:45:14,537
+<font color="#FFFFFF">And she thought you
+might be able to help me.</font>
+
+499
+00:45:17,338 --> 00:45:19,325
+<font color="#FFFFFF">You seek my mother's diadem?</font>
+
+500
+00:45:21,465 --> 00:45:22,219
+<font color="#FFFFFF">Yes.</font>
+
+501
+00:45:24,106 --> 00:45:24,810
+<font color="#FFFFFF">That's right.</font>
+
+502
+00:45:26,910 --> 00:45:28,358
+<font color="#FFFFFF">Luna is kind.</font>
+
+503
+00:45:28,953 --> 00:45:30,856
+<font color="#FFFFFF">Unlike so many of the others.</font>
+
+504
+00:45:31,716 --> 00:45:34,821
+<font color="#FFFFFF">But she was wrong, I cannot help you!</font>
+
+505
+00:45:39,447 --> 00:45:40,891
+<font color="#FFFFFF">Wait, please!</font>
+
+506
+00:45:43,533 --> 00:45:45,059
+<font color="#FFFFFF">I want to destroy it!</font>
+
+507
+00:46:23,645 --> 00:46:25,128
+<font color="#FFFFFF">They never learn.</font>
+
+508
+00:46:27,119 --> 00:46:28,316
+<font color="#FFFFFF">Such a pity.</font>
+
+509
+00:46:29,573 --> 00:46:31,507
+<font color="#FFFFFF">But, my Lord...</font>
+
+510
+00:46:33,066 --> 00:46:34,269
+<font color="#FFFFFF">Shouldn't we wait?</font>
+
+511
+00:46:35,501 --> 00:46:36,145
+<font color="#FFFFFF">My Lord!</font>
+
+512
+00:46:42,410 --> 00:46:43,195
+<font color="#FFFFFF">Begin!</font>
+
+513
+00:47:04,539 --> 00:47:05,821
+<font color="#FFFFFF">I thought you want to do it.
+Isn't it, Helena?</font>
+
+514
+00:47:12,369 --> 00:47:13,474
+<font color="#FFFFFF">You want to destroy it?</font>
+
+515
+00:47:13,811 --> 00:47:16,341
+<font color="#FFFFFF">Another swore to destroy it,
+many years ago.</font>
+
+516
+00:47:17,271 --> 00:47:19,598
+<font color="#FFFFFF">A strange boy with a strange name.</font>
+
+517
+00:47:20,140 --> 00:47:20,876
+<font color="#FFFFFF">Tom Riddle.</font>
+
+518
+00:47:21,001 --> 00:47:22,071
+<font color="#FFFFFF">But he lied.</font>
+
+519
+00:47:22,843 --> 00:47:24,175
+<font color="#FFFFFF">He's lied to many people.</font>
+
+520
+00:47:24,300 --> 00:47:27,364
+<font color="#FFFFFF">I know what he's done!
+I know who he is!</font>
+
+521
+00:47:27,735 --> 00:47:30,824
+<font color="#FFFFFF">He defiled it, with dark magic!</font>
+
+522
+00:47:45,693 --> 00:47:46,996
+<font color="#FFFFFF">I can destroy it.</font>
+
+523
+00:47:47,380 --> 00:47:48,606
+<font color="#FFFFFF">Once and for all.</font>
+
+524
+00:47:51,260 --> 00:47:53,142
+<font color="#FFFFFF">But only if you tell me
+where he hid it?</font>
+
+525
+00:47:56,187 --> 00:47:59,564
+<font color="#FFFFFF">You do know, where he hid it?</font>
+
+526
+00:48:00,097 --> 00:48:00,908
+<font color="#FFFFFF">Don't you, Helena?</font>
+
+527
+00:48:03,567 --> 00:48:04,745
+<font color="#FFFFFF">You just have to tell me.</font>
+
+528
+00:48:07,407 --> 00:48:08,273
+<font color="#FFFFFF">Please!</font>
+
+529
+00:48:20,978 --> 00:48:22,329
+<font color="#FFFFFF">Strange!</font>
+
+530
+00:48:26,207 --> 00:48:28,363
+<font color="#FFFFFF">You remind me of him a bit.</font>
+
+531
+00:48:30,411 --> 00:48:33,513
+<font color="#FFFFFF">It's here, in the castle.</font>
+
+532
+00:48:34,554 --> 00:48:36,485
+<font color="#FFFFFF">In the place where
+everything is hidden.</font>
+
+533
+00:48:38,964 --> 00:48:40,120
+<font color="#FFFFFF">If you have to ask...</font>
+
+534
+00:48:40,665 --> 00:48:41,740
+<font color="#FFFFFF">you will never know.</font>
+
+535
+00:48:43,670 --> 00:48:44,603
+<font color="#FFFFFF">If you know...</font>
+
+536
+00:48:45,271 --> 00:48:46,683
+<font color="#FFFFFF">you need only ask.</font>
+
+537
+00:48:48,926 --> 00:48:49,655
+<font color="#FFFFFF">Thank you!</font>
+
+538
+00:49:03,495 --> 00:49:06,497
+<font color="#FFFFFF">Tell Professor McGonagall. Remus and
+I will handle this side of the castle.</font>
+
+539
+00:49:08,552 --> 00:49:09,244
+<font color="#FFFFFF">Yes, sir!</font>
+
+540
+00:49:13,666 --> 00:49:19,138
+<font color="#FFFFFF">Hey Dean, on second thoughts, tell Professor McGonagall
+we might need one or two more wands this side.</font>
+
+541
+00:49:21,819 --> 00:49:24,859
+<font color="#FFFFFF">It is the quality of one's convictions
+that determine his success...</font>
+
+542
+00:49:24,984 --> 00:49:26,618
+<font color="#FFFFFF">not the number of followers.</font>
+
+543
+00:49:27,377 --> 00:49:28,214
+<font color="#FFFFFF">Who said that?</font>
+
+544
+00:49:29,629 --> 00:49:30,161
+<font color="#FFFFFF">Me.</font>
+
+545
+00:49:35,938 --> 00:49:36,825
+<font color="#FFFFFF">You okay, Freddie?</font>
+
+546
+00:49:38,264 --> 00:49:38,668
+<font color="#FFFFFF">Yeah.</font>
+
+547
+00:49:41,144 --> 00:49:41,727
+<font color="#FFFFFF">Me too.</font>
+
+548
+00:49:59,899 --> 00:50:01,000
+<font color="#FFFFFF">Harry talks in his sleep.</font>
+
+549
+00:50:01,652 --> 00:50:02,358
+<font color="#FFFFFF">Do you know this?</font>
+
+550
+00:50:04,476 --> 00:50:05,577
+<font color="#FFFFFF">No, of course, not!</font>
+
+551
+00:50:53,850 --> 00:50:56,986
+<font color="#FFFFFF">Yeah?
+You and whose army?</font>
+
+552
+00:51:17,272 --> 00:51:17,993
+<font color="#FFFFFF">You do it.</font>
+
+553
+00:51:18,478 --> 00:51:19,129
+<font color="#FFFFFF">I can't.</font>
+
+554
+00:51:19,254 --> 00:51:19,958
+<font color="#FFFFFF">Yes, you can!</font>
+
+555
+00:54:19,051 --> 00:54:19,846
+<font color="#FFFFFF">Neville!</font>
+
+556
+00:54:38,076 --> 00:54:38,909
+<font color="#FFFFFF">That went well.</font>
+
+557
+00:55:26,058 --> 00:55:30,186
+<font color="#FFFFFF">Get inside! This way!
+Take cover! Take cover</font>
+
+558
+00:55:47,727 --> 00:55:48,522
+<font color="#FFFFFF"><i>Stupefy</i></font>
+
+559
+00:55:52,593 --> 00:55:55,424
+<font color="#FFFFFF">Ginny, Neville!
+You alright?</font>
+
+560
+00:55:55,888 --> 00:55:56,594
+<font color="#FFFFFF">Never better!</font>
+
+561
+00:55:57,029 --> 00:55:58,567
+<font color="#FFFFFF">I feel like I can spit fire!</font>
+
+562
+00:55:59,062 --> 00:56:00,054
+<font color="#FFFFFF">Have you seen Luna up here?</font>
+
+563
+00:56:00,294 --> 00:56:00,925
+<font color="#FFFFFF">Luna?</font>
+
+564
+00:56:01,525 --> 00:56:05,708
+<font color="#FFFFFF">I'm mad for her. I think it's about time I told
+her since we'll probably both be dead by dawn.</font>
+
+565
+00:56:10,906 --> 00:56:11,489
+<font color="#FFFFFF">I know.</font>
+
+566
+00:56:40,561 --> 00:56:42,361
+<font color="#FFFFFF">Bloody hell!
+We'll never find him on this.</font>
+
+567
+00:56:43,100 --> 00:56:43,927
+<font color="#FFFFFF">Here he is!</font>
+
+568
+00:56:44,402 --> 00:56:45,781
+<font color="#FFFFFF">- Just now...
+- Brilliant!</font>
+
+569
+00:56:46,094 --> 00:56:47,069
+<font color="#FFFFFF">He just vanished.</font>
+
+570
+00:56:47,856 --> 00:56:48,849
+<font color="#FFFFFF">I just now I saw it.</font>
+
+571
+00:56:52,577 --> 00:56:53,944
+<font color="#FFFFFF">Maybe he's gone to the
+Room of Requirement.</font>
+
+572
+00:56:54,515 --> 00:56:55,700
+<font color="#FFFFFF">It doesn't show up on the map,
+does it?</font>
+
+573
+00:56:56,056 --> 00:56:57,023
+<font color="#FFFFFF">You said that last year.</font>
+
+574
+00:56:58,317 --> 00:56:59,657
+<font color="#FFFFFF">That's right, I... I did.</font>
+
+575
+00:57:00,823 --> 00:57:01,429
+<font color="#FFFFFF">Let's go.</font>
+
+576
+00:57:03,226 --> 00:57:03,943
+<font color="#FFFFFF">Brilliant!</font>
+
+577
+00:57:10,586 --> 00:57:12,138
+<font color="#FFFFFF">Come on!</font>
+
+578
+00:59:04,325 --> 00:59:05,068
+<font color="#FFFFFF">Well, well...</font>
+
+579
+00:59:06,648 --> 00:59:07,885
+<font color="#FFFFFF">What brings you here, Potter?</font>
+
+580
+00:59:09,626 --> 00:59:10,604
+<font color="#FFFFFF">I could ask you the same.</font>
+
+581
+00:59:11,896 --> 00:59:13,092
+<font color="#FFFFFF">You have something of mine.</font>
+
+582
+00:59:14,900 --> 00:59:15,955
+<font color="#FFFFFF">I'd like it back.</font>
+
+583
+00:59:16,296 --> 00:59:17,218
+<font color="#FFFFFF">What's wrong with the one you have?</font>
+
+584
+00:59:17,704 --> 00:59:18,522
+<font color="#FFFFFF">It's my mother's.</font>
+
+585
+00:59:19,170 --> 00:59:20,420
+<font color="#FFFFFF">It's powerful, but it's...</font>
+
+586
+00:59:21,178 --> 00:59:22,129
+<font color="#FFFFFF">not the same.</font>
+
+587
+00:59:23,210 --> 00:59:25,832
+<font color="#FFFFFF">Doesn't quite understand me.</font>
+
+588
+00:59:27,256 --> 00:59:28,001
+<font color="#FFFFFF">You know what I mean?</font>
+
+589
+00:59:29,499 --> 00:59:30,466
+<font color="#FFFFFF">Why didn't you tell her?</font>
+
+590
+00:59:33,124 --> 00:59:33,888
+<font color="#FFFFFF">Bellatrix?</font>
+
+591
+00:59:37,779 --> 00:59:38,779
+<font color="#FFFFFF">You knew it was me.</font>
+
+592
+00:59:40,283 --> 00:59:41,239
+<font color="#FFFFFF">You didn't say anything.</font>
+
+593
+00:59:42,130 --> 00:59:42,926
+<font color="#FFFFFF">Come on, Draco!</font>
+
+594
+00:59:44,138 --> 00:59:44,954
+<font color="#FFFFFF">Don't be a prat.</font>
+
+595
+00:59:45,690 --> 00:59:46,430
+<font color="#FFFFFF">Do it!</font>
+
+596
+00:59:48,123 --> 00:59:48,646
+<font color="#FFFFFF">Easy!</font>
+
+597
+00:59:50,747 --> 00:59:51,509
+<font color="#FFFFFF"><i>Expelliarmus</i></font>
+
+598
+00:59:52,459 --> 00:59:53,504
+<font color="#FFFFFF"><i>Avada Kedavra</i></font>
+
+599
+00:59:53,670 --> 00:59:54,184
+<font color="#FFFFFF"><i>Stupefy</i></font>
+
+600
+00:59:58,757 --> 01:00:01,008
+<font color="#FFFFFF">This is my girlfriend,
+you bloody gits!</font>
+
+601
+01:00:22,991 --> 01:00:23,396
+<font color="#FFFFFF">Got it!</font>
+
+602
+01:00:39,611 --> 01:00:41,010
+<font color="#FFFFFF">They've set the bloody place on fire!</font>
+
+603
+01:01:49,626 --> 01:01:50,454
+<font color="#FFFFFF">Come on!
+This way!</font>
+
+604
+01:01:59,366 --> 01:02:00,307
+<font color="#FFFFFF">We can't leave them!</font>
+
+605
+01:02:01,318 --> 01:02:02,360
+<font color="#FFFFFF">He's joking, right?</font>
+
+606
+01:02:12,173 --> 01:02:14,889
+<font color="#FFFFFF">If we die for them,
+Harry, I'm gonna kill you!</font>
+
+607
+01:02:37,096 --> 01:02:37,691
+<font color="#FFFFFF">Harry!</font>
+
+608
+01:03:24,778 --> 01:03:25,464
+<font color="#FFFFFF">My Lord?</font>
+
+609
+01:03:26,360 --> 01:03:28,263
+<font color="#FFFFFF">Avada Kedavra!</font>
+
+610
+01:03:35,434 --> 01:03:39,047
+<font color="#FFFFFF">Come Nagini, I need to keep you safe.</font>
+
+611
+01:03:52,755 --> 01:03:53,747
+<font color="#FFFFFF">It's the snake...</font>
+
+612
+01:03:54,868 --> 01:03:56,170
+<font color="#FFFFFF">and she's the last one.</font>
+
+613
+01:03:56,570 --> 01:03:57,676
+<font color="#FFFFFF">It's the last Horcrux.</font>
+
+614
+01:04:04,781 --> 01:04:05,927
+<font color="#FFFFFF">Look inside him, Harry.</font>
+
+615
+01:04:07,544 --> 01:04:10,548
+<font color="#FFFFFF">Find out where he is,
+if you find him, we can find the snake.</font>
+
+616
+01:04:11,219 --> 01:04:12,183
+<font color="#FFFFFF">And we can end this!</font>
+
+617
+01:04:40,728 --> 01:04:41,710
+<font color="#FFFFFF">My Lord...</font>
+
+618
+01:04:43,231 --> 01:04:45,943
+<font color="#FFFFFF">Might it be less...</font>
+
+619
+01:04:47,537 --> 01:04:51,032
+<font color="#FFFFFF">I should not be more prudent to call off
+this attack.</font>
+
+620
+01:04:52,283 --> 01:04:54,251
+<font color="#FFFFFF">Simply seek the boy.</font>
+
+621
+01:04:54,376 --> 01:04:55,095
+<font color="#FFFFFF">Yourself.</font>
+
+622
+01:04:55,220 --> 01:04:58,368
+<font color="#FFFFFF">I do not need to seek the boy...</font>
+
+623
+01:04:58,781 --> 01:05:03,258
+<font color="#FFFFFF">before the night is out,
+he will come to me! Do you understand?</font>
+
+624
+01:05:04,960 --> 01:05:05,532
+<font color="#FFFFFF">Look at me!</font>
+
+625
+01:05:07,243 --> 01:05:10,375
+<font color="#FFFFFF">How can you live with yourself,
+Lucius?</font>
+
+626
+01:05:11,257 --> 01:05:11,947
+<font color="#FFFFFF">I don't know.</font>
+
+627
+01:05:15,325 --> 01:05:16,599
+<font color="#FFFFFF">Go and find Severus.</font>
+
+628
+01:05:18,442 --> 01:05:19,510
+<font color="#FFFFFF">Bring him to me.</font>
+
+629
+01:05:28,481 --> 01:05:29,510
+<font color="#FFFFFF">I know where he is.</font>
+
+630
+01:05:40,306 --> 01:05:41,071
+<font color="#FFFFFF">Come on!</font>
+
+631
+01:06:29,551 --> 01:06:30,154
+<font color="#FFFFFF">No!</font>
+
+632
+01:07:17,914 --> 01:07:21,139
+<font color="#FFFFFF">You have performed extra-ordinary magic
+with this wand, My Lord,</font>
+
+633
+01:07:21,264 --> 01:07:23,257
+<font color="#FFFFFF">in the last few hours alone.</font>
+
+634
+01:07:23,382 --> 01:07:24,001
+<font color="#FFFFFF">No!</font>
+
+635
+01:07:25,645 --> 01:07:32,551
+<font color="#FFFFFF">No! I am extra-ordinary.
+But the wand resists me.</font>
+
+636
+01:07:32,834 --> 01:07:38,242
+<font color="#FFFFFF">There is no wand more powerful.
+Ollivander himself has said it.</font>
+
+637
+01:07:39,023 --> 01:07:44,259
+<font color="#FFFFFF">Tonight, when the boy comes.
+It will not fail you, I am sure of it...</font>
+
+638
+01:07:46,743 --> 01:07:52,602
+<font color="#FFFFFF">It answers to you, and you only.</font>
+
+639
+01:07:53,622 --> 01:07:54,425
+<font color="#FFFFFF">Does it?</font>
+
+640
+01:07:58,058 --> 01:07:58,748
+<font color="#FFFFFF">My Lord?</font>
+
+641
+01:08:01,893 --> 01:08:05,157
+<font color="#FFFFFF">The wand, does it truly answer to me?</font>
+
+642
+01:08:07,997 --> 01:08:09,648
+<font color="#FFFFFF">You're a clever man, Severus.</font>
+
+643
+01:08:10,204 --> 01:08:11,447
+<font color="#FFFFFF">Surely you must know...</font>
+
+644
+01:08:14,339 --> 01:08:19,237
+<font color="#FFFFFF">- Where does its true loyalty lie?
+- With you...</font>
+
+645
+01:08:20,702 --> 01:08:22,567
+<font color="#FFFFFF">Of course, My Lord.</font>
+
+646
+01:08:22,941 --> 01:08:29,875
+<font color="#FFFFFF">The Elder Wand cannot serve me properly,
+because I am not its true master.</font>
+
+647
+01:08:31,672 --> 01:08:35,958
+<font color="#FFFFFF">The Elder Wand belongs to the
+wizard who killed its last owner.</font>
+
+648
+01:08:43,047 --> 01:08:45,617
+<font color="#FFFFFF">You killed Dumbledore, Severus.</font>
+
+649
+01:08:47,573 --> 01:08:51,778
+<font color="#FFFFFF">While you live, the Elder
+Wand cannot truly be mine.</font>
+
+650
+01:08:54,362 --> 01:08:57,506
+<font color="#FFFFFF">You've been a good and faithful servant,
+Severus.</font>
+
+651
+01:08:58,868 --> 01:09:02,769
+<font color="#FFFFFF">But only I can live forever.</font>
+
+652
+01:09:07,278 --> 01:09:08,199
+<font color="#FFFFFF">My Lord...</font>
+
+653
+01:09:14,178 --> 01:09:16,242
+<font color="#FFFFFF">Nagini, kill!</font>
+
+654
+01:10:17,150 --> 01:10:24,420
+<font color="#FFFFFF">Take it...
+Take it up, please!</font>
+
+655
+01:10:25,361 --> 01:10:27,943
+<font color="#FFFFFF">Give me something!
+Quickly, a flask. Anything!</font>
+
+656
+01:10:47,110 --> 01:10:48,680
+<font color="#FFFFFF">Take them to the Pensieve.</font>
+
+657
+01:10:52,027 --> 01:10:53,203
+<font color="#FFFFFF">Look at me...</font>
+
+658
+01:10:59,526 --> 01:11:01,270
+<font color="#FFFFFF">You really have your mother's eyes.</font>
+
+659
+01:11:35,444 --> 01:11:41,770
+<font color="#FFFFFF"><i>You've fought valiantly,
+but in vain...</i></font>
+
+660
+01:11:46,258 --> 01:11:53,863
+<font color="#FFFFFF"><i>I do not wish this. Every drop of magical
+blood spilled is a terrible waste.</i></font>
+
+661
+01:11:54,459 --> 01:11:57,820
+<font color="#FFFFFF"><i>I, therefore command
+my forces to retreat...</i></font>
+
+662
+01:11:58,974 --> 01:12:03,601
+<font color="#FFFFFF"><i>In their absence,
+dispose your dead with dignity,</i></font>
+
+663
+01:12:05,153 --> 01:12:10,750
+<font color="#FFFFFF"><i>Harry Potter,
+I now speak directly to you.</i></font>
+
+664
+01:12:11,342 --> 01:12:18,826
+<font color="#FFFFFF"><i>On this night, you have allowed your friends
+to die for you, rather than face me yourself.</i></font>
+
+665
+01:12:19,341 --> 01:12:25,438
+<font color="#FFFFFF"><i>There is no greater dishonor.
+Join me in the Forbidden Forrest...</i></font>
+
+666
+01:12:25,850 --> 01:12:28,099
+<font color="#FFFFFF"><i>and confront your fate.</i></font>
+
+667
+01:12:29,004 --> 01:12:42,301
+<font color="#FFFFFF"><i>If you do not do this, I shall kill every last man,
+woman and child who tries to conceal you from me.</i></font>
+
+668
+01:13:02,789 --> 01:13:03,670
+<font color="#FFFFFF">Where's everybody?</font>
+
+669
+01:13:30,725 --> 01:13:31,438
+<font color="#FFFFFF">Harry?</font>
+
+670
+01:13:37,534 --> 01:13:41,821
+<font color="#FFFFFF">Oh, come on!
+Don't be sad on it, she's passed.</font>
+
+671
+01:13:43,843 --> 01:13:45,123
+<font color="#FFFFFF">There, she's gone.</font>
+
+672
+01:15:55,464 --> 01:16:00,074
+<font color="#FFFFFF"><i>Freak! Come here! I'm gonna tell mommy!
+You're freak!</i></font>
+
+673
+01:16:00,552 --> 01:16:02,128
+<font color="#FFFFFF"><i>You're freak, Lily!</i></font>
+
+674
+01:16:02,575 --> 01:16:03,387
+<font color="#FFFFFF"><i>Come here!</i></font>
+
+675
+01:16:25,655 --> 01:16:28,860
+<font color="#FFFFFF"><i>She's jealous.
+She's ordinary and you're special.</i></font>
+
+676
+01:16:29,230 --> 01:16:30,190
+<font color="#FFFFFF"><i>That's not true, Severus.</i></font>
+
+677
+01:16:54,213 --> 01:16:55,506
+<font color="#FFFFFF"><i>Gryffindor!</i></font>
+
+678
+01:17:03,796 --> 01:17:05,648
+<font color="#FFFFFF"><i>- Hi, I'm James.
+- Hi, I'm Lily.</i></font>
+
+679
+01:17:11,365 --> 01:17:12,352
+<font color="#FFFFFF"><i>Just like your father.</i></font>
+
+680
+01:17:15,370 --> 01:17:17,478
+<font color="#FFFFFF"><i>Don't say a word against my father!</i></font>
+
+681
+01:17:26,440 --> 01:17:30,206
+<font color="#FFFFFF"><i>Masters shall be reunited once more!</i></font>
+
+682
+01:17:30,731 --> 01:17:31,601
+<font color="#FFFFFF"><i>Severus.</i></font>
+
+683
+01:17:33,775 --> 01:17:34,947
+<font color="#FFFFFF"><i>No, don't kill me!</i></font>
+
+684
+01:17:35,887 --> 01:17:38,117
+<font color="#FFFFFF">The prophecy did not
+refer to a woman.</font>
+
+685
+01:17:39,933 --> 01:17:42,216
+<font color="#FFFFFF">It spoke about a boy born
+at the end of the July.</font>
+
+686
+01:17:42,341 --> 01:17:44,199
+<font color="#FFFFFF">Yes, but he thinks it's her son!</font>
+
+687
+01:17:45,190 --> 01:17:47,663
+<font color="#FFFFFF">He intends to hunt them down and
+to kill them.</font>
+
+688
+01:17:48,524 --> 01:17:52,482
+<font color="#FFFFFF">Hide him... hide them all.
+I beg you!</font>
+
+689
+01:17:53,040 --> 01:17:55,634
+<font color="#FFFFFF">What would you give me in exchange,
+Severus?</font>
+
+690
+01:17:58,117 --> 01:17:59,779
+<font color="#FFFFFF">- Anything.
+- Harry...</font>
+
+691
+01:18:00,330 --> 01:18:02,042
+<font color="#FFFFFF"><i>Harry, you were so loved.</i></font>
+
+692
+01:18:02,733 --> 01:18:06,999
+<font color="#FFFFFF"><i>So loved!
+Harry, mama loves you.</i></font>
+
+693
+01:18:07,980 --> 01:18:09,415
+<font color="#FFFFFF">Dadda loves you.</font>
+
+694
+01:18:11,715 --> 01:18:12,995
+<font color="#FFFFFF">Harry, be safe.</font>
+
+695
+01:18:14,097 --> 01:18:14,977
+<font color="#FFFFFF">Be strong.</font>
+
+696
+01:18:15,102 --> 01:18:16,521
+<font color="#FFFFFF"><i>Avada Kedavra!</i></font>
+
+697
+01:18:22,159 --> 01:18:25,668
+<font color="#FFFFFF">You said you would keep her safe.</font>
+
+698
+01:18:25,793 --> 01:18:27,306
+<font color="#FFFFFF">Lily and James...</font>
+
+699
+01:18:27,585 --> 01:18:30,019
+<font color="#FFFFFF">put their faith in the wrong person,
+Severus.</font>
+
+700
+01:18:30,720 --> 01:18:31,649
+<font color="#FFFFFF">Rather like you.</font>
+
+701
+01:18:34,945 --> 01:18:36,162
+<font color="#FFFFFF">The boy survives.</font>
+
+702
+01:18:36,287 --> 01:18:38,555
+<font color="#FFFFFF">He doesn't need protection,
+the Dark Lord has gone.</font>
+
+703
+01:18:38,680 --> 01:18:40,296
+<font color="#FFFFFF">The Dark Lord will return.</font>
+
+704
+01:18:41,304 --> 01:18:43,797
+<font color="#FFFFFF">And when he does, the boy
+will be in terrible danger!</font>
+
+705
+01:18:46,080 --> 01:18:47,417
+<font color="#FFFFFF">He has her eyes.</font>
+
+706
+01:18:51,988 --> 01:18:54,412
+<font color="#FFFFFF">If you truly loved her...</font>
+
+707
+01:18:57,846 --> 01:19:01,776
+<font color="#FFFFFF">No one, can know.</font>
+
+708
+01:19:01,901 --> 01:19:04,254
+<font color="#FFFFFF"><i>I shall never reveal the best of you,
+Severus.</i></font>
+
+709
+01:19:04,569 --> 01:19:05,314
+<font color="#FFFFFF"><i>Your word?</i></font>
+
+710
+01:19:05,706 --> 01:19:08,370
+<font color="#FFFFFF"><i>Can you risk your life every day
+to protect the boy?</i></font>
+
+711
+01:19:08,495 --> 01:19:14,423
+<font color="#FFFFFF"><i>He possesses no measurable talent, his arrogance rivals
+even that of his father and he seems to relish in his fame...</i></font>
+
+712
+01:19:14,653 --> 01:19:16,611
+<font color="#FFFFFF"><i>Don't say a word against my father!</i></font>
+
+713
+01:19:17,712 --> 01:19:21,494
+<font color="#FFFFFF"><i>James Potter, lazy, arrogant.</i></font>
+
+714
+01:19:21,619 --> 01:19:24,994
+<font color="#FFFFFF"><i>- My father was a great man!
+- Your father was a swine!</i></font>
+
+715
+01:19:27,043 --> 01:19:32,223
+<font color="#FFFFFF">Drink it, it will contain the curse to
+your hand, for the time being.</font>
+
+716
+01:19:32,621 --> 01:19:35,487
+<font color="#FFFFFF">- It will spread, Albus.
+- How long?</font>
+
+717
+01:19:37,708 --> 01:19:38,879
+<font color="#FFFFFF">Maybe a year.</font>
+
+718
+01:19:42,154 --> 01:19:43,192
+<font color="#FFFFFF">Don't ignore me, Severus.</font>
+
+719
+01:19:45,097 --> 01:19:48,927
+<font color="#FFFFFF">We both know Lord Voldemort has ordered
+the Malfoy boy to murder me.</font>
+
+720
+01:19:51,296 --> 01:19:57,268
+<font color="#FFFFFF">But should he fail, I should presume
+the Dark Lord will turn to you.</font>
+
+721
+01:20:00,537 --> 01:20:03,360
+<font color="#FFFFFF">You must be the one to kill me,
+Severus.</font>
+
+722
+01:20:04,714 --> 01:20:06,308
+<font color="#FFFFFF">It is the only way.</font>
+
+723
+01:20:07,797 --> 01:20:12,039
+<font color="#FFFFFF">Only then,
+will the Dark Lord trust you completely.</font>
+
+724
+01:20:18,371 --> 01:20:22,237
+<font color="#FFFFFF">It will come a time, when Harry Potter,
+must be told something.</font>
+
+725
+01:20:24,870 --> 01:20:29,867
+<font color="#FFFFFF">But you must wait, until Voldemort
+is at his most vulnerable.</font>
+
+726
+01:20:30,613 --> 01:20:32,055
+<font color="#FFFFFF">Must be told what?</font>
+
+727
+01:20:33,616 --> 01:20:37,539
+<font color="#FFFFFF">On the night, Lord Voldemort went
+to Godric's Hollow to kill Harry...</font>
+
+728
+01:20:39,859 --> 01:20:42,209
+<font color="#FFFFFF">And Lily Potter cast
+herself between them...</font>
+
+729
+01:20:43,194 --> 01:20:45,056
+<font color="#FFFFFF">the curse rebounded.</font>
+
+730
+01:20:47,149 --> 01:20:50,231
+<font color="#FFFFFF">When that happens,
+a part of Voldemort's soul...</font>
+
+731
+01:20:50,604 --> 01:20:54,855
+<font color="#FFFFFF">latched itself onto the only
+living thing it could find...</font>
+
+732
+01:20:55,811 --> 01:20:57,144
+<font color="#FFFFFF">Harry himself.</font>
+
+733
+01:20:59,566 --> 01:21:01,962
+<font color="#FFFFFF">There's a reason Harry
+can speak with snakes...</font>
+
+734
+01:21:03,391 --> 01:21:06,328
+<font color="#FFFFFF">There's a reason he can look into
+Lord Voldemort's mind...</font>
+
+735
+01:21:08,547 --> 01:21:14,651
+<font color="#FFFFFF">A part of Voldemort lives inside him.</font>
+
+736
+01:21:21,079 --> 01:21:23,029
+<font color="#FFFFFF">So, when the time comes...</font>
+
+737
+01:21:24,999 --> 01:21:26,729
+<font color="#FFFFFF">the boy must die?</font>
+
+738
+01:21:29,055 --> 01:21:32,599
+<font color="#FFFFFF">Yes... yes.
+He must die.</font>
+
+739
+01:21:51,584 --> 01:21:55,409
+<font color="#FFFFFF">You've kept him alive, so he can
+die at the proper moment?</font>
+
+740
+01:22:00,195 --> 01:22:02,793
+<font color="#FFFFFF">You've been raising him
+like a pig for slaughter.</font>
+
+741
+01:22:03,900 --> 01:22:07,078
+<font color="#FFFFFF">Don't tell me now, that you've
+grown to care for the boy.</font>
+
+742
+01:22:12,712 --> 01:22:15,128
+<font color="#FFFFFF"><i>Expecto Patronum</i></font>
+
+743
+01:22:27,071 --> 01:22:27,992
+<font color="#FFFFFF">Lily!</font>
+
+744
+01:22:31,767 --> 01:22:33,054
+<font color="#FFFFFF">After all this time?</font>
+
+745
+01:22:37,674 --> 01:22:38,818
+<font color="#FFFFFF">Always.</font>
+
+746
+01:22:44,954 --> 01:22:46,809
+<font color="#FFFFFF">So, when the time comes...</font>
+
+747
+01:22:48,334 --> 01:22:50,062
+<font color="#FFFFFF">the boy must die?</font>
+
+748
+01:22:51,123 --> 01:22:52,045
+<font color="#FFFFFF">Yes.</font>
+
+749
+01:22:53,215 --> 01:22:56,990
+<font color="#FFFFFF">He must die.
+And Voldemort himself must do it.</font>
+
+750
+01:22:58,272 --> 01:22:59,585
+<font color="#FFFFFF">That is essential.</font>
+
+751
+01:24:05,660 --> 01:24:07,958
+<font color="#FFFFFF">- Where've you been?
+- I thought you went to the forest.</font>
+
+752
+01:24:08,083 --> 01:24:09,234
+<font color="#FFFFFF">I'm going there now.</font>
+
+753
+01:24:10,067 --> 01:24:11,957
+<font color="#FFFFFF">Are you mad?
+No...</font>
+
+754
+01:24:13,771 --> 01:24:15,184
+<font color="#FFFFFF">You can't give yourself up to him.</font>
+
+755
+01:24:19,528 --> 01:24:20,626
+<font color="#FFFFFF">What is it, Harry?</font>
+
+756
+01:24:22,983 --> 01:24:24,079
+<font color="#FFFFFF">What is it you know?</font>
+
+757
+01:24:27,789 --> 01:24:29,488
+<font color="#FFFFFF">There's a reason I can hear them.</font>
+
+758
+01:24:30,993 --> 01:24:32,087
+<font color="#FFFFFF">The Horcruxes.</font>
+
+759
+01:24:34,728 --> 01:24:36,293
+<font color="#FFFFFF">I think I've known for a while.</font>
+
+760
+01:24:38,542 --> 01:24:39,976
+<font color="#FFFFFF">And I think you have, too.</font>
+
+761
+01:24:43,861 --> 01:24:46,313
+<font color="#FFFFFF">- I'll go with you.
+- No, kill the snake.</font>
+
+762
+01:24:47,636 --> 01:24:49,512
+<font color="#FFFFFF">Kill the snake,
+and then it's just him!</font>
+
+763
+01:26:10,064 --> 01:26:11,409
+<font color="#FFFFFF">I'm ready to die.</font>
+
+764
+01:26:53,531 --> 01:26:55,103
+<font color="#FFFFFF">Resurrection Stone.</font>
+
+765
+01:27:25,663 --> 01:27:28,278
+<font color="#FFFFFF">You've been so brave, sweetheart.</font>
+
+766
+01:27:33,133 --> 01:27:36,809
+<font color="#FFFFFF">Why are you here?
+All of you.</font>
+
+767
+01:27:39,892 --> 01:27:41,334
+<font color="#FFFFFF">We never left.</font>
+
+768
+01:27:50,977 --> 01:27:51,942
+<font color="#FFFFFF">Does...</font>
+
+769
+01:27:53,380 --> 01:27:54,520
+<font color="#FFFFFF">Does it hurt?</font>
+
+770
+01:27:55,663 --> 01:27:56,779
+<font color="#FFFFFF">Dying?</font>
+
+771
+01:27:58,266 --> 01:28:00,286
+<font color="#FFFFFF">Quicker than falling asleep.</font>
+
+772
+01:28:04,691 --> 01:28:05,910
+<font color="#FFFFFF">You're nearly there, son.</font>
+
+773
+01:28:07,365 --> 01:28:08,521
+<font color="#FFFFFF">I'm sorry.</font>
+
+774
+01:28:08,801 --> 01:28:11,149
+<font color="#FFFFFF">I never wanted any
+of you to die for me.</font>
+
+775
+01:28:13,656 --> 01:28:14,911
+<font color="#FFFFFF">And, Remus, your son?</font>
+
+776
+01:28:15,399 --> 01:28:18,358
+<font color="#FFFFFF">Others will tell him what his
+mother and father died for.</font>
+
+777
+01:28:19,845 --> 01:28:22,380
+<font color="#FFFFFF">One day, he'll understand.</font>
+
+778
+01:28:35,215 --> 01:28:36,228
+<font color="#FFFFFF">You'll stay with me?</font>
+
+779
+01:28:38,019 --> 01:28:39,515
+<font color="#FFFFFF">Until the end.</font>
+
+780
+01:28:41,183 --> 01:28:42,620
+<font color="#FFFFFF">And he won't be able to see you?</font>
+
+781
+01:28:43,325 --> 01:28:44,170
+<font color="#FFFFFF">No.</font>
+
+782
+01:28:46,324 --> 01:28:47,885
+<font color="#FFFFFF">We're here, you see.</font>
+
+783
+01:29:03,176 --> 01:29:04,730
+<font color="#FFFFFF">Stay close to me.</font>
+
+784
+01:29:07,358 --> 01:29:08,683
+<font color="#FFFFFF">Always.</font>
+
+785
+01:29:23,829 --> 01:29:26,563
+<font color="#FFFFFF">No sign of him, My Lord.</font>
+
+786
+01:29:43,175 --> 01:29:44,834
+<font color="#FFFFFF">I thought he would come.</font>
+
+787
+01:30:26,711 --> 01:30:28,732
+<font color="#FFFFFF">Harry, no!</font>
+
+788
+01:30:28,965 --> 01:30:31,423
+<font color="#FFFFFF">- What're yeh doin' here?
+- Quiet!</font>
+
+789
+01:30:42,883 --> 01:30:44,182
+<font color="#FFFFFF">Harry Potter...</font>
+
+790
+01:30:48,190 --> 01:30:49,942
+<font color="#FFFFFF">The Boy Who Lived...</font>
+
+791
+01:30:55,199 --> 01:30:56,747
+<font color="#FFFFFF">come to die.</font>
+
+792
+01:31:15,796 --> 01:31:18,349
+<font color="#FFFFFF"><i>Avada Kedavra</i></font>
+
+793
+01:32:13,891 --> 01:32:15,109
+<font color="#FFFFFF">You can't help...</font>
+
+794
+01:32:16,806 --> 01:32:19,796
+<font color="#FFFFFF">Harry, you wonderful boy...</font>
+
+795
+01:32:20,972 --> 01:32:23,733
+<font color="#FFFFFF">You brave, brave man!</font>
+
+796
+01:32:26,909 --> 01:32:28,073
+<font color="#FFFFFF">Let us walk.</font>
+
+797
+01:32:36,332 --> 01:32:37,715
+<font color="#FFFFFF">Professor, what is that?</font>
+
+798
+01:32:41,339 --> 01:32:43,572
+<font color="#FFFFFF">Something beyond either of our help.</font>
+
+799
+01:32:47,247 --> 01:32:49,667
+<font color="#FFFFFF">A part of Voldemort sent here to die.</font>
+
+800
+01:32:50,861 --> 01:32:52,062
+<font color="#FFFFFF">And exactly where are we?</font>
+
+801
+01:32:53,254 --> 01:32:54,927
+<font color="#FFFFFF">I was going to ask you that.</font>
+
+802
+01:32:55,557 --> 01:32:56,939
+<font color="#FFFFFF">Where would you say that we are?</font>
+
+803
+01:32:57,610 --> 01:33:00,965
+<font color="#FFFFFF">Well, it looks like
+King's Cross station.</font>
+
+804
+01:33:02,367 --> 01:33:03,879
+<font color="#FFFFFF">Only cleaner...</font>
+
+805
+01:33:04,769 --> 01:33:06,019
+<font color="#FFFFFF">and without all the trains.</font>
+
+806
+01:33:07,483 --> 01:33:09,409
+<font color="#FFFFFF">King's Cross, is that right?</font>
+
+807
+01:33:10,579 --> 01:33:13,528
+<font color="#FFFFFF">This is, as they say, 'your' party.</font>
+
+808
+01:33:15,343 --> 01:33:17,854
+<font color="#FFFFFF">I expect you now realize that
+you and Voldemort...</font>
+
+809
+01:33:18,768 --> 01:33:20,957
+<font color="#FFFFFF">have been connected by
+something other than fate.</font>
+
+810
+01:33:21,462 --> 01:33:24,375
+<font color="#FFFFFF">Since that night in Godric's Hollow,
+all those years ago.</font>
+
+811
+01:33:24,735 --> 01:33:26,163
+<font color="#FFFFFF">So it's true then, sir.</font>
+
+812
+01:33:26,680 --> 01:33:28,803
+<font color="#FFFFFF">A part of him lives within me,
+doesn't it?</font>
+
+813
+01:33:29,913 --> 01:33:30,925
+<font color="#FFFFFF">Did.</font>
+
+814
+01:33:31,050 --> 01:33:35,210
+<font color="#FFFFFF">It's been just destroyed many moments
+ago by none other than Voldemort himself.</font>
+
+815
+01:33:37,082 --> 01:33:40,886
+<font color="#FFFFFF">You, were the Horcrux he
+never meant to make, Harry.</font>
+
+816
+01:33:54,582 --> 01:33:57,965
+<font color="#FFFFFF">- I have to go back, haven't I?
+- Oh, that's up to you.</font>
+
+817
+01:33:58,090 --> 01:34:00,956
+<font color="#FFFFFF">- I've a choice?
+- Oh, yes!</font>
+
+818
+01:34:02,045 --> 01:34:03,816
+<font color="#FFFFFF">We're in King's Cross, you say.</font>
+
+819
+01:34:05,989 --> 01:34:10,724
+<font color="#FFFFFF">I think if you so decide,
+you'll be able to board a train.</font>
+
+820
+01:34:12,158 --> 01:34:14,021
+<font color="#FFFFFF">And where would it take me?</font>
+
+821
+01:34:15,007 --> 01:34:15,990
+<font color="#FFFFFF">On.</font>
+
+822
+01:34:34,747 --> 01:34:36,355
+<font color="#FFFFFF">Voldemort has the Elder Wand.</font>
+
+823
+01:34:39,714 --> 01:34:40,524
+<font color="#FFFFFF">True.</font>
+
+824
+01:34:40,649 --> 01:34:42,035
+<font color="#FFFFFF">And the snake's still alive?</font>
+
+825
+01:34:42,348 --> 01:34:42,852
+<font color="#FFFFFF">Yes.</font>
+
+826
+01:34:44,040 --> 01:34:45,539
+<font color="#FFFFFF">And I've nothing to kill it with?</font>
+
+827
+01:34:46,984 --> 01:34:49,173
+<font color="#FFFFFF">Help will always be
+given at Hogwarts, Harry.</font>
+
+828
+01:34:49,507 --> 01:34:50,818
+<font color="#FFFFFF">To those who ask for it.</font>
+
+829
+01:34:52,792 --> 01:34:56,323
+<font color="#FFFFFF">I've always pride of myself
+on my ability to turn a phrase.</font>
+
+830
+01:34:57,518 --> 01:34:59,844
+<font color="#FFFFFF">Words are,
+in my not so humble opinion...</font>
+
+831
+01:35:00,812 --> 01:35:03,696
+<font color="#FFFFFF">are most inexhaustible
+source of magic.</font>
+
+832
+01:35:04,747 --> 01:35:08,271
+<font color="#FFFFFF">Capable of inflicting
+injury and remedies.</font>
+
+833
+01:35:09,486 --> 01:35:11,035
+<font color="#FFFFFF">But I would in this case...</font>
+
+834
+01:35:11,906 --> 01:35:14,656
+<font color="#FFFFFF">amend my original
+statement to this:</font>
+
+835
+01:35:18,245 --> 01:35:21,168
+<font color="#FFFFFF">Help, will always be
+given at Hogwarts,</font>
+
+836
+01:35:21,950 --> 01:35:23,543
+<font color="#FFFFFF">To those who deserve it.</font>
+
+837
+01:35:30,271 --> 01:35:32,008
+<font color="#FFFFFF">Do not pity the dead, Harry...</font>
+
+838
+01:35:33,465 --> 01:35:34,650
+<font color="#FFFFFF">Pity the living.</font>
+
+839
+01:35:36,069 --> 01:35:37,410
+<font color="#FFFFFF">And above all...</font>
+
+840
+01:35:37,535 --> 01:35:39,932
+<font color="#FFFFFF">all those who live without love.</font>
+
+841
+01:35:41,926 --> 01:35:43,828
+<font color="#FFFFFF">Professor, my mother's Patronus...</font>
+
+842
+01:35:44,580 --> 01:35:46,970
+<font color="#FFFFFF">was a doe, wasn't it?</font>
+
+843
+01:35:48,385 --> 01:35:50,268
+<font color="#FFFFFF">As the same as Professor Snape's.</font>
+
+844
+01:35:51,779 --> 01:35:54,033
+<font color="#FFFFFF">It's curious, don't you think?</font>
+
+845
+01:35:54,158 --> 01:35:55,841
+<font color="#FFFFFF">Actually, if I think about it...</font>
+
+846
+01:35:56,395 --> 01:35:58,079
+<font color="#FFFFFF">it doesn't seem curious at all!</font>
+
+847
+01:36:00,820 --> 01:36:02,113
+<font color="#FFFFFF">I'll be going now, Harry.</font>
+
+848
+01:36:03,415 --> 01:36:04,466
+<font color="#FFFFFF">Professor?</font>
+
+849
+01:36:09,413 --> 01:36:10,714
+<font color="#FFFFFF">Is this all real?</font>
+
+850
+01:36:12,194 --> 01:36:13,983
+<font color="#FFFFFF">Or is it just happening
+inside my head?</font>
+
+851
+01:36:14,108 --> 01:36:16,676
+<font color="#FFFFFF">Of course it's happening
+inside your head, Harry.</font>
+
+852
+01:36:17,923 --> 01:36:20,787
+<font color="#FFFFFF">Why should that mean,
+that it's not real?</font>
+
+853
+01:36:27,235 --> 01:36:28,465
+<font color="#FFFFFF">Professor?</font>
+
+854
+01:36:29,038 --> 01:36:30,109
+<font color="#FFFFFF">What should I do?</font>
+
+855
+01:36:34,646 --> 01:36:35,731
+<font color="#FFFFFF">Professor!</font>
+
+856
+01:36:39,702 --> 01:36:41,831
+<font color="#FFFFFF">My Lord, My Lord...</font>
+
+857
+01:36:41,956 --> 01:36:42,942
+<font color="#FFFFFF">Are you hurt?</font>
+
+858
+01:36:43,457 --> 01:36:45,194
+<font color="#FFFFFF">I don't need your help.</font>
+
+859
+01:36:56,810 --> 01:36:57,275
+<font color="#FFFFFF">The boy...</font>
+
+860
+01:36:58,727 --> 01:36:59,741
+<font color="#FFFFFF">Is he dead?</font>
+
+861
+01:37:14,838 --> 01:37:15,840
+<font color="#FFFFFF">Is he alive?</font>
+
+862
+01:37:17,112 --> 01:37:18,528
+<font color="#FFFFFF">Draco, is he alive?</font>
+
+863
+01:37:46,039 --> 01:37:46,721
+<font color="#FFFFFF">Dead.</font>
+
+864
+01:39:14,656 --> 01:39:15,267
+<font color="#FFFFFF">Who is that?</font>
+
+865
+01:39:16,048 --> 01:39:17,019
+<font color="#FFFFFF">Hagrid's carrying?</font>
+
+866
+01:39:18,080 --> 01:39:19,103
+<font color="#FFFFFF">Neville, who is it?</font>
+
+867
+01:39:20,604 --> 01:39:22,120
+<font color="#FFFFFF">Harry Potter...</font>
+
+868
+01:39:24,138 --> 01:39:26,216
+<font color="#FFFFFF">- is dead!
+- No!</font>
+
+869
+01:39:26,446 --> 01:39:27,290
+<font color="#FFFFFF">No!</font>
+
+870
+01:39:27,173 --> 01:39:28,016
+<font color="#FFFFFF">Silence!</font>
+
+871
+01:39:32,569 --> 01:39:34,223
+<font color="#FFFFFF">Stupid girl!</font>
+
+872
+01:39:35,854 --> 01:39:37,063
+<font color="#FFFFFF">Harry Potter...</font>
+
+873
+01:39:37,666 --> 01:39:38,588
+<font color="#FFFFFF">is dead!</font>
+
+874
+01:39:39,489 --> 01:39:40,990
+<font color="#FFFFFF">From this day forth...</font>
+
+875
+01:39:42,393 --> 01:39:45,926
+<font color="#FFFFFF">you'll put your faith in me.</font>
+
+876
+01:39:56,411 --> 01:39:58,246
+<font color="#FFFFFF">Harry Potter is dead!</font>
+
+877
+01:40:03,620 --> 01:40:05,901
+<font color="#FFFFFF">And now it's the time
+to declare yourself.</font>
+
+878
+01:40:08,627 --> 01:40:10,244
+<font color="#FFFFFF">Come forward and join us...</font>
+
+879
+01:40:13,085 --> 01:40:14,300
+<font color="#FFFFFF">or die!</font>
+
+880
+01:40:20,743 --> 01:40:21,161
+<font color="#FFFFFF">Draco!</font>
+
+881
+01:40:27,251 --> 01:40:28,029
+<font color="#FFFFFF">Draco.</font>
+
+882
+01:40:32,057 --> 01:40:32,933
+<font color="#FFFFFF">Draco.</font>
+
+883
+01:40:36,714 --> 01:40:37,420
+<font color="#FFFFFF">Come.</font>
+
+884
+01:40:50,792 --> 01:40:52,889
+<font color="#FFFFFF">Well done, Draco.</font>
+
+885
+01:40:53,786 --> 01:40:54,837
+<font color="#FFFFFF">Well done!</font>
+
+886
+01:41:18,168 --> 01:41:20,592
+<font color="#FFFFFF">Well, I must say I'd
+hoped for better.</font>
+
+887
+01:41:25,428 --> 01:41:27,406
+<font color="#FFFFFF">And who might you be, young man?</font>
+
+888
+01:41:29,653 --> 01:41:30,755
+<font color="#FFFFFF">Neville Longbottom.</font>
+
+889
+01:41:36,843 --> 01:41:40,462
+<font color="#FFFFFF">Well, Neville, I'm sure we can
+find a place for you in our rank.</font>
+
+890
+01:41:40,587 --> 01:41:42,050
+<font color="#FFFFFF">I'd like to say something.</font>
+
+891
+01:41:49,159 --> 01:41:53,662
+<font color="#FFFFFF">Well, Neville, I'm sure we'd all be
+fascinated to hear what you have to say.</font>
+
+892
+01:41:57,971 --> 01:42:00,198
+<font color="#FFFFFF">- Doesn't matter that Harry is gone.
+- Stand down, Neville!</font>
+
+893
+01:42:00,323 --> 01:42:01,736
+<font color="#FFFFFF">People die everyday!</font>
+
+894
+01:42:04,659 --> 01:42:07,970
+<font color="#FFFFFF">Friends, family.</font>
+
+895
+01:42:10,868 --> 01:42:11,551
+<font color="#FFFFFF">Yeah...</font>
+
+896
+01:42:13,892 --> 01:42:15,157
+<font color="#FFFFFF">We lost Harry tonight.</font>
+
+897
+01:42:17,697 --> 01:42:18,648
+<font color="#FFFFFF">He's still with us.</font>
+
+898
+01:42:20,200 --> 01:42:20,993
+<font color="#FFFFFF">In here.</font>
+
+899
+01:42:23,104 --> 01:42:26,851
+<font color="#FFFFFF">So as Fred, Remus...</font>
+
+900
+01:42:28,822 --> 01:42:29,632
+<font color="#FFFFFF">Tonks...</font>
+
+901
+01:42:31,615 --> 01:42:32,346
+<font color="#FFFFFF">All of them.</font>
+
+902
+01:42:34,669 --> 01:42:36,542
+<font color="#FFFFFF">They didn't die in vain.</font>
+
+903
+01:42:42,029 --> 01:42:42,986
+<font color="#FFFFFF">But you will.</font>
+
+904
+01:42:43,631 --> 01:42:44,584
+<font color="#FFFFFF">Because you're wrong!</font>
+
+905
+01:42:45,834 --> 01:42:47,127
+<font color="#FFFFFF">Harry's heart did beat for us.</font>
+
+906
+01:42:47,936 --> 01:42:48,700
+<font color="#FFFFFF">For all of us!</font>
+
+907
+01:42:49,258 --> 01:42:50,332
+<font color="#FFFFFF">It's not over!</font>
+
+908
+01:42:54,945 --> 01:42:55,699
+<font color="#FFFFFF"><i>Confringo</i></font>
+
+909
+01:43:07,963 --> 01:43:08,744
+<font color="#FFFFFF">Come on!</font>
+
+910
+01:43:17,825 --> 01:43:19,108
+<font color="#FFFFFF">All remain into the castle.</font>
+
+911
+01:43:19,348 --> 01:43:20,482
+<font color="#FFFFFF">We have to kill the snake.</font>
+
+912
+01:43:21,580 --> 01:43:22,150
+<font color="#FFFFFF">Neville!</font>
+
+913
+01:46:16,661 --> 01:46:18,855
+<font color="#FFFFFF">Not my daughter, you bitch!</font>
+
+914
+01:46:52,708 --> 01:46:53,730
+<font color="#FFFFFF">Hey, you were right...</font>
+
+915
+01:46:55,863 --> 01:46:57,940
+<font color="#FFFFFF">when you told Professor Snape
+that wand was failing you.</font>
+
+916
+01:46:58,065 --> 01:46:58,836
+<font color="#FFFFFF">It will always fail...</font>
+
+917
+01:47:01,230 --> 01:47:02,731
+<font color="#FFFFFF">I killed Snape!</font>
+
+918
+01:47:03,072 --> 01:47:04,654
+<font color="#FFFFFF">But what if the wand never belonged
+to Snape?</font>
+
+919
+01:47:05,245 --> 01:47:06,999
+<font color="#FFFFFF">What if its allegiance is always
+to someone else?</font>
+
+920
+01:47:08,379 --> 01:47:09,356
+<font color="#FFFFFF">Oh, come on, Tom...</font>
+
+921
+01:47:09,481 --> 01:47:10,897
+<font color="#FFFFFF">Let's finish this the way we started.</font>
+
+922
+01:47:12,434 --> 01:47:13,110
+<font color="#FFFFFF">Together!</font>
+
+923
+01:48:12,664 --> 01:48:13,715
+<font color="#FFFFFF">Die!</font>
+
+924
+01:50:59,463 --> 01:51:00,052
+<font color="#FFFFFF">Harry!</font>
+
+925
+01:52:01,164 --> 01:52:02,127
+<font color="#FFFFFF">Why didn't it work for him?</font>
+
+926
+01:52:02,917 --> 01:52:03,857
+<font color="#FFFFFF">The Elder Wand?</font>
+
+927
+01:52:05,870 --> 01:52:07,382
+<font color="#FFFFFF">It answered to somebody else.</font>
+
+928
+01:52:08,724 --> 01:52:11,363
+<font color="#FFFFFF">When he killed Snape, he thought
+the wand would become his.</font>
+
+929
+01:52:11,488 --> 01:52:12,078
+<font color="#FFFFFF">But the thing is...</font>
+
+930
+01:52:13,681 --> 01:52:15,958
+<font color="#FFFFFF">The wand never belonged to Snape.</font>
+
+931
+01:52:16,083 --> 01:52:19,402
+<font color="#FFFFFF">It was Draco, who disarmed Dumbledore
+that night in the Astronomy tower.</font>
+
+932
+01:52:20,689 --> 01:52:23,688
+<font color="#FFFFFF">From that moment on and the wand
+answered him,</font>
+
+933
+01:52:25,596 --> 01:52:29,727
+<font color="#FFFFFF">Until, the other night
+when I disarmed Draco.</font>
+
+934
+01:52:30,452 --> 01:52:31,474
+<font color="#FFFFFF">At Malfoy Manor.</font>
+
+935
+01:52:32,345 --> 01:52:33,321
+<font color="#FFFFFF">So, that means...</font>
+
+936
+01:52:35,860 --> 01:52:36,641
+<font color="#FFFFFF">It's mine!</font>
+
+937
+01:52:39,835 --> 01:52:42,233
+<font color="#FFFFFF">- What should we do with it?
+- We?</font>
+
+938
+01:52:43,699 --> 01:52:45,027
+<font color="#FFFFFF">Just saying, that's the Elder Wand.</font>
+
+939
+01:52:45,822 --> 01:52:47,631
+<font color="#FFFFFF">The most powerful wand in the world.</font>
+
+940
+01:52:48,476 --> 01:52:50,969
+<font color="#FFFFFF">With that, he'd be invincible.</font>
+
+941
+01:55:15,019 --> 01:55:15,710
+<font color="#FFFFFF">Together.</font>
+
+942
+01:55:55,462 --> 01:55:56,611
+<font color="#FFFFFF">- Bag?
+- Yeah.</font>
+
+943
+01:55:57,454 --> 01:55:58,196
+<font color="#FFFFFF">Jumper?</font>
+
+944
+01:56:00,178 --> 01:56:00,970
+<font color="#FFFFFF">I'm gonna miss you.</font>
+
+945
+01:56:02,992 --> 01:56:03,423
+<font color="#FFFFFF">Here they come.</font>
+
+946
+01:56:20,005 --> 01:56:20,706
+<font color="#FFFFFF">Dad?</font>
+
+947
+01:56:21,637 --> 01:56:23,393
+<font color="#FFFFFF">What if I am put in Slytherin?</font>
+
+948
+01:56:26,523 --> 01:56:32,991
+<font color="#FFFFFF">Albus Severus Potter. You were named
+after two Headmasters of Hogwarts.</font>
+
+949
+01:56:34,124 --> 01:56:38,945
+<font color="#FFFFFF">One of them was a Slytherin. And he
+was the bravest man I've ever known.</font>
+
+950
+01:56:41,153 --> 01:56:43,946
+<font color="#FFFFFF">- But just say if I am...
+- Then Slytherin house...</font>
+
+951
+01:56:44,427 --> 01:56:47,301
+<font color="#FFFFFF">will have gained a
+wonderful young wizard.</font>
+
+952
+01:56:48,642 --> 01:56:49,733
+<font color="#FFFFFF">But listen...</font>
+
+953
+01:56:50,224 --> 01:56:53,418
+<font color="#FFFFFF">If it really means that much to you,
+you can choose Gryffindor.</font>
+
+954
+01:56:54,249 --> 01:56:56,621
+<font color="#FFFFFF">The Sorting Hat takes
+your choice into account.</font>
+
+955
+01:56:57,754 --> 01:56:59,716
+<font color="#FFFFFF">- Really?
+- Really.</font>
+
+956
+01:57:03,972 --> 01:57:05,759
+<font color="#FFFFFF">- Ready?
+- Ready.</font>
+

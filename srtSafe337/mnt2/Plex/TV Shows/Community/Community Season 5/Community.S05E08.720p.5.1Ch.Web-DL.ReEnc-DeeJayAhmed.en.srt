@@ -1,0 +1,1962 @@
+1
+00:00:01,316 --> 00:00:05,163
+<font color="#FFFFFF">Okay, we'll get an estimate on
+adding grass to the soccer field.</font>
+
+2
+00:00:05,184 --> 00:00:06,815
+<font color="#FFFFFF">Good meeting.</font>
+
+3
+00:00:06,833 --> 00:00:09,118
+<font color="#FFFFFF">Oh, Jeff, what time's dinner?</font>
+
+4
+00:00:09,132 --> 00:00:10,916
+<font color="#FFFFFF">Uh, dinner?</font>
+
+5
+00:00:11,130 --> 00:00:12,882
+<font color="#FFFFFF">Jeff, you didn't invite Shirley?</font>
+
+6
+00:00:12,903 --> 00:00:14,372
+<font color="#FFFFFF">Well, it's Tuesday.</font>
+
+7
+00:00:14,394 --> 00:00:17,179
+<font color="#FFFFFF">Shirley always goes to Elijah's
+karate practice on Tuesdays.</font>
+
+8
+00:00:17,207 --> 00:00:19,553
+<font color="#FFFFFF">It's okay. Part of making sacrifices</font>
+
+9
+00:00:19,559 --> 00:00:23,827
+<font color="#FFFFFF">for my loved ones is not expecting
+my loved ones to make sacrifices.</font>
+
+10
+00:00:23,853 --> 00:00:25,527
+<font color="#FFFFFF">Aw.</font>
+
+11
+00:00:25,734 --> 00:00:27,782
+<font color="#FFFFFF">- I can do tomorrow.
+- I can't.</font>
+
+12
+00:00:27,801 --> 00:00:30,513
+<font color="#FFFFFF">- I'm free on Fridays and Mondays...
+- We're not moving it!</font>
+
+13
+00:00:32,323 --> 00:00:34,957
+<font color="#FFFFFF">When Shirley can have dinner,
+we'll have another dinner,</font>
+
+14
+00:00:34,975 --> 00:00:36,890
+<font color="#FFFFFF">because it's just dinner.</font>
+
+15
+00:00:36,906 --> 00:00:39,179
+<font color="#FFFFFF">And there's no need
+to manipulate each other.</font>
+
+16
+00:00:39,192 --> 00:00:41,000
+<font color="#FFFFFF">You know that's what you do.</font>
+
+17
+00:00:41,021 --> 00:00:45,167
+<font color="#FFFFFF">You know you're doing
+it now with that face.</font>
+
+18
+00:00:45,192 --> 00:00:46,518
+<font color="#FFFFFF">You don't like my face?</font>
+
+19
+00:00:46,536 --> 00:00:49,771
+<font color="#FFFFFF">Aw.</font>
+
+20
+00:00:50,302 --> 00:00:52,658
+<font color="#FFFFFF">Hello, Save Greendale Committee.</font>
+
+21
+00:00:52,679 --> 00:00:55,024
+<font color="#FFFFFF">This is David and Bixel.</font>
+
+22
+00:00:55,031 --> 00:00:56,774
+<font color="#FFFFFF">They're app designers.</font>
+
+23
+00:00:56,781 --> 00:01:01,131
+<font color="#FFFFFF">They'd like to beta test their latest
+social-networking app on our campus,</font>
+
+24
+00:01:01,143 --> 00:01:02,546
+<font color="#FFFFFF">which could be
+good for us.</font>
+
+25
+00:01:02,578 --> 00:01:04,394
+<font color="#FFFFFF">Look what Facebook did
+for Harvard, right?</font>
+
+26
+00:01:04,406 --> 00:01:06,436
+<font color="#FFFFFF">Hey, guys. Bixel
+and I would like</font>
+
+27
+00:01:06,456 --> 00:01:09,865
+<font color="#FFFFFF">to introduce you to a little app
+called MeowMeowBeenz.</font>
+
+28
+00:01:09,899 --> 00:01:10,759
+<font color="#FFFFFF">Ooh.</font>
+
+29
+00:01:10,784 --> 00:01:13,603
+<font color="#FFFFFF">MeowMeowBeenz let's you
+say how much you like,</font>
+
+30
+00:01:13,629 --> 00:01:18,731
+<font color="#FFFFFF">who you like, when you like, all from
+a standard non-boost mobile phone.</font>
+
+31
+00:01:18,759 --> 00:01:20,204
+<font color="#FFFFFF">Let's see how it works.</font>
+
+32
+00:01:20,236 --> 00:01:23,796
+<font color="#FFFFFF">Bixel, what did you think of the
+way the Dean introduced us?</font>
+
+33
+00:01:23,817 --> 00:01:25,150
+<font color="#FFFFFF">I thought he did great.</font>
+
+34
+00:01:25,164 --> 00:01:28,650
+<font color="#FFFFFF">That's why I'm giving
+him five MeowMeowBeenz.</font>
+
+35
+00:01:28,674 --> 00:01:29,435
+<font color="#FFFFFF">Aw.</font>
+
+36
+00:01:29,448 --> 00:01:34,112
+<font color="#FFFFFF">Well, Bixel, I'm sorry, but I
+thought his intro was just okay.</font>
+
+37
+00:01:34,627 --> 00:01:36,746
+<font color="#FFFFFF">That's why I'm gonna give him</font>
+
+38
+00:01:36,775 --> 00:01:39,754
+<font color="#FFFFFF">two out of five
+MeowMeowBeenz.</font>
+
+39
+00:01:40,659 --> 00:01:42,007
+<font color="#FFFFFF">My MeowMeowBeenz.</font>
+
+40
+00:01:42,025 --> 00:01:45,012
+<font color="#FFFFFF">With MeowMeowBeenz,
+students can rate teachers.</font>
+
+41
+00:01:45,031 --> 00:01:46,718
+<font color="#FFFFFF">Teachers can rate students.</font>
+
+42
+00:01:46,737 --> 00:01:49,490
+<font color="#FFFFFF">Everyone and anyone
+can rate each other.</font>
+
+43
+00:01:49,516 --> 00:01:51,465
+<font color="#FFFFFF">MeowMeowBeenz.</font>
+
+44
+00:01:52,039 --> 00:01:53,680
+<font color="#FFFFFF">You know...</font>
+
+45
+00:01:54,246 --> 00:01:56,007
+<font color="#FFFFFF">I could...</font>
+
+46
+00:01:57,079 --> 00:01:59,126
+<font color="#FFFFFF">I fought for this country,</font>
+
+47
+00:01:59,841 --> 00:02:04,840
+<font color="#FFFFFF">and I know you don't get to pick and
+choose the parts you fight for,</font>
+
+48
+00:02:04,853 --> 00:02:06,540
+<font color="#FFFFFF">but I know...</font>
+
+49
+00:02:06,566 --> 00:02:08,615
+<font color="#FFFFFF">I should go
+number two soon.</font>
+
+50
+00:02:10,978 --> 00:02:12,657
+<font color="#FFFFFF"><i>♪ Give me some rope ♪</i></font>
+
+51
+00:02:12,677 --> 00:02:14,269
+<font color="#FFFFFF"><i>♪ Tie me to dream ♪</i></font>
+
+52
+00:02:14,288 --> 00:02:15,820
+<font color="#FFFFFF"><i>♪ Give me the hope ♪</i></font>
+
+53
+00:02:15,847 --> 00:02:17,493
+<font color="#FFFFFF"><i>♪ To run out of steam ♪</i></font>
+
+54
+00:02:17,507 --> 00:02:20,960
+<font color="#FFFFFF"><i>♪ Somebody said
+it can be here ♪</i></font>
+
+55
+00:02:20,979 --> 00:02:24,974
+<font color="#FFFFFF"><i>♪ We could be roped up,
+tied up, dead in a year ♪</i></font>
+
+56
+00:02:24,987 --> 00:02:29,864
+<font color="#FFFFFF"><i>♪ I can't count the
+reasons I should stay ♪</i></font>
+
+57
+00:02:29,884 --> 00:02:33,718
+<font color="#FFFFFF"><i>♪ One by one, they
+all just fade away ♪</i></font>
+
+58
+00:02:33,752 --> 00:02:37,352
+<font color="#FFFFFF">Sync and corrected by Elderfel
+www. addic7ed. com
+Resync for WEB-DL by Norther</font>
+
+59
+00:02:41,810 --> 00:02:43,927
+<font color="#FFFFFF">Hurry up! I'm late for
+Human Rights class.</font>
+
+60
+00:02:43,961 --> 00:02:45,764
+<font color="#FFFFFF">I'm sorry.</font>
+
+61
+00:02:46,043 --> 00:02:48,031
+<font color="#FFFFFF">Why is Starburns carrying
+Garrett's books?</font>
+
+62
+00:02:48,058 --> 00:02:50,231
+<font color="#FFFFFF">It's like toast bossing
+crackers around.</font>
+
+63
+00:02:50,251 --> 00:02:51,631
+<font color="#FFFFFF">I mean, I guess.</font>
+
+64
+00:02:51,656 --> 00:02:53,783
+<font color="#FFFFFF">Garrett's got three MeowMeowBeenz.
+Starburns is a Two.</font>
+
+65
+00:02:53,808 --> 00:02:55,868
+<font color="#FFFFFF">Are you telling me people are
+actually using this stupid app?</font>
+
+66
+00:02:55,885 --> 00:02:57,937
+<font color="#FFFFFF">- It's addictively effective.
+- No, it's effectively stupid.</font>
+
+67
+00:02:57,956 --> 00:03:01,359
+<font color="#FFFFFF">There already was a rating system
+in place called "cool people get more,"</font>
+
+68
+00:03:01,365 --> 00:03:02,906
+<font color="#FFFFFF">and it was working fine.</font>
+
+69
+00:03:02,936 --> 00:03:04,936
+<font color="#FFFFFF">MeowMeowBeenz takes everything
+subjective and unspoken</font>
+
+70
+00:03:04,942 --> 00:03:08,695
+<font color="#FFFFFF">about human interaction and reduces
+it to explicit, objective numbers.</font>
+
+71
+00:03:08,711 --> 00:03:09,878
+<font color="#FFFFFF">I've never felt more alive.</font>
+
+72
+00:03:09,925 --> 00:03:12,502
+<font color="#FFFFFF">As long as you're
+happy, I'm unsettled.</font>
+
+73
+00:03:13,266 --> 00:03:14,919
+<font color="#FFFFFF">Hey, guys.</font>
+
+74
+00:03:15,811 --> 00:03:18,578
+<font color="#FFFFFF">- What happened to you? - I sat on a
+toilet so long, my feet fell asleep,</font>
+
+75
+00:03:18,598 --> 00:03:21,393
+<font color="#FFFFFF">then I noticed limping was
+getting MeowMeowBeenz,</font>
+
+76
+00:03:21,406 --> 00:03:23,437
+<font color="#FFFFFF">so I just kind of
+started committing.</font>
+
+77
+00:03:23,875 --> 00:03:26,935
+<font color="#FFFFFF">- Did you understand a
+word he said? - Mm-hmm.</font>
+
+78
+00:03:36,713 --> 00:03:39,382
+<font color="#FFFFFF">Hey, here you go.
+Here you go.</font>
+
+79
+00:03:39,402 --> 00:03:42,319
+<font color="#FFFFFF">Nobody is gonna down-vote
+a guy on his birthday.</font>
+
+80
+00:03:42,338 --> 00:03:44,372
+<font color="#FFFFFF">Wait. Are you using
+MeowMeowBeenz?</font>
+
+81
+00:03:44,399 --> 00:03:45,778
+<font color="#FFFFFF">If you can't kill it, join it.</font>
+
+82
+00:03:45,808 --> 00:03:47,968
+<font color="#FFFFFF">When you get older, you're
+gonna see the warning signs.</font>
+
+83
+00:03:47,989 --> 00:03:51,668
+<font color="#FFFFFF">Mark Zuckerberg is Fidel
+Castro in flip-flops.</font>
+
+84
+00:03:51,695 --> 00:03:55,433
+<font color="#FFFFFF">MeowMeowBeenz is gonna make
+East Berlin look like Woodstock.</font>
+
+85
+00:03:55,454 --> 00:03:57,347
+<font color="#FFFFFF">You take my word for that.</font>
+
+86
+00:03:57,370 --> 00:04:00,417
+<font color="#FFFFFF">Do you own stock in Trivial
+Pursuit's Baby Boom Edition?</font>
+
+87
+00:04:03,066 --> 00:04:05,753
+<font color="#FFFFFF">Britta. Please tell me
+you're not using this app.</font>
+
+88
+00:04:05,780 --> 00:04:09,399
+<font color="#FFFFFF">Uh, I liked the idea at first,
+giving a voice to the unheard,</font>
+
+89
+00:04:09,417 --> 00:04:13,729
+<font color="#FFFFFF">but then Annie just told me that the
+rating system is exponentially weighted.</font>
+
+90
+00:04:13,752 --> 00:04:16,074
+<font color="#FFFFFF">As your ratings go up, your
+ratings of other people</font>
+
+91
+00:04:16,093 --> 00:04:17,934
+<font color="#FFFFFF">- become more important.
+- No.</font>
+
+92
+00:04:17,947 --> 00:04:20,922
+<font color="#FFFFFF">It just means the more others like you,
+the more likeable you can make others.</font>
+
+93
+00:04:20,942 --> 00:04:23,101
+<font color="#FFFFFF">- It makes sense to me.
+- You know who else it made sense to?</font>
+
+94
+00:04:23,108 --> 00:04:25,988
+<font color="#FFFFFF">Say "Hitler" one more time,
+and I'm giving you a two.</font>
+
+95
+00:04:26,005 --> 00:04:28,122
+<font color="#FFFFFF">- Jeff, are you not registered?
+- The longer you wait,</font>
+
+96
+00:04:28,141 --> 00:04:29,634
+<font color="#FFFFFF">the harder it's gonna be
+to get your number up.</font>
+
+97
+00:04:29,661 --> 00:04:30,894
+<font color="#FFFFFF">Annie!</font>
+
+98
+00:04:31,190 --> 00:04:33,401
+<font color="#FFFFFF">Listen to yourself.
+You're learning its language.</font>
+
+99
+00:04:33,408 --> 00:04:35,694
+<font color="#FFFFFF">You're letting a video game play you.</font>
+
+100
+00:04:35,713 --> 00:04:39,279
+<font color="#FFFFFF">- I got to set these people straight.
+- Hey, hey, uh...</font>
+
+101
+00:04:40,207 --> 00:04:42,901
+<font color="#FFFFFF">Students of Greendale!</font>
+
+102
+00:04:42,925 --> 00:04:46,261
+<font color="#FFFFFF">We don't have to
+worship a calculator!</font>
+
+103
+00:04:46,274 --> 00:04:48,654
+<font color="#FFFFFF">There is no formula
+for people!</font>
+
+104
+00:04:52,021 --> 00:04:53,247
+<font color="#FFFFFF">Oh.</font>
+
+105
+00:04:53,274 --> 00:04:56,100
+<font color="#FFFFFF">You're punishing me
+for being alive!</font>
+
+106
+00:04:56,113 --> 00:04:58,747
+<font color="#FFFFFF">That's the general
+idea, baby.</font>
+
+107
+00:05:00,788 --> 00:05:03,269
+<font color="#FFFFFF">You're gonna think I'm joking,
+but you were getting through</font>
+
+108
+00:05:03,283 --> 00:05:05,129
+<font color="#FFFFFF">to me more with
+mustard on your lip.</font>
+
+109
+00:05:05,142 --> 00:05:07,029
+<font color="#FFFFFF">- Oh, shut up.
+- He's not kidding, Britta.</font>
+
+110
+00:05:07,050 --> 00:05:08,423
+<font color="#FFFFFF">I thought I was
+imagining it.</font>
+
+111
+00:05:08,444 --> 00:05:11,283
+<font color="#FFFFFF">When you had mustard on your lip,
+I was more open to your opinion.</font>
+
+112
+00:05:11,303 --> 00:05:15,052
+<font color="#FFFFFF">Maybe it dilutes or distracts
+from your excessive intensity.</font>
+
+113
+00:05:15,074 --> 00:05:17,747
+<font color="#FFFFFF">Maybe it dilutes or distracts
+from your stupid butt.</font>
+
+114
+00:05:17,759 --> 00:05:18,766
+<font color="#FFFFFF">Hmm.</font>
+
+115
+00:05:18,783 --> 00:05:20,596
+<font color="#FFFFFF">How you doing, Rog?</font>
+
+116
+00:05:20,615 --> 00:05:22,649
+<font color="#FFFFFF">Hey, Charlotte. I see
+what you did there.</font>
+
+117
+00:05:23,276 --> 00:05:25,704
+<font color="#FFFFFF">Vicki, I love this.</font>
+
+118
+00:05:26,528 --> 00:05:28,427
+<font color="#FFFFFF">Shirley's a Five.</font>
+
+119
+00:05:28,447 --> 00:05:30,319
+<font color="#FFFFFF">- How?
+- She's nice to people, Jeff.</font>
+
+120
+00:05:30,332 --> 00:05:31,639
+<font color="#FFFFFF">You know Shirley.</font>
+
+121
+00:05:31,661 --> 00:05:33,401
+<font color="#FFFFFF">Oh, Vicki, thank you.</font>
+
+122
+00:05:33,422 --> 00:05:36,326
+<font color="#FFFFFF">Did you just give me
+four MeowMeowBeenz?</font>
+
+123
+00:05:36,345 --> 00:05:37,471
+<font color="#FFFFFF">Um...</font>
+
+124
+00:05:37,492 --> 00:05:40,588
+<font color="#FFFFFF">I love my four from Vicki.</font>
+
+125
+00:05:41,983 --> 00:05:43,543
+<font color="#FFFFFF">No!</font>
+
+126
+00:05:43,792 --> 00:05:45,466
+<font color="#FFFFFF">Stop it!</font>
+
+127
+00:05:45,478 --> 00:05:47,112
+<font color="#FFFFFF">I didn't mean it.</font>
+
+128
+00:05:48,547 --> 00:05:49,856
+<font color="#FFFFFF">Yeah.</font>
+
+129
+00:05:49,882 --> 00:05:51,702
+<font color="#FFFFFF">I do know Shirley.</font>
+
+130
+00:05:54,276 --> 00:05:55,255
+<font color="#FFFFFF">Oh!</font>
+
+131
+00:05:55,268 --> 00:05:57,468
+<font color="#FFFFFF">We should be
+having brownies.</font>
+
+132
+00:05:57,475 --> 00:05:58,742
+<font color="#FFFFFF">I'm going to help Shirley.</font>
+
+133
+00:05:58,754 --> 00:06:01,021
+<font color="#FFFFFF">Not a bad idea for you, Britta.
+She could make you a Two again.</font>
+
+134
+00:06:01,041 --> 00:06:03,396
+<font color="#FFFFFF">Screw your Twos, and
+screw MeowMeowBeenz.</font>
+
+135
+00:06:03,401 --> 00:06:05,892
+<font color="#FFFFFF">I know that's
+your One talking.</font>
+
+136
+00:06:07,593 --> 00:06:10,423
+<font color="#FFFFFF">- What are you doing?
+- Registering for MeowMeowBeenz.</font>
+
+137
+00:06:10,444 --> 00:06:13,103
+<font color="#FFFFFF">I'm gonna become a Five and expose
+this thing for the sham it is.</font>
+
+138
+00:06:13,120 --> 00:06:15,514
+<font color="#FFFFFF">Oh, now you're
+speaking my language.</font>
+
+139
+00:06:15,533 --> 00:06:17,447
+<font color="#FFFFFF">That's unintentional,
+trust me.</font>
+
+140
+00:06:17,463 --> 00:06:18,540
+<font color="#FFFFFF">Mm.</font>
+
+141
+00:06:18,553 --> 00:06:19,949
+<font color="#FFFFFF">Just make sure you
+know the real reason</font>
+
+142
+00:06:19,961 --> 00:06:23,151
+<font color="#FFFFFF">you're doing something, or
+you'll fail before you start.</font>
+
+143
+00:06:23,165 --> 00:06:26,214
+<font color="#FFFFFF">- That's actually a good point.
+- It is? Why?</font>
+
+144
+00:06:28,689 --> 00:06:30,271
+<font color="#FFFFFF">Oh, come on!</font>
+
+145
+00:06:34,784 --> 00:06:37,206
+<font color="#FFFFFF">So I'm like, "That's two cups,"
+and she's like, "What?"</font>
+
+146
+00:06:37,218 --> 00:06:40,088
+<font color="#FFFFFF">I'm like, "Two cups,
+balls back, tops off."</font>
+
+147
+00:06:41,728 --> 00:06:47,488
+<font color="#FFFFFF">All right, Trent, Mulch, Dave,
+Herpie, Clutch, Dirt Mouth,</font>
+
+148
+00:06:47,509 --> 00:06:50,615
+<font color="#FFFFFF">Rope, Tingles, Cat
+Woman, Steve.</font>
+
+149
+00:06:50,630 --> 00:06:52,161
+<font color="#FFFFFF">All right, keep it floppy.</font>
+
+150
+00:06:52,187 --> 00:06:54,220
+<font color="#FFFFFF">Haul it, ball it, never call it.</font>
+
+151
+00:06:54,240 --> 00:06:56,497
+<font color="#FFFFFF">- Girls are objects.
+- Yeah!</font>
+
+152
+00:07:03,093 --> 00:07:04,673
+<font color="#FFFFFF">Two MeowMeowBeenz.</font>
+
+153
+00:07:04,687 --> 00:07:05,980
+<font color="#FFFFFF">Congratulations.</font>
+
+154
+00:07:06,002 --> 00:07:08,656
+<font color="#FFFFFF">Abed was just explaining
+that the Fives get to choose</font>
+
+155
+00:07:08,668 --> 00:07:11,502
+<font color="#FFFFFF">- what setting the air
+conditioning is on. - Yep.</font>
+
+156
+00:07:12,586 --> 00:07:15,218
+<font color="#FFFFFF">Is it me, or are more
+people wearing gray.</font>
+
+157
+00:07:15,225 --> 00:07:17,826
+<font color="#FFFFFF">I feel like I'm in a commercial, and
+someone's about to hand me a Starburst.</font>
+
+158
+00:07:17,838 --> 00:07:19,427
+<font color="#FFFFFF">Threes and Twos tend to
+wear neutral colors.</font>
+
+159
+00:07:19,440 --> 00:07:21,427
+<font color="#FFFFFF">Looking like you want to move
+up can get you moved down.</font>
+
+160
+00:07:21,454 --> 00:07:24,380
+<font color="#FFFFFF">- Abed, hey. Come here.
+- Hi.</font>
+
+161
+00:07:24,877 --> 00:07:25,954
+<font color="#FFFFFF">Those are other Threes.</font>
+
+162
+00:07:25,987 --> 00:07:28,293
+<font color="#FFFFFF">We talk about how we're
+glad we're not Twos.</font>
+
+163
+00:07:29,735 --> 00:07:31,442
+<font color="#FFFFFF">Small talk, guys.</font>
+
+164
+00:07:31,463 --> 00:07:33,074
+<font color="#FFFFFF">I make small talk now.</font>
+
+165
+00:07:33,670 --> 00:07:34,716
+<font color="#FFFFFF">Hello, Jeffrey.</font>
+
+166
+00:07:34,723 --> 00:07:36,569
+<font color="#FFFFFF">I see you decided to join
+MeowMeowBeenz.</font>
+
+167
+00:07:36,595 --> 00:07:38,362
+<font color="#FFFFFF">Oh, it's a great
+tool for living.</font>
+
+168
+00:07:38,387 --> 00:07:40,235
+<font color="#FFFFFF">- You look great.
+- You look great.</font>
+
+169
+00:07:40,254 --> 00:07:42,750
+<font color="#FFFFFF">- You know what you're doing.
+- You know what you're doing.</font>
+
+170
+00:07:42,752 --> 00:07:44,502
+<font color="#FFFFFF">I'm watching you, okay?</font>
+
+171
+00:07:44,531 --> 00:07:46,981
+<font color="#FFFFFF">- Mm, mm.
+- Mm, mm.</font>
+
+172
+00:07:47,476 --> 00:07:50,189
+<font color="#FFFFFF">Yeah, you'll be watching
+my hinder, mama,</font>
+
+173
+00:07:50,213 --> 00:07:53,622
+<font color="#FFFFFF">and choking on its billowing
+plume of highly rated dust.</font>
+
+174
+00:08:09,161 --> 00:08:12,860
+<font color="#FFFFFF">Whoa, whoa, whoa,
+Fours and above only.</font>
+
+175
+00:08:12,889 --> 00:08:15,235
+<font color="#FFFFFF">These are snacks
+for the Fives.</font>
+
+176
+00:08:15,268 --> 00:08:17,461
+<font color="#FFFFFF">Yeah? You're a two.</font>
+
+177
+00:08:17,468 --> 00:08:21,543
+<font color="#FFFFFF">Leonard, would you rather a
+Three serve the Fives food?</font>
+
+178
+00:08:21,571 --> 00:08:23,199
+<font color="#FFFFFF">No.</font>
+
+179
+00:08:24,726 --> 00:08:27,709
+<font color="#FFFFFF">It is no secret that
+the Threes and Twos</font>
+
+180
+00:08:27,721 --> 00:08:30,288
+<font color="#FFFFFF">are growing suspicious
+of the Fours and Fives.</font>
+
+181
+00:08:30,302 --> 00:08:33,855
+<font color="#FFFFFF">All I know is that
+it's my birthday.</font>
+
+182
+00:08:33,875 --> 00:08:38,168
+<font color="#FFFFFF">What if we give these people
+something to believe in again?</font>
+
+183
+00:08:38,187 --> 00:08:41,500
+<font color="#FFFFFF">- Koogler? - Hey. I know what
+you guys think of me, okay?</font>
+
+184
+00:08:41,519 --> 00:08:44,337
+<font color="#FFFFFF">"Hey, it's Koogler."
+You know. "He's cool."</font>
+
+185
+00:08:44,563 --> 00:08:47,144
+<font color="#FFFFFF">"He likes to get laid.
+He's not that old."</font>
+
+186
+00:08:47,659 --> 00:08:50,279
+<font color="#FFFFFF">But I'm a Five because I know what
+the Twos and the Threes need.</font>
+
+187
+00:08:50,292 --> 00:08:52,106
+<font color="#FFFFFF">What do we all need?</font>
+
+188
+00:08:52,636 --> 00:08:54,017
+<font color="#FFFFFF">Entertainment.</font>
+
+189
+00:08:54,029 --> 00:08:55,629
+<font color="#FFFFFF">A talent show.</font>
+
+190
+00:08:55,648 --> 00:08:58,607
+<font color="#FFFFFF">An event where Threes and
+Twos can rise and fall.</font>
+
+191
+00:08:58,620 --> 00:09:00,735
+<font color="#FFFFFF">It helps people believe
+in the system.</font>
+
+192
+00:09:00,755 --> 00:09:02,769
+<font color="#FFFFFF">Give my spot to someone else.
+I don't want to be a Five.</font>
+
+193
+00:09:02,788 --> 00:09:04,760
+<font color="#FFFFFF">I was happy as a Three.
+I'm miserable.</font>
+
+194
+00:09:04,780 --> 00:09:06,687
+<font color="#FFFFFF">Oh, dear Abed.</font>
+
+195
+00:09:06,701 --> 00:09:08,336
+<font color="#FFFFFF">So humble.</font>
+
+196
+00:09:12,037 --> 00:09:13,960
+<font color="#FFFFFF">You people are monsters.</font>
+
+197
+00:09:14,105 --> 00:09:16,361
+<font color="#FFFFFF">Well, if there's
+nothing else, then...</font>
+
+198
+00:09:16,953 --> 00:09:18,260
+<font color="#FFFFFF">Speak.</font>
+
+199
+00:09:18,279 --> 00:09:21,296
+<font color="#FFFFFF">Headline items... A few Twos
+broke into a supply closet</font>
+
+200
+00:09:21,302 --> 00:09:22,442
+<font color="#FFFFFF">and stole a box
+of peanut butter.</font>
+
+201
+00:09:22,469 --> 00:09:25,399
+<font color="#FFFFFF">The futurization of the campus
+decor is almost complete.</font>
+
+202
+00:09:25,412 --> 00:09:28,865
+<font color="#FFFFFF">And a few hours ago, Jeff
+Winger became a Four.</font>
+
+203
+00:09:28,886 --> 00:09:31,038
+<font color="#FFFFFF">That's nice.</font>
+
+204
+00:09:41,542 --> 00:09:43,004
+<font color="#FFFFFF">You there, girl.</font>
+
+205
+00:09:43,024 --> 00:09:44,573
+<font color="#FFFFFF">How many MeowMeowBeenz?</font>
+
+206
+00:09:45,980 --> 00:09:47,139
+<font color="#FFFFFF">Two!</font>
+
+207
+00:09:47,826 --> 00:09:49,927
+<font color="#FFFFFF">Two? Are you lost, Two?</font>
+
+208
+00:09:49,941 --> 00:09:52,991
+<font color="#FFFFFF">Yes. Are you lost, Two?</font>
+
+209
+00:09:53,018 --> 00:09:55,403
+<font color="#FFFFFF">I'll escort her to
+the common area.</font>
+
+210
+00:09:55,418 --> 00:09:57,924
+<font color="#FFFFFF">You're a Four?
+I don't recognize you.</font>
+
+211
+00:09:57,947 --> 00:09:59,179
+<font color="#FFFFFF">He's new Beenz.</font>
+
+212
+00:10:00,208 --> 00:10:01,576
+<font color="#FFFFFF">Bye-bye, new Beenz.</font>
+
+213
+00:10:01,595 --> 00:10:05,482
+<font color="#FFFFFF"><i>Threes and Twos must leave
+building one after 7:00.</i></font>
+
+214
+00:10:05,500 --> 00:10:08,548
+<font color="#FFFFFF"><i>Building one after
+7:00 is Fours only.</i></font>
+
+215
+00:10:08,561 --> 00:10:10,756
+<font color="#FFFFFF">- What are you doing here?
+- How goes the revolution?</font>
+
+216
+00:10:10,764 --> 00:10:12,370
+<font color="#FFFFFF">I can't break a Four.</font>
+
+217
+00:10:12,379 --> 00:10:14,929
+<font color="#FFFFFF">It's impossible to get any higher
+without half the Fives in your corner.</font>
+
+218
+00:10:14,950 --> 00:10:17,278
+<font color="#FFFFFF">- They got this thing locked up.
+- Yeah, but they're nervous.</font>
+
+219
+00:10:17,298 --> 00:10:20,318
+<font color="#FFFFFF">They're hosting a talent show to
+prove that anyone can be a Five.</font>
+
+220
+00:10:20,331 --> 00:10:23,566
+<font color="#FFFFFF">If you enter it, you'll be center
+stage with all eyes on you,</font>
+
+221
+00:10:23,578 --> 00:10:26,736
+<font color="#FFFFFF">and you can tell everyone
+this isn't democracy.</font>
+
+222
+00:10:26,750 --> 00:10:28,601
+<font color="#FFFFFF">This is tyranny.</font>
+
+223
+00:10:28,821 --> 00:10:30,018
+<font color="#FFFFFF">I'm sorry. Can you
+put some mustard...</font>
+
+224
+00:10:30,030 --> 00:10:34,090
+<font color="#FFFFFF">I shouldn't have to put mustard on
+my face for this to make sense.</font>
+
+225
+00:10:34,099 --> 00:10:36,265
+<font color="#FFFFFF">You know we have to
+take this system down.</font>
+
+226
+00:10:43,456 --> 00:10:44,948
+<font color="#FFFFFF">You know...</font>
+
+227
+00:10:44,970 --> 00:10:46,917
+<font color="#FFFFFF">I once loved a Two.</font>
+
+228
+00:10:48,875 --> 00:10:50,150
+<font color="#FFFFFF">Matthew...</font>
+
+229
+00:10:50,820 --> 00:10:52,767
+<font color="#FFFFFF">He was my everything.</font>
+
+230
+00:10:53,897 --> 00:10:56,724
+<font color="#FFFFFF">But numbers change.</font>
+
+231
+00:11:00,903 --> 00:11:03,325
+<font color="#FFFFFF">I'll keep your
+secret, new Beenz.</font>
+
+232
+00:11:11,759 --> 00:11:13,009
+<font color="#FFFFFF">It says you're next.</font>
+
+233
+00:11:13,032 --> 00:11:15,231
+<font color="#FFFFFF">Now, Jeffrey, I beg you
+not to take this risk.</font>
+
+234
+00:11:15,250 --> 00:11:18,517
+<font color="#FFFFFF">You know what they say. Fives
+have lives, Fours have chores,</font>
+
+235
+00:11:18,537 --> 00:11:20,309
+<font color="#FFFFFF">Threes have fleas,
+Twos have blues,</font>
+
+236
+00:11:20,322 --> 00:11:22,822
+<font color="#FFFFFF">and Ones don't get a rhyme
+because they're garbage.</font>
+
+237
+00:11:22,836 --> 00:11:24,803
+<font color="#FFFFFF">Craig, I got this.</font>
+
+238
+00:11:35,034 --> 00:11:37,294
+<font color="#FFFFFF">No! No, please!</font>
+
+239
+00:11:37,321 --> 00:11:39,667
+<font color="#FFFFFF">Not the Outlands!
+Please!</font>
+
+240
+00:11:39,691 --> 00:11:41,080
+<font color="#FFFFFF">Boo on you!</font>
+
+241
+00:11:41,091 --> 00:11:43,971
+<font color="#FFFFFF">The Fives have spoken!</font>
+
+242
+00:11:43,990 --> 00:11:45,890
+<font color="#FFFFFF">And you...</font>
+
+243
+00:11:46,469 --> 00:11:47,682
+<font color="#FFFFFF">uh...</font>
+
+244
+00:11:47,696 --> 00:11:49,946
+<font color="#FFFFFF">are not very good and...</font>
+
+245
+00:11:53,527 --> 00:11:55,493
+<font color="#FFFFFF">What? No! Please!</font>
+
+246
+00:11:55,514 --> 00:11:58,898
+<font color="#FFFFFF">I'm just not very good at
+public speaking and...</font>
+
+247
+00:12:00,815 --> 00:12:02,335
+<font color="#FFFFFF">Last chance, Jeffrey.</font>
+
+248
+00:12:02,354 --> 00:12:03,866
+<font color="#FFFFFF">Showtime.</font>
+
+249
+00:12:14,278 --> 00:12:16,048
+<font color="#FFFFFF">My name is Jeff Winger.</font>
+
+250
+00:12:16,082 --> 00:12:18,275
+<font color="#FFFFFF">I recently became a Four.</font>
+
+251
+00:12:18,302 --> 00:12:20,308
+<font color="#FFFFFF">Funny thing is,</font>
+
+252
+00:12:20,333 --> 00:12:22,114
+<font color="#FFFFFF">when I was a Two,</font>
+
+253
+00:12:22,865 --> 00:12:26,004
+<font color="#FFFFFF">I didn't actually
+have any less.</font>
+
+254
+00:12:27,462 --> 00:12:30,710
+<font color="#FFFFFF">But I did have a lot
+of crazy friends.</font>
+
+255
+00:12:30,726 --> 00:12:34,846
+<font color="#FFFFFF">Hey, my name's Tommy Talouca.
+I'm from hallway "C."</font>
+
+256
+00:12:34,870 --> 00:12:35,811
+<font color="#FFFFFF">I'm a Two!</font>
+
+257
+00:12:35,838 --> 00:12:40,256
+<font color="#FFFFFF">I got to get to the cafeteria
+before they run out of apples!</font>
+
+258
+00:12:41,586 --> 00:12:43,961
+<font color="#FFFFFF">What is with
+Twos and apples?</font>
+
+259
+00:12:43,974 --> 00:12:46,020
+<font color="#FFFFFF">You're given three
+kinds of fruit.</font>
+
+260
+00:12:46,039 --> 00:12:47,209
+<font color="#FFFFFF">Mix it up.</font>
+
+261
+00:12:48,918 --> 00:12:51,220
+<font color="#FFFFFF">Then you become a Four.</font>
+
+262
+00:12:51,245 --> 00:12:54,057
+<font color="#FFFFFF">And you get that, uh...
+that Four walk.</font>
+
+263
+00:12:54,081 --> 00:12:56,063
+<font color="#FFFFFF">You know what I'm
+talking about? It's like this.</font>
+
+264
+00:12:56,084 --> 00:12:58,571
+<font color="#FFFFFF">It's like one of these.</font>
+
+265
+00:12:58,600 --> 00:13:01,034
+<font color="#FFFFFF">And they got a little trail
+of Twos behind them,</font>
+
+266
+00:13:01,043 --> 00:13:03,924
+<font color="#FFFFFF">and they're like "Hey, is
+there an apple up there?"</font>
+
+267
+00:13:05,808 --> 00:13:08,448
+<font color="#FFFFFF">Oh, shit.</font>
+
+268
+00:13:08,461 --> 00:13:11,024
+<font color="#FFFFFF">Wow. What else
+is going on?</font>
+
+269
+00:13:11,043 --> 00:13:13,115
+<font color="#FFFFFF">- He's killing it.
+- Shh!</font>
+
+270
+00:13:13,129 --> 00:13:15,236
+<font color="#FFFFFF">There came a time</font>
+
+271
+00:13:15,268 --> 00:13:18,014
+<font color="#FFFFFF">when I has to a
+"aks" myself,</font>
+
+272
+00:13:18,034 --> 00:13:20,678
+<font color="#FFFFFF">did I even want
+to be a Three?</font>
+
+273
+00:13:21,288 --> 00:13:25,950
+<font color="#FFFFFF">Or did I just hate
+myself for being a Two?</font>
+
+274
+00:13:25,971 --> 00:13:27,527
+<font color="#FFFFFF">I don't know.</font>
+
+275
+00:13:28,394 --> 00:13:30,161
+<font color="#FFFFFF">All I know is...</font>
+
+276
+00:13:31,096 --> 00:13:33,783
+<font color="#FFFFFF">I sure do love
+them apples!</font>
+
+277
+00:13:51,750 --> 00:13:55,437
+<font color="#FFFFFF">Oh, the Koog "approogs."
+That's a five!</font>
+
+278
+00:14:00,211 --> 00:14:02,933
+<font color="#FFFFFF">Yeah!</font>
+
+279
+00:14:04,408 --> 00:14:08,225
+<font color="#FFFFFF">Review. Review
+meow meow meow meow meow!</font>
+
+280
+00:14:08,240 --> 00:14:11,668
+<font color="#FFFFFF">Review. Review
+meow meow meow meow meow.</font>
+
+281
+00:14:11,693 --> 00:14:13,947
+<font color="#FFFFFF">Down here, guys.</font>
+
+282
+00:14:13,975 --> 00:14:15,953
+<font color="#FFFFFF">- Yeah, yeah.
+- Can I get a picture?</font>
+
+283
+00:14:15,975 --> 00:14:18,467
+<font color="#FFFFFF">I want my future kids
+to know this happened.</font>
+
+284
+00:14:18,488 --> 00:14:20,953
+<font color="#FFFFFF">I admire your
+optimism, Garrett.</font>
+
+285
+00:14:22,701 --> 00:14:24,633
+<font color="#FFFFFF">- What the hell?
+- I don't want to hear it.</font>
+
+286
+00:14:24,645 --> 00:14:26,500
+<font color="#FFFFFF">I got this far because I need
+to take Shirley down.</font>
+
+287
+00:14:26,514 --> 00:14:28,595
+<font color="#FFFFFF">- What about everyone else?
+- Look around you, Britta.</font>
+
+288
+00:14:28,610 --> 00:14:30,640
+<font color="#FFFFFF">Everyone wanted this.</font>
+
+289
+00:14:31,456 --> 00:14:32,782
+<font color="#FFFFFF">Fives only, ma'am.</font>
+
+290
+00:14:32,802 --> 00:14:35,263
+<font color="#FFFFFF">Oh, great. Come on.</font>
+
+291
+00:14:35,278 --> 00:14:37,868
+<font color="#FFFFFF">You... you think this
+system's gonna last forever?</font>
+
+292
+00:14:37,886 --> 00:14:39,394
+<font color="#FFFFFF">I'm gonna free people's minds.</font>
+
+293
+00:14:39,427 --> 00:14:41,730
+<font color="#FFFFFF">I'm a Psych major.
+Words are my weapons.</font>
+
+294
+00:14:41,750 --> 00:14:44,211
+<font color="#FFFFFF">I'm a security guard.
+Weapons are my weapons.</font>
+
+295
+00:14:53,852 --> 00:14:55,450
+<font color="#FFFFFF">Welcome, Fives,</font>
+
+296
+00:14:55,465 --> 00:14:58,345
+<font color="#FFFFFF">to the inaugural
+fancy future dance.</font>
+
+297
+00:15:09,105 --> 00:15:12,274
+<font color="#FFFFFF">I'm glad you don't think making Jeff a
+Five was a mistake like everybody else.</font>
+
+298
+00:15:12,308 --> 00:15:13,881
+<font color="#FFFFFF">I believe in taking risks.</font>
+
+299
+00:15:13,902 --> 00:15:16,273
+<font color="#FFFFFF">Yeah! Jeff's really cool.</font>
+
+300
+00:15:17,393 --> 00:15:19,053
+<font color="#FFFFFF">Couldn't help but
+notice that Shirley</font>
+
+301
+00:15:19,078 --> 00:15:21,979
+<font color="#FFFFFF">didn't clap with the rest of you
+after my performance.</font>
+
+302
+00:15:21,991 --> 00:15:23,904
+<font color="#FFFFFF">Is she always
+so different?</font>
+
+303
+00:15:23,923 --> 00:15:25,880
+<font color="#FFFFFF">If you talk to me, I can't
+concentrate on the dance moves.</font>
+
+304
+00:15:25,913 --> 00:15:27,653
+<font color="#FFFFFF">You don't believe the
+rumors, do you, Koogler,</font>
+
+305
+00:15:27,668 --> 00:15:29,970
+<font color="#FFFFFF">that Jeff manipulated
+his way to the top?</font>
+
+306
+00:15:29,998 --> 00:15:32,630
+<font color="#FFFFFF">Shirley, I can hear
+what you're saying.</font>
+
+307
+00:15:32,662 --> 00:15:35,701
+<font color="#FFFFFF">You're trying to manipulate someone
+into thinking I'm manipulative.</font>
+
+308
+00:15:35,721 --> 00:15:37,503
+<font color="#FFFFFF">I'm sure I have no idea
+what you're talking about.</font>
+
+309
+00:15:37,515 --> 00:15:39,393
+<font color="#FFFFFF">No one ever knows what
+you're talking about</font>
+
+310
+00:15:39,418 --> 00:15:40,778
+<font color="#FFFFFF">because you never
+say what you mean.</font>
+
+311
+00:15:40,798 --> 00:15:42,188
+<font color="#FFFFFF">Do you want to have
+this conversation,</font>
+
+312
+00:15:42,216 --> 00:15:45,602
+<font color="#FFFFFF">or do you want to just keep flexing your
+veiny arms and throwing out apples?</font>
+
+313
+00:15:46,755 --> 00:15:49,306
+<font color="#FFFFFF"><i>Tranquility is advancement.</i></font>
+
+314
+00:15:49,318 --> 00:15:51,443
+<font color="#FFFFFF"><i>A happy Three is
+a future Four.</i></font>
+
+315
+00:15:51,466 --> 00:15:55,758
+<font color="#FFFFFF">Twos and Threes, you're accepting
+a life you don't have to live!</font>
+
+316
+00:15:57,880 --> 00:16:00,783
+<font color="#FFFFFF">Stand up for yourselves!</font>
+
+317
+00:16:00,970 --> 00:16:02,476
+<font color="#FFFFFF">Really?</font>
+
+318
+00:16:03,986 --> 00:16:05,668
+<font color="#FFFFFF">Ugh, fine.</font>
+
+319
+00:16:05,687 --> 00:16:07,715
+<font color="#FFFFFF">- Give me that.
+- Hey!</font>
+
+320
+00:16:11,254 --> 00:16:13,220
+<font color="#FFFFFF">You're all alive!</font>
+
+321
+00:16:13,249 --> 00:16:16,509
+<font color="#FFFFFF">You are all alive!</font>
+
+322
+00:16:16,528 --> 00:16:21,173
+<font color="#FFFFFF">Look at the mustard on my
+face, but listen to my words.</font>
+
+323
+00:16:21,197 --> 00:16:22,732
+<font color="#FFFFFF">You're one of the angriest,
+most vindictive...</font>
+
+324
+00:16:22,760 --> 00:16:25,288
+<font color="#FFFFFF">You're the angry one, because the
+rules got changed on you, Winger.</font>
+
+325
+00:16:25,301 --> 00:16:27,524
+<font color="#FFFFFF">You can't just be cool
+and be in charge now.</font>
+
+326
+00:16:27,549 --> 00:16:29,661
+<font color="#FFFFFF">No, you have to gossip
+and give out food</font>
+
+327
+00:16:29,673 --> 00:16:31,514
+<font color="#FFFFFF">- and make people feel guilty.
+- Okay, yeah.</font>
+
+328
+00:16:31,534 --> 00:16:35,001
+<font color="#FFFFFF">I bust my ass making a world full
+of selfish idiots remember my name!</font>
+
+329
+00:16:35,014 --> 00:16:38,931
+<font color="#FFFFFF">Fine. Call it hard work, but don't tell
+me the system measures who's nice.</font>
+
+330
+00:16:38,950 --> 00:16:41,317
+<font color="#FFFFFF">Actually, it kind of does.</font>
+
+331
+00:16:45,709 --> 00:16:49,036
+<font color="#FFFFFF">Security, banish them to the
+Outlands with the rest of the Ones!</font>
+
+332
+00:16:49,048 --> 00:16:51,211
+<font color="#FFFFFF">- Oh, no!
+- Ow!</font>
+
+333
+00:16:51,244 --> 00:16:53,317
+<font color="#FFFFFF">- Okay, okay, okay.
+- No! No!</font>
+
+334
+00:16:53,346 --> 00:16:58,128
+<font color="#FFFFFF">Ladies and gentlemen, please put your
+tray tables in their party positions...</font>
+
+335
+00:16:58,972 --> 00:17:01,192
+<font color="#FFFFFF">So sayeth Captain Koogler.</font>
+
+336
+00:17:01,216 --> 00:17:04,415
+<font color="#FFFFFF">Actually, keep the tray tables
+where they are, Koogler.</font>
+
+337
+00:17:04,449 --> 00:17:06,675
+<font color="#FFFFFF">The rule of the Fives is over!</font>
+
+338
+00:17:06,694 --> 00:17:09,471
+<font color="#FFFFFF">Long live the review-lution!</font>
+
+339
+00:17:09,502 --> 00:17:12,222
+<font color="#FFFFFF">- No!
+- That comes down?</font>
+
+340
+00:17:12,240 --> 00:17:15,107
+<font color="#FFFFFF">- Okay, okay, all right, all right.
+- Whoa!</font>
+
+341
+00:17:25,211 --> 00:17:27,915
+<font color="#FFFFFF">- Happy?
+- Are you happy?</font>
+
+342
+00:17:27,941 --> 00:17:30,020
+<font color="#FFFFFF">Look, I knew you couldn't
+go to that stupid dinner.</font>
+
+343
+00:17:30,041 --> 00:17:33,229
+<font color="#FFFFFF">- That's why I didn't invite you.
+- It's nice to be invited anyway.</font>
+
+344
+00:17:33,246 --> 00:17:36,739
+<font color="#FFFFFF">- Sure, if you're a control freak.
+- Oh, and you clearly hate control.</font>
+
+345
+00:17:36,757 --> 00:17:38,076
+<font color="#FFFFFF">No.</font>
+
+346
+00:17:38,904 --> 00:17:40,444
+<font color="#FFFFFF">I love it.</font>
+
+347
+00:17:41,906 --> 00:17:46,500
+<font color="#FFFFFF">I guess it's easy to pretend
+that you don't when you got it.</font>
+
+348
+00:17:47,000 --> 00:17:48,413
+<font color="#FFFFFF">You'd think we'd
+be better friends</font>
+
+349
+00:17:48,425 --> 00:17:52,217
+<font color="#FFFFFF">because we're both such big
+fans of the same thing.</font>
+
+350
+00:17:52,471 --> 00:17:54,464
+<font color="#FFFFFF">You there! Ones!</font>
+
+351
+00:17:54,484 --> 00:18:01,507
+<font color="#FFFFFF">You are permitted back indoors by
+decree of Britta, the mother of Ones.</font>
+
+352
+00:18:01,940 --> 00:18:04,564
+<font color="#FFFFFF">And do I hear correctly
+that as a Five,</font>
+
+353
+00:18:04,576 --> 00:18:07,824
+<font color="#FFFFFF">you felt you could park
+in handicap spots?</font>
+
+354
+00:18:07,844 --> 00:18:10,980
+<font color="#FFFFFF">Well, you see, that's just
+part of the Koogler style.</font>
+
+355
+00:18:10,988 --> 00:18:13,202
+<font color="#FFFFFF">It's human crap style.</font>
+
+356
+00:18:13,210 --> 00:18:14,577
+<font color="#FFFFFF">Rate him!</font>
+
+357
+00:18:17,271 --> 00:18:18,618
+<font color="#FFFFFF">Okay, well, that's low.</font>
+
+358
+00:18:21,378 --> 00:18:27,601
+<font color="#FFFFFF">All Fives must be cleansed of their
+Five filth and reduced to oneness.</font>
+
+359
+00:18:28,344 --> 00:18:30,103
+<font color="#FFFFFF">Jeff. Hey, Shirley.</font>
+
+360
+00:18:30,123 --> 00:18:33,871
+<font color="#FFFFFF">I'm not a Five anymore. I'm a one like
+everyone else. I'm like everyone else.</font>
+
+361
+00:18:33,891 --> 00:18:35,471
+<font color="#FFFFFF">Who's next?</font>
+
+362
+00:18:35,505 --> 00:18:38,378
+<font color="#FFFFFF">- All right, time to pull the plug.
+- Mm.</font>
+
+363
+00:18:38,407 --> 00:18:40,401
+<font color="#FFFFFF">Oh, great mother of Ones,</font>
+
+364
+00:18:40,416 --> 00:18:42,263
+<font color="#FFFFFF">mustard-faced savior,</font>
+
+365
+00:18:42,284 --> 00:18:45,951
+<font color="#FFFFFF">there is still a Five hiding among
+us that has not been cleansed.</font>
+
+366
+00:18:45,974 --> 00:18:47,228
+<font color="#FFFFFF">Nonsense.</font>
+
+367
+00:18:47,248 --> 00:18:52,238
+<font color="#FFFFFF">All Fives were reduced to oneness in the
+great purge of about two minutes ago.</font>
+
+368
+00:18:52,257 --> 00:18:54,218
+<font color="#FFFFFF">This Five cheats.</font>
+
+369
+00:18:54,230 --> 00:18:55,871
+<font color="#FFFFFF">It never registered,</font>
+
+370
+00:18:55,884 --> 00:18:59,544
+<font color="#FFFFFF">yet was given a five
+from outside the system.</font>
+
+371
+00:19:01,317 --> 00:19:03,037
+<font color="#FFFFFF">Behold...</font>
+
+372
+00:19:03,057 --> 00:19:05,405
+<font color="#FFFFFF">The MeowMeowBeenz app.</font>
+
+373
+00:19:05,419 --> 00:19:07,298
+<font color="#FFFFFF">Its beta test
+ended days ago.</font>
+
+374
+00:19:07,319 --> 00:19:11,461
+<font color="#FFFFFF">It's now available in
+the app store... 99 cents.</font>
+
+375
+00:19:11,924 --> 00:19:13,634
+<font color="#FFFFFF">Five stars.</font>
+
+376
+00:19:14,122 --> 00:19:19,063
+<font color="#FFFFFF">This five lied to us,
+used us, judged us,</font>
+
+377
+00:19:19,078 --> 00:19:21,885
+<font color="#FFFFFF">yet exempts itself
+from judgment.</font>
+
+378
+00:19:23,836 --> 00:19:26,545
+<font color="#FFFFFF">And I'm pretty sure it's selling
+our information to spammers</font>
+
+379
+00:19:26,564 --> 00:19:28,644
+<font color="#FFFFFF">because I am getting
+a lot more email,</font>
+
+380
+00:19:28,682 --> 00:19:32,817
+<font color="#FFFFFF">and trust me, my penis
+needs no enlargement.</font>
+
+381
+00:19:32,832 --> 00:19:36,597
+<font color="#FFFFFF">So how do you cleanse a
+Five that's unregistered?</font>
+
+382
+00:19:36,616 --> 00:19:38,066
+<font color="#FFFFFF">Delete it.</font>
+
+383
+00:19:47,661 --> 00:19:49,968
+<font color="#FFFFFF">By the way, guys,
+it's a Saturday.</font>
+
+384
+00:19:49,983 --> 00:19:52,023
+<font color="#FFFFFF">Um, you're all in
+school for nothing.</font>
+
+385
+00:19:52,037 --> 00:19:53,336
+<font color="#FFFFFF">Go home and get some sleep.</font>
+
+386
+00:19:55,792 --> 00:19:57,267
+<font color="#FFFFFF">No!</font>
+
+387
+00:19:57,288 --> 00:20:01,203
+<font color="#FFFFFF">No. Wait. No, don't go!
+Where are you going?</font>
+
+388
+00:20:03,454 --> 00:20:05,035
+<font color="#FFFFFF">No.</font>
+
+389
+00:20:06,044 --> 00:20:07,544
+<font color="#FFFFFF"><i>Attention, Greendale.</i></font>
+
+390
+00:20:07,570 --> 00:20:10,097
+<font color="#FFFFFF"><i>I'd like to propose we
+basically forget everything</i></font>
+
+391
+00:20:10,127 --> 00:20:12,067
+<font color="#FFFFFF"><i>that happened over
+the last few days.</i></font>
+
+392
+00:20:12,096 --> 00:20:14,364
+<font color="#FFFFFF"><i>And I don't anticipate a
+lot of pushback on that.</i></font>
+
+393
+00:20:14,392 --> 00:20:15,644
+<font color="#FFFFFF"><i>I think we're all
+pretty embarrassed.</i></font>
+
+394
+00:20:15,673 --> 00:20:17,827
+<font color="#FFFFFF">- Hey, there.
+- Oh, hey.</font>
+
+395
+00:20:17,855 --> 00:20:20,842
+<font color="#FFFFFF">So I was thinking about checking
+out this new restaurant tonight.</font>
+
+396
+00:20:20,853 --> 00:20:22,859
+<font color="#FFFFFF">Oh, that's sweet, but
+I can't tonight.</font>
+
+397
+00:20:22,873 --> 00:20:25,303
+<font color="#FFFFFF">Not even takeout?</font>
+
+398
+00:20:25,682 --> 00:20:29,496
+<font color="#FFFFFF">- We could eat in the study room.
+- Oh, I think I have time for that.</font>
+
+399
+00:20:29,509 --> 00:20:31,099
+<font color="#FFFFFF">Jeffrey.</font>
+
+400
+00:20:32,207 --> 00:20:33,559
+<font color="#FFFFFF">What?</font>
+
+401
+00:20:33,585 --> 00:20:35,685
+<font color="#FFFFFF">I'm not gonna take it off.</font>
+
+402
+00:20:35,705 --> 00:20:38,306
+<font color="#FFFFFF">I still got two days
+left on the rental.</font>
+
+403
+00:20:43,500 --> 00:20:45,980
+<font color="#FFFFFF"><i>Every once in a while,
+a film comes along</i></font>
+
+404
+00:20:46,006 --> 00:20:49,114
+<font color="#FFFFFF"><i>that takes a serious look
+at higher education.</i></font>
+
+405
+00:20:49,750 --> 00:20:51,503
+<font color="#FFFFFF"><i>This is not one of them.</i></font>
+
+406
+00:20:51,540 --> 00:20:53,361
+<font color="#FFFFFF">Gentlemen...</font>
+
+407
+00:20:53,373 --> 00:20:54,811
+<font color="#FFFFFF">Assume the party.</font>
+
+408
+00:20:54,881 --> 00:20:56,275
+<font color="#FFFFFF"><i>This summer...</i></font>
+
+409
+00:20:56,288 --> 00:20:57,820
+<font color="#FFFFFF"><i>fun has a new name.</i></font>
+
+410
+00:20:57,844 --> 00:20:59,070
+<font color="#FFFFFF">- Koogler?
+- Koogler!</font>
+
+411
+00:20:59,090 --> 00:21:00,246
+<font color="#FFFFFF">- Koogler.
+- Koogler!</font>
+
+412
+00:21:00,266 --> 00:21:00,938
+<font color="#FFFFFF">Koogler!</font>
+
+413
+00:21:00,958 --> 00:21:02,827
+<font color="#FFFFFF">Koogler! Koogler!</font>
+
+414
+00:21:04,142 --> 00:21:06,049
+<font color="#FFFFFF">Hope you don't mind
+if I play through.</font>
+
+415
+00:21:06,069 --> 00:21:09,009
+<font color="#FFFFFF"><i>Hammer Road Pictures invited
+you to meet the man...</i></font>
+
+416
+00:21:09,016 --> 00:21:09,689
+<font color="#FFFFFF"><i>the myth...</i></font>
+
+417
+00:21:09,711 --> 00:21:11,505
+<font color="#FFFFFF">I'm photocopying
+my rear end.</font>
+
+418
+00:21:11,532 --> 00:21:13,034
+<font color="#FFFFFF"><i>the Koogler.</i></font>
+
+419
+00:21:13,055 --> 00:21:13,954
+<font color="#FFFFFF">Koogler.</font>
+
+420
+00:21:13,968 --> 00:21:18,715
+<font color="#FFFFFF">I guess I have what you might
+call an aversion to education.</font>
+
+421
+00:21:19,509 --> 00:21:21,476
+<font color="#FFFFFF">Do you even have
+a career plan?</font>
+
+422
+00:21:21,496 --> 00:21:23,709
+<font color="#FFFFFF">Yeah, uh, does
+getting laid count?</font>
+
+423
+00:21:23,741 --> 00:21:24,701
+<font color="#FFFFFF">No!</font>
+
+424
+00:21:24,726 --> 00:21:27,685
+<font color="#FFFFFF"><i>Mitchell D. Hurwitz
+is Koogler...</i></font>
+
+425
+00:21:27,715 --> 00:21:28,715
+<font color="#FFFFFF"><i>Rated "R."</i></font>
+
+426
+00:21:28,737 --> 00:21:35,237
+<font color="#FFFFFF">Sync and corrected by Elderfel
+www. addic7ed. com
+Resync for WEB-DL by Norther</font>
+

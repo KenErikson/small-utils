@@ -1,0 +1,4006 @@
+1
+00:02:20,040 --> 00:02:21,300
+<font color="#FFFFFF">I'm sorry. I'm sorry.</font>
+
+2
+00:02:21,400 --> 00:02:23,184
+<font color="#FFFFFF">No. Stay.</font>
+
+3
+00:02:28,640 --> 00:02:30,071
+<font color="#FFFFFF">What's your name?</font>
+
+4
+00:02:30,480 --> 00:02:31,741
+<font color="#FFFFFF">Andrew Neiman, sir.</font>
+
+5
+00:02:32,280 --> 00:02:33,506
+<font color="#FFFFFF">What year are you?</font>
+
+6
+00:02:34,120 --> 00:02:35,631
+<font color="#FFFFFF">I'm first year.</font>
+
+7
+00:02:36,080 --> 00:02:38,990
+<font color="#FFFFFF">- Do you know who I am?
+- Yes, sir.</font>
+
+8
+00:02:39,520 --> 00:02:41,941
+<font color="#FFFFFF">So you know I'm looking for players.</font>
+
+9
+00:02:42,640 --> 00:02:44,230
+<font color="#FFFFFF">Yes, sir.</font>
+
+10
+00:02:44,560 --> 00:02:46,389
+<font color="#FFFFFF">Then why did you stop playing?</font>
+
+11
+00:03:05,720 --> 00:03:07,663
+<font color="#FFFFFF">Did I ask you to start playing?</font>
+
+12
+00:03:07,880 --> 00:03:10,540
+<font color="#FFFFFF">- Sorry, I...
+- I asked why you stopped playing...</font>
+
+13
+00:03:10,640 --> 00:03:13,744
+<font color="#FFFFFF">and your answer was to turn
+into a wind-up monkey.</font>
+
+14
+00:03:14,240 --> 00:03:16,741
+<font color="#FFFFFF">- Sorry, I thought...
+- Show me your rudiments.</font>
+
+15
+00:03:16,880 --> 00:03:18,505
+<font color="#FFFFFF">Yes, sir.</font>
+
+16
+00:03:23,960 --> 00:03:26,062
+<font color="#FFFFFF">Double-time swing.</font>
+
+17
+00:03:28,240 --> 00:03:31,184
+<font color="#FFFFFF">No, double-time. Double it.</font>
+
+18
+00:03:31,600 --> 00:03:34,431
+<font color="#FFFFFF">Faster. Faster.</font>
+
+19
+00:03:52,520 --> 00:03:54,380
+<font color="#FFFFFF">Oopsy-daisy.</font>
+
+20
+00:03:54,480 --> 00:03:56,423
+<font color="#FFFFFF">Forgot my jacket.</font>
+
+21
+00:05:15,040 --> 00:05:17,063
+<font color="#FFFFFF">- No Swedish Fish?
+- No, not today.</font>
+
+22
+00:05:19,000 --> 00:05:20,670
+<font color="#FFFFFF">Thanks.</font>
+
+23
+00:05:30,720 --> 00:05:33,744
+<font color="#FFFFFF">- You okay?
+- Yeah.</font>
+
+24
+00:05:41,040 --> 00:05:43,871
+<font color="#FFFFFF">Yeah. Well, I don't know.
+He saw me play today.</font>
+
+25
+00:05:45,160 --> 00:05:46,830
+<font color="#FFFFFF">And?</font>
+
+26
+00:05:50,000 --> 00:05:53,229
+<font color="#FFFFFF">Well, you got plenty of options still.</font>
+
+27
+00:05:53,440 --> 00:05:55,460
+<font color="#FFFFFF">- What does that mean?
+- Just...</font>
+
+28
+00:05:55,560 --> 00:05:57,469
+<font color="#FFFFFF">- Other options?
+- Just, you know...</font>
+
+29
+00:05:59,520 --> 00:06:00,906
+<font color="#FFFFFF">It's just life.</font>
+
+30
+00:06:01,440 --> 00:06:04,380
+<font color="#FFFFFF">Listen, when you get to be my age,
+you get perspective.</font>
+
+31
+00:06:04,480 --> 00:06:07,180
+<font color="#FFFFFF">I don't want perspective.</font>
+
+32
+00:06:07,280 --> 00:06:08,666
+<font color="#FFFFFF">Sorry.</font>
+
+33
+00:06:14,280 --> 00:06:15,825
+<font color="#FFFFFF">All right.</font>
+
+34
+00:06:17,280 --> 00:06:19,542
+<font color="#FFFFFF">I don't want the Raisinets.</font>
+
+35
+00:06:20,760 --> 00:06:22,350
+<font color="#FFFFFF">Why didn't you say that?</font>
+
+36
+00:06:22,480 --> 00:06:24,708
+<font color="#FFFFFF">I just eat around them.</font>
+
+37
+00:06:27,920 --> 00:06:29,385
+<font color="#FFFFFF">I don't understand you.</font>
+
+38
+00:07:03,880 --> 00:07:07,223
+<font color="#FFFFFF">Bye. I'll see you later. Bye.</font>
+
+39
+00:07:15,640 --> 00:07:18,420
+<font color="#FFFFFF">My man, Ry. Oh, shit.</font>
+
+40
+00:07:18,520 --> 00:07:20,140
+<font color="#FFFFFF">How you feeling, man?</font>
+
+41
+00:07:20,240 --> 00:07:22,140
+<font color="#FFFFFF">It's been too long. Been too long.</font>
+
+42
+00:07:22,240 --> 00:07:24,620
+<font color="#FFFFFF">Things were hurting
+with Neiman on the kits.</font>
+
+43
+00:07:24,720 --> 00:07:25,867
+<font color="#FFFFFF">Come on, man.</font>
+
+44
+00:07:26,000 --> 00:07:28,023
+<font color="#FFFFFF">- What?
+- He's fine.</font>
+
+45
+00:07:28,600 --> 00:07:30,702
+<font color="#FFFFFF">- If you say so. Good seeing you.
+- Yeah.</font>
+
+46
+00:07:30,840 --> 00:07:32,066
+<font color="#FFFFFF">Yo, looking good.</font>
+
+47
+00:07:33,760 --> 00:07:34,900
+<font color="#FFFFFF">- Hey.
+- What's up?</font>
+
+48
+00:07:35,000 --> 00:07:36,780
+<font color="#FFFFFF">- Good weekend?
+- Yeah, real good.</font>
+
+49
+00:07:36,880 --> 00:07:38,340
+<font color="#FFFFFF">- Yeah?
+- Yeah. Lot of fun.</font>
+
+50
+00:07:38,440 --> 00:07:39,666
+<font color="#FFFFFF">Nice.</font>
+
+51
+00:07:40,080 --> 00:07:43,184
+<font color="#FFFFFF">Hey, don't worry about Greg.
+Kid's a dick.</font>
+
+52
+00:07:44,480 --> 00:07:46,901
+<font color="#FFFFFF">- No big deal.
+- Good morning, everybody.</font>
+
+53
+00:07:49,640 --> 00:07:51,060
+<font color="#FFFFFF">Good morning, everybody.</font>
+
+54
+00:07:51,160 --> 00:07:52,780
+<font color="#FFFFFF">- Good morning.
+- All right.</font>
+
+55
+00:07:52,880 --> 00:07:57,429
+<font color="#FFFFFF">Let's do "Billy Zane"
+from the top, yes? Yes?</font>
+
+56
+00:07:58,960 --> 00:08:00,780
+<font color="#FFFFFF">- How's that? Good?
+- Little right.</font>
+
+57
+00:08:00,880 --> 00:08:02,903
+<font color="#FFFFFF">- One, two, three...
+- Okay.</font>
+
+58
+00:08:15,000 --> 00:08:16,147
+<font color="#FFFFFF">Wait.</font>
+
+59
+00:08:17,160 --> 00:08:19,581
+<font color="#FFFFFF">All right, let's do reeds, yeah?</font>
+
+60
+00:08:19,720 --> 00:08:21,390
+<font color="#FFFFFF">- Three.
+- Yo, Ryan.</font>
+
+61
+00:08:22,160 --> 00:08:23,944
+<font color="#FFFFFF">Watch it.</font>
+
+62
+00:08:24,320 --> 00:08:26,070
+<font color="#FFFFFF">Yeah.</font>
+
+63
+00:08:26,240 --> 00:08:28,229
+<font color="#FFFFFF">Accent, yeah...</font>
+
+64
+00:08:34,080 --> 00:08:36,945
+<font color="#FFFFFF">- Not today.
+- Big on the bottom. Put some sugar on it.</font>
+
+65
+00:08:38,440 --> 00:08:40,820
+<font color="#FFFFFF">You embarrass yourself
+like what's-his-face.</font>
+
+66
+00:08:40,920 --> 00:08:43,227
+<font color="#FFFFFF">That was truly pathetic.</font>
+
+67
+00:10:14,040 --> 00:10:15,790
+<font color="#FFFFFF">Short.</font>
+
+68
+00:10:20,360 --> 00:10:21,621
+<font color="#FFFFFF">All right. All right.</font>
+
+69
+00:10:22,640 --> 00:10:25,823
+<font color="#FFFFFF">That's enough of that.
+Just back to the core drums, please.</font>
+
+70
+00:10:26,560 --> 00:10:28,867
+<font color="#FFFFFF">Core players, let's go.</font>
+
+71
+00:10:31,040 --> 00:10:33,541
+<font color="#FFFFFF">Dude, what have you been practicing?</font>
+
+72
+00:10:43,840 --> 00:10:45,305
+<font color="#FFFFFF">May I?</font>
+
+73
+00:10:56,240 --> 00:10:57,751
+<font color="#FFFFFF">Cute.</font>
+
+74
+00:10:58,200 --> 00:11:00,701
+<font color="#FFFFFF">Down the line.
+Trumpets, bars seven and eight.</font>
+
+75
+00:11:00,840 --> 00:11:02,624
+<font color="#FFFFFF">Three, four.</font>
+
+76
+00:11:06,000 --> 00:11:07,431
+<font color="#FFFFFF">Three, four.</font>
+
+77
+00:11:07,560 --> 00:11:09,300
+<font color="#FFFFFF">Okay. All right.</font>
+
+78
+00:11:09,400 --> 00:11:13,140
+<font color="#FFFFFF">Trombone, bar 24. The and of two.</font>
+
+79
+00:11:13,240 --> 00:11:14,387
+<font color="#FFFFFF">Maybe not.</font>
+
+80
+00:11:14,520 --> 00:11:17,020
+<font color="#FFFFFF">Tenor, let's start the pickup to 11.</font>
+
+81
+00:11:17,120 --> 00:11:18,984
+<font color="#FFFFFF">Three, four.</font>
+
+82
+00:11:21,040 --> 00:11:24,110
+<font color="#FFFFFF">Same spot. Three, four.</font>
+
+83
+00:11:24,720 --> 00:11:25,946
+<font color="#FFFFFF">Okay. All right.</font>
+
+84
+00:11:26,080 --> 00:11:29,580
+<font color="#FFFFFF">You're in the first chair.
+Let's see if it's because you're cute.</font>
+
+85
+00:11:29,680 --> 00:11:31,620
+<font color="#FFFFFF">Three, four.</font>
+
+86
+00:11:31,720 --> 00:11:33,580
+<font color="#FFFFFF">Yep. That's why.</font>
+
+87
+00:11:33,680 --> 00:11:39,025
+<font color="#FFFFFF">Drums.
+Let's hear a little double-time swing.</font>
+
+88
+00:11:42,720 --> 00:11:44,310
+<font color="#FFFFFF">Behind.</font>
+
+89
+00:11:45,600 --> 00:11:47,190
+<font color="#FFFFFF">Same thing.</font>
+
+90
+00:11:52,480 --> 00:11:55,550
+<font color="#FFFFFF">Bass, five bars of "Donna Lee."</font>
+
+91
+00:12:00,080 --> 00:12:01,705
+<font color="#FFFFFF">All right.</font>
+
+92
+00:12:06,360 --> 00:12:07,541
+<font color="#FFFFFF">Drums, with me.</font>
+
+93
+00:12:08,200 --> 00:12:09,950
+<font color="#FFFFFF">Thank you, Joe.</font>
+
+94
+00:12:10,760 --> 00:12:13,147
+<font color="#FFFFFF">No, no, no. Other drums.</font>
+
+95
+00:12:28,440 --> 00:12:33,068
+<font color="#FFFFFF">Room B-16 tomorrow morning,
+6:00 a.m. Don't be late.</font>
+
+96
+00:12:40,320 --> 00:12:43,026
+<font color="#FFFFFF">All right, everybody, from the top.</font>
+
+97
+00:12:48,280 --> 00:12:50,587
+<font color="#FFFFFF">A-one, two, three...</font>
+
+98
+00:13:00,800 --> 00:13:01,940
+<font color="#FFFFFF">- Hey.
+- How are you?</font>
+
+99
+00:13:02,040 --> 00:13:03,980
+<font color="#FFFFFF">- Good. How are you?
+- Good, thanks.</font>
+
+100
+00:13:04,080 --> 00:13:05,466
+<font color="#FFFFFF">Good.</font>
+
+101
+00:13:05,680 --> 00:13:08,704
+<font color="#FFFFFF">- The usual? You want, like...?
+- No.</font>
+
+102
+00:13:08,880 --> 00:13:12,382
+<font color="#FFFFFF">Look, I don't really know how...</font>
+
+103
+00:13:13,360 --> 00:13:17,385
+<font color="#FFFFFF">I see you in here a lot, and I think
+that you're really pretty and...</font>
+
+104
+00:13:17,520 --> 00:13:22,069
+<font color="#FFFFFF">Would you wanna go out with me ever?</font>
+
+105
+00:13:22,640 --> 00:13:24,549
+<font color="#FFFFFF">Please go away.</font>
+
+106
+00:13:25,480 --> 00:13:26,620
+<font color="#FFFFFF">- Oh, God.
+- Get out.</font>
+
+107
+00:13:26,720 --> 00:13:30,300
+<font color="#FFFFFF">- I'm so sorry. I'm so sorry.
+- I'm just messing with you.</font>
+
+108
+00:13:30,400 --> 00:13:35,028
+<font color="#FFFFFF">- I'm messing with you.
+- What? Oh, my God.</font>
+
+109
+00:13:35,160 --> 00:13:36,580
+<font color="#FFFFFF">I'm sorry.</font>
+
+110
+00:13:36,680 --> 00:13:39,784
+<font color="#FFFFFF">- That's actually pretty mean.
+- That should've... I'm sorry.</font>
+
+111
+00:13:39,920 --> 00:13:42,060
+<font color="#FFFFFF">I didn't mean to hurt your feelings.</font>
+
+112
+00:13:42,160 --> 00:13:44,540
+<font color="#FFFFFF">- What's your name?
+- It's okay. No big deal.</font>
+
+113
+00:13:44,640 --> 00:13:45,820
+<font color="#FFFFFF">Oh, I'm Andrew.</font>
+
+114
+00:13:45,920 --> 00:13:47,380
+<font color="#FFFFFF">- Andrew.
+- Yeah.</font>
+
+115
+00:13:47,480 --> 00:13:49,780
+<font color="#FFFFFF">- I'm Nicole.
+- Nice to meet you, Nicole.</font>
+
+116
+00:13:49,880 --> 00:13:51,820
+<font color="#FFFFFF">Nice to meet you too.</font>
+
+117
+00:13:51,920 --> 00:13:56,260
+<font color="#FFFFFF">- So you wanna take me out.
+- I would love to take you out.</font>
+
+118
+00:13:56,360 --> 00:13:58,383
+<font color="#FFFFFF">- Where do you wanna go?
+- Pizza.</font>
+
+119
+00:13:58,520 --> 00:13:59,860
+<font color="#FFFFFF">- Pizza.
+- Yeah.</font>
+
+120
+00:13:59,960 --> 00:14:02,900
+<font color="#FFFFFF">- I like pizza.
+- Yeah, I know this great pizza place.</font>
+
+121
+00:14:03,000 --> 00:14:06,024
+<font color="#FFFFFF">Cool. Okay, well...</font>
+
+122
+00:14:08,280 --> 00:14:11,780
+<font color="#FFFFFF">I get off at 7 on Monday.</font>
+
+123
+00:14:11,880 --> 00:14:15,260
+<font color="#FFFFFF">- Okay.
+- You wanna meet here?</font>
+
+124
+00:14:15,360 --> 00:14:17,861
+<font color="#FFFFFF">- Okay. Yeah. I will.
+- Yeah.</font>
+
+125
+00:14:18,000 --> 00:14:19,625
+<font color="#FFFFFF">Great.</font>
+
+126
+00:14:19,800 --> 00:14:21,823
+<font color="#FFFFFF">Okay. Seven o'clock?</font>
+
+127
+00:14:21,960 --> 00:14:23,380
+<font color="#FFFFFF">- Here.
+- At 7 p.m.</font>
+
+128
+00:14:23,480 --> 00:14:25,580
+<font color="#FFFFFF">- Monday. Andrew.
+- All right.</font>
+
+129
+00:14:25,680 --> 00:14:27,384
+<font color="#FFFFFF">- Bye.
+- Bye.</font>
+
+130
+00:15:31,240 --> 00:15:34,900
+<font color="#FFFFFF">It's not that bad. She's a go-go dancer.
+Could've did porn, she chose not to.</font>
+
+131
+00:15:35,000 --> 00:15:37,500
+<font color="#FFFFFF">- That make it better?
+- Yeah, little bit.</font>
+
+132
+00:15:37,600 --> 00:15:39,862
+<font color="#FFFFFF">- That's classier.
+- I can deal with that.</font>
+
+133
+00:15:48,560 --> 00:15:51,391
+<font color="#FFFFFF">Bitch had a foot fetish or something.</font>
+
+134
+00:15:54,360 --> 00:15:56,189
+<font color="#FFFFFF">- This is good.
+- You get on that?</font>
+
+135
+00:15:57,560 --> 00:15:59,071
+<font color="#FFFFFF">That's it.</font>
+
+136
+00:15:59,240 --> 00:16:01,183
+<font color="#FFFFFF">You are fucking kidding me.</font>
+
+137
+00:16:03,760 --> 00:16:06,180
+<font color="#FFFFFF">- You the new alternate?
+- Yeah. I'm Andrew Neiman.</font>
+
+138
+00:16:06,280 --> 00:16:08,740
+<font color="#FFFFFF">Tune the set to B-flat,
+then turn my pages.</font>
+
+139
+00:16:08,840 --> 00:16:10,430
+<font color="#FFFFFF">Sure.</font>
+
+140
+00:16:11,800 --> 00:16:15,063
+<font color="#FFFFFF">Excuse me. Could I get a B-flat?</font>
+
+141
+00:16:15,520 --> 00:16:17,349
+<font color="#FFFFFF">Thank you.</font>
+
+142
+00:16:22,400 --> 00:16:25,026
+<font color="#FFFFFF">Sorry. Can you...? Just one more time?</font>
+
+143
+00:16:35,720 --> 00:16:37,820
+<font color="#FFFFFF">That's a great kit.</font>
+
+144
+00:16:37,920 --> 00:16:39,660
+<font color="#FFFFFF">I play the new cymbals now.</font>
+
+145
+00:16:39,760 --> 00:16:41,066
+<font color="#FFFFFF">Milk the cunt!</font>
+
+146
+00:17:42,240 --> 00:17:45,740
+<font color="#FFFFFF">We got a squeaker today, people. Neiman.</font>
+
+147
+00:17:45,840 --> 00:17:49,183
+<font color="#FFFFFF">Nineteen years old. Isn't he cute?</font>
+
+148
+00:17:52,840 --> 00:17:54,430
+<font color="#FFFFFF">All right, gang, "Whiplash."</font>
+
+149
+00:18:39,200 --> 00:18:41,746
+<font color="#FFFFFF">Page. Page!</font>
+
+150
+00:18:49,880 --> 00:18:53,223
+<font color="#FFFFFF">Barker, that is not your boyfriend's dick.
+Do not come early.</font>
+
+151
+00:18:53,480 --> 00:18:55,742
+<font color="#FFFFFF">Bar 93.</font>
+
+152
+00:18:58,640 --> 00:19:00,504
+<font color="#FFFFFF">Five, six, and...</font>
+
+153
+00:19:35,960 --> 00:19:37,630
+<font color="#FFFFFF">Stop.</font>
+
+154
+00:19:38,080 --> 00:19:42,469
+<font color="#FFFFFF">Now, this one really upsets me.
+We have an out-of-tune player here.</font>
+
+155
+00:19:43,320 --> 00:19:47,425
+<font color="#FFFFFF">Before I continue, would that player
+care to identify himself?</font>
+
+156
+00:19:49,400 --> 00:19:50,865
+<font color="#FFFFFF">No?</font>
+
+157
+00:19:51,040 --> 00:19:53,791
+<font color="#FFFFFF">Okay, maybe a bug flew in my ear.</font>
+
+158
+00:19:54,480 --> 00:19:56,628
+<font color="#FFFFFF">One-fifteen.</font>
+
+159
+00:19:58,120 --> 00:20:00,268
+<font color="#FFFFFF">Five, six, and...</font>
+
+160
+00:20:02,200 --> 00:20:03,900
+<font color="#FFFFFF">No. My ears are fine.</font>
+
+161
+00:20:04,000 --> 00:20:07,582
+<font color="#FFFFFF">We definitely have
+an out-of-tune player.</font>
+
+162
+00:20:07,720 --> 00:20:10,949
+<font color="#FFFFFF">Whoever it is, this is your last chance.</font>
+
+163
+00:20:12,960 --> 00:20:14,500
+<font color="#FFFFFF">And there it went.</font>
+
+164
+00:20:14,600 --> 00:20:17,820
+<font color="#FFFFFF">Now, either you are deliberately
+playing out of tune...</font>
+
+165
+00:20:17,920 --> 00:20:20,660
+<font color="#FFFFFF">and sabotaging my band...</font>
+
+166
+00:20:20,760 --> 00:20:23,431
+<font color="#FFFFFF">or you don't know you're out of tune...</font>
+
+167
+00:20:23,640 --> 00:20:26,903
+<font color="#FFFFFF">which I'm afraid is even worse.</font>
+
+168
+00:20:29,920 --> 00:20:31,180
+<font color="#FFFFFF">Reeds.</font>
+
+169
+00:20:31,280 --> 00:20:32,984
+<font color="#FFFFFF">Five, six, and...</font>
+
+170
+00:20:34,520 --> 00:20:36,270
+<font color="#FFFFFF">Bones.</font>
+
+171
+00:20:37,520 --> 00:20:39,782
+<font color="#FFFFFF">Five, six, and...</font>
+
+172
+00:20:42,000 --> 00:20:43,829
+<font color="#FFFFFF">He's here.</font>
+
+173
+00:20:56,240 --> 00:20:58,308
+<font color="#FFFFFF">Tell me it's not you, Elmer Fudd.</font>
+
+174
+00:21:11,600 --> 00:21:14,704
+<font color="#FFFFFF">It's okay. Play.</font>
+
+175
+00:21:22,880 --> 00:21:24,630
+<font color="#FFFFFF">Do you think you're out of tune?</font>
+
+176
+00:21:30,720 --> 00:21:34,180
+<font color="#FFFFFF">There's no fucking Mars bar down there.
+What are you looking at?</font>
+
+177
+00:21:34,280 --> 00:21:37,031
+<font color="#FFFFFF">Look up here. Look at me.</font>
+
+178
+00:21:38,600 --> 00:21:42,147
+<font color="#FFFFFF">Do you think you're out of tune?</font>
+
+179
+00:21:47,560 --> 00:21:49,230
+<font color="#FFFFFF">Yes.</font>
+
+180
+00:21:50,320 --> 00:21:53,424
+<font color="#FFFFFF">Then why the fuck didn't you say so?</font>
+
+181
+00:21:55,680 --> 00:21:57,580
+<font color="#FFFFFF">I've carried your fat ass for too long.</font>
+
+182
+00:21:57,680 --> 00:21:59,540
+<font color="#FFFFFF">I won't have you
+cost us a competition...</font>
+
+183
+00:21:59,640 --> 00:22:02,471
+<font color="#FFFFFF">because your mind's on a Happy Meal
+instead of on pitch.</font>
+
+184
+00:22:02,600 --> 00:22:04,780
+<font color="#FFFFFF">Jackson, congratulations,
+you're fourth chair.</font>
+
+185
+00:22:04,880 --> 00:22:08,427
+<font color="#FFFFFF">Metz, why are you still sitting there?
+Get the fuck out!</font>
+
+186
+00:22:27,040 --> 00:22:30,622
+<font color="#FFFFFF">For the record, Metz wasn't out of tune.
+You were, Erickson.</font>
+
+187
+00:22:31,280 --> 00:22:32,745
+<font color="#FFFFFF">But he didn't know...</font>
+
+188
+00:22:32,960 --> 00:22:35,142
+<font color="#FFFFFF">and that's bad enough.</font>
+
+189
+00:22:38,160 --> 00:22:41,469
+<font color="#FFFFFF">All right, take 10.
+When we get back, the squeaker's on.</font>
+
+190
+00:22:51,440 --> 00:22:53,827
+<font color="#FFFFFF">Two, two, three. Two, two, three.</font>
+
+191
+00:22:54,680 --> 00:22:58,830
+<font color="#FFFFFF">If he put half the effort
+into playing the trombone...</font>
+
+192
+00:23:02,320 --> 00:23:04,104
+<font color="#FFFFFF">Andrew.</font>
+
+193
+00:23:07,560 --> 00:23:10,300
+<font color="#FFFFFF">- Parents musicians?
+- No.</font>
+
+194
+00:23:10,400 --> 00:23:14,107
+<font color="#FFFFFF">- What do they do?
+- My dad's a writer.</font>
+
+195
+00:23:14,240 --> 00:23:15,421
+<font color="#FFFFFF">What's he written?</font>
+
+196
+00:23:16,200 --> 00:23:19,304
+<font color="#FFFFFF">I guess he's more of a teacher, really.</font>
+
+197
+00:23:19,520 --> 00:23:22,100
+<font color="#FFFFFF">- College?
+- Pennington High School.</font>
+
+198
+00:23:23,800 --> 00:23:27,950
+<font color="#FFFFFF">- Your mother, what does she do?
+- I don't know. She left when I was a baby.</font>
+
+199
+00:23:28,320 --> 00:23:29,945
+<font color="#FFFFFF">No musicians in the family?</font>
+
+200
+00:23:31,520 --> 00:23:33,827
+<font color="#FFFFFF">You just gotta listen
+to the greats, then.</font>
+
+201
+00:23:34,040 --> 00:23:36,905
+<font color="#FFFFFF">Buddy Rich, Jo Jones...</font>
+
+202
+00:23:37,200 --> 00:23:41,220
+<font color="#FFFFFF">You know, Charlie Parker became Bird...</font>
+
+203
+00:23:41,320 --> 00:23:44,583
+<font color="#FFFFFF">because Jones threw
+a cymbal at his head.</font>
+
+204
+00:23:45,120 --> 00:23:46,984
+<font color="#FFFFFF">See what I'm saying?</font>
+
+205
+00:23:47,920 --> 00:23:50,387
+<font color="#FFFFFF">Listen, the key is to just relax.</font>
+
+206
+00:23:51,000 --> 00:23:52,940
+<font color="#FFFFFF">Don't worry about the numbers.</font>
+
+207
+00:23:53,040 --> 00:23:55,711
+<font color="#FFFFFF">Don't worry about what
+other guys are thinking.</font>
+
+208
+00:23:57,120 --> 00:23:59,302
+<font color="#FFFFFF">You're here for a reason.</font>
+
+209
+00:23:59,720 --> 00:24:01,868
+<font color="#FFFFFF">You believe that, right?</font>
+
+210
+00:24:02,400 --> 00:24:03,865
+<font color="#FFFFFF">Yeah.</font>
+
+211
+00:24:05,560 --> 00:24:07,230
+<font color="#FFFFFF">Say it.</font>
+
+212
+00:24:09,200 --> 00:24:11,302
+<font color="#FFFFFF">I'm here for a reason.</font>
+
+213
+00:24:13,760 --> 00:24:15,191
+<font color="#FFFFFF">Cool.</font>
+
+214
+00:24:16,600 --> 00:24:19,670
+<font color="#FFFFFF">All right, man. Have fun.</font>
+
+215
+00:24:46,600 --> 00:24:48,225
+<font color="#FFFFFF">All right, gang, "Whiplash."</font>
+
+216
+00:24:48,880 --> 00:24:52,507
+<font color="#FFFFFF">A little under tempo, okay?
+Neiman, just do your best.</font>
+
+217
+00:24:55,040 --> 00:24:56,630
+<font color="#FFFFFF">Here we go.</font>
+
+218
+00:24:57,000 --> 00:24:59,228
+<font color="#FFFFFF">Five, six, and...</font>
+
+219
+00:25:14,760 --> 00:25:16,942
+<font color="#FFFFFF">Let's hear some fills.</font>
+
+220
+00:25:27,400 --> 00:25:28,740
+<font color="#FFFFFF">We got Buddy Rich here.</font>
+
+221
+00:25:38,040 --> 00:25:40,620
+<font color="#FFFFFF">A little trouble there.
+Just pick it up at 17.</font>
+
+222
+00:25:43,000 --> 00:25:44,511
+<font color="#FFFFFF">Ready?</font>
+
+223
+00:25:45,040 --> 00:25:47,302
+<font color="#FFFFFF">Five, six, and...</font>
+
+224
+00:25:51,760 --> 00:25:53,430
+<font color="#FFFFFF">Not quite my tempo.</font>
+
+225
+00:25:54,760 --> 00:25:56,191
+<font color="#FFFFFF">Here we go.</font>
+
+226
+00:25:56,320 --> 00:25:57,626
+<font color="#FFFFFF">Five, six, and...</font>
+
+227
+00:26:00,480 --> 00:26:03,265
+<font color="#FFFFFF">Downbeat on 18. Okay? Here we go.</font>
+
+228
+00:26:04,080 --> 00:26:05,386
+<font color="#FFFFFF">Five, six, and...</font>
+
+229
+00:26:07,680 --> 00:26:10,260
+<font color="#FFFFFF">Bar 17, the and of four.</font>
+
+230
+00:26:10,360 --> 00:26:11,950
+<font color="#FFFFFF">Got it?</font>
+
+231
+00:26:12,120 --> 00:26:14,348
+<font color="#FFFFFF">Five, six, seven...</font>
+
+232
+00:26:16,760 --> 00:26:19,820
+<font color="#FFFFFF">Not quite my tempo.
+It's all good. No worries. Here we go.</font>
+
+233
+00:26:19,920 --> 00:26:22,068
+<font color="#FFFFFF">Five, six, seven...</font>
+
+234
+00:26:24,280 --> 00:26:27,065
+<font color="#FFFFFF">You're rushing. Here we go.</font>
+
+235
+00:26:27,320 --> 00:26:29,548
+<font color="#FFFFFF">Five... Ready? Okay.</font>
+
+236
+00:26:29,880 --> 00:26:32,108
+<font color="#FFFFFF">Five, six, and...</font>
+
+237
+00:26:34,080 --> 00:26:35,420
+<font color="#FFFFFF">Dragging just a hair.</font>
+
+238
+00:26:39,400 --> 00:26:40,990
+<font color="#FFFFFF">Wait for my cue.</font>
+
+239
+00:26:41,120 --> 00:26:43,348
+<font color="#FFFFFF">Five, six, seven...</font>
+
+240
+00:26:45,800 --> 00:26:48,949
+<font color="#FFFFFF">Rushing. Five, six, and...</font>
+
+241
+00:26:51,320 --> 00:26:54,549
+<font color="#FFFFFF">Dragging. Five, six, and...</font>
+
+242
+00:27:18,880 --> 00:27:22,302
+<font color="#FFFFFF">Why do you suppose I just hurled
+a chair at your head, Neiman?</font>
+
+243
+00:27:22,880 --> 00:27:25,062
+<font color="#FFFFFF">- I don't know.
+- Sure you do.</font>
+
+244
+00:27:25,480 --> 00:27:28,265
+<font color="#FFFFFF">- The tempo?
+- Were you rushing or dragging?</font>
+
+245
+00:27:30,480 --> 00:27:31,661
+<font color="#FFFFFF">I don't know.</font>
+
+246
+00:27:34,000 --> 00:27:35,620
+<font color="#FFFFFF">- Start.
+- Five, six, seven...</font>
+
+247
+00:27:35,720 --> 00:27:37,345
+<font color="#FFFFFF">In four, damn it. Look at me.</font>
+
+248
+00:27:38,000 --> 00:27:39,380
+<font color="#FFFFFF">One, two, three, four.</font>
+
+249
+00:27:39,480 --> 00:27:42,020
+<font color="#FFFFFF">One, two, three, four.
+One, two, three...</font>
+
+250
+00:27:42,120 --> 00:27:44,348
+<font color="#FFFFFF">Now, was I rushing or was I dragging?</font>
+
+251
+00:27:44,800 --> 00:27:46,902
+<font color="#FFFFFF">- I don't know.
+- Count again.</font>
+
+252
+00:27:47,120 --> 00:27:49,580
+<font color="#FFFFFF">One, two, three, four.
+One, two, three, four.</font>
+
+253
+00:27:49,680 --> 00:27:52,180
+<font color="#FFFFFF">- One, two, three, four.
+- Rushing or dragging?</font>
+
+254
+00:27:52,280 --> 00:27:54,620
+<font color="#FFFFFF">- Rushing.
+- So you do know the difference.</font>
+
+255
+00:27:54,720 --> 00:27:57,266
+<font color="#FFFFFF">If you deliberately sabotage my band...</font>
+
+256
+00:27:57,400 --> 00:27:59,309
+<font color="#FFFFFF">I will fuck you like a pig.</font>
+
+257
+00:27:59,840 --> 00:28:01,380
+<font color="#FFFFFF">Now, are you a rusher...</font>
+
+258
+00:28:01,480 --> 00:28:03,105
+<font color="#FFFFFF">or are you a dragger...</font>
+
+259
+00:28:03,240 --> 00:28:05,946
+<font color="#FFFFFF">or are you gonna be on my fucking time?</font>
+
+260
+00:28:06,080 --> 00:28:08,228
+<font color="#FFFFFF">I'm gonna be on your time.</font>
+
+261
+00:28:08,600 --> 00:28:11,260
+<font color="#FFFFFF">- What does that say?
+- "Quarter note equals 215."</font>
+
+262
+00:28:11,360 --> 00:28:13,540
+<font color="#FFFFFF">- Count me a 215.
+- One, two, three, four.</font>
+
+263
+00:28:13,640 --> 00:28:15,788
+<font color="#FFFFFF">- One, two, three, four.
+- Jesus Christ.</font>
+
+264
+00:28:15,920 --> 00:28:17,780
+<font color="#FFFFFF">I didn't know they allowed retards.</font>
+
+265
+00:28:17,880 --> 00:28:20,300
+<font color="#FFFFFF">Am I to understand
+that you cannot read tempo?</font>
+
+266
+00:28:20,400 --> 00:28:23,300
+<font color="#FFFFFF">- Can you even read music? What's that?
+- Eighth note.</font>
+
+267
+00:28:23,400 --> 00:28:25,741
+<font color="#FFFFFF">- Yes. What is that?
+- Dotted 16th note.</font>
+
+268
+00:28:26,000 --> 00:28:27,306
+<font color="#FFFFFF">Sight-read measure 101.</font>
+
+269
+00:28:28,960 --> 00:28:33,140
+<font color="#FFFFFF">What, are you in a fucking a
+cappella group? Play the goddamn kit.</font>
+
+270
+00:28:33,240 --> 00:28:35,540
+<font color="#FFFFFF">Stop. Now answer my question.</font>
+
+271
+00:28:35,640 --> 00:28:39,187
+<font color="#FFFFFF">Were you rushing or were you dragging?</font>
+
+272
+00:28:40,400 --> 00:28:42,104
+<font color="#FFFFFF">- Answer!
+- Rushing.</font>
+
+273
+00:28:47,000 --> 00:28:49,023
+<font color="#FFFFFF">Oh, my dear God.</font>
+
+274
+00:28:49,560 --> 00:28:52,500
+<font color="#FFFFFF">Are you one of those single-tear people?</font>
+
+275
+00:28:52,600 --> 00:28:56,580
+<font color="#FFFFFF">Do I look like a double fucking rainbow
+to you? You must be upset.</font>
+
+276
+00:28:56,680 --> 00:28:58,500
+<font color="#FFFFFF">- Are you upset?
+- No.</font>
+
+277
+00:28:58,600 --> 00:29:00,580
+<font color="#FFFFFF">No? So you just don't give a shit?</font>
+
+278
+00:29:00,680 --> 00:29:03,989
+<font color="#FFFFFF">- I do give a shit.
+- So are you upset? Yes or fucking no?</font>
+
+279
+00:29:04,360 --> 00:29:06,180
+<font color="#FFFFFF">Yes, you are upset.</font>
+
+280
+00:29:06,280 --> 00:29:07,420
+<font color="#FFFFFF">Yeah.</font>
+
+281
+00:29:07,520 --> 00:29:09,820
+<font color="#FFFFFF">- Say it.
+- I'm upset.</font>
+
+282
+00:29:09,920 --> 00:29:12,830
+<font color="#FFFFFF">Say it so the whole band can hear you.</font>
+
+283
+00:29:13,200 --> 00:29:16,509
+<font color="#FFFFFF">- I'm upset.
+- Louder.</font>
+
+284
+00:29:16,640 --> 00:29:18,860
+<font color="#FFFFFF">- I'm upset.
+- Louder!</font>
+
+285
+00:29:18,960 --> 00:29:20,420
+<font color="#FFFFFF">I'm upset.</font>
+
+286
+00:29:20,520 --> 00:29:23,980
+<font color="#FFFFFF">You are a worthless, friendless,
+faggot-lipped piece of shit...</font>
+
+287
+00:29:24,080 --> 00:29:27,660
+<font color="#FFFFFF">whose Mommy left Daddy when she
+figured out he wasn't Eugene O'Neill.</font>
+
+288
+00:29:27,760 --> 00:29:30,540
+<font color="#FFFFFF">Who's now weeping and slobbering
+all over my drum set...</font>
+
+289
+00:29:30,640 --> 00:29:32,660
+<font color="#FFFFFF">like a fucking 9-year-old girl.</font>
+
+290
+00:29:32,760 --> 00:29:35,780
+<font color="#FFFFFF">So for the final father-fucking time...</font>
+
+291
+00:29:35,880 --> 00:29:38,426
+<font color="#FFFFFF">- ... say it louder!
+- I'm upset!</font>
+
+292
+00:29:38,720 --> 00:29:40,470
+<font color="#FFFFFF">Carl.</font>
+
+293
+00:29:41,800 --> 00:29:44,585
+<font color="#FFFFFF">Start practicing harder, Neiman.</font>
+
+294
+00:29:45,760 --> 00:29:49,467
+<font color="#FFFFFF">"Whiplash," bar 125.</font>
+
+295
+00:29:49,600 --> 00:29:51,820
+<font color="#FFFFFF">Big-boy tempo.</font>
+
+296
+00:29:51,920 --> 00:29:54,068
+<font color="#FFFFFF">Five, six, and...</font>
+
+297
+00:32:28,120 --> 00:32:29,381
+<font color="#FFFFFF">This place is nice.</font>
+
+298
+00:32:29,640 --> 00:32:33,904
+<font color="#FFFFFF">Yeah. I really like the music
+that they play.</font>
+
+299
+00:32:34,960 --> 00:32:38,906
+<font color="#FFFFFF">- I mean, the food's good too, but...
+- No, the pizza's really good.</font>
+
+300
+00:32:40,600 --> 00:32:42,145
+<font color="#FFFFFF">"When I Wake."</font>
+
+301
+00:32:42,600 --> 00:32:44,748
+<font color="#FFFFFF">- What?
+- That's the name of the song.</font>
+
+302
+00:32:46,240 --> 00:32:50,231
+<font color="#FFFFFF">Jackie Hill, July 17th, 1938.</font>
+
+303
+00:32:50,360 --> 00:32:52,224
+<font color="#FFFFFF">Bob Ellis on the drums.</font>
+
+304
+00:32:54,120 --> 00:32:57,941
+<font color="#FFFFFF">Every time I saw you at the theater,
+your eyes were glued to the floor.</font>
+
+305
+00:32:58,080 --> 00:32:59,830
+<font color="#FFFFFF">Really?</font>
+
+306
+00:33:01,600 --> 00:33:05,341
+<font color="#FFFFFF">My dad says that I have...
+I have trouble making eye contact.</font>
+
+307
+00:33:06,200 --> 00:33:09,500
+<font color="#FFFFFF">My parents like to criticize me too.</font>
+
+308
+00:33:09,600 --> 00:33:12,540
+<font color="#FFFFFF">Growing up, my mom said
+I had a really big chin...</font>
+
+309
+00:33:12,640 --> 00:33:14,420
+<font color="#FFFFFF">that's why guys wouldn't like me.</font>
+
+310
+00:33:14,520 --> 00:33:16,180
+<font color="#FFFFFF">- Really? You don't.
+- Yeah.</font>
+
+311
+00:33:16,280 --> 00:33:18,508
+<font color="#FFFFFF">Well, she said my dad cursed me
+with one.</font>
+
+312
+00:33:18,640 --> 00:33:21,060
+<font color="#FFFFFF">It's like Jay Leno. Look.</font>
+
+313
+00:33:21,160 --> 00:33:23,422
+<font color="#FFFFFF">- No, it's not.
+- Yeah, it is.</font>
+
+314
+00:33:23,560 --> 00:33:26,940
+<font color="#FFFFFF">- I don't... I don't think so at all.
+- Well, that's nice.</font>
+
+315
+00:33:27,040 --> 00:33:30,701
+<font color="#FFFFFF">Your chin's very nice. Very nice.</font>
+
+316
+00:33:32,080 --> 00:33:33,900
+<font color="#FFFFFF">Your mom sounds insane.</font>
+
+317
+00:33:34,000 --> 00:33:36,706
+<font color="#FFFFFF">She did wanna be an actress
+when she was my age.</font>
+
+318
+00:33:37,560 --> 00:33:40,584
+<font color="#FFFFFF">- What about you?
+- What about me?</font>
+
+319
+00:33:40,840 --> 00:33:42,226
+<font color="#FFFFFF">What do you do?</font>
+
+320
+00:33:42,640 --> 00:33:44,469
+<font color="#FFFFFF">I go to Fordham.</font>
+
+321
+00:33:45,360 --> 00:33:46,507
+<font color="#FFFFFF">What do you study?</font>
+
+322
+00:33:46,840 --> 00:33:48,988
+<font color="#FFFFFF">I don't have a major yet.</font>
+
+323
+00:33:49,600 --> 00:33:54,103
+<font color="#FFFFFF">- But, like, what do you want to study?
+- I don't really know.</font>
+
+324
+00:33:54,440 --> 00:33:56,144
+<font color="#FFFFFF">I don't know yet.</font>
+
+325
+00:33:57,120 --> 00:33:59,340
+<font color="#FFFFFF">So Fordham
+was just like a random school?</font>
+
+326
+00:33:59,440 --> 00:34:02,430
+<font color="#FFFFFF">No, I applied to a bunch of schools,
+Fordham let me in.</font>
+
+327
+00:34:02,560 --> 00:34:03,780
+<font color="#FFFFFF">Why'd you pick Shaffer?</font>
+
+328
+00:34:03,880 --> 00:34:06,347
+<font color="#FFFFFF">It's the best music school
+in the country.</font>
+
+329
+00:34:07,160 --> 00:34:08,864
+<font color="#FFFFFF">Well, Fordham was Fordham.</font>
+
+330
+00:34:21,760 --> 00:34:24,386
+<font color="#FFFFFF">I don't love it there, to be honest.</font>
+
+331
+00:34:24,600 --> 00:34:26,862
+<font color="#FFFFFF">- No?
+- No.</font>
+
+332
+00:34:27,000 --> 00:34:28,704
+<font color="#FFFFFF">I...</font>
+
+333
+00:34:28,840 --> 00:34:33,309
+<font color="#FFFFFF">I don't know. I guess it's just the people.
+I don't know if they like me very much.</font>
+
+334
+00:34:33,800 --> 00:34:37,621
+<font color="#FFFFFF">I'm from Arizona,
+and I think they can see it.</font>
+
+335
+00:34:38,120 --> 00:34:40,860
+<font color="#FFFFFF">- I feel the same about people at Shaffer.
+- Yeah?</font>
+
+336
+00:34:40,960 --> 00:34:43,380
+<font color="#FFFFFF">Yeah. I don't think they like me
+too much.</font>
+
+337
+00:34:43,480 --> 00:34:46,100
+<font color="#FFFFFF">But I don't... I don't...</font>
+
+338
+00:34:46,200 --> 00:34:49,429
+<font color="#FFFFFF">I don't care too much.
+I think it just... It changes.</font>
+
+339
+00:34:49,560 --> 00:34:52,620
+<font color="#FFFFFF">You know, people change
+and things work out.</font>
+
+340
+00:34:52,720 --> 00:34:54,310
+<font color="#FFFFFF">No, no, I know, I know.</font>
+
+341
+00:34:54,960 --> 00:34:56,664
+<font color="#FFFFFF">I just...</font>
+
+342
+00:34:59,520 --> 00:35:01,509
+<font color="#FFFFFF">I feel really homesick sometimes.</font>
+
+343
+00:35:04,280 --> 00:35:05,905
+<font color="#FFFFFF">I don't know.</font>
+
+344
+00:35:07,760 --> 00:35:11,220
+<font color="#FFFFFF">It kind of pisses me off
+when people pretend like they're not.</font>
+
+345
+00:35:11,320 --> 00:35:13,548
+<font color="#FFFFFF">In college, you know?</font>
+
+346
+00:35:14,200 --> 00:35:17,588
+<font color="#FFFFFF">Maybe I'm literally the only one,
+I don't know.</font>
+
+347
+00:35:21,280 --> 00:35:23,587
+<font color="#FFFFFF">I still go to the movies with my dad.</font>
+
+348
+00:35:54,920 --> 00:35:57,940
+<font color="#FFFFFF">- Hey. How are you, man?
+- Good to see you.</font>
+
+349
+00:35:58,040 --> 00:36:02,304
+<font color="#FFFFFF">And please, is this really Eva?</font>
+
+350
+00:36:02,920 --> 00:36:06,024
+<font color="#FFFFFF">Last time I saw you, you were very tiny.</font>
+
+351
+00:36:06,240 --> 00:36:08,300
+<font color="#FFFFFF">Are you playing an instrument yet?</font>
+
+352
+00:36:08,400 --> 00:36:09,860
+<font color="#FFFFFF">She started piano last week.</font>
+
+353
+00:36:09,960 --> 00:36:13,180
+<font color="#FFFFFF">When you're a big college kid,
+will you come play in my band?</font>
+
+354
+00:36:13,280 --> 00:36:15,348
+<font color="#FFFFFF">- Would you like that?
+- Be my piano player?</font>
+
+355
+00:36:15,480 --> 00:36:17,060
+<font color="#FFFFFF">Excellent. Give me five, baby.</font>
+
+356
+00:36:17,160 --> 00:36:19,183
+<font color="#FFFFFF">- All right. Great to see you.
+- Great seeing you.</font>
+
+357
+00:36:19,320 --> 00:36:21,340
+<font color="#FFFFFF">- See you after the show.
+- Absolutely.</font>
+
+358
+00:36:21,440 --> 00:36:22,985
+<font color="#FFFFFF">Cheers.</font>
+
+359
+00:36:25,600 --> 00:36:27,190
+<font color="#FFFFFF">Listen up, Cocksuckers.</font>
+
+360
+00:36:27,520 --> 00:36:29,702
+<font color="#FFFFFF">Hurry the fuck up. Get your music.</font>
+
+361
+00:36:31,960 --> 00:36:36,020
+<font color="#FFFFFF">"Irene" only. Set one.
+Rhythm section out first.</font>
+
+362
+00:36:36,120 --> 00:36:39,827
+<font color="#FFFFFF">The kit is a fucking tonal catastrophe.
+Get it in tune, all right?</font>
+
+363
+00:36:39,960 --> 00:36:42,140
+<font color="#FFFFFF">Rhythm and soloists, bar 45.</font>
+
+364
+00:36:42,240 --> 00:36:43,900
+<font color="#FFFFFF">We're gonna pick up the tempo.</font>
+
+365
+00:36:44,000 --> 00:36:48,185
+<font color="#FFFFFF">Bar 106, brass, do not forget
+we sharp that ninth.</font>
+
+366
+00:36:48,560 --> 00:36:51,780
+<font color="#FFFFFF">Everybody remember,
+Lincoln Center use these competitions...</font>
+
+367
+00:36:51,880 --> 00:36:54,426
+<font color="#FFFFFF">to decide who they're interested in
+and who they're not.</font>
+
+368
+00:36:54,560 --> 00:36:57,980
+<font color="#FFFFFF">I'm not gonna have my reputation
+in that department tarnished...</font>
+
+369
+00:36:58,080 --> 00:37:00,308
+<font color="#FFFFFF">by a bunch of limp-dick, sour-note...</font>
+
+370
+00:37:00,440 --> 00:37:03,700
+<font color="#FFFFFF">flatter-than-their-girlfriends,
+flexible-tempo dipshits.</font>
+
+371
+00:37:03,800 --> 00:37:05,700
+<font color="#FFFFFF">One more thing. Give me that.</font>
+
+372
+00:37:05,800 --> 00:37:08,500
+<font color="#FFFFFF">If I ever find one of these
+lying around again...</font>
+
+373
+00:37:08,600 --> 00:37:12,380
+<font color="#FFFFFF">I swear to fucking God,
+I will stop being so polite.</font>
+
+374
+00:37:12,480 --> 00:37:15,948
+<font color="#FFFFFF">Get the fuck out of my sight
+before I demolish you.</font>
+
+375
+00:37:16,160 --> 00:37:18,024
+<font color="#FFFFFF">Stage right, in order, now.</font>
+
+376
+00:37:19,920 --> 00:37:22,102
+<font color="#FFFFFF">I can still fucking see you, Mini-Me!</font>
+
+377
+00:37:33,920 --> 00:37:36,227
+<font color="#FFFFFF">Let's go. Hurry the fuck up. Let's go.</font>
+
+378
+00:37:46,880 --> 00:37:50,780
+<font color="#FFFFFF">The Shaffer Conservatory Studio Band.</font>
+
+379
+00:38:46,480 --> 00:38:49,026
+<font color="#FFFFFF">Hold on to this for the second set.</font>
+
+380
+00:38:57,640 --> 00:38:59,140
+<font color="#FFFFFF">He's dumb but he's not stupid.</font>
+
+381
+00:38:59,240 --> 00:39:02,060
+<font color="#FFFFFF">At the end of the day, he wants
+a career, as dumb as he is.</font>
+
+382
+00:39:02,160 --> 00:39:06,151
+<font color="#FFFFFF">Fudd has a chance of getting put back in,
+so why would he jeopardize that?</font>
+
+383
+00:39:06,280 --> 00:39:08,860
+<font color="#FFFFFF">- I need to look at the music.
+- It's right here.</font>
+
+384
+00:39:10,960 --> 00:39:13,461
+<font color="#FFFFFF">- Why isn't it on you?
+- Where's the folder?</font>
+
+385
+00:39:14,720 --> 00:39:17,220
+<font color="#FFFFFF">- You're joking. You're fucking around?
+- No.</font>
+
+386
+00:39:17,320 --> 00:39:20,822
+<font color="#FFFFFF">I swear I had it here two seconds ago.
+It's gotta be around here.</font>
+
+387
+00:39:20,960 --> 00:39:23,180
+<font color="#FFFFFF">- Did you see...?
+- How could you be so stupid?</font>
+
+388
+00:39:23,280 --> 00:39:25,747
+<font color="#FFFFFF">- I know. Maybe a janitor came by.
+- A janitor?</font>
+
+389
+00:39:25,880 --> 00:39:28,506
+<font color="#FFFFFF">Find the fucking folder!
+A fucking janitor?</font>
+
+390
+00:39:29,000 --> 00:39:32,220
+<font color="#FFFFFF">You're a dumb fuck! A dumb fuck!</font>
+
+391
+00:39:32,320 --> 00:39:34,340
+<font color="#FFFFFF">- Find the folder!
+- Okay, I'm sorry.</font>
+
+392
+00:39:34,440 --> 00:39:36,349
+<font color="#FFFFFF">Tanned</font>
+
+393
+00:39:41,640 --> 00:39:44,180
+<font color="#FFFFFF">Jesus fucking Christ,
+where have you been?</font>
+
+394
+00:39:44,280 --> 00:39:47,111
+<font color="#FFFFFF">- We have an issue.
+- Okay, now is not the time.</font>
+
+395
+00:39:47,400 --> 00:39:50,740
+<font color="#FFFFFF">I gave Neiman the folder
+and Neiman lost it.</font>
+
+396
+00:39:50,840 --> 00:39:53,181
+<font color="#FFFFFF">- Neiman lost it.
+- Yes, sir.</font>
+
+397
+00:39:53,320 --> 00:39:55,340
+<font color="#FFFFFF">The folder was your responsibility.</font>
+
+398
+00:39:55,440 --> 00:39:57,740
+<font color="#FFFFFF">Why would you give it to Neiman? Right?</font>
+
+399
+00:39:57,840 --> 00:40:01,260
+<font color="#FFFFFF">Give a calculator to a retard,
+he's gonna turn on a TV with it.</font>
+
+400
+00:40:01,360 --> 00:40:04,828
+<font color="#FFFFFF">- Get your sticks, get your ass on-stage.
+- I... I can't.</font>
+
+401
+00:40:05,520 --> 00:40:06,980
+<font color="#FFFFFF">You can't?</font>
+
+402
+00:40:07,080 --> 00:40:11,504
+<font color="#FFFFFF">I... I can't go on-stage.
+I don't know the charts by heart.</font>
+
+403
+00:40:13,160 --> 00:40:16,469
+<font color="#FFFFFF">- Are you fucking kidding me?
+- I... You know this.</font>
+
+404
+00:40:16,720 --> 00:40:19,300
+<font color="#FFFFFF">I need the music.
+It's my memory, I need visual cues.</font>
+
+405
+00:40:19,400 --> 00:40:21,420
+<font color="#FFFFFF">- Visual cues.
+- Yes. It's a medical...</font>
+
+406
+00:40:21,520 --> 00:40:23,740
+<font color="#FFFFFF">A medical condition?
+What, are you Sanjay Gupta?</font>
+
+407
+00:40:23,840 --> 00:40:25,226
+<font color="#FFFFFF">Play the goddamn music.</font>
+
+408
+00:40:26,280 --> 00:40:27,745
+<font color="#FFFFFF">- I can't.
+- I can.</font>
+
+409
+00:40:32,760 --> 00:40:35,545
+<font color="#FFFFFF">- You know "Whiplash" by heart?
+- Yes. Every measure.</font>
+
+410
+00:40:38,120 --> 00:40:42,220
+<font color="#FFFFFF">All right. Well, you better fucking hope
+your memory doesn't fail you.</font>
+
+411
+00:40:42,320 --> 00:40:45,540
+<font color="#FFFFFF">I hope you play it a lot better
+than you did last month.</font>
+
+412
+00:40:45,640 --> 00:40:47,580
+<font color="#FFFFFF">I do not intend to start losing.</font>
+
+413
+00:40:47,680 --> 00:40:50,624
+<font color="#FFFFFF">Get your sticks and get your ass
+on-stage. On-stage!</font>
+
+414
+00:42:16,000 --> 00:42:18,020
+<font color="#FFFFFF">And in first place...</font>
+
+415
+00:42:18,120 --> 00:42:20,109
+<font color="#FFFFFF">Shaffer Conservatory.</font>
+
+416
+00:42:33,600 --> 00:42:36,465
+<font color="#FFFFFF">Hey. Don't fucking touch my folder, man.</font>
+
+417
+00:42:46,120 --> 00:42:48,507
+<font color="#FFFFFF">Do not touch this kit.</font>
+
+418
+00:42:53,280 --> 00:42:55,860
+<font color="#FFFFFF">All right, let's get to work, ladies.</font>
+
+419
+00:42:56,120 --> 00:43:00,191
+<font color="#FFFFFF">Tanner, what you doing? It's core only.
+I don't have time for alternates.</font>
+
+420
+00:43:01,960 --> 00:43:05,143
+<font color="#FFFFFF">"Cherokee." From the top.</font>
+
+421
+00:43:13,720 --> 00:43:17,905
+<font color="#FFFFFF">Tanner, are you a fucking statue?
+Let's go. Get off the stool.</font>
+
+422
+00:43:24,680 --> 00:43:28,387
+<font color="#FFFFFF">Don't forget to turn Neiman's pages.
+Here we go.</font>
+
+423
+00:43:28,760 --> 00:43:31,227
+<font color="#FFFFFF">One, two, three, four.
+Two, two, three, four.</font>
+
+424
+00:43:52,480 --> 00:43:54,150
+<font color="#FFFFFF">What did you do to your hand?</font>
+
+425
+00:43:54,400 --> 00:43:56,900
+<font color="#FFFFFF">- Is that from drumming?
+- Yeah. It's nothing.</font>
+
+426
+00:43:57,000 --> 00:43:59,182
+<font color="#FFFFFF">So how's it going with the Studio Band?</font>
+
+427
+00:43:59,320 --> 00:44:00,460
+<font color="#FFFFFF">Good.</font>
+
+428
+00:44:00,560 --> 00:44:02,628
+<font color="#FFFFFF">Yeah, I think he likes me more now.</font>
+
+429
+00:44:04,280 --> 00:44:07,190
+<font color="#FFFFFF">And his opinion means
+a lot to you, doesn't it?</font>
+
+430
+00:44:08,400 --> 00:44:09,581
+<font color="#FFFFFF">Yeah.</font>
+
+431
+00:44:12,200 --> 00:44:13,631
+<font color="#FFFFFF">Wanna grab the shakers?</font>
+
+432
+00:44:15,200 --> 00:44:17,620
+<font color="#FFFFFF">Jimbo? Overcooked.</font>
+
+433
+00:44:17,720 --> 00:44:19,788
+<font color="#FFFFFF">You can barely chew this.</font>
+
+434
+00:44:21,000 --> 00:44:23,865
+<font color="#FFFFFF">- He just laughs.
+- So how's the drumming going, Andy?</font>
+
+435
+00:44:24,280 --> 00:44:28,020
+<font color="#FFFFFF">Yeah, it's going really well.
+I'm the new core drummer, so...</font>
+
+436
+00:44:28,120 --> 00:44:31,700
+<font color="#FFFFFF">- Hey.
+- Congratulations.</font>
+
+437
+00:44:31,800 --> 00:44:33,390
+<font color="#FFFFFF">Tom Brady.</font>
+
+438
+00:44:34,480 --> 00:44:36,309
+<font color="#FFFFFF">- Did you hear, Jim?
+- No, what?</font>
+
+439
+00:44:36,440 --> 00:44:39,820
+<font color="#FFFFFF">- Trav got named this year's MVP.
+- That's fantastic, Travis.</font>
+
+440
+00:44:39,920 --> 00:44:42,500
+<font color="#FFFFFF">Yeah, and Dustin is heading up
+Model UN...</font>
+
+441
+00:44:42,600 --> 00:44:45,510
+<font color="#FFFFFF">soon to be Rhodes Scholar
+and who knows what else.</font>
+
+442
+00:44:45,760 --> 00:44:47,780
+<font color="#FFFFFF">And Jim, teacher of the year.</font>
+
+443
+00:44:47,880 --> 00:44:49,780
+<font color="#FFFFFF">- Well, hey, listen...
+- I mean, come on.</font>
+
+444
+00:44:49,880 --> 00:44:52,347
+<font color="#FFFFFF">The talent at this table,
+that is stunning.</font>
+
+445
+00:44:53,520 --> 00:44:56,783
+<font color="#FFFFFF">- And Andy, with your drumming.
+- It's going okay, Andy?</font>
+
+446
+00:44:56,920 --> 00:44:59,420
+<font color="#FFFFFF">Yeah, it's going really,
+really well, actually.</font>
+
+447
+00:44:59,520 --> 00:45:01,987
+<font color="#FFFFFF">I'm part of Shaffer's
+top jazz orchestra...</font>
+
+448
+00:45:02,240 --> 00:45:04,707
+<font color="#FFFFFF">which means
+it's the best in the country.</font>
+
+449
+00:45:04,840 --> 00:45:07,100
+<font color="#FFFFFF">And I'm a core member...</font>
+
+450
+00:45:07,200 --> 00:45:09,900
+<font color="#FFFFFF">so I'll start playing in competitions.
+I just...</font>
+
+451
+00:45:10,000 --> 00:45:12,620
+<font color="#FFFFFF">I found out I'm the youngest person
+in the band.</font>
+
+452
+00:45:12,720 --> 00:45:16,666
+<font color="#FFFFFF">How do you know who wins in
+a music competition? Isn't it subjective?</font>
+
+453
+00:45:17,520 --> 00:45:19,748
+<font color="#FFFFFF">- No.
+- Does the studio get you a job?</font>
+
+454
+00:45:20,120 --> 00:45:21,580
+<font color="#FFFFFF">It's not an actual studio.</font>
+
+455
+00:45:21,680 --> 00:45:24,660
+<font color="#FFFFFF">It's the name of the ensemble,
+but it's a big step forward in my career.</font>
+
+456
+00:45:24,760 --> 00:45:28,069
+<font color="#FFFFFF">I'm so glad you figured it out.
+It's a nasty business, I am sure.</font>
+
+457
+00:45:28,400 --> 00:45:31,380
+<font color="#FFFFFF">Hey, are you gonna tell them
+about your game this week?</font>
+
+458
+00:45:31,480 --> 00:45:34,902
+<font color="#FFFFFF">- Living up to your title.
+- I scored a 93-yard touchdown.</font>
+
+459
+00:45:35,040 --> 00:45:36,824
+<font color="#FFFFFF">School record, school record.</font>
+
+460
+00:45:36,960 --> 00:45:40,030
+<font color="#FFFFFF">- Is that true? That's fantastic.
+- It's Division Three.</font>
+
+461
+00:45:43,560 --> 00:45:47,426
+<font color="#FFFFFF">It's Carlton football. It's not even
+Division Two, it's Division Three.</font>
+
+462
+00:45:48,400 --> 00:45:50,423
+<font color="#FFFFFF">- You got any friends, Andy?
+- No.</font>
+
+463
+00:45:50,560 --> 00:45:53,550
+<font color="#FFFFFF">- Oh, why is that?
+- I don't know. I never saw the use.</font>
+
+464
+00:45:53,680 --> 00:45:57,740
+<font color="#FFFFFF">Who are you gonna play with otherwise?
+Lennon and McCartney were buddies.</font>
+
+465
+00:45:57,840 --> 00:46:01,342
+<font color="#FFFFFF">Charlie Parker didn't know anybody
+till Jo Jones threw a cymbal at his head.</font>
+
+466
+00:46:01,480 --> 00:46:02,900
+<font color="#FFFFFF">That's your idea of success?</font>
+
+467
+00:46:03,000 --> 00:46:06,700
+<font color="#FFFFFF">Being the greatest musician of the 20th
+century is anybody's idea of success.</font>
+
+468
+00:46:06,800 --> 00:46:09,340
+<font color="#FFFFFF">Dying broke and drunk
+and full of heroin...</font>
+
+469
+00:46:09,440 --> 00:46:11,980
+<font color="#FFFFFF">at the age of 34
+is not my idea of success.</font>
+
+470
+00:46:12,080 --> 00:46:15,300
+<font color="#FFFFFF">I'd rather die drunk, broke at 34
+and have people talk about me...</font>
+
+471
+00:46:15,400 --> 00:46:19,580
+<font color="#FFFFFF">than live to be rich and sober at 90
+and nobody remember who I was.</font>
+
+472
+00:46:19,680 --> 00:46:22,060
+<font color="#FFFFFF">But your friends will remember you,
+that's the point.</font>
+
+473
+00:46:22,160 --> 00:46:24,661
+<font color="#FFFFFF">None of us were friends
+with Charlie Parker. That's the point.</font>
+
+474
+00:46:24,800 --> 00:46:28,621
+<font color="#FFFFFF">Travis and Dustin, they have plenty
+of friends and plenty of purpose.</font>
+
+475
+00:46:28,760 --> 00:46:30,900
+<font color="#FFFFFF">They'll make great
+school board presidents.</font>
+
+476
+00:46:31,000 --> 00:46:32,860
+<font color="#FFFFFF">You think you're better than us?</font>
+
+477
+00:46:32,960 --> 00:46:35,900
+<font color="#FFFFFF">- Catch on quick. Are you in Model UN?
+- I got a reply for you.</font>
+
+478
+00:46:36,000 --> 00:46:39,020
+<font color="#FFFFFF">You think Carlton football is a joke?
+Come play with us.</font>
+
+479
+00:46:39,120 --> 00:46:41,620
+<font color="#FFFFFF">Four words you will never hear
+from the NFL.</font>
+
+480
+00:46:41,720 --> 00:46:44,664
+<font color="#FFFFFF">- Who wants dessert?
+- Heard from Lincoln Center?</font>
+
+481
+00:47:17,160 --> 00:47:21,140
+<font color="#FFFFFF">Okay, get out of here. Pick up the new
+chart by the door on your way out.</font>
+
+482
+00:47:21,240 --> 00:47:26,506
+<font color="#FFFFFF">Rehearsal 9 p.m. Sharp tonight.
+That's how long you have to learn it.</font>
+
+483
+00:47:31,200 --> 00:47:34,110
+<font color="#FFFFFF">Neiman. Stick around a minute.</font>
+
+484
+00:47:38,720 --> 00:47:40,948
+<font color="#FFFFFF">See the tempo marking on there?</font>
+
+485
+00:47:41,760 --> 00:47:44,340
+<font color="#FFFFFF">"Quarter note equals 330."</font>
+
+486
+00:47:44,560 --> 00:47:47,186
+<font color="#FFFFFF">That is a double-time swing.</font>
+
+487
+00:47:47,520 --> 00:47:50,863
+<font color="#FFFFFF">- That's what got you in here, right?
+- Oh, yeah.</font>
+
+488
+00:47:51,960 --> 00:47:55,507
+<font color="#FFFFFF">As fate would have it,
+I recently stumbled across another kid...</font>
+
+489
+00:47:55,760 --> 00:47:59,182
+<font color="#FFFFFF">in the practice room
+working on his double-time swing.</font>
+
+490
+00:47:59,520 --> 00:48:01,349
+<font color="#FFFFFF">So I'm gonna give him a shot.</font>
+
+491
+00:48:02,440 --> 00:48:04,860
+<font color="#FFFFFF">- Am I late?
+- Perfect timing.</font>
+
+492
+00:48:04,960 --> 00:48:06,903
+<font color="#FFFFFF">Come on in, Connolly.</font>
+
+493
+00:48:07,840 --> 00:48:10,380
+<font color="#FFFFFF">- You two know each other, right?
+- Yeah, Nassau band.</font>
+
+494
+00:48:10,480 --> 00:48:11,627
+<font color="#FFFFFF">What's up, Andrew?</font>
+
+495
+00:48:12,480 --> 00:48:16,820
+<font color="#FFFFFF">I've made Neiman a temporary core,
+but with this competition coming up...</font>
+
+496
+00:48:16,920 --> 00:48:20,460
+<font color="#FFFFFF">I just wanna make very sure
+this chart is in the best shape it can be.</font>
+
+497
+00:48:20,560 --> 00:48:22,583
+<font color="#FFFFFF">Yeah, this one right here, right?</font>
+
+498
+00:48:24,800 --> 00:48:27,340
+<font color="#FFFFFF">I gave Connolly the chart this morning.</font>
+
+499
+00:48:27,440 --> 00:48:30,540
+<font color="#FFFFFF">All I wanna do is give you both
+a crack at it, all right?</font>
+
+500
+00:48:30,640 --> 00:48:33,900
+<font color="#FFFFFF">So, Neiman, go ahead,
+jump on the kit, take it from the top.</font>
+
+501
+00:48:34,000 --> 00:48:35,545
+<font color="#FFFFFF">Okay.</font>
+
+502
+00:48:38,000 --> 00:48:41,388
+<font color="#FFFFFF">I don't want you to worry
+about hits now. Just tempo, okay?</font>
+
+503
+00:48:46,520 --> 00:48:48,110
+<font color="#FFFFFF">All set?</font>
+
+504
+00:48:49,160 --> 00:48:51,262
+<font color="#FFFFFF">One, two...</font>
+
+505
+00:48:57,440 --> 00:48:59,380
+<font color="#FFFFFF">Not quite my tempo. Connolly.</font>
+
+506
+00:48:59,480 --> 00:49:02,300
+<font color="#FFFFFF">- I can take it from the top.
+- Connolly, go ahead.</font>
+
+507
+00:49:02,400 --> 00:49:05,583
+<font color="#FFFFFF">- I can do...
+- No. We'll go with Connolly now.</font>
+
+508
+00:49:11,680 --> 00:49:13,191
+<font color="#FFFFFF">Hey, do you mind?</font>
+
+509
+00:49:19,920 --> 00:49:21,749
+<font color="#FFFFFF">Okay, man, ready?</font>
+
+510
+00:49:21,960 --> 00:49:24,791
+<font color="#FFFFFF">One and two and...</font>
+
+511
+00:49:31,280 --> 00:49:33,140
+<font color="#FFFFFF">- Perfect, Connolly.
+- Oh, my God.</font>
+
+512
+00:49:33,240 --> 00:49:36,380
+<font color="#FFFFFF">See, this to me
+is the beauty of Studio Band.</font>
+
+513
+00:49:36,480 --> 00:49:39,260
+<font color="#FFFFFF">You walk in here an alternate,
+you could be the new core.</font>
+
+514
+00:49:39,360 --> 00:49:41,500
+<font color="#FFFFFF">- Oh, my God, are you serious?
+- Thanks.</font>
+
+515
+00:49:41,600 --> 00:49:43,748
+<font color="#FFFFFF">That shit?</font>
+
+516
+00:49:47,560 --> 00:49:49,264
+<font color="#FFFFFF">Fletcher.</font>
+
+517
+00:49:50,160 --> 00:49:52,866
+<font color="#FFFFFF">Thanks, man. Here you go.</font>
+
+518
+00:49:53,640 --> 00:49:56,505
+<font color="#FFFFFF">Don't worry about Fletcher.
+He's more bark than bite.</font>
+
+519
+00:50:03,120 --> 00:50:05,382
+<font color="#FFFFFF">Hey, look, you...
+I can play these charts.</font>
+
+520
+00:50:05,520 --> 00:50:08,780
+<font color="#FFFFFF">- Now is not the time, I swear to God.
+- I can play it, okay?</font>
+
+521
+00:50:08,880 --> 00:50:12,427
+<font color="#FFFFFF">I said not now!
+If you want the fucking part, earn it.</font>
+
+522
+00:50:32,080 --> 00:50:33,900
+<font color="#FFFFFF">I'm just gonna lay it out there.</font>
+
+523
+00:50:34,000 --> 00:50:36,751
+<font color="#FFFFFF">This is why I don't think
+we should be together.</font>
+
+524
+00:50:37,560 --> 00:50:41,100
+<font color="#FFFFFF">And I've thought about it a lot,
+and this is what's gonna happen.</font>
+
+525
+00:50:41,200 --> 00:50:43,587
+<font color="#FFFFFF">I'm gonna keep pursuing
+what I'm pursuing.</font>
+
+526
+00:50:43,720 --> 00:50:46,620
+<font color="#FFFFFF">Because I'm doing that,
+it's gonna take up my time.</font>
+
+527
+00:50:46,720 --> 00:50:49,140
+<font color="#FFFFFF">I'm not gonna be able
+to spend time with you.</font>
+
+528
+00:50:49,240 --> 00:50:51,820
+<font color="#FFFFFF">Even when I do,
+I'm gonna be thinking about drumming.</font>
+
+529
+00:50:51,920 --> 00:50:55,945
+<font color="#FFFFFF">About jazz, my charts. Because of that,
+you're gonna start to resent me.</font>
+
+530
+00:50:56,440 --> 00:51:00,460
+<font color="#FFFFFF">You're gonna tell me to ease up on
+the drumming, spend more time with you.</font>
+
+531
+00:51:00,560 --> 00:51:05,220
+<font color="#FFFFFF">I'm not gonna be able to do that. I'll start
+to resent you for even asking me to stop.</font>
+
+532
+00:51:05,320 --> 00:51:08,740
+<font color="#FFFFFF">We're just gonna start to hate
+each other. It's gonna be ugly.</font>
+
+533
+00:51:08,840 --> 00:51:10,820
+<font color="#FFFFFF">And so for those reasons...</font>
+
+534
+00:51:10,920 --> 00:51:14,069
+<font color="#FFFFFF">I'd rather just, you know,
+break it off clean.</font>
+
+535
+00:51:21,720 --> 00:51:23,902
+<font color="#FFFFFF">Because I wanna be great.</font>
+
+536
+00:51:25,960 --> 00:51:28,222
+<font color="#FFFFFF">And you're not?</font>
+
+537
+00:51:29,560 --> 00:51:31,583
+<font color="#FFFFFF">I wanna be one of the greats.</font>
+
+538
+00:51:33,040 --> 00:51:35,950
+<font color="#FFFFFF">And I would stop you from doing that?</font>
+
+539
+00:51:37,200 --> 00:51:38,904
+<font color="#FFFFFF">Yeah.</font>
+
+540
+00:51:41,000 --> 00:51:43,300
+<font color="#FFFFFF">You know I would stop you
+from doing that?</font>
+
+541
+00:51:43,400 --> 00:51:45,780
+<font color="#FFFFFF">You know that for a fact?</font>
+
+542
+00:51:45,880 --> 00:51:47,505
+<font color="#FFFFFF">Yes.</font>
+
+543
+00:51:49,880 --> 00:51:52,665
+<font color="#FFFFFF">And I'd barely see you anyway?</font>
+
+544
+00:51:54,680 --> 00:51:57,100
+<font color="#FFFFFF">- Yeah.
+- I see you, you'd treat me like shit...</font>
+
+545
+00:51:57,200 --> 00:51:59,860
+<font color="#FFFFFF">because I'm some girl
+who doesn't know what she wants.</font>
+
+546
+00:51:59,960 --> 00:52:03,667
+<font color="#FFFFFF">You have a path, you're going
+to be great, I'm gonna be forgotten...</font>
+
+547
+00:52:03,800 --> 00:52:06,380
+<font color="#FFFFFF">and you won't be able
+to give me the time of day...</font>
+
+548
+00:52:06,480 --> 00:52:09,504
+<font color="#FFFFFF">because you have bigger things
+to pursue.</font>
+
+549
+00:52:11,960 --> 00:52:13,300
+<font color="#FFFFFF">That's exactly my point.</font>
+
+550
+00:52:13,440 --> 00:52:15,781
+<font color="#FFFFFF">What the fuck is wrong with you?</font>
+
+551
+00:52:18,200 --> 00:52:20,268
+<font color="#FFFFFF">You're right. We should not be dating.</font>
+
+552
+00:52:28,080 --> 00:52:30,182
+<font color="#FFFFFF">I'm okay. Thanks.</font>
+
+553
+00:52:43,280 --> 00:52:45,508
+<font color="#FFFFFF">Fuck! Fuck!</font>
+
+554
+00:53:04,320 --> 00:53:05,990
+<font color="#FFFFFF">Fucking piece of shit!</font>
+
+555
+00:53:06,120 --> 00:53:07,780
+<font color="#FFFFFF">Fuck you!</font>
+
+556
+00:53:07,880 --> 00:53:09,470
+<font color="#FFFFFF">Fuck!</font>
+
+557
+00:53:09,840 --> 00:53:12,341
+<font color="#FFFFFF">Fucking piece of shit! Come on!</font>
+
+558
+00:53:27,640 --> 00:53:31,028
+<font color="#FFFFFF">Sorry, we have a new player.
+Ryan Connolly.</font>
+
+559
+00:53:35,560 --> 00:53:37,389
+<font color="#FFFFFF">I'm sorry.</font>
+
+560
+00:53:37,680 --> 00:53:40,351
+<font color="#FFFFFF">Guys, just put your instruments
+down for a minute.</font>
+
+561
+00:53:54,360 --> 00:53:56,542
+<font color="#FFFFFF">Just listen for a minute.</font>
+
+562
+00:54:01,320 --> 00:54:03,502
+<font color="#FFFFFF">Six years ago...</font>
+
+563
+00:54:04,920 --> 00:54:09,105
+<font color="#FFFFFF">I came across a kid in a practice room
+working on his scales.</font>
+
+564
+00:54:09,680 --> 00:54:14,468
+<font color="#FFFFFF">He was early second year and he'd
+started at Shaffer with a lot of hope.</font>
+
+565
+00:54:17,160 --> 00:54:19,183
+<font color="#FFFFFF">Like all you guys.</font>
+
+566
+00:54:21,480 --> 00:54:26,427
+<font color="#FFFFFF">But the truth was that he barely
+squeaked in to begin with...</font>
+
+567
+00:54:29,000 --> 00:54:31,228
+<font color="#FFFFFF">and he was really struggling.</font>
+
+568
+00:54:34,440 --> 00:54:39,023
+<font color="#FFFFFF">The faculty were all telling him,
+"Maybe this isn't for you."</font>
+
+569
+00:54:40,920 --> 00:54:43,140
+<font color="#FFFFFF">But they didn't see what I saw.</font>
+
+570
+00:54:43,240 --> 00:54:46,260
+<font color="#FFFFFF">This scared, skinny kid...</font>
+
+571
+00:54:46,360 --> 00:54:50,060
+<font color="#FFFFFF">cursing himself because he
+couldn't get his scales right.</font>
+
+572
+00:54:50,160 --> 00:54:52,581
+<font color="#FFFFFF">I saw a drive in him.</font>
+
+573
+00:54:52,720 --> 00:54:55,471
+<font color="#FFFFFF">And I put him in Studio Band.</font>
+
+574
+00:54:55,600 --> 00:54:57,429
+<font color="#FFFFFF">And when he graduated...</font>
+
+575
+00:54:57,560 --> 00:55:00,900
+<font color="#FFFFFF">Marsalis made him third trumpet
+at Lincoln Center.</font>
+
+576
+00:55:01,000 --> 00:55:03,660
+<font color="#FFFFFF">A year later, he was first.</font>
+
+577
+00:55:03,760 --> 00:55:05,942
+<font color="#FFFFFF">That's who you're listening to now.</font>
+
+578
+00:55:07,560 --> 00:55:10,186
+<font color="#FFFFFF">His name was Sean Casey.</font>
+
+579
+00:55:18,120 --> 00:55:20,621
+<font color="#FFFFFF">I found out this morning...</font>
+
+580
+00:55:21,720 --> 00:55:23,549
+<font color="#FFFFFF">that Sean...</font>
+
+581
+00:55:25,400 --> 00:55:27,707
+<font color="#FFFFFF">died yesterday...</font>
+
+582
+00:55:29,400 --> 00:55:31,662
+<font color="#FFFFFF">in a car accident.</font>
+
+583
+00:55:35,200 --> 00:55:37,382
+<font color="#FFFFFF">And I just...</font>
+
+584
+00:55:38,920 --> 00:55:42,502
+<font color="#FFFFFF">I wanted you guys to know
+he was a beautiful player.</font>
+
+585
+00:55:49,160 --> 00:55:51,422
+<font color="#FFFFFF">I just thought you should know.</font>
+
+586
+00:55:59,000 --> 00:56:00,784
+<font color="#FFFFFF">I'm sorry.</font>
+
+587
+00:56:04,920 --> 00:56:06,510
+<font color="#FFFFFF">Okay.</font>
+
+588
+00:56:08,600 --> 00:56:15,310
+<font color="#FFFFFF">Let's get to work, huh?
+How about "Caravan," bar 105?</font>
+
+589
+00:56:20,840 --> 00:56:22,942
+<font color="#FFFFFF">Two bars for free.</font>
+
+590
+00:56:23,240 --> 00:56:25,149
+<font color="#FFFFFF">One and two and...</font>
+
+591
+00:56:30,440 --> 00:56:32,224
+<font color="#FFFFFF">It's not quite right, Connolly.</font>
+
+592
+00:56:33,760 --> 00:56:35,544
+<font color="#FFFFFF">I'd like to try Neiman on this.</font>
+
+593
+00:56:40,560 --> 00:56:43,311
+<font color="#FFFFFF">Maybe now's the time
+for Neiman to earn the part.</font>
+
+594
+00:56:46,920 --> 00:56:49,751
+<font color="#FFFFFF">One and two and...</font>
+
+595
+00:56:52,000 --> 00:56:54,865
+<font color="#FFFFFF">Nope, I guess not. Tanner?</font>
+
+596
+00:57:05,520 --> 00:57:07,349
+<font color="#FFFFFF">One and two and...</font>
+
+597
+00:57:08,120 --> 00:57:09,949
+<font color="#FFFFFF">Motherfucker!</font>
+
+598
+00:57:12,080 --> 00:57:14,911
+<font color="#FFFFFF">Connolly, get your ass back on the kit.</font>
+
+599
+00:57:20,760 --> 00:57:24,751
+<font color="#FFFFFF">We will stay here for as long as it takes
+until one of you fagots can play in time.</font>
+
+600
+00:57:25,480 --> 00:57:27,423
+<font color="#FFFFFF">One and two and...</font>
+
+601
+00:57:29,440 --> 00:57:32,464
+<font color="#FFFFFF">Looks like that might be all night.
+Neiman.</font>
+
+602
+00:57:34,320 --> 00:57:37,220
+<font color="#FFFFFF">One and two and...</font>
+
+603
+00:57:37,320 --> 00:57:38,990
+<font color="#FFFFFF">Not my fucking tempo!</font>
+
+604
+00:57:42,040 --> 00:57:44,871
+<font color="#FFFFFF">Sorry, guys.
+Hate to put you through this.</font>
+
+605
+00:57:46,480 --> 00:57:49,460
+<font color="#FFFFFF">If you need to fucking take a dump
+or get a coffee...</font>
+
+606
+00:57:49,560 --> 00:57:51,340
+<font color="#FFFFFF">whatever, now might be a good time.</font>
+
+607
+00:57:51,440 --> 00:57:55,340
+<font color="#FFFFFF">We're gonna stay until I find a drummer
+who can fucking play in time.</font>
+
+608
+00:57:55,440 --> 00:57:58,111
+<font color="#FFFFFF">I apologise to the musicians.</font>
+
+609
+00:57:58,240 --> 00:58:01,420
+<font color="#FFFFFF">Seriously, take 10, 20, a fucking hour.</font>
+
+610
+00:58:01,520 --> 00:58:04,940
+<font color="#FFFFFF">You hear me, cocksuckers?
+Better start shitting me perfect 400s.</font>
+
+611
+00:58:05,040 --> 00:58:07,302
+<font color="#FFFFFF">Connolly, get your fucking ass
+back on the kit.</font>
+
+612
+00:58:22,720 --> 00:58:26,905
+<font color="#FFFFFF">Is that really the fastest you can play,
+you worthless Hymie fuck?</font>
+
+613
+00:58:27,680 --> 00:58:31,227
+<font color="#FFFFFF">No wonder Mommy ran out on you.
+Get off the fucking kit.</font>
+
+614
+00:58:33,360 --> 00:58:39,183
+<font color="#FFFFFF">And here comes Mr. Gay Pride
+of the Upper West Side himself.</font>
+
+615
+00:58:39,320 --> 00:58:43,620
+<font color="#FFFFFF">This is not a Bette Midler concert.
+We will not be serving baked Alaska...</font>
+
+616
+00:58:43,720 --> 00:58:46,824
+<font color="#FFFFFF">so just play faster
+than you give hand jobs, will you?</font>
+
+617
+00:58:46,960 --> 00:58:49,028
+<font color="#FFFFFF">One, two, one, two.</font>
+
+618
+00:58:51,840 --> 00:58:53,140
+<font color="#FFFFFF">Not even fucking close.</font>
+
+619
+00:58:53,240 --> 00:58:55,786
+<font color="#FFFFFF">Let's go with the Irish Mick
+Paddy cracker now.</font>
+
+620
+00:58:55,920 --> 00:58:59,060
+<font color="#FFFFFF">You know, you actually do look
+quite a bit like a leprechaun.</font>
+
+621
+00:58:59,160 --> 00:59:01,024
+<font color="#FFFFFF">I'm gonna start calling you Flannery.</font>
+
+622
+00:59:22,240 --> 00:59:24,024
+<font color="#FFFFFF">Get off!</font>
+
+623
+00:59:27,520 --> 00:59:30,100
+<font color="#FFFFFF">What are you looking for?
+There's no gold down there.</font>
+
+624
+00:59:30,200 --> 00:59:31,745
+<font color="#FFFFFF">Adjusting the seat? Really?</font>
+
+625
+00:59:31,880 --> 00:59:34,460
+<font color="#FFFFFF">That's been your problem
+the whole time? The seat height?</font>
+
+626
+00:59:34,560 --> 00:59:36,230
+<font color="#FFFFFF">So now you have it, right?</font>
+
+627
+00:59:36,440 --> 00:59:38,144
+<font color="#FFFFFF">Go.</font>
+
+628
+00:59:43,360 --> 00:59:44,950
+<font color="#FFFFFF">Bullshit! Fuck you!</font>
+
+629
+00:59:45,480 --> 00:59:47,150
+<font color="#FFFFFF">Neiman.</font>
+
+630
+00:59:50,520 --> 00:59:53,226
+<font color="#FFFFFF">Maybe it's time...</font>
+
+631
+00:59:53,360 --> 00:59:56,748
+<font color="#FFFFFF">to finally bring this home.
+What do you say?</font>
+
+632
+00:59:57,000 --> 00:59:58,625
+<font color="#FFFFFF">Show me.</font>
+
+633
+01:00:02,320 --> 01:00:03,467
+<font color="#FFFFFF">Don't slow down.</font>
+
+634
+01:00:06,920 --> 01:00:08,704
+<font color="#FFFFFF">Pick it up.</font>
+
+635
+01:00:10,000 --> 01:00:12,023
+<font color="#FFFFFF">Faster!</font>
+
+636
+01:00:29,040 --> 01:00:30,824
+<font color="#FFFFFF">Faster!</font>
+
+637
+01:00:37,240 --> 01:00:38,910
+<font color="#FFFFFF">Faster!</font>
+
+638
+01:00:41,520 --> 01:00:42,746
+<font color="#FFFFFF">Faster!</font>
+
+639
+01:00:43,080 --> 01:00:44,944
+<font color="#FFFFFF">Faster!</font>
+
+640
+01:00:52,880 --> 01:00:54,789
+<font color="#FFFFFF">Keep playing!</font>
+
+641
+01:00:57,640 --> 01:01:00,630
+<font color="#FFFFFF">Keep playing! Keep playing!
+Keep playing!</font>
+
+642
+01:01:02,360 --> 01:01:04,303
+<font color="#FFFFFF">Don't stop.</font>
+
+643
+01:01:20,640 --> 01:01:22,583
+<font color="#FFFFFF">Neiman...</font>
+
+644
+01:01:24,040 --> 01:01:25,380
+<font color="#FFFFFF">you earned the part.</font>
+
+645
+01:01:28,480 --> 01:01:31,982
+<font color="#FFFFFF">Alternates, you wanna clean
+the blood off my drum set?</font>
+
+646
+01:01:35,040 --> 01:01:37,347
+<font color="#FFFFFF">Okay, we can start now.</font>
+
+647
+01:01:59,480 --> 01:02:02,948
+<font color="#FFFFFF">5 p.m. Call tomorrow in Dunellen.</font>
+
+648
+01:02:03,520 --> 01:02:07,260
+<font color="#FFFFFF">Give yourselves at least two hours
+to get there this time, all right?</font>
+
+649
+01:02:07,360 --> 01:02:09,144
+<font color="#FFFFFF">Save your travel receipts.</font>
+
+650
+01:02:09,520 --> 01:02:12,271
+<font color="#FFFFFF">Or don't. I don't give a shit.</font>
+
+651
+01:03:17,520 --> 01:03:20,660
+<font color="#FFFFFF">- Do you know where the cabs are?
+- You gotta call the cabs.</font>
+
+652
+01:03:20,760 --> 01:03:23,740
+<font color="#FFFFFF">- The cab was supposed to be here.
+- You gotta call. They take forever.</font>
+
+653
+01:03:23,840 --> 01:03:25,271
+<font color="#FFFFFF">How do I get to Hargrove?</font>
+
+654
+01:03:31,640 --> 01:03:34,500
+<font color="#FFFFFF">Hey. Come on.
+Please, come on. You're still open.</font>
+
+655
+01:03:34,600 --> 01:03:37,431
+<font color="#FFFFFF">You're still open.
+Come on. Come on. Come on.</font>
+
+656
+01:03:53,200 --> 01:03:54,340
+<font color="#FFFFFF">Yeah, hello?</font>
+
+657
+01:03:54,440 --> 01:03:56,900
+<font color="#FFFFFF">Neiman, where are you, man?
+Call time was 5.</font>
+
+658
+01:03:57,000 --> 01:03:59,940
+<font color="#FFFFFF">I know, I know.
+I'm almost there. I'm right there.</font>
+
+659
+01:04:00,040 --> 01:04:01,980
+<font color="#FFFFFF">- We're on-stage in 20.
+- I know.</font>
+
+660
+01:04:02,080 --> 01:04:04,820
+<font color="#FFFFFF">- Fletcher's got Connolly warming up.
+- God fucking da... Okay.</font>
+
+661
+01:04:04,920 --> 01:04:08,786
+<font color="#FFFFFF">You just tell that little fucking redhead
+I'll... I'm gonna be there, okay? Fuck.</font>
+
+662
+01:04:10,840 --> 01:04:12,783
+<font color="#FFFFFF">Hey. Hey. Sorry I'm late.</font>
+
+663
+01:04:13,040 --> 01:04:16,260
+<font color="#FFFFFF">Well, glad you could fit us
+into your busy schedule, darling.</font>
+
+664
+01:04:16,360 --> 01:04:18,420
+<font color="#FFFFFF">I'm sorry I'm late. I'm ready to go.</font>
+
+665
+01:04:18,520 --> 01:04:21,180
+<font color="#FFFFFF">- Connolly's playing the part.
+- Like fucking hell.</font>
+
+666
+01:04:21,280 --> 01:04:22,825
+<font color="#FFFFFF">What the fuck did you say to me?</font>
+
+667
+01:04:25,960 --> 01:04:27,107
+<font color="#FFFFFF">It's my part.</font>
+
+668
+01:04:27,400 --> 01:04:29,980
+<font color="#FFFFFF">It's my part and I decide
+who to lend it to.</font>
+
+669
+01:04:30,880 --> 01:04:34,063
+<font color="#FFFFFF">Usually it's somebody
+that has fucking sticks.</font>
+
+670
+01:04:35,400 --> 01:04:38,100
+<font color="#FFFFFF">I left them in the car.
+I'll be right back. Five minutes.</font>
+
+671
+01:04:38,200 --> 01:04:39,665
+<font color="#FFFFFF">I'm warming up the band now.</font>
+
+672
+01:04:39,920 --> 01:04:43,263
+<font color="#FFFFFF">- I can use Ryan's sticks.
+- Neiman, you lost the fucking part.</font>
+
+673
+01:04:43,400 --> 01:04:45,343
+<font color="#FFFFFF">No, I didn't. You can't do this.</font>
+
+674
+01:04:45,480 --> 01:04:46,620
+<font color="#FFFFFF">- Can't?
+- Yeah.</font>
+
+675
+01:04:46,720 --> 01:04:49,221
+<font color="#FFFFFF">When did you become a fucking expert
+on what I can do...</font>
+
+676
+01:04:49,360 --> 01:04:52,300
+<font color="#FFFFFF">- ... you fucking weepy-willow shit sack?
+- I earned that part.</font>
+
+677
+01:04:52,400 --> 01:04:55,231
+<font color="#FFFFFF">You never earned anything.
+You are a self-righteous prick.</font>
+
+678
+01:04:55,480 --> 01:04:59,060
+<font color="#FFFFFF">The only reason you're a fucking core
+is because you misplaced a folder.</font>
+
+679
+01:04:59,160 --> 01:05:02,580
+<font color="#FFFFFF">Only reason you're in Studio Band
+to begin with is because I told you...</font>
+
+680
+01:05:02,680 --> 01:05:04,828
+<font color="#FFFFFF">what I'd be asking for in Nassau.</font>
+
+681
+01:05:04,960 --> 01:05:06,260
+<font color="#FFFFFF">- Am I wrong?
+- Yeah.</font>
+
+682
+01:05:06,360 --> 01:05:08,900
+<font color="#FFFFFF">- I'm in Studio Band because I'm the...
+- Back off.</font>
+
+683
+01:05:09,000 --> 01:05:11,751
+<font color="#FFFFFF">Hey, fuck off, Johnny Utah.
+Turn my pages, bitch.</font>
+
+684
+01:05:12,040 --> 01:05:14,780
+<font color="#FFFFFF">Hey. I can cut you
+any fucking time I want.</font>
+
+685
+01:05:14,880 --> 01:05:17,950
+<font color="#FFFFFF">- You would've cut me by now.
+- Try me, you fucking weasel.</font>
+
+686
+01:05:19,760 --> 01:05:23,620
+<font color="#FFFFFF">At 5:30, that's in exactly 11 minutes,
+my band is on-stage.</font>
+
+687
+01:05:23,720 --> 01:05:27,060
+<font color="#FFFFFF">If your ass is not on that stool
+with your own sticks in hand...</font>
+
+688
+01:05:27,160 --> 01:05:29,308
+<font color="#FFFFFF">or if you make one fucking mistake...</font>
+
+689
+01:05:29,440 --> 01:05:32,460
+<font color="#FFFFFF">one, I will drum your ass
+back to Nassau...</font>
+
+690
+01:05:32,560 --> 01:05:35,980
+<font color="#FFFFFF">where you can turn pages
+until you graduate or fucking drop out.</font>
+
+691
+01:05:36,080 --> 01:05:40,100
+<font color="#FFFFFF">By the time you're done at Shaffer,
+you'll make Daddy look like a success story.</font>
+
+692
+01:05:40,200 --> 01:05:43,509
+<font color="#FFFFFF">Got it? Or we can let Johnny Utah
+play the part.</font>
+
+693
+01:05:43,760 --> 01:05:46,540
+<font color="#FFFFFF">- You choose.
+- That's my part. I'll be on your stage.</font>
+
+694
+01:05:46,640 --> 01:05:48,220
+<font color="#FFFFFF">- Fuck you.
+- You got 10 minutes...</font>
+
+695
+01:05:48,320 --> 01:05:51,264
+<font color="#FFFFFF">you fucking pathetic,
+pansy-ass fruit fuck.</font>
+
+696
+01:06:01,120 --> 01:06:03,820
+<font color="#FFFFFF">- Tell Fletcher I'm coming.
+- What's taking you so long?</font>
+
+697
+01:06:03,920 --> 01:06:07,263
+<font color="#FFFFFF">- We're moving on-stage.
+- I got locked in my car. I'm coming.</font>
+
+698
+01:06:07,400 --> 01:06:09,100
+<font color="#FFFFFF">Left turn, 200 feet.</font>
+
+699
+01:06:09,200 --> 01:06:11,189
+<font color="#FFFFFF">- Are you driving, man?
+- No.</font>
+
+700
+01:06:11,320 --> 01:06:12,940
+<font color="#FFFFFF">What the hell was that noise?</font>
+
+701
+01:06:13,040 --> 01:06:17,702
+<font color="#FFFFFF">Okay, why don't you just tell Fletcher
+that I'm coming, you motherfucker?</font>
+
+702
+01:07:01,800 --> 01:07:03,106
+<font color="#FFFFFF">Hey. Hey, hey.</font>
+
+703
+01:07:03,240 --> 01:07:06,260
+<font color="#FFFFFF">Are you okay? Are you okay?</font>
+
+704
+01:07:06,360 --> 01:07:09,340
+<font color="#FFFFFF">- I gotta get my sticks.
+- No, stay away from the car.</font>
+
+705
+01:07:09,440 --> 01:07:11,500
+<font color="#FFFFFF">- I've called 911.
+- Look, I gotta go.</font>
+
+706
+01:07:11,600 --> 01:07:13,702
+<font color="#FFFFFF">- No, no, sir.
+- A couple more blocks.</font>
+
+707
+01:07:13,840 --> 01:07:16,181
+<font color="#FFFFFF">- Sir, no, you don't have to...
+- Please get off me.</font>
+
+708
+01:07:46,800 --> 01:07:49,665
+<font color="#FFFFFF">- Hey, guy.
+- What the fuck happened to you?</font>
+
+709
+01:07:55,440 --> 01:07:59,181
+<font color="#FFFFFF">The Shaffer Conservatory Studio Band.</font>
+
+710
+01:08:56,440 --> 01:08:57,701
+<font color="#FFFFFF">Neiman, what the fuck?</font>
+
+711
+01:09:10,400 --> 01:09:12,264
+<font color="#FFFFFF">Fuck.</font>
+
+712
+01:09:39,080 --> 01:09:40,909
+<font color="#FFFFFF">Neiman...</font>
+
+713
+01:09:44,080 --> 01:09:45,511
+<font color="#FFFFFF">you're done.</font>
+
+714
+01:09:55,800 --> 01:09:58,744
+<font color="#FFFFFF">Gentlemen, ladies, I apologise...</font>
+
+715
+01:09:58,880 --> 01:10:01,824
+<font color="#FFFFFF">on behalf of Shaffer Conservatory.</font>
+
+716
+01:10:06,520 --> 01:10:08,384
+<font color="#FFFFFF">Piece of shit. I'll fucking kill you.</font>
+
+717
+01:10:08,920 --> 01:10:10,590
+<font color="#FFFFFF">- Fuck you.
+- Get the...</font>
+
+718
+01:10:10,720 --> 01:10:13,141
+<font color="#FFFFFF">- Get the fuck off me.
+- Get off me. Fuck off.</font>
+
+719
+01:10:16,720 --> 01:10:18,151
+<font color="#FFFFFF">Fuck you.</font>
+
+720
+01:10:18,640 --> 01:10:20,020
+<font color="#FFFFFF">Fuck you!</font>
+
+721
+01:10:20,120 --> 01:10:22,222
+<font color="#FFFFFF">Fuck you, Fletcher! Fuck you!</font>
+
+722
+01:10:22,360 --> 01:10:25,225
+<font color="#FFFFFF">Get off. Fuck. Piece of shit!</font>
+
+723
+01:10:25,360 --> 01:10:27,144
+<font color="#FFFFFF">Fuck you!</font>
+
+724
+01:10:42,240 --> 01:10:46,664
+<font color="#FFFFFF">- When did you start talking to her?
+- Your father got in contact this week.</font>
+
+725
+01:10:47,040 --> 01:10:49,620
+<font color="#FFFFFF">Does the name Sean Casey
+mean anything to you?</font>
+
+726
+01:10:50,320 --> 01:10:52,422
+<font color="#FFFFFF">You know of his death?</font>
+
+727
+01:10:53,080 --> 01:10:56,150
+<font color="#FFFFFF">Last month, he hanged himself
+in his apartment.</font>
+
+728
+01:11:00,680 --> 01:11:04,780
+<font color="#FFFFFF">- What does that have to do with me?
+- He suffered from anxiety, depression.</font>
+
+729
+01:11:04,880 --> 01:11:08,382
+<font color="#FFFFFF">His mother claims this started
+during his time as Fletcher's student.</font>
+
+730
+01:11:09,280 --> 01:11:13,351
+<font color="#FFFFFF">Now, the Caseys aren't wealthy,
+they don't wanna file suit.</font>
+
+731
+01:11:15,200 --> 01:11:18,349
+<font color="#FFFFFF">So, what do they want?</font>
+
+732
+01:11:18,720 --> 01:11:22,427
+<font color="#FFFFFF">To make sure Terence Fletcher is never
+allowed to do this to another student.</font>
+
+733
+01:11:47,880 --> 01:11:49,823
+<font color="#FFFFFF">Hey, Dad, look at my paradiddle.</font>
+
+734
+01:11:52,040 --> 01:11:54,580
+<font color="#FFFFFF">Yeah, that's my boy.</font>
+
+735
+01:11:54,680 --> 01:11:58,660
+<font color="#FFFFFF">- He didn't do anything.
+- What is wrong with you? It's over, okay?</font>
+
+736
+01:11:58,760 --> 01:12:01,460
+<font color="#FFFFFF">He's out of your life.
+Why would you let him get away?</font>
+
+737
+01:12:01,560 --> 01:12:05,028
+<font color="#FFFFFF">Would you characterize his
+conduct as extreme, Andrew?</font>
+
+738
+01:12:05,280 --> 01:12:08,702
+<font color="#FFFFFF">Did he ever intentionally inflict
+emotional distress?</font>
+
+739
+01:12:17,560 --> 01:12:20,391
+<font color="#FFFFFF">This would not be a public hearing,
+you know.</font>
+
+740
+01:12:20,520 --> 01:12:23,942
+<font color="#FFFFFF">Fletcher would never know
+it was you who spoke up.</font>
+
+741
+01:12:29,880 --> 01:12:31,584
+<font color="#FFFFFF">Why would you do this to me?</font>
+
+742
+01:12:32,600 --> 01:12:35,943
+<font color="#FFFFFF">Do you think that I would let him
+put my son through hell...</font>
+
+743
+01:12:36,080 --> 01:12:38,581
+<font color="#FFFFFF">and then just walk away scot-free?</font>
+
+744
+01:12:38,800 --> 01:12:41,540
+<font color="#FFFFFF">Don't you know
+I would never let that happen?</font>
+
+745
+01:12:41,640 --> 01:12:46,540
+<font color="#FFFFFF">That there is nothing in the world
+more important to me than you?</font>
+
+746
+01:12:46,640 --> 01:12:48,663
+<font color="#FFFFFF">Don't you know that?</font>
+
+747
+01:12:59,280 --> 01:13:01,064
+<font color="#FFFFFF">Andrew?</font>
+
+748
+01:13:47,960 --> 01:13:49,789
+<font color="#FFFFFF">Andrew?</font>
+
+749
+01:13:54,280 --> 01:13:56,542
+<font color="#FFFFFF">Just tell me what to say.</font>
+
+750
+01:14:09,200 --> 01:14:10,711
+<font color="#FFFFFF">Hey.</font>
+
+751
+01:14:28,880 --> 01:14:31,580
+<font color="#FFFFFF">I'd give anything to be there again
+this fall.</font>
+
+752
+01:14:31,680 --> 01:14:33,980
+<font color="#FFFFFF">I like weddings,
+provided they're not mine.</font>
+
+753
+01:14:34,080 --> 01:14:35,620
+<font color="#FFFFFF">Marriages are very healthy.</font>
+
+754
+01:14:35,720 --> 01:14:38,107
+<font color="#FFFFFF">Married men live much longer
+than bachelors.</font>
+
+755
+01:14:38,240 --> 01:14:41,580
+<font color="#FFFFFF">They're trying to outlive their wives
+so they can be bachelors again.</font>
+
+756
+01:14:41,680 --> 01:14:44,580
+<font color="#FFFFFF">- Haven't you thought of getting married?
+- I did.</font>
+
+757
+01:14:44,680 --> 01:14:47,180
+<font color="#FFFFFF">The young lady changed her mind
+at the last moment.</font>
+
+758
+01:14:47,280 --> 01:14:50,100
+<font color="#FFFFFF">I've been deeply indebted
+to her ever since.</font>
+
+759
+01:14:50,200 --> 01:14:52,620
+<font color="#FFFFFF">And I loaded the pantry up with Gushers.</font>
+
+760
+01:14:52,720 --> 01:14:55,187
+<font color="#FFFFFF">- Saw that.
+- Okay.</font>
+
+761
+01:14:55,360 --> 01:14:56,985
+<font color="#FFFFFF">All right.</font>
+
+762
+01:14:58,080 --> 01:14:59,670
+<font color="#FFFFFF">Thanks.</font>
+
+763
+01:17:19,600 --> 01:17:21,225
+<font color="#FFFFFF">Right on, man.</font>
+
+764
+01:17:40,440 --> 01:17:42,144
+<font color="#FFFFFF">Andrew.</font>
+
+765
+01:17:47,080 --> 01:17:48,625
+<font color="#FFFFFF">Hey.</font>
+
+766
+01:17:55,280 --> 01:17:57,223
+<font color="#FFFFFF">I don't know if you heard.</font>
+
+767
+01:17:58,240 --> 01:18:00,502
+<font color="#FFFFFF">I'm not at Shaffer anymore.</font>
+
+768
+01:18:01,160 --> 01:18:03,911
+<font color="#FFFFFF">Yeah, I did hear that.</font>
+
+769
+01:18:04,560 --> 01:18:05,900
+<font color="#FFFFFF">Did you quit?</font>
+
+770
+01:18:08,000 --> 01:18:09,989
+<font color="#FFFFFF">Not exactly.</font>
+
+771
+01:18:11,200 --> 01:18:15,380
+<font color="#FFFFFF">Some parents got a kid from
+Sean Casey's year, I think...</font>
+
+772
+01:18:15,480 --> 01:18:18,460
+<font color="#FFFFFF">to say some things about me.</font>
+
+773
+01:18:18,560 --> 01:18:20,980
+<font color="#FFFFFF">Although why anybody
+would have anything...</font>
+
+774
+01:18:21,080 --> 01:18:24,150
+<font color="#FFFFFF">other than peaches and cream
+to say about me is a mystery.</font>
+
+775
+01:18:26,160 --> 01:18:27,750
+<font color="#FFFFFF">Yeah.</font>
+
+776
+01:18:28,280 --> 01:18:30,220
+<font color="#FFFFFF">- That's a good laugh, right?
+- I'm sorry.</font>
+
+777
+01:18:30,320 --> 01:18:32,180
+<font color="#FFFFFF">- No, listen... I get it.
+- I'm sorry.</font>
+
+778
+01:18:32,280 --> 01:18:34,348
+<font color="#FFFFFF">I know I made enemies.</font>
+
+779
+01:18:35,640 --> 01:18:38,141
+<font color="#FFFFFF">I'm conducting a little, though.</font>
+
+780
+01:18:39,400 --> 01:18:42,500
+<font color="#FFFFFF">They brought back
+the JVC Fest this year.</font>
+
+781
+01:18:42,600 --> 01:18:45,749
+<font color="#FFFFFF">They got me opening in a
+couple of weeks with a pro band.</font>
+
+782
+01:18:46,680 --> 01:18:48,509
+<font color="#FFFFFF">That's great.</font>
+
+783
+01:18:50,160 --> 01:18:51,500
+<font color="#FFFFFF">Yeah. It's all right.</font>
+
+784
+01:18:54,040 --> 01:18:58,941
+<font color="#FFFFFF">Truth is, I don't think
+people understood...</font>
+
+785
+01:18:59,080 --> 01:19:01,831
+<font color="#FFFFFF">what it was I was doing at Shaffer.</font>
+
+786
+01:19:01,960 --> 01:19:03,664
+<font color="#FFFFFF">I wasn't there to conduct.</font>
+
+787
+01:19:03,800 --> 01:19:07,420
+<font color="#FFFFFF">Any fucking moron can wave
+his arms and keep people in tempo.</font>
+
+788
+01:19:07,520 --> 01:19:12,182
+<font color="#FFFFFF">I was there to push people
+beyond what's expected of them.</font>
+
+789
+01:19:14,040 --> 01:19:16,029
+<font color="#FFFFFF">I believe that is...</font>
+
+790
+01:19:17,320 --> 01:19:19,946
+<font color="#FFFFFF">an absolute necessity.</font>
+
+791
+01:19:21,520 --> 01:19:24,980
+<font color="#FFFFFF">Otherwise, we're depriving the world
+of the next Louis Armstrong.</font>
+
+792
+01:19:25,080 --> 01:19:26,625
+<font color="#FFFFFF">The next Charlie Parker.</font>
+
+793
+01:19:28,800 --> 01:19:32,460
+<font color="#FFFFFF">I told you about how Charlie Parker
+became Charlie Parker, right?</font>
+
+794
+01:19:32,560 --> 01:19:35,460
+<font color="#FFFFFF">- Jo Jones threw a cymbal at his head.
+- Exactly.</font>
+
+795
+01:19:35,560 --> 01:19:37,780
+<font color="#FFFFFF">Parker's a young kid,
+pretty good on the sax.</font>
+
+796
+01:19:37,880 --> 01:19:42,622
+<font color="#FFFFFF">Gets up to play at a cutting session,
+and he fucks it up.</font>
+
+797
+01:19:43,640 --> 01:19:46,630
+<font color="#FFFFFF">And Jones nearly decapitates him for it.</font>
+
+798
+01:19:46,760 --> 01:19:49,466
+<font color="#FFFFFF">And he's laughed off-stage.</font>
+
+799
+01:19:49,680 --> 01:19:53,420
+<font color="#FFFFFF">Cries himself to sleep that night,
+but the next morning, what does he do?</font>
+
+800
+01:19:53,520 --> 01:19:55,588
+<font color="#FFFFFF">He practices.</font>
+
+801
+01:19:55,840 --> 01:19:59,740
+<font color="#FFFFFF">And he practices and he practices
+with one goal in mind...</font>
+
+802
+01:19:59,840 --> 01:20:02,546
+<font color="#FFFFFF">never to be laughed at again.</font>
+
+803
+01:20:02,760 --> 01:20:07,700
+<font color="#FFFFFF">And a year later, he goes back to
+the Reno and he steps up on that stage...</font>
+
+804
+01:20:07,800 --> 01:20:11,427
+<font color="#FFFFFF">and plays the best motherfucking solo
+the world has ever heard.</font>
+
+805
+01:20:14,920 --> 01:20:17,580
+<font color="#FFFFFF">So imagine if Jones had just said:</font>
+
+806
+01:20:17,680 --> 01:20:22,866
+<font color="#FFFFFF">"Well, that's okay, Charlie.
+That was all right. Good job."</font>
+
+807
+01:20:23,640 --> 01:20:28,109
+<font color="#FFFFFF">And then Charlie thinks to himself,
+"Well, shit, I did do a pretty good job."</font>
+
+808
+01:20:28,880 --> 01:20:30,140
+<font color="#FFFFFF">End of story.</font>
+
+809
+01:20:30,240 --> 01:20:32,024
+<font color="#FFFFFF">No Bird.</font>
+
+810
+01:20:33,800 --> 01:20:37,507
+<font color="#FFFFFF">That, to me, is an absolute tragedy.</font>
+
+811
+01:20:38,000 --> 01:20:40,865
+<font color="#FFFFFF">But that's just
+what the world wants now.</font>
+
+812
+01:20:41,080 --> 01:20:44,229
+<font color="#FFFFFF">People wonder why jazz is dying.</font>
+
+813
+01:20:48,360 --> 01:20:52,620
+<font color="#FFFFFF">I tell you, man,
+and every Starbucks "jazz" album...</font>
+
+814
+01:20:52,720 --> 01:20:55,266
+<font color="#FFFFFF">just proves my point, really.</font>
+
+815
+01:20:55,880 --> 01:21:00,780
+<font color="#FFFFFF">There are no two words in the
+English language more harmful...</font>
+
+816
+01:21:00,880 --> 01:21:02,823
+<font color="#FFFFFF">than "good job."</font>
+
+817
+01:21:07,200 --> 01:21:09,302
+<font color="#FFFFFF">But is there a line?</font>
+
+818
+01:21:10,200 --> 01:21:14,020
+<font color="#FFFFFF">You know, maybe you go too far and
+you discourage the next Charlie Parker...</font>
+
+819
+01:21:14,120 --> 01:21:18,260
+<font color="#FFFFFF">- ... from ever becoming Charlie Parker.
+- No, man, no.</font>
+
+820
+01:21:18,360 --> 01:21:21,862
+<font color="#FFFFFF">Because the next Charlie Parker
+would never be discouraged.</font>
+
+821
+01:21:22,080 --> 01:21:23,670
+<font color="#FFFFFF">Yeah.</font>
+
+822
+01:21:29,160 --> 01:21:31,740
+<font color="#FFFFFF">The truth is, Andrew...</font>
+
+823
+01:21:33,360 --> 01:21:36,111
+<font color="#FFFFFF">I never really had a Charlie Parker.</font>
+
+824
+01:21:38,840 --> 01:21:40,829
+<font color="#FFFFFF">But I tried.</font>
+
+825
+01:21:41,440 --> 01:21:44,380
+<font color="#FFFFFF">I actually fucking tried.</font>
+
+826
+01:21:44,480 --> 01:21:46,500
+<font color="#FFFFFF">And that's more than most people
+ever do.</font>
+
+827
+01:21:46,600 --> 01:21:51,945
+<font color="#FFFFFF">And I will never apologise
+for how I tried.</font>
+
+828
+01:22:05,240 --> 01:22:06,540
+<font color="#FFFFFF">I'll see you later.</font>
+
+829
+01:22:06,640 --> 01:22:07,901
+<font color="#FFFFFF">Yeah.</font>
+
+830
+01:22:09,560 --> 01:22:13,500
+<font color="#FFFFFF">Hey, Andrew. Listen, I have no idea
+how you're gonna take this...</font>
+
+831
+01:22:13,600 --> 01:22:19,867
+<font color="#FFFFFF">but the band I'm leading for JVC,
+my drummer is not cutting it.</font>
+
+832
+01:22:21,320 --> 01:22:23,468
+<font color="#FFFFFF">You understand what I'm saying?</font>
+
+833
+01:22:25,360 --> 01:22:26,540
+<font color="#FFFFFF">No.</font>
+
+834
+01:22:26,640 --> 01:22:29,020
+<font color="#FFFFFF">I'm using the Studio Band playlist.</font>
+
+835
+01:22:29,120 --> 01:22:32,588
+<font color="#FFFFFF">You know, "Caravan,"Whiplash."</font>
+
+836
+01:22:33,320 --> 01:22:35,502
+<font color="#FFFFFF">I need somebody
+who really knows those charts.</font>
+
+837
+01:22:39,360 --> 01:22:41,064
+<font color="#FFFFFF">What about Ryan Connolly?</font>
+
+838
+01:22:42,200 --> 01:22:44,780
+<font color="#FFFFFF">All Connolly ever was to me
+was incentive for you.</font>
+
+839
+01:22:46,240 --> 01:22:49,867
+<font color="#FFFFFF">- Tanner?
+- Tanner switched to premed.</font>
+
+840
+01:22:50,840 --> 01:22:52,430
+<font color="#FFFFFF">I guess he got discouraged.</font>
+
+841
+01:22:54,840 --> 01:22:56,351
+<font color="#FFFFFF">Hey.</font>
+
+842
+01:22:56,840 --> 01:22:59,307
+<font color="#FFFFFF">Take the weekend. Think about it.</font>
+
+843
+01:23:21,280 --> 01:23:24,065
+<font color="#FFFFFF">- Hello?
+- Hey, Nicole, it's Andrew.</font>
+
+844
+01:23:25,760 --> 01:23:28,545
+<font color="#FFFFFF">- Hi.
+- Hey.</font>
+
+845
+01:23:29,320 --> 01:23:35,620
+<font color="#FFFFFF">It's been a while since I talked to you.</font>
+
+846
+01:23:35,720 --> 01:23:37,700
+<font color="#FFFFFF">Look, I...</font>
+
+847
+01:23:37,800 --> 01:23:41,220
+<font color="#FFFFFF">I'm really sorry about everything.</font>
+
+848
+01:23:41,320 --> 01:23:46,950
+<font color="#FFFFFF">I know that's not, you know, enough,
+but I'm just really sorry.</font>
+
+849
+01:23:52,120 --> 01:23:56,500
+<font color="#FFFFFF">But anyway, I got...
+I actually have this show this weekend.</font>
+
+850
+01:23:56,600 --> 01:23:58,380
+<font color="#FFFFFF">It's a...</font>
+
+851
+01:23:58,480 --> 01:24:01,900
+<font color="#FFFFFF">Like, a JVC thing. And I didn't know
+if maybe you'd wanna go...</font>
+
+852
+01:24:02,000 --> 01:24:07,740
+<font color="#FFFFFF">and we, you know, maybe
+get some, like, pizza afterwards...</font>
+
+853
+01:24:07,840 --> 01:24:12,700
+<font color="#FFFFFF">and, like, complain
+about our schools again.</font>
+
+854
+01:24:12,800 --> 01:24:14,980
+<font color="#FFFFFF">What is...? You said Jayvees?</font>
+
+855
+01:24:15,080 --> 01:24:18,184
+<font color="#FFFFFF">No, it's JVC.</font>
+
+856
+01:24:18,320 --> 01:24:22,550
+<font color="#FFFFFF">It's like a... It's a jazz thing.</font>
+
+857
+01:24:22,960 --> 01:24:24,500
+<font color="#FFFFFF">Yeah.</font>
+
+858
+01:24:24,600 --> 01:24:26,384
+<font color="#FFFFFF">Oh, okay.</font>
+
+859
+01:24:27,160 --> 01:24:33,461
+<font color="#FFFFFF">Well, I don't know if I can come. I...
+I'll have to check with my boyfriend.</font>
+
+860
+01:24:38,280 --> 01:24:39,745
+<font color="#FFFFFF">Okay.</font>
+
+861
+01:24:39,880 --> 01:24:41,505
+<font color="#FFFFFF">Yeah.</font>
+
+862
+01:24:42,960 --> 01:24:45,340
+<font color="#FFFFFF">Yeah, I'll check, but I don't know.</font>
+
+863
+01:24:45,440 --> 01:24:47,820
+<font color="#FFFFFF">I don't really think
+he likes jazz music.</font>
+
+864
+01:24:47,920 --> 01:24:50,785
+<font color="#FFFFFF">Yeah, I mean, it's not for everybody.</font>
+
+865
+01:24:53,320 --> 01:24:57,584
+<font color="#FFFFFF">Okay. Well, I guess
+maybe I'll see you guys there.</font>
+
+866
+01:24:58,400 --> 01:25:01,020
+<font color="#FFFFFF">- Okay.
+- Okay.</font>
+
+867
+01:25:01,120 --> 01:25:02,665
+<font color="#FFFFFF">Bye.</font>
+
+868
+01:26:26,400 --> 01:26:30,180
+<font color="#FFFFFF">All right, gang, listen up. Now,
+for those of you who are new at this...</font>
+
+869
+01:26:30,280 --> 01:26:34,783
+<font color="#FFFFFF">which looks like everybody except Cal,
+tonight could change your life.</font>
+
+870
+01:26:35,120 --> 01:26:40,420
+<font color="#FFFFFF">The folks out there make a phone call,
+you could be a Blue Note signee...</font>
+
+871
+01:26:40,520 --> 01:26:44,181
+<font color="#FFFFFF">an EMC client, a Lincoln Center core.</font>
+
+872
+01:26:45,080 --> 01:26:46,180
+<font color="#FFFFFF">On the other hand...</font>
+
+873
+01:26:46,280 --> 01:26:49,860
+<font color="#FFFFFF">if you drop the ball, you might be
+looking for a new line of work...</font>
+
+874
+01:26:49,960 --> 01:26:54,861
+<font color="#FFFFFF">because the other thing
+about these cats is they never forget.</font>
+
+875
+01:26:58,200 --> 01:26:59,900
+<font color="#FFFFFF">We all set?</font>
+
+876
+01:27:00,000 --> 01:27:02,944
+<font color="#FFFFFF">All right. Let's have fun.</font>
+
+877
+01:28:04,560 --> 01:28:06,901
+<font color="#FFFFFF">You think I'm fucking stupid?</font>
+
+878
+01:28:07,440 --> 01:28:10,510
+<font color="#FFFFFF">- What?
+- I know it was you.</font>
+
+879
+01:28:24,160 --> 01:28:26,140
+<font color="#FFFFFF">Thank you, ladies and gentlemen.</font>
+
+880
+01:28:26,240 --> 01:28:30,020
+<font color="#FFFFFF">We're very excited to be here kicking
+off the JVC Festival this year.</font>
+
+881
+01:28:30,120 --> 01:28:33,340
+<font color="#FFFFFF">I'm Terence Fletcher, these are some
+of the best musicians in New York...</font>
+
+882
+01:28:33,440 --> 01:28:36,300
+<font color="#FFFFFF">which means they're some of the best
+musicians in the world.</font>
+
+883
+01:28:36,400 --> 01:28:40,540
+<font color="#FFFFFF">We're gonna do some old standards,
+but we're gonna start with a new tune...</font>
+
+884
+01:28:40,640 --> 01:28:43,425
+<font color="#FFFFFF">by Tim Simonec called "Upswingin'."</font>
+
+885
+01:29:28,600 --> 01:29:30,987
+<font color="#FFFFFF">What the fuck you doing?</font>
+
+886
+01:29:43,360 --> 01:29:44,541
+<font color="#FFFFFF">Come on, man.</font>
+
+887
+01:30:48,560 --> 01:30:51,140
+<font color="#FFFFFF">Yeah, I guess maybe you don't have it.</font>
+
+888
+01:31:28,480 --> 01:31:32,949
+<font color="#FFFFFF">That was a little extra avant-garde
+there from the rhythm section.</font>
+
+889
+01:31:42,840 --> 01:31:45,511
+<font color="#FFFFFF">Come on, let's go home.</font>
+
+890
+01:31:54,560 --> 01:31:56,264
+<font color="#FFFFFF">What are you doing?</font>
+
+891
+01:32:14,200 --> 01:32:16,940
+<font color="#FFFFFF">Now we're gonna slow it down
+a little bit.</font>
+
+892
+01:32:17,040 --> 01:32:19,108
+<font color="#FFFFFF">I'm guessing most of you folks
+have heard...</font>
+
+893
+01:32:32,560 --> 01:32:33,700
+<font color="#FFFFFF">I'll cue you in.</font>
+
+894
+01:32:33,800 --> 01:32:36,028
+<font color="#FFFFFF">"Caravan."</font>
+
+895
+01:32:38,000 --> 01:32:39,909
+<font color="#FFFFFF">Three, four.</font>
+
+896
+01:33:37,000 --> 01:33:39,182
+<font color="#FFFFFF">I'm gonna gouge out
+your motherfucking eyes.</font>
+
+897
+01:37:21,920 --> 01:37:24,990
+<font color="#FFFFFF">- Andrew, what are you doing, man?
+- I'll cue you.</font>
+

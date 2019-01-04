@@ -1,0 +1,2926 @@
+1
+00:00:27,068 --> 00:00:31,614
+<font color="#FFFFFF"><i>I am the jungle's eyes.</i></font>
+
+2
+00:00:32,573 --> 00:00:34,826
+<font color="#FFFFFF"><i>I can see the past...</i></font>
+
+3
+00:00:35,243 --> 00:00:37,079
+<font color="#FFFFFF"><i>and the future.</i></font>
+
+4
+00:00:39,372 --> 00:00:41,792
+<font color="#FFFFFF"><i>It is I, Kaa,</i></font>
+
+5
+00:00:42,125 --> 00:00:45,503
+<font color="#FFFFFF"><i>who witnessed the coming of man...</i></font>
+
+6
+00:00:48,006 --> 00:00:50,551
+<font color="#FFFFFF"><i>and the jungle...</i></font>
+
+7
+00:00:50,634 --> 00:00:53,469
+<font color="#FFFFFF"><i>trying to survive.</i></font>
+
+8
+00:01:01,060 --> 00:01:02,813
+<font color="#FFFFFF"><i>I saw chaos</i></font>
+
+9
+00:01:02,979 --> 00:01:06,775
+<font color="#FFFFFF"><i>and darkness come to our lands.</i></font>
+
+10
+00:01:34,093 --> 00:01:36,847
+<font color="#FFFFFF"><i>I saw the tiger, Shere Khan,</i></font>
+
+11
+00:01:36,930 --> 00:01:38,682
+<font color="#FFFFFF"><i>killing man</i></font>
+
+12
+00:01:39,932 --> 00:01:44,396
+<font color="#FFFFFF"><i>and breaking the jungle's ancient law.</i></font>
+
+13
+00:02:07,126 --> 00:02:08,294
+<font color="#FFFFFF"><i>And then,</i></font>
+
+14
+00:02:08,878 --> 00:02:10,713
+<font color="#FFFFFF"><i>one fateful night,</i></font>
+
+15
+00:02:11,298 --> 00:02:14,634
+<font color="#FFFFFF"><i>I saw the jungle place its hopes</i></font>
+
+16
+00:02:14,717 --> 00:02:16,093
+<font color="#FFFFFF"><i>into the hands</i></font>
+
+17
+00:02:16,677 --> 00:02:19,222
+<font color="#FFFFFF"><i>of a small creature,</i></font>
+
+18
+00:02:19,806 --> 00:02:21,641
+<font color="#FFFFFF"><i>the like of which</i></font>
+
+19
+00:02:22,141 --> 00:02:25,228
+<font color="#FFFFFF"><i>it had never seen before.</i></font>
+
+20
+00:04:35,483 --> 00:04:36,901
+<font color="#FFFFFF">How did it get here?</font>
+
+21
+00:04:37,651 --> 00:04:38,694
+<font color="#FFFFFF">I don't know.</font>
+
+22
+00:04:40,988 --> 00:04:41,988
+<font color="#FFFFFF">Is it hurt?</font>
+
+23
+00:04:49,288 --> 00:04:50,290
+<font color="#FFFFFF">There's no wound.</font>
+
+24
+00:04:52,209 --> 00:04:53,250
+<font color="#FFFFFF">It's on its own.</font>
+
+25
+00:04:54,002 --> 00:04:56,213
+<font color="#FFFFFF">I've never seen a man-cub before.</font>
+
+26
+00:04:56,295 --> 00:04:57,295
+<font color="#FFFFFF">It's so...</font>
+
+27
+00:04:58,923 --> 00:05:00,216
+<font color="#FFFFFF">small.</font>
+
+28
+00:05:00,800 --> 00:05:02,468
+<font color="#FFFFFF">It doesn't fear us.</font>
+
+29
+00:05:05,346 --> 00:05:07,098
+<font color="#FFFFFF">What are we going to do with it?</font>
+
+30
+00:05:11,310 --> 00:05:12,687
+<font color="#FFFFFF">Evening, Nisha.</font>
+
+31
+00:05:12,812 --> 00:05:13,812
+<font color="#FFFFFF">Vihaan.</font>
+
+32
+00:05:14,855 --> 00:05:18,360
+<font color="#FFFFFF">- It's a lovely night, isn't it?
+- What is it that you want, Tabaqui?</font>
+
+33
+00:05:18,860 --> 00:05:20,362
+<font color="#FFFFFF">What's that I smell? Fresh kill?</font>
+
+34
+00:05:20,444 --> 00:05:22,322
+<font color="#FFFFFF">If it's bones you're after,
+look elsewhere.</font>
+
+35
+00:05:23,156 --> 00:05:24,990
+<font color="#FFFFFF">We have enough mouths to feed.</font>
+
+36
+00:05:27,326 --> 00:05:29,079
+<font color="#FFFFFF">I meant no harm, Nisha.</font>
+
+37
+00:05:39,088 --> 00:05:40,340
+<font color="#FFFFFF">Your master calls.</font>
+
+38
+00:05:40,841 --> 00:05:42,050
+<font color="#FFFFFF">You best go quickly.</font>
+
+39
+00:05:43,009 --> 00:05:44,845
+<font color="#FFFFFF">He sounds in ill temper tonight.</font>
+
+40
+00:05:44,927 --> 00:05:46,596
+<font color="#FFFFFF">That he does. That he does.</font>
+
+41
+00:05:48,889 --> 00:05:50,475
+<font color="#FFFFFF">And with good reason.</font>
+
+42
+00:05:53,435 --> 00:05:56,398
+<font color="#FFFFFF">I found the man-cub! I found the man-cub!</font>
+
+43
+00:05:56,480 --> 00:05:57,774
+<font color="#FFFFFF">Finish cleaning him off.</font>
+
+44
+00:05:57,858 --> 00:05:59,108
+<font color="#FFFFFF">- Nisha.
+- Clean him!</font>
+
+45
+00:05:59,401 --> 00:06:01,194
+<font color="#FFFFFF">- Where are you going?
+- To Akela.</font>
+
+46
+00:06:01,903 --> 00:06:04,113
+<font color="#FFFFFF">A council must be held
+if we are to keep him.</font>
+
+47
+00:06:04,488 --> 00:06:06,658
+<font color="#FFFFFF">- Keep him?
+- Don't let him out of your sight.</font>
+
+48
+00:06:06,740 --> 00:06:09,119
+<font color="#FFFFFF">We can't keep him!</font>
+
+49
+00:06:19,295 --> 00:06:23,257
+<font color="#FFFFFF">Nisha, you have called council.
+What's the matter at hand?</font>
+
+50
+00:06:24,134 --> 00:06:25,302
+<font color="#FFFFFF">We've found...</font>
+
+51
+00:06:27,470 --> 00:06:28,637
+<font color="#FFFFFF">a man-cub.</font>
+
+52
+00:06:33,350 --> 00:06:36,146
+<font color="#FFFFFF">- That's not a wolf.
+- That doesn't belong here.</font>
+
+53
+00:06:36,228 --> 00:06:39,024
+<font color="#FFFFFF">A man-cub! Outrageous.</font>
+
+54
+00:06:39,106 --> 00:06:41,735
+<font color="#FFFFFF">Well, this is most unusual indeed.</font>
+
+55
+00:06:43,278 --> 00:06:46,488
+<font color="#FFFFFF">Nisha, you wish to raise this cub
+as if he were your own?</font>
+
+56
+00:06:47,281 --> 00:06:48,324
+<font color="#FFFFFF">I do.</font>
+
+57
+00:06:49,158 --> 00:06:50,158
+<font color="#FFFFFF">And Vihaan?</font>
+
+58
+00:06:50,951 --> 00:06:51,951
+<font color="#FFFFFF">You, too?</font>
+
+59
+00:06:53,204 --> 00:06:54,038
+<font color="#FFFFFF">I do.</font>
+
+60
+00:06:54,122 --> 00:06:55,290
+<font color="#FFFFFF">It's a man-cub!</font>
+
+61
+00:06:55,540 --> 00:06:56,540
+<font color="#FFFFFF">You know the law.</font>
+
+62
+00:06:58,459 --> 00:07:00,170
+<font color="#FFFFFF">This cub was not born among us.</font>
+
+63
+00:07:01,588 --> 00:07:04,298
+<font color="#FFFFFF">So, who here speaks for the cub?</font>
+
+64
+00:07:05,675 --> 00:07:07,093
+<font color="#FFFFFF">I speak for the cub.</font>
+
+65
+00:07:09,387 --> 00:07:12,348
+<font color="#FFFFFF">The law states that the life of a cub</font>
+
+66
+00:07:12,848 --> 00:07:14,016
+<font color="#FFFFFF">may be bought,</font>
+
+67
+00:07:14,475 --> 00:07:15,476
+<font color="#FFFFFF">for a price.</font>
+
+68
+00:07:17,103 --> 00:07:18,187
+<font color="#FFFFFF">I brought my payment.</font>
+
+69
+00:07:18,771 --> 00:07:19,771
+<font color="#FFFFFF">We have one.</font>
+
+70
+00:07:21,274 --> 00:07:23,360
+<font color="#FFFFFF">Who else will speak for the cub?</font>
+
+71
+00:07:24,276 --> 00:07:25,276
+<font color="#FFFFFF">Baloo does.</font>
+
+72
+00:07:25,528 --> 00:07:26,571
+<font color="#FFFFFF">Baloo?</font>
+
+73
+00:07:27,197 --> 00:07:30,033
+<font color="#FFFFFF">- Bagheera...
+- He's not a wolf. He has no say.</font>
+
+74
+00:07:30,115 --> 00:07:32,836
+<font color="#FFFFFF">He was the teacher of your cubs.
+That makes him a member of the pack.</font>
+
+75
+00:07:33,661 --> 00:07:36,122
+<font color="#FFFFFF">I ain't speakin' for no...</font>
+
+76
+00:07:36,872 --> 00:07:37,957
+<font color="#FFFFFF">man-cub.</font>
+
+77
+00:07:38,917 --> 00:07:42,670
+<font color="#FFFFFF">Bagheera, have you lost your mind?
+A man-cub living in a jungle?</font>
+
+78
+00:07:58,603 --> 00:07:59,603
+<font color="#FFFFFF">Akela,</font>
+
+79
+00:07:59,687 --> 00:08:01,439
+<font color="#FFFFFF">his parents will come.</font>
+
+80
+00:08:03,024 --> 00:08:07,278
+<font color="#FFFFFF">His parents are dead.</font>
+
+81
+00:08:08,196 --> 00:08:10,031
+<font color="#FFFFFF">I killed them.</font>
+
+82
+00:08:11,533 --> 00:08:15,411
+<font color="#FFFFFF">There is no one to come looking for him.</font>
+
+83
+00:08:17,538 --> 00:08:19,749
+<font color="#FFFFFF">This is not your concern, Shere Khan.</font>
+
+84
+00:08:19,832 --> 00:08:21,375
+<font color="#FFFFFF">The cub is mine.</font>
+
+85
+00:08:21,459 --> 00:08:24,504
+<font color="#FFFFFF">I have already tasted its mother's blood.</font>
+
+86
+00:08:25,504 --> 00:08:27,798
+<font color="#FFFFFF">It is my right.</font>
+
+87
+00:08:27,882 --> 00:08:29,968
+<font color="#FFFFFF">Your right according to who's law?</font>
+
+88
+00:08:30,050 --> 00:08:31,261
+<font color="#FFFFFF">Best you leave now.</font>
+
+89
+00:08:31,343 --> 00:08:34,972
+<font color="#FFFFFF">Careful, Akela.</font>
+
+90
+00:08:35,432 --> 00:08:38,183
+<font color="#FFFFFF">You do not want to challenge me.</font>
+
+91
+00:08:40,061 --> 00:08:41,062
+<font color="#FFFFFF">This cub...</font>
+
+92
+00:08:42,105 --> 00:08:44,231
+<font color="#FFFFFF">is under the protection of the pack.</font>
+
+93
+00:08:44,606 --> 00:08:47,192
+<font color="#FFFFFF">Should you decide to take me,</font>
+
+94
+00:08:47,818 --> 00:08:50,071
+<font color="#FFFFFF">you take on the pack.</font>
+
+95
+00:08:51,239 --> 00:08:52,240
+<font color="#FFFFFF">All of us.</font>
+
+96
+00:08:56,411 --> 00:08:57,578
+<font color="#FFFFFF">As long as I am leader,</font>
+
+97
+00:08:58,288 --> 00:09:00,914
+<font color="#FFFFFF">this part of the jungle is closed to you.</font>
+
+98
+00:09:04,335 --> 00:09:07,964
+<font color="#FFFFFF">You cannot be leader forever.</font>
+
+99
+00:09:08,548 --> 00:09:10,716
+<font color="#FFFFFF">The day you miss your kill,</font>
+
+100
+00:09:11,634 --> 00:09:14,511
+<font color="#FFFFFF">the man-cub's blood</font>
+
+101
+00:09:14,846 --> 00:09:18,807
+<font color="#FFFFFF">will run down my chin.</font>
+
+102
+00:09:30,653 --> 00:09:32,363
+<font color="#FFFFFF">The cub is spoken for.</font>
+
+103
+00:09:32,739 --> 00:09:34,073
+<font color="#FFFFFF">He is one of us.</font>
+
+104
+00:09:34,573 --> 00:09:36,658
+<font color="#FFFFFF">You will teach him as you would your own.</font>
+
+105
+00:09:37,576 --> 00:09:38,912
+<font color="#FFFFFF">As long as I am alive,</font>
+
+106
+00:09:39,662 --> 00:09:41,706
+<font color="#FFFFFF">the pack will stand by the man-cub.</font>
+
+107
+00:10:51,442 --> 00:10:54,863
+<font color="#FFFFFF">Hunting is sacred, little brother.</font>
+
+108
+00:10:55,779 --> 00:10:57,740
+<font color="#FFFFFF">It is our right.</font>
+
+109
+00:10:59,408 --> 00:11:02,912
+<font color="#FFFFFF">But we never do it for sport.</font>
+
+110
+00:11:19,971 --> 00:11:22,432
+<font color="#FFFFFF">Wait. Wait.</font>
+
+111
+00:11:24,600 --> 00:11:26,436
+<font color="#FFFFFF">We look them in the eye</font>
+
+112
+00:11:27,604 --> 00:11:28,937
+<font color="#FFFFFF">so that the soul</font>
+
+113
+00:11:29,355 --> 00:11:31,274
+<font color="#FFFFFF">doesn't depart alone.</font>
+
+114
+00:12:07,809 --> 00:12:08,977
+<font color="#FFFFFF">Bagheera.</font>
+
+115
+00:12:19,864 --> 00:12:21,908
+<font color="#FFFFFF">How old is the jungle, Bagheera?</font>
+
+116
+00:12:22,491 --> 00:12:25,411
+<font color="#FFFFFF">The jungle has been here
+since before you were born</font>
+
+117
+00:12:25,495 --> 00:12:27,288
+<font color="#FFFFFF">and it will be here...</font>
+
+118
+00:12:30,500 --> 00:12:32,000
+<font color="#FFFFFF">after you die.</font>
+
+119
+00:12:32,251 --> 00:12:34,836
+<font color="#FFFFFF">The jungle is eternal.</font>
+
+120
+00:12:35,629 --> 00:12:36,798
+<font color="#FFFFFF">Bagheera...</font>
+
+121
+00:12:38,508 --> 00:12:42,427
+<font color="#FFFFFF">why am I different to the other wolves?</font>
+
+122
+00:12:50,477 --> 00:12:51,770
+<font color="#FFFFFF">You are no different,</font>
+
+123
+00:12:52,605 --> 00:12:53,648
+<font color="#FFFFFF">little brother.</font>
+
+124
+00:12:55,316 --> 00:12:57,442
+<font color="#FFFFFF">You are special.</font>
+
+125
+00:12:58,403 --> 00:13:00,113
+<font color="#FFFFFF"><i>Of course you're different.</i></font>
+
+126
+00:13:01,280 --> 00:13:03,283
+<font color="#FFFFFF">That's why you need special training.</font>
+
+127
+00:13:04,033 --> 00:13:05,618
+<font color="#FFFFFF">You know what your trouble is?</font>
+
+128
+00:13:06,451 --> 00:13:07,452
+<font color="#FFFFFF">Lack of focus.</font>
+
+129
+00:13:08,120 --> 00:13:09,120
+<font color="#FFFFFF">Baloo,</font>
+
+130
+00:13:09,413 --> 00:13:11,456
+<font color="#FFFFFF">how many ants can you fit in your mouth?</font>
+
+131
+00:13:11,957 --> 00:13:13,375
+<font color="#FFFFFF">Ants are really small</font>
+
+132
+00:13:13,835 --> 00:13:15,836
+<font color="#FFFFFF">and your mouth is really big.</font>
+
+133
+00:13:16,504 --> 00:13:19,423
+<font color="#FFFFFF">- I bet...
+- Mowgli, will you concentrate?</font>
+
+134
+00:13:26,431 --> 00:13:27,431
+<font color="#FFFFFF">Do...</font>
+
+135
+00:13:28,349 --> 00:13:29,349
+<font color="#FFFFFF">not...</font>
+
+136
+00:13:30,475 --> 00:13:31,476
+<font color="#FFFFFF">move.</font>
+
+137
+00:13:37,482 --> 00:13:39,902
+<font color="#FFFFFF">- Why do I have to do this?
+- 'Cause I said so.</font>
+
+138
+00:13:39,985 --> 00:13:41,696
+<font color="#FFFFFF">Tell me the three laws, now.</font>
+
+139
+00:13:41,778 --> 00:13:43,572
+<font color="#FFFFFF">"No wolf shall have contact with man."</font>
+
+140
+00:13:43,655 --> 00:13:45,115
+<font color="#FFFFFF">- Next.
+- Baloo...</font>
+
+141
+00:13:46,158 --> 00:13:48,327
+<font color="#FFFFFF">- what happened to your tail?
+- Next!</font>
+
+142
+00:13:48,577 --> 00:13:50,663
+<font color="#FFFFFF">"No wolf shall hunt man's animals.</font>
+
+143
+00:13:51,288 --> 00:13:54,000
+<font color="#FFFFFF">Above all, the cow, which is sacred!"</font>
+
+144
+00:13:54,417 --> 00:13:57,544
+<font color="#FFFFFF">Did it fall off?
+Is that why you don't have one?</font>
+
+145
+00:13:57,628 --> 00:13:59,547
+<font color="#FFFFFF">What? Why haven't you got a tail?</font>
+
+146
+00:13:59,629 --> 00:14:02,258
+<font color="#FFFFFF">I don't know.
+I never really thought about it.</font>
+
+147
+00:14:02,341 --> 00:14:03,509
+<font color="#FFFFFF">Third law.</font>
+
+148
+00:14:03,801 --> 00:14:04,634
+<font color="#FFFFFF">Now!</font>
+
+149
+00:14:04,719 --> 00:14:08,264
+<font color="#FFFFFF">"No wolf shall kill man in the jungle,
+for killing man only brings danger."</font>
+
+150
+00:14:08,347 --> 00:14:10,350
+<font color="#FFFFFF">Oh, well. Least you know your laws.</font>
+
+151
+00:14:10,432 --> 00:14:13,519
+<font color="#FFFFFF">Now, we just got to get you
+to run as fast as the other wolves.</font>
+
+152
+00:14:18,566 --> 00:14:20,400
+<font color="#FFFFFF">Don't let your guard down.</font>
+
+153
+00:14:22,110 --> 00:14:24,197
+<font color="#FFFFFF">All right,
+that's enough for today, Mowgli.</font>
+
+154
+00:14:25,405 --> 00:14:29,201
+<font color="#FFFFFF">Straight back to the caves.
+No wandering. Run like a wolf, d'you hear?</font>
+
+155
+00:14:29,659 --> 00:14:32,120
+<font color="#FFFFFF">I can't hear you!</font>
+
+156
+00:15:11,952 --> 00:15:12,995
+<font color="#FFFFFF">Mowgli!</font>
+
+157
+00:15:13,830 --> 00:15:14,913
+<font color="#FFFFFF">Hey, Mowgli.</font>
+
+158
+00:15:15,706 --> 00:15:17,625
+<font color="#FFFFFF">- Bhoot!
+- What are you doing?</font>
+
+159
+00:15:17,833 --> 00:15:20,086
+<font color="#FFFFFF">- Nothing.
+- Hey, do you want to play?</font>
+
+160
+00:15:21,629 --> 00:15:22,754
+<font color="#FFFFFF">Got ya!</font>
+
+161
+00:15:26,134 --> 00:15:28,052
+<font color="#FFFFFF">Oh, I nearly had you.</font>
+
+162
+00:15:29,846 --> 00:15:30,971
+<font color="#FFFFFF">You're good at hiding.</font>
+
+163
+00:15:31,054 --> 00:15:34,767
+<font color="#FFFFFF">Mum taught me how to hide.
+She shows me loads of tricks.</font>
+
+164
+00:15:36,226 --> 00:15:37,769
+<font color="#FFFFFF">So I can protect myself.</font>
+
+165
+00:15:37,854 --> 00:15:40,523
+<font color="#FFFFFF">She says, "Others can mistake</font>
+
+166
+00:15:40,730 --> 00:15:42,817
+<font color="#FFFFFF">individuality for weakness."</font>
+
+167
+00:15:43,192 --> 00:15:45,485
+<font color="#FFFFFF">That's why they have a go at me sometimes.</font>
+
+168
+00:15:47,113 --> 00:15:48,113
+<font color="#FFFFFF">Yeah.</font>
+
+169
+00:15:48,697 --> 00:15:49,697
+<font color="#FFFFFF">Me, too.</font>
+
+170
+00:15:50,032 --> 00:15:51,993
+<font color="#FFFFFF">Come on. I'll race you home.</font>
+
+171
+00:15:54,120 --> 00:15:55,120
+<font color="#FFFFFF">On my call...</font>
+
+172
+00:15:56,163 --> 00:15:57,163
+<font color="#FFFFFF">Go!</font>
+
+173
+00:16:11,303 --> 00:16:12,303
+<font color="#FFFFFF">Hey.</font>
+
+174
+00:16:13,681 --> 00:16:14,681
+<font color="#FFFFFF">Hey, brother.</font>
+
+175
+00:16:15,892 --> 00:16:17,643
+<font color="#FFFFFF">What did Baloo make you do today?</font>
+
+176
+00:16:17,726 --> 00:16:20,104
+<font color="#FFFFFF">Put a scorpion on me
+and told me not to move.</font>
+
+177
+00:16:20,354 --> 00:16:21,938
+<font color="#FFFFFF">He says I lack focus.</font>
+
+178
+00:16:22,273 --> 00:16:24,149
+<font color="#FFFFFF">Baloo says that to all of us.</font>
+
+179
+00:16:25,067 --> 00:16:26,818
+<font color="#FFFFFF">- How was your lesson?
+- Fine.</font>
+
+180
+00:16:26,985 --> 00:16:28,706
+<font color="#FFFFFF">Your brother tells me
+you're getting faster.</font>
+
+181
+00:16:28,778 --> 00:16:30,697
+<font color="#FFFFFF">He can nearly keep pace with me.</font>
+
+182
+00:16:30,780 --> 00:16:32,240
+<font color="#FFFFFF">He can almost beat Bhoot.</font>
+
+183
+00:16:32,491 --> 00:16:35,202
+<font color="#FFFFFF">Yeah, he should just race
+with his freak friend!</font>
+
+184
+00:16:35,286 --> 00:16:37,746
+<font color="#FFFFFF">It's only natural they spend
+so much time with each other.</font>
+
+185
+00:16:37,830 --> 00:16:39,373
+<font color="#FFFFFF">Freaks have to stick together.</font>
+
+186
+00:16:43,001 --> 00:16:44,001
+<font color="#FFFFFF">That's enough.</font>
+
+187
+00:16:44,794 --> 00:16:45,796
+<font color="#FFFFFF">That really hurt.</font>
+
+188
+00:16:45,879 --> 00:16:46,879
+<font color="#FFFFFF">Inside, now.</font>
+
+189
+00:16:47,965 --> 00:16:48,965
+<font color="#FFFFFF">Thanks.</font>
+
+190
+00:16:49,549 --> 00:16:51,635
+<font color="#FFFFFF">You shouldn't let them pick on you
+like that.</font>
+
+191
+00:16:52,385 --> 00:16:53,803
+<font color="#FFFFFF">We were only playing.</font>
+
+192
+00:16:54,013 --> 00:16:55,139
+<font color="#FFFFFF">Better go home, Bhoot.</font>
+
+193
+00:16:55,806 --> 00:16:56,806
+<font color="#FFFFFF">Bye, Mowgli!</font>
+
+194
+00:16:57,140 --> 00:17:00,019
+<font color="#FFFFFF">I meant what I said to Mum.
+You are getting faster.</font>
+
+195
+00:17:00,101 --> 00:17:01,902
+<font color="#FFFFFF">Your father was never
+much of a runner either.</font>
+
+196
+00:17:02,230 --> 00:17:04,773
+<font color="#FFFFFF">It's true. I was the slowest in my group.</font>
+
+197
+00:17:04,856 --> 00:17:07,902
+<font color="#FFFFFF">I never thought I was gonna complete
+in the Running. I was sure I would fail.</font>
+
+198
+00:17:08,611 --> 00:17:11,614
+<font color="#FFFFFF">- You're going to be late.
+- Have a good hunt, Father.</font>
+
+199
+00:17:11,696 --> 00:17:15,034
+<font color="#FFFFFF">Before you know it, you'll be coming along
+with me. All of you!</font>
+
+200
+00:17:16,868 --> 00:17:19,663
+<font color="#FFFFFF">- Good hunting!
+- Good hunting all!</font>
+
+201
+00:17:30,090 --> 00:17:31,592
+<font color="#FFFFFF">This is the jungle!</font>
+
+202
+00:17:32,801 --> 00:17:35,262
+<font color="#FFFFFF">In the jungle, we all hunt.</font>
+
+203
+00:17:35,346 --> 00:17:36,681
+<font color="#FFFFFF">And...</font>
+
+204
+00:17:36,763 --> 00:17:39,392
+<font color="#FFFFFF">we are all hunted.</font>
+
+205
+00:17:39,683 --> 00:17:41,018
+<font color="#FFFFFF">You see what that means.</font>
+
+206
+00:17:41,810 --> 00:17:43,229
+<font color="#FFFFFF">It means that you...</font>
+
+207
+00:17:43,770 --> 00:17:45,314
+<font color="#FFFFFF">you don't want to get caught.</font>
+
+208
+00:17:47,732 --> 00:17:50,694
+<font color="#FFFFFF">That's why you can't join the pack</font>
+
+209
+00:17:51,278 --> 00:17:54,531
+<font color="#FFFFFF">until you have passed the Running...
+Pay attention!</font>
+
+210
+00:18:01,163 --> 00:18:02,623
+<font color="#FFFFFF">"What's the Running, Baloo?"</font>
+
+211
+00:18:03,874 --> 00:18:06,919
+<font color="#FFFFFF">The Running is the hunt where you...</font>
+
+212
+00:18:07,627 --> 00:18:09,212
+<font color="#FFFFFF">are the prey.</font>
+
+213
+00:18:11,923 --> 00:18:13,049
+<font color="#FFFFFF">Now, Bagheera here...</font>
+
+214
+00:18:13,134 --> 00:18:14,926
+<font color="#FFFFFF">You all know Bagheera, don't you?</font>
+
+215
+00:18:15,010 --> 00:18:16,721
+<font color="#FFFFFF">Yeah, Bagheera, friendly Bagheera.</font>
+
+216
+00:18:17,179 --> 00:18:20,432
+<font color="#FFFFFF">In the Running, Bagheera will hunt you,</font>
+
+217
+00:18:20,516 --> 00:18:21,933
+<font color="#FFFFFF">and if he catches you...</font>
+
+218
+00:18:22,643 --> 00:18:23,728
+<font color="#FFFFFF">you fail.</font>
+
+219
+00:18:24,604 --> 00:18:26,564
+<font color="#FFFFFF">What happens if you fail?</font>
+
+220
+00:18:26,646 --> 00:18:28,607
+<font color="#FFFFFF">You don't join the pack!</font>
+
+221
+00:18:33,988 --> 00:18:36,365
+<font color="#FFFFFF">But I've never had one of my cubs fail.</font>
+
+222
+00:18:39,035 --> 00:18:40,661
+<font color="#FFFFFF">And I'm not gonna start now.</font>
+
+223
+00:18:44,999 --> 00:18:45,999
+<font color="#FFFFFF">Good.</font>
+
+224
+00:18:46,459 --> 00:18:47,710
+<font color="#FFFFFF">Let's practice, shall we?</font>
+
+225
+00:18:52,673 --> 00:18:53,673
+<font color="#FFFFFF">On my call.</font>
+
+226
+00:18:54,383 --> 00:18:57,470
+<font color="#FFFFFF">Wait... wait...</font>
+
+227
+00:18:59,262 --> 00:19:00,263
+<font color="#FFFFFF">Go!</font>
+
+228
+00:19:01,557 --> 00:19:02,807
+<font color="#FFFFFF">Come on, now!</font>
+
+229
+00:19:04,894 --> 00:19:06,019
+<font color="#FFFFFF">Pick up the pace!</font>
+
+230
+00:19:09,856 --> 00:19:11,275
+<font color="#FFFFFF">Come on!</font>
+
+231
+00:19:13,486 --> 00:19:14,487
+<font color="#FFFFFF">Faster!</font>
+
+232
+00:20:13,753 --> 00:20:15,714
+<font color="#FFFFFF">You were with the monkey-people</font>
+
+233
+00:20:16,089 --> 00:20:17,089
+<font color="#FFFFFF">again.</font>
+
+234
+00:20:20,301 --> 00:20:22,555
+<font color="#FFFFFF">The monkey-people have no law,</font>
+
+235
+00:20:23,346 --> 00:20:24,597
+<font color="#FFFFFF">they're unpredictable,</font>
+
+236
+00:20:24,682 --> 00:20:26,474
+<font color="#FFFFFF">and they can't even speak proper.</font>
+
+237
+00:20:26,892 --> 00:20:30,563
+<font color="#FFFFFF">- I think they're funny.
+- There's nothing funny about them.</font>
+
+238
+00:20:30,645 --> 00:20:32,314
+<font color="#FFFFFF">You keep away, do you understand?</font>
+
+239
+00:20:32,397 --> 00:20:36,192
+<font color="#FFFFFF">- I'm not afraid of them.
+- Only fools feel no fear, Mowgli.</font>
+
+240
+00:20:36,609 --> 00:20:39,028
+<font color="#FFFFFF">The monkey-people are especially foolish.</font>
+
+241
+00:20:39,279 --> 00:20:40,990
+<font color="#FFFFFF">There's nothing they're afraid of.</font>
+
+242
+00:20:41,615 --> 00:20:43,451
+<font color="#FFFFFF">Well, except Kaa.</font>
+
+243
+00:20:44,617 --> 00:20:46,703
+<font color="#FFFFFF">Oh, they can't even lay eyes on her.</font>
+
+244
+00:20:46,787 --> 00:20:47,787
+<font color="#FFFFFF">Who's Kaa?</font>
+
+245
+00:20:48,247 --> 00:20:50,499
+<font color="#FFFFFF">Oh, you don't want to meet Kaa.</font>
+
+246
+00:20:51,250 --> 00:20:53,126
+<font color="#FFFFFF">Kaa the Python</font>
+
+247
+00:20:53,210 --> 00:20:55,253
+<font color="#FFFFFF">is as old as the jungle.</font>
+
+248
+00:20:56,797 --> 00:20:58,758
+<font color="#FFFFFF">She sees the past...</font>
+
+249
+00:20:59,424 --> 00:21:00,759
+<font color="#FFFFFF">and the future.</font>
+
+250
+00:21:05,013 --> 00:21:06,013
+<font color="#FFFFFF">Turn around!</font>
+
+251
+00:21:09,977 --> 00:21:10,977
+<font color="#FFFFFF">Eyes forward.</font>
+
+252
+00:21:17,777 --> 00:21:21,279
+<font color="#FFFFFF">The cow had been killed
+and left there to be found.</font>
+
+253
+00:21:21,614 --> 00:21:27,577
+<font color="#FFFFFF">- It's the tiger! He's come back!
+- Only Khan would kill man's cattle.</font>
+
+254
+00:21:27,661 --> 00:21:30,498
+<font color="#FFFFFF">- One man-cub will bring more men!
+- It's Shere Khan!</font>
+
+255
+00:21:30,580 --> 00:21:32,916
+<font color="#FFFFFF">Akela, we knew this would happen!
+We told you!</font>
+
+256
+00:21:33,000 --> 00:21:36,336
+<font color="#FFFFFF">Can't you see, Akela,
+the man-cub is putting us all in danger.</font>
+
+257
+00:21:36,420 --> 00:21:40,590
+<font color="#FFFFFF">- You were wrong to ever take him in!
+- We should give him to the tiger!</font>
+
+258
+00:21:40,673 --> 00:21:42,593
+<font color="#FFFFFF">- Akela, no!
+- Save the pack!</font>
+
+259
+00:21:43,134 --> 00:21:44,134
+<font color="#FFFFFF">Please.</font>
+
+260
+00:21:45,805 --> 00:21:47,056
+<font color="#FFFFFF">He is one of us.</font>
+
+261
+00:21:50,308 --> 00:21:51,894
+<font color="#FFFFFF">I will see to this matter.</font>
+
+262
+00:21:52,560 --> 00:21:53,560
+<font color="#FFFFFF">Go!</font>
+
+263
+00:22:05,074 --> 00:22:07,576
+<font color="#FFFFFF">Shere Khan wants to bring war
+to the jungle.</font>
+
+264
+00:22:08,701 --> 00:22:09,701
+<font color="#FFFFFF">War?</font>
+
+265
+00:22:10,663 --> 00:22:12,957
+<font color="#FFFFFF">With man? Is he out of his mind?</font>
+
+266
+00:22:13,039 --> 00:22:14,039
+<font color="#FFFFFF">War with me.</font>
+
+267
+00:22:15,960 --> 00:22:17,419
+<font color="#FFFFFF">He knows I'm getting old.</font>
+
+268
+00:22:17,920 --> 00:22:20,548
+<font color="#FFFFFF">This is his way of bringing chaos
+to the pack.</font>
+
+269
+00:22:21,214 --> 00:22:24,009
+<font color="#FFFFFF">- Khan wants the boy.
+- We can protect him.</font>
+
+270
+00:22:24,093 --> 00:22:26,971
+<font color="#FFFFFF">You know there is only one way
+to protect him.</font>
+
+271
+00:22:27,512 --> 00:22:29,431
+<font color="#FFFFFF">He must go to the man village.</font>
+
+272
+00:22:30,057 --> 00:22:31,683
+<font color="#FFFFFF">You're forgetting, Bagheera,</font>
+
+273
+00:22:32,017 --> 00:22:34,894
+<font color="#FFFFFF">this was always more
+than just a good deed.</font>
+
+274
+00:22:35,479 --> 00:22:36,939
+<font color="#FFFFFF">The jungle is changing.</font>
+
+275
+00:22:38,022 --> 00:22:41,442
+<font color="#FFFFFF">Man is taking more of it
+as each season passes.</font>
+
+276
+00:22:42,736 --> 00:22:43,736
+<font color="#FFFFFF">And the boy</font>
+
+277
+00:22:44,445 --> 00:22:47,700
+<font color="#FFFFFF">may just be our only hope of survival.</font>
+
+278
+00:22:48,491 --> 00:22:50,869
+<font color="#FFFFFF">The jungle is no longer safe for him.</font>
+
+279
+00:22:51,828 --> 00:22:55,164
+<font color="#FFFFFF">- The pack won't accept him.
+- They will if he passes the Running.</font>
+
+280
+00:22:55,875 --> 00:22:57,125
+<font color="#FFFFFF">Baloo, is he ready?</font>
+
+281
+00:22:57,209 --> 00:22:59,627
+<font color="#FFFFFF">Of course he's not ready.
+He's not a wolf.</font>
+
+282
+00:22:59,711 --> 00:23:01,005
+<font color="#FFFFFF">Then make him ready.</font>
+
+283
+00:23:06,969 --> 00:23:09,387
+<font color="#FFFFFF">Right, no more messing about.</font>
+
+284
+00:23:10,306 --> 00:23:12,098
+<font color="#FFFFFF">Can you run as fast as a wolf?</font>
+
+285
+00:23:12,641 --> 00:23:13,726
+<font color="#FFFFFF">No, you can't.</font>
+
+286
+00:23:14,518 --> 00:23:18,605
+<font color="#FFFFFF">You've got hands with fingers on the ends,
+so let's use them.</font>
+
+287
+00:23:18,689 --> 00:23:19,689
+<font color="#FFFFFF">What?</font>
+
+288
+00:23:20,316 --> 00:23:22,401
+<font color="#FFFFFF">Now jump, to there.</font>
+
+289
+00:23:23,318 --> 00:23:24,444
+<font color="#FFFFFF">Come on, hurry up.</font>
+
+290
+00:23:32,536 --> 00:23:33,536
+<font color="#FFFFFF">Again.</font>
+
+291
+00:23:35,580 --> 00:23:36,915
+<font color="#FFFFFF">Oh, nearly!</font>
+
+292
+00:23:45,507 --> 00:23:46,799
+<font color="#FFFFFF">- Yes!
+- Baloo!</font>
+
+293
+00:26:58,116 --> 00:26:59,116
+<font color="#FFFFFF">What happened?</font>
+
+294
+00:27:24,768 --> 00:27:26,103
+<font color="#FFFFFF">Come on, little brother.</font>
+
+295
+00:27:26,644 --> 00:27:27,644
+<font color="#FFFFFF">Time to go home.</font>
+
+296
+00:27:51,086 --> 00:27:53,130
+<font color="#FFFFFF">Do you know why those men have come?</font>
+
+297
+00:27:56,424 --> 00:27:59,760
+<font color="#FFFFFF">They've come to hunt the tiger
+that steals their cattle.</font>
+
+298
+00:28:00,136 --> 00:28:02,263
+<font color="#FFFFFF">- Will they kill him?
+- It won't be easy.</font>
+
+299
+00:28:03,682 --> 00:28:06,434
+<font color="#FFFFFF">Shere Khan is clever.</font>
+
+300
+00:28:08,060 --> 00:28:09,188
+<font color="#FFFFFF">Very dangerous.</font>
+
+301
+00:28:12,773 --> 00:28:13,773
+<font color="#FFFFFF">Mowgli...</font>
+
+302
+00:28:15,318 --> 00:28:17,195
+<font color="#FFFFFF">the jungle is no longer safe for you.</font>
+
+303
+00:28:19,114 --> 00:28:23,076
+<font color="#FFFFFF">But if you were to be in a place
+where Shere Khan would never go,</font>
+
+304
+00:28:23,826 --> 00:28:25,203
+<font color="#FFFFFF">then you would be safe.</font>
+
+305
+00:28:26,329 --> 00:28:28,164
+<font color="#FFFFFF">Where does Shere Khan never go?</font>
+
+306
+00:28:30,416 --> 00:28:32,669
+<font color="#FFFFFF">You know, the man village.</font>
+
+307
+00:28:33,170 --> 00:28:34,503
+<font color="#FFFFFF">Why would I go there?</font>
+
+308
+00:28:39,675 --> 00:28:41,595
+<font color="#FFFFFF">Because you are a man-cub.</font>
+
+309
+00:28:44,765 --> 00:28:47,017
+<font color="#FFFFFF">I have seen the way
+you look at the village.</font>
+
+310
+00:28:48,809 --> 00:28:50,561
+<font color="#FFFFFF">You are one of them.</font>
+
+311
+00:28:52,021 --> 00:28:53,105
+<font color="#FFFFFF">I'm a wolf.</font>
+
+312
+00:28:53,190 --> 00:28:54,232
+<font color="#FFFFFF">Mowgli...</font>
+
+313
+00:28:59,403 --> 00:29:01,740
+<font color="#FFFFFF">He wants your blood, little brother.</font>
+
+314
+00:29:01,990 --> 00:29:04,910
+<font color="#FFFFFF">It was Shere Khan
+who killed your man-parents</font>
+
+315
+00:29:04,992 --> 00:29:06,662
+<font color="#FFFFFF">all those seasons ago,</font>
+
+316
+00:29:07,287 --> 00:29:09,705
+<font color="#FFFFFF">and now he wants to kill you.</font>
+
+317
+00:29:11,415 --> 00:29:12,667
+<font color="#FFFFFF">The pack will protect me.</font>
+
+318
+00:29:12,750 --> 00:29:14,294
+<font color="#FFFFFF">If you fail the Running...</font>
+
+319
+00:29:14,377 --> 00:29:15,253
+<font color="#FFFFFF">I won't fail.</font>
+
+320
+00:29:15,336 --> 00:29:16,336
+<font color="#FFFFFF">you won't...</font>
+
+321
+00:29:17,213 --> 00:29:18,673
+<font color="#FFFFFF">be able to join the pack.</font>
+
+322
+00:29:19,048 --> 00:29:20,634
+<font color="#FFFFFF">I won't fail!</font>
+
+323
+00:29:22,385 --> 00:29:23,761
+<font color="#FFFFFF">Then promise me this.</font>
+
+324
+00:29:25,471 --> 00:29:26,722
+<font color="#FFFFFF">If you do fail...</font>
+
+325
+00:29:28,016 --> 00:29:29,601
+<font color="#FFFFFF">you will go to the village.</font>
+
+326
+00:29:30,935 --> 00:29:32,186
+<font color="#FFFFFF">Promise me, Mowgli.</font>
+
+327
+00:29:58,212 --> 00:29:59,756
+<font color="#FFFFFF">Good evening!</font>
+
+328
+00:30:23,029 --> 00:30:25,406
+<font color="#FFFFFF">Don't worry. I'll kill your tiger.</font>
+
+329
+00:30:25,574 --> 00:30:27,116
+<font color="#FFFFFF">How many's he taken this time?</font>
+
+330
+00:30:28,201 --> 00:30:29,201
+<font color="#FFFFFF">Careful!</font>
+
+331
+00:30:29,536 --> 00:30:30,746
+<font color="#FFFFFF">Quickly, now. Come on.</font>
+
+332
+00:31:10,701 --> 00:31:12,871
+<font color="#FFFFFF">Did you smell the blood, man-cub?</font>
+
+333
+00:31:14,163 --> 00:31:15,289
+<font color="#FFFFFF">What is it?</font>
+
+334
+00:31:19,169 --> 00:31:23,089
+<font color="#FFFFFF">- The creature that did that to your tail.
+- It's called "fire."</font>
+
+335
+00:31:24,007 --> 00:31:25,634
+<font color="#FFFFFF">It's hotter than the sun.</font>
+
+336
+00:31:26,968 --> 00:31:28,970
+<font color="#FFFFFF">And it's quicker than the panther.</font>
+
+337
+00:31:30,721 --> 00:31:33,224
+<font color="#FFFFFF">Your kind use dark magic, man-cub.</font>
+
+338
+00:31:33,307 --> 00:31:34,851
+<font color="#FFFFFF">They're not my kind.</font>
+
+339
+00:31:41,525 --> 00:31:42,525
+<font color="#FFFFFF">Sometimes...</font>
+
+340
+00:31:43,484 --> 00:31:45,362
+<font color="#FFFFFF">I dream I'm a tiger.</font>
+
+341
+00:31:47,114 --> 00:31:49,156
+<font color="#FFFFFF">But I always wake up a hyena.</font>
+
+342
+00:32:12,388 --> 00:32:14,391
+<font color="#FFFFFF">You should try and get some sleep.</font>
+
+343
+00:32:19,729 --> 00:32:21,647
+<font color="#FFFFFF">You'll want to be rested for tomorrow.</font>
+
+344
+00:32:31,490 --> 00:32:33,201
+<font color="#FFFFFF">What's bothering you, my love?</font>
+
+345
+00:32:34,827 --> 00:32:36,746
+<font color="#FFFFFF">All I've ever wanted...</font>
+
+346
+00:32:38,957 --> 00:32:40,375
+<font color="#FFFFFF">my whole life...</font>
+
+347
+00:32:42,376 --> 00:32:43,711
+<font color="#FFFFFF">is to be a wolf.</font>
+
+348
+00:32:47,883 --> 00:32:50,176
+<font color="#FFFFFF">For the others to see me as an...</font>
+
+349
+00:32:52,345 --> 00:32:53,345
+<font color="#FFFFFF">equal.</font>
+
+350
+00:32:56,474 --> 00:32:58,934
+<font color="#FFFFFF">This is my chance to prove myself.</font>
+
+351
+00:33:00,269 --> 00:33:02,105
+<font color="#FFFFFF">To prove that I'm one of them.</font>
+
+352
+00:33:04,023 --> 00:33:05,400
+<font color="#FFFFFF">To prove that I belong.</font>
+
+353
+00:33:05,483 --> 00:33:06,484
+<font color="#FFFFFF">You belong.</font>
+
+354
+00:33:10,363 --> 00:33:11,865
+<font color="#FFFFFF">You belong, Mowgli.</font>
+
+355
+00:33:14,492 --> 00:33:17,787
+<font color="#FFFFFF">Don't ever let anyone
+make you think otherwise.</font>
+
+356
+00:33:21,208 --> 00:33:23,667
+<font color="#FFFFFF">You will always be my son, Mowgli.</font>
+
+357
+00:33:26,212 --> 00:33:28,131
+<font color="#FFFFFF">Nothing can ever change that.</font>
+
+358
+00:33:59,203 --> 00:34:01,080
+<font color="#FFFFFF">You are about to take part</font>
+
+359
+00:34:01,373 --> 00:34:03,333
+<font color="#FFFFFF">in one of our oldest traditions.</font>
+
+360
+00:34:04,875 --> 00:34:06,586
+<font color="#FFFFFF">The Running of the Pack.</font>
+
+361
+00:34:07,628 --> 00:34:09,463
+<font color="#FFFFFF">Those of you who pass the test...</font>
+
+362
+00:34:10,965 --> 00:34:12,342
+<font color="#FFFFFF">will have earned the right...</font>
+
+363
+00:34:13,300 --> 00:34:14,300
+<font color="#FFFFFF">to join us</font>
+
+364
+00:34:14,969 --> 00:34:16,054
+<font color="#FFFFFF">in the night hunt.</font>
+
+365
+00:34:19,306 --> 00:34:20,684
+<font color="#FFFFFF">As is customary...</font>
+
+366
+00:34:22,059 --> 00:34:24,603
+<font color="#FFFFFF">Bagheera will perform his task as chaser.</font>
+
+367
+00:34:27,940 --> 00:34:29,025
+<font color="#FFFFFF">Mowgli!</font>
+
+368
+00:34:29,608 --> 00:34:30,985
+<font color="#FFFFFF">Good luck, Mowgli!</font>
+
+369
+00:34:41,204 --> 00:34:42,329
+<font color="#FFFFFF">Face the hill.</font>
+
+370
+00:34:48,711 --> 00:34:49,795
+<font color="#FFFFFF">Good luck, brother.</font>
+
+371
+00:34:49,878 --> 00:34:54,175
+<font color="#FFFFFF">I must warn you,
+Bagheera has been told not to hold back.</font>
+
+372
+00:34:59,972 --> 00:35:00,974
+<font color="#FFFFFF">On my call.</font>
+
+373
+00:35:06,938 --> 00:35:07,981
+<font color="#FFFFFF">Go!</font>
+
+374
+00:35:19,826 --> 00:35:20,826
+<font color="#FFFFFF">Bagheera.</font>
+
+375
+00:35:21,619 --> 00:35:22,619
+<font color="#FFFFFF">If you will.</font>
+
+376
+00:36:06,246 --> 00:36:07,956
+<font color="#FFFFFF">Out of my way, freak!</font>
+
+377
+00:38:04,990 --> 00:38:06,409
+<font color="#FFFFFF">Let him go, Bagheera.</font>
+
+378
+00:38:08,577 --> 00:38:09,577
+<font color="#FFFFFF">Bagheera...</font>
+
+379
+00:38:32,476 --> 00:38:33,476
+<font color="#FFFFFF">Get up.</font>
+
+380
+00:38:54,748 --> 00:38:56,708
+<font color="#FFFFFF">You let your guard down.</font>
+
+381
+00:38:58,418 --> 00:39:01,880
+<font color="#FFFFFF">I told you, never let your guard down.</font>
+
+382
+00:39:01,965 --> 00:39:03,382
+<font color="#FFFFFF">He was only chasing <i>me.</i></font>
+
+383
+00:39:03,465 --> 00:39:04,842
+<font color="#FFFFFF">He targeted<i> me.</i></font>
+
+384
+00:39:04,925 --> 00:39:06,385
+<font color="#FFFFFF">He knows I'm the weakest.</font>
+
+385
+00:39:13,434 --> 00:39:14,978
+<font color="#FFFFFF">All of your lessons...</font>
+
+386
+00:39:16,103 --> 00:39:17,271
+<font color="#FFFFFF">they mean nothing!</font>
+
+387
+00:39:21,400 --> 00:39:22,402
+<font color="#FFFFFF">Mowgli!</font>
+
+388
+00:39:22,485 --> 00:39:24,152
+<font color="#FFFFFF">Bagheera! He's fine.</font>
+
+389
+00:39:25,028 --> 00:39:26,028
+<font color="#FFFFFF">Let him be.</font>
+
+390
+00:39:26,447 --> 00:39:27,782
+<font color="#FFFFFF">See ya, freak!</font>
+
+391
+00:40:23,588 --> 00:40:24,588
+<font color="#FFFFFF">Hey, Mowgli.</font>
+
+392
+00:40:39,228 --> 00:40:41,271
+<font color="#FFFFFF">I saw that look in your eye</font>
+
+393
+00:40:41,356 --> 00:40:43,106
+<font color="#FFFFFF">when you were standing over him.</font>
+
+394
+00:40:43,190 --> 00:40:45,735
+<font color="#FFFFFF">I did what I did because I had to.</font>
+
+395
+00:40:45,818 --> 00:40:47,445
+<font color="#FFFFFF">Do you think I am stupid?</font>
+
+396
+00:40:47,527 --> 00:40:49,905
+<font color="#FFFFFF">I saw what you did!</font>
+
+397
+00:40:52,032 --> 00:40:55,661
+<font color="#FFFFFF">Help! Help! Help!</font>
+
+398
+00:40:55,786 --> 00:40:57,288
+<font color="#FFFFFF">He was in the lead!</font>
+
+399
+00:40:57,579 --> 00:40:59,331
+<font color="#FFFFFF">I trained that boy!</font>
+
+400
+00:40:59,414 --> 00:41:01,250
+<font color="#FFFFFF">Why did you have to do that?</font>
+
+401
+00:41:01,333 --> 00:41:02,793
+<font color="#FFFFFF">He had to fail!</font>
+
+402
+00:41:03,835 --> 00:41:07,090
+<font color="#FFFFFF">Why can't you see how much danger he's in?</font>
+
+403
+00:41:07,172 --> 00:41:10,009
+<font color="#FFFFFF">The pack would have protected him!</font>
+
+404
+00:41:11,052 --> 00:41:16,306
+<font color="#FFFFFF">Khan will kill him
+and tear the pack apart.</font>
+
+405
+00:41:17,266 --> 00:41:19,601
+<font color="#FFFFFF">You are not the only one</font>
+
+406
+00:41:19,686 --> 00:41:21,603
+<font color="#FFFFFF">who cares about the boy.</font>
+
+407
+00:41:21,688 --> 00:41:24,523
+<font color="#FFFFFF">All you care about is that he passed.</font>
+
+408
+00:41:24,606 --> 00:41:28,318
+<font color="#FFFFFF">That is because it's my job!</font>
+
+409
+00:41:29,277 --> 00:41:31,114
+<font color="#FFFFFF">Bagheera! Baloo! Up here!</font>
+
+410
+00:41:31,197 --> 00:41:33,240
+<font color="#FFFFFF">Mowgli's been taken by the monkey-people!</font>
+
+411
+00:41:39,121 --> 00:41:40,706
+<font color="#FFFFFF">Mowgli!</font>
+
+412
+00:42:05,188 --> 00:42:06,188
+<font color="#FFFFFF">Let go!</font>
+
+413
+00:42:08,483 --> 00:42:09,485
+<font color="#FFFFFF">Let me go!</font>
+
+414
+00:43:59,971 --> 00:44:02,722
+<font color="#FFFFFF">My, my.</font>
+
+415
+00:44:04,349 --> 00:44:06,686
+<font color="#FFFFFF">How you've grown.</font>
+
+416
+00:44:11,148 --> 00:44:14,818
+<font color="#FFFFFF">And how much chaos
+you brought upon the pack.</font>
+
+417
+00:44:16,528 --> 00:44:20,867
+<font color="#FFFFFF">So much more...</font>
+
+418
+00:44:22,201 --> 00:44:23,577
+<font color="#FFFFFF">to come.</font>
+
+419
+00:44:34,172 --> 00:44:35,172
+<font color="#FFFFFF">Just...</font>
+
+420
+00:44:36,382 --> 00:44:38,675
+<font color="#FFFFFF">a little taste.</font>
+
+421
+00:44:51,271 --> 00:44:52,271
+<font color="#FFFFFF">Mowgli!</font>
+
+422
+00:45:24,972 --> 00:45:26,014
+<font color="#FFFFFF">Bagheera!</font>
+
+423
+00:45:56,878 --> 00:46:00,340
+<font color="#FFFFFF">Let the man-cub alone.</font>
+
+424
+00:46:00,800 --> 00:46:02,050
+<font color="#FFFFFF">He belongs...</font>
+
+425
+00:46:02,342 --> 00:46:04,094
+<font color="#FFFFFF">to us.</font>
+
+426
+00:46:47,429 --> 00:46:48,429
+<font color="#FFFFFF">Kaa...</font>
+
+427
+00:46:52,226 --> 00:46:53,811
+<font color="#FFFFFF">She saved me.</font>
+
+428
+00:47:00,775 --> 00:47:01,775
+<font color="#FFFFFF">Why?</font>
+
+429
+00:47:23,840 --> 00:47:24,967
+<font color="#FFFFFF">Good hunting!</font>
+
+430
+00:47:25,634 --> 00:47:26,969
+<font color="#FFFFFF">Good hunting all!</font>
+
+431
+00:47:29,929 --> 00:47:31,014
+<font color="#FFFFFF">Good hunting!</font>
+
+432
+00:47:31,222 --> 00:47:32,641
+<font color="#FFFFFF">Good hunting all!</font>
+
+433
+00:47:35,393 --> 00:47:36,478
+<font color="#FFFFFF">Mowgli!</font>
+
+434
+00:47:37,271 --> 00:47:38,271
+<font color="#FFFFFF">Hey, Mowgli.</font>
+
+435
+00:47:44,277 --> 00:47:45,278
+<font color="#FFFFFF">Don't worry.</font>
+
+436
+00:47:45,737 --> 00:47:47,489
+<font color="#FFFFFF">We'll get to join them soon enough.</font>
+
+437
+00:47:47,739 --> 00:47:48,907
+<font color="#FFFFFF">I just know it.</font>
+
+438
+00:47:49,240 --> 00:47:53,704
+<font color="#FFFFFF">Mum says some wolves just need more time.
+It doesn't mean we're not good enough.</font>
+
+439
+00:47:54,079 --> 00:47:56,581
+<font color="#FFFFFF">Hey, why don't we have our own night hunt?</font>
+
+440
+00:47:56,956 --> 00:47:59,126
+<font color="#FFFFFF">Just you and me. What do you say?</font>
+
+441
+00:48:05,173 --> 00:48:08,260
+<font color="#FFFFFF">You've been spending a lot of time
+on your own since the monkey-people.</font>
+
+442
+00:48:08,510 --> 00:48:09,887
+<font color="#FFFFFF">It's not good to be alone.</font>
+
+443
+00:48:09,969 --> 00:48:11,690
+<font color="#FFFFFF">Wolves are supposed to be
+with other wolves.</font>
+
+444
+00:48:11,722 --> 00:48:12,722
+<font color="#FFFFFF">I'm not a wolf.</font>
+
+445
+00:48:17,519 --> 00:48:19,355
+<font color="#FFFFFF">Of course you are, Mowgli.</font>
+
+446
+00:48:19,438 --> 00:48:20,898
+<font color="#FFFFFF">You're the best wolf I know!</font>
+
+447
+00:48:21,606 --> 00:48:23,983
+<font color="#FFFFFF">Why do you always want to be
+around me, Bhoot?</font>
+
+448
+00:48:24,360 --> 00:48:26,237
+<font color="#FFFFFF">'Cause you're my best friend, Mowgli.</font>
+
+449
+00:48:36,038 --> 00:48:37,498
+<font color="#FFFFFF">I understand what it's like.</font>
+
+450
+00:48:39,083 --> 00:48:40,251
+<font color="#FFFFFF">For nobody to want you.</font>
+
+451
+00:48:44,463 --> 00:48:46,172
+<font color="#FFFFFF">I don't have any friends neither.</font>
+
+452
+00:48:47,382 --> 00:48:48,217
+<font color="#FFFFFF">But...</font>
+
+453
+00:48:48,300 --> 00:48:49,510
+<font color="#FFFFFF">we have each other.</font>
+
+454
+00:48:50,052 --> 00:48:51,846
+<font color="#FFFFFF">And we're kind of same, you and me.</font>
+
+455
+00:48:51,929 --> 00:48:53,054
+<font color="#FFFFFF">We're not the same.</font>
+
+456
+00:48:53,139 --> 00:48:54,306
+<font color="#FFFFFF">Of course we are.</font>
+
+457
+00:48:54,389 --> 00:48:56,559
+<font color="#FFFFFF">Because you're special and I'm special.</font>
+
+458
+00:48:56,641 --> 00:48:58,476
+<font color="#FFFFFF">We're not special!</font>
+
+459
+00:48:59,228 --> 00:49:00,311
+<font color="#FFFFFF">Don't you get it?</font>
+
+460
+00:49:01,063 --> 00:49:03,565
+<font color="#FFFFFF">We'll never be one of them!
+We're freaks!</font>
+
+461
+00:49:04,275 --> 00:49:06,485
+<font color="#FFFFFF">You're not special, Bhoot!</font>
+
+462
+00:49:07,110 --> 00:49:10,864
+<font color="#FFFFFF">It's just something your mother tells you
+to make you feel better about yourself</font>
+
+463
+00:49:10,947 --> 00:49:13,492
+<font color="#FFFFFF">because you came out wrong!</font>
+
+464
+00:49:31,427 --> 00:49:32,427
+<font color="#FFFFFF">Bhoot...</font>
+
+465
+00:49:33,679 --> 00:49:34,847
+<font color="#FFFFFF">Bhoot, I'm sorry.</font>
+
+466
+00:50:38,994 --> 00:50:39,994
+<font color="#FFFFFF">Kaa?</font>
+
+467
+00:50:44,916 --> 00:50:45,916
+<font color="#FFFFFF">Kaa?</font>
+
+468
+00:50:46,710 --> 00:50:48,003
+<font color="#FFFFFF">Well,</font>
+
+469
+00:50:48,753 --> 00:50:50,630
+<font color="#FFFFFF">look who's here.</font>
+
+470
+00:50:52,715 --> 00:50:54,092
+<font color="#FFFFFF">It's the man-cub,</font>
+
+471
+00:50:54,592 --> 00:50:58,054
+<font color="#FFFFFF">his destiny still uncertain.</font>
+
+472
+00:50:59,264 --> 00:51:02,309
+<font color="#FFFFFF">Are you afraid of me, man-cub?</font>
+
+473
+00:51:04,311 --> 00:51:05,311
+<font color="#FFFFFF">No.</font>
+
+474
+00:51:07,021 --> 00:51:09,065
+<font color="#FFFFFF">Sometimes, fear...</font>
+
+475
+00:51:09,983 --> 00:51:12,735
+<font color="#FFFFFF">is the only intelligent response.</font>
+
+476
+00:51:16,364 --> 00:51:17,407
+<font color="#FFFFFF">Don't you think?</font>
+
+477
+00:51:23,871 --> 00:51:25,708
+<font color="#FFFFFF">Say something...</font>
+
+478
+00:51:28,710 --> 00:51:30,461
+<font color="#FFFFFF">or I shall get bored.</font>
+
+479
+00:51:33,673 --> 00:51:35,884
+<font color="#FFFFFF">And when I get bored...</font>
+
+480
+00:51:37,052 --> 00:51:38,637
+<font color="#FFFFFF">I get hungry.</font>
+
+481
+00:51:41,056 --> 00:51:42,056
+<font color="#FFFFFF">Is it...</font>
+
+482
+00:51:43,099 --> 00:51:46,853
+<font color="#FFFFFF">Is it true that you know the past
+and the future?</font>
+
+483
+00:51:47,521 --> 00:51:50,065
+<font color="#FFFFFF">What is it you want from me,</font>
+
+484
+00:51:50,733 --> 00:51:51,567
+<font color="#FFFFFF">man-cub?</font>
+
+485
+00:51:51,650 --> 00:51:54,152
+<font color="#FFFFFF">Why did you save me
+from the monkey-people?</font>
+
+486
+00:51:54,777 --> 00:51:58,824
+<font color="#FFFFFF">Why do you think
+the elephant saved you from the tiger pit?</font>
+
+487
+00:52:00,199 --> 00:52:05,039
+<font color="#FFFFFF">The whole jungle has been watching you,
+man-cub.</font>
+
+488
+00:52:06,414 --> 00:52:07,414
+<font color="#FFFFFF">Why?</font>
+
+489
+00:52:07,875 --> 00:52:11,545
+<font color="#FFFFFF">Even you must know you are unusual.</font>
+
+490
+00:52:14,213 --> 00:52:16,090
+<font color="#FFFFFF">Not quite a wolf,</font>
+
+491
+00:52:16,175 --> 00:52:17,592
+<font color="#FFFFFF">not quite a man...</font>
+
+492
+00:52:18,469 --> 00:52:19,469
+<font color="#FFFFFF">or neither...</font>
+
+493
+00:52:20,094 --> 00:52:21,096
+<font color="#FFFFFF">or both.</font>
+
+494
+00:52:41,282 --> 00:52:44,161
+<font color="#FFFFFF">I think we can both agree, Mowgli,</font>
+
+495
+00:52:44,244 --> 00:52:49,166
+<font color="#FFFFFF">that you are something
+the jungle has never seen before.</font>
+
+496
+00:52:54,672 --> 00:52:56,757
+<font color="#FFFFFF">Every day,</font>
+
+497
+00:52:57,465 --> 00:53:00,344
+<font color="#FFFFFF">you grow a little older.</font>
+
+498
+00:53:01,219 --> 00:53:02,471
+<font color="#FFFFFF">Every day,</font>
+
+499
+00:53:03,389 --> 00:53:06,307
+<font color="#FFFFFF">you come a little closer.</font>
+
+500
+00:53:08,101 --> 00:53:10,728
+<font color="#FFFFFF">One day you will fight...</font>
+
+501
+00:53:10,896 --> 00:53:12,021
+<font color="#FFFFFF">and kill.</font>
+
+502
+00:53:14,983 --> 00:53:17,277
+<font color="#FFFFFF">One day you will speak...</font>
+
+503
+00:53:18,277 --> 00:53:21,114
+<font color="#FFFFFF">and the jungle will listen.</font>
+
+504
+00:53:26,954 --> 00:53:31,041
+<font color="#FFFFFF">What will you say then, man-cub?</font>
+
+505
+00:53:35,295 --> 00:53:36,295
+<font color="#FFFFFF">Do you hear?</font>
+
+506
+00:53:41,050 --> 00:53:43,052
+<font color="#FFFFFF">The entertainment...</font>
+
+507
+00:53:43,469 --> 00:53:45,222
+<font color="#FFFFFF">commences.</font>
+
+508
+00:53:47,349 --> 00:53:49,393
+<font color="#FFFFFF">I shall be watching.</font>
+
+509
+00:53:55,065 --> 00:53:57,608
+<font color="#FFFFFF">You have no right to be here, Shere Khan!</font>
+
+510
+00:53:58,527 --> 00:54:02,989
+<font color="#FFFFFF">Well, I think you'll find
+I stay where I please.</font>
+
+511
+00:54:06,034 --> 00:54:09,036
+<font color="#FFFFFF">You kill man's cattle.
+You poison the jungle.</font>
+
+512
+00:54:09,621 --> 00:54:11,289
+<font color="#FFFFFF">You're the reason man is here!</font>
+
+513
+00:54:11,373 --> 00:54:14,585
+<font color="#FFFFFF">But <i>you</i> permitted man to live among you.</font>
+
+514
+00:54:14,876 --> 00:54:17,795
+<font color="#FFFFFF"><i>You</i> pretend he is a wolf.</font>
+
+515
+00:54:18,255 --> 00:54:21,090
+<font color="#FFFFFF">When we both know
+that is the one thing he will never be.</font>
+
+516
+00:54:21,842 --> 00:54:24,385
+<font color="#FFFFFF">He will always be</font>
+
+517
+00:54:24,635 --> 00:54:26,179
+<font color="#FFFFFF">a man.</font>
+
+518
+00:54:27,014 --> 00:54:28,014
+<font color="#FFFFFF"><i>You...</i></font>
+
+519
+00:54:28,556 --> 00:54:30,809
+<font color="#FFFFFF">poisoned the jungle.</font>
+
+520
+00:54:32,478 --> 00:54:35,563
+<font color="#FFFFFF">But you're no longer leader now,</font>
+
+521
+00:54:35,646 --> 00:54:36,646
+<font color="#FFFFFF">are you?</font>
+
+522
+00:54:37,190 --> 00:54:38,650
+<font color="#FFFFFF">You missed your kill.</font>
+
+523
+00:54:42,445 --> 00:54:43,989
+<font color="#FFFFFF">By your law...</font>
+
+524
+00:54:45,740 --> 00:54:46,784
+<font color="#FFFFFF">your pack...</font>
+
+525
+00:54:48,034 --> 00:54:49,327
+<font color="#FFFFFF">must challenge you.</font>
+
+526
+00:54:51,371 --> 00:54:56,001
+<font color="#FFFFFF">Akela's missed his kill!
+Akela's missed his kill!</font>
+
+527
+00:55:00,838 --> 00:55:04,092
+<font color="#FFFFFF">As is our tradition,
+whoever defeats me...</font>
+
+528
+00:55:05,092 --> 00:55:06,844
+<font color="#FFFFFF">will become leader of the pack.</font>
+
+529
+00:55:20,983 --> 00:55:21,983
+<font color="#FFFFFF">What's happening?</font>
+
+530
+00:55:26,030 --> 00:55:26,907
+<font color="#FFFFFF">Mowgli!</font>
+
+531
+00:55:26,989 --> 00:55:28,157
+<font color="#FFFFFF">It's the law.</font>
+
+532
+00:55:39,001 --> 00:55:40,001
+<font color="#FFFFFF">Who's next?</font>
+
+533
+00:56:45,110 --> 00:56:45,943
+<font color="#FFFFFF">Who's next?</font>
+
+534
+00:56:46,027 --> 00:56:47,028
+<font color="#FFFFFF">No!</font>
+
+535
+00:56:47,112 --> 00:56:48,322
+<font color="#FFFFFF">Mowgli!</font>
+
+536
+00:56:56,288 --> 00:56:57,288
+<font color="#FFFFFF">No!</font>
+
+537
+00:57:11,052 --> 00:57:16,807
+<font color="#FFFFFF">If I ever see you here again,
+I will set your hide ablaze</font>
+
+538
+00:57:16,891 --> 00:57:19,226
+<font color="#FFFFFF">and watch you burn alive!</font>
+
+539
+00:57:20,603 --> 00:57:22,940
+<font color="#FFFFFF">I will taste your blood,</font>
+
+540
+00:57:23,356 --> 00:57:24,900
+<font color="#FFFFFF">man-cub.</font>
+
+541
+00:57:36,411 --> 00:57:37,411
+<font color="#FFFFFF">Leave.</font>
+
+542
+00:57:43,126 --> 00:57:44,126
+<font color="#FFFFFF">What?</font>
+
+543
+00:57:44,961 --> 00:57:45,961
+<font color="#FFFFFF">You have...</font>
+
+544
+00:57:47,005 --> 00:57:49,007
+<font color="#FFFFFF">turned the weapons of man...</font>
+
+545
+00:57:50,050 --> 00:57:51,134
+<font color="#FFFFFF">upon us.</font>
+
+546
+00:57:53,135 --> 00:57:55,931
+<font color="#FFFFFF">You have brought the pack great shame.</font>
+
+547
+00:57:56,431 --> 00:57:57,849
+<font color="#FFFFFF">You have brought me...</font>
+
+548
+00:57:59,434 --> 00:58:00,518
+<font color="#FFFFFF">great shame.</font>
+
+549
+00:58:02,938 --> 00:58:03,938
+<font color="#FFFFFF">Leave.</font>
+
+550
+01:03:09,869 --> 01:03:10,869
+<font color="#FFFFFF">Bagh...</font>
+
+551
+01:03:19,878 --> 01:03:21,255
+<font color="#FFFFFF">Hello, little brother.</font>
+
+552
+01:03:24,509 --> 01:03:26,510
+<font color="#FFFFFF">I knew you'd come.</font>
+
+553
+01:03:28,346 --> 01:03:30,639
+<font color="#FFFFFF">I knew you'd rescue me.</font>
+
+554
+01:03:33,559 --> 01:03:34,559
+<font color="#FFFFFF">Mowgli...</font>
+
+555
+01:03:38,273 --> 01:03:40,108
+<font color="#FFFFFF">I have not come to rescue you.</font>
+
+556
+01:03:41,693 --> 01:03:43,485
+<font color="#FFFFFF">I've come to tell you to stay.</font>
+
+557
+01:03:45,905 --> 01:03:46,905
+<font color="#FFFFFF">What?</font>
+
+558
+01:03:55,373 --> 01:03:58,960
+<font color="#FFFFFF">You must stay in the village.
+You must not come back to the jungle.</font>
+
+559
+01:03:59,043 --> 01:04:02,505
+<font color="#FFFFFF">- But the jungle is my home.
+- No, it isn't. Not anymore.</font>
+
+560
+01:04:02,588 --> 01:04:04,382
+<font color="#FFFFFF">I can't stay here.</font>
+
+561
+01:04:05,884 --> 01:04:07,677
+<font color="#FFFFFF">- Yes, you can.
+- I can't.</font>
+
+562
+01:04:07,760 --> 01:04:10,096
+<font color="#FFFFFF">You will learn to understand their ways.</font>
+
+563
+01:04:10,179 --> 01:04:11,264
+<font color="#FFFFFF">You may even grow...</font>
+
+564
+01:04:12,474 --> 01:04:13,474
+<font color="#FFFFFF">to like it.</font>
+
+565
+01:04:15,018 --> 01:04:16,061
+<font color="#FFFFFF">It will be all right,</font>
+
+566
+01:04:16,643 --> 01:04:17,561
+<font color="#FFFFFF">little brother.</font>
+
+567
+01:04:17,644 --> 01:04:20,856
+<font color="#FFFFFF">How do you know? You've never spent a day
+outside the jungle.</font>
+
+568
+01:04:28,364 --> 01:04:29,949
+<font color="#FFFFFF">I was born among man.</font>
+
+569
+01:04:35,329 --> 01:04:37,623
+<font color="#FFFFFF">I bear the marks of a collar.</font>
+
+570
+01:04:39,125 --> 01:04:40,251
+<font color="#FFFFFF">Under my chin.</font>
+
+571
+01:04:44,755 --> 01:04:47,800
+<font color="#FFFFFF">I lived in a king's palace
+in a cage just like this.</font>
+
+572
+01:04:48,592 --> 01:04:49,760
+<font color="#FFFFFF">Fed through a slot.</font>
+
+573
+01:04:51,637 --> 01:04:53,056
+<font color="#FFFFFF">Man's entertainment.</font>
+
+574
+01:04:55,934 --> 01:04:58,936
+<font color="#FFFFFF">I only heard stories about the jungle.</font>
+
+575
+01:05:02,398 --> 01:05:03,565
+<font color="#FFFFFF">When I found you...</font>
+
+576
+01:05:04,900 --> 01:05:06,360
+<font color="#FFFFFF">all those seasons ago...</font>
+
+577
+01:05:09,197 --> 01:05:10,864
+<font color="#FFFFFF">I saw something in you.</font>
+
+578
+01:05:12,492 --> 01:05:15,829
+<font color="#FFFFFF">And I thought I could teach you.
+I thought I could...</font>
+
+579
+01:05:18,706 --> 01:05:20,208
+<font color="#FFFFFF">teach you how to belong.</font>
+
+580
+01:05:21,208 --> 01:05:23,335
+<font color="#FFFFFF">To be like everyone else.</font>
+
+581
+01:05:26,880 --> 01:05:28,507
+<font color="#FFFFFF">But I was wrong, Mowgli.</font>
+
+582
+01:05:29,134 --> 01:05:30,802
+<font color="#FFFFFF">You weren't wrong.</font>
+
+583
+01:05:35,139 --> 01:05:36,141
+<font color="#FFFFFF">I was wrong.</font>
+
+584
+01:05:38,893 --> 01:05:40,186
+<font color="#FFFFFF">Bagheera!</font>
+
+585
+01:05:42,105 --> 01:05:43,565
+<font color="#FFFFFF">I love you.</font>
+
+586
+01:05:55,827 --> 01:05:57,244
+<font color="#FFFFFF">I was another panther...</font>
+
+587
+01:05:58,036 --> 01:05:59,371
+<font color="#FFFFFF">in that cage, Mowgli.</font>
+
+588
+01:06:00,664 --> 01:06:01,664
+<font color="#FFFFFF">I bit...</font>
+
+589
+01:06:02,375 --> 01:06:03,793
+<font color="#FFFFFF">and I scratched...</font>
+
+590
+01:06:05,085 --> 01:06:08,047
+<font color="#FFFFFF">and I spent my entire life fighting.</font>
+
+591
+01:06:10,090 --> 01:06:11,090
+<font color="#FFFFFF">Until one day...</font>
+
+592
+01:06:12,469 --> 01:06:13,594
+<font color="#FFFFFF">I just stopped.</font>
+
+593
+01:06:17,974 --> 01:06:19,141
+<font color="#FFFFFF">I stopped fighting.</font>
+
+594
+01:06:22,311 --> 01:06:23,813
+<font color="#FFFFFF">And I gained their trust.</font>
+
+595
+01:06:25,190 --> 01:06:27,233
+<font color="#FFFFFF">Gain their trust, little brother.</font>
+
+596
+01:06:36,117 --> 01:06:37,577
+<font color="#FFFFFF">Bagheera!</font>
+
+597
+01:06:38,411 --> 01:06:41,039
+<font color="#FFFFFF">Don't leave me here.</font>
+
+598
+01:06:43,833 --> 01:06:45,835
+<font color="#FFFFFF">Come back!</font>
+
+599
+01:08:05,289 --> 01:08:06,289
+<font color="#FFFFFF">Hey!</font>
+
+600
+01:08:55,840 --> 01:08:57,175
+<font color="#FFFFFF">You're a fast learner.</font>
+
+601
+01:09:02,137 --> 01:09:03,430
+<font color="#FFFFFF">Prefer mine cooked.</font>
+
+602
+01:09:11,355 --> 01:09:12,899
+<font color="#FFFFFF">I noticed your scar.</font>
+
+603
+01:09:21,823 --> 01:09:22,823
+<font color="#FFFFFF">Tiger.</font>
+
+604
+01:09:26,578 --> 01:09:28,831
+<font color="#FFFFFF">Looks like we've both got the same enemy.</font>
+
+605
+01:10:07,119 --> 01:10:09,287
+<font color="#FFFFFF">It's nothing to worry about.</font>
+
+606
+01:10:12,166 --> 01:10:13,667
+<font color="#FFFFFF">It's all right, it's nothing.</font>
+
+607
+01:10:51,913 --> 01:10:54,207
+<font color="#FFFFFF">Here, you can keep this one.</font>
+
+608
+01:12:52,118 --> 01:12:53,994
+<font color="#FFFFFF">It's so you can hunt.</font>
+
+609
+01:13:01,252 --> 01:13:02,252
+<font color="#FFFFFF">There.</font>
+
+610
+01:13:56,724 --> 01:13:57,724
+<font color="#FFFFFF">Hello, brother!</font>
+
+611
+01:13:59,601 --> 01:14:00,728
+<font color="#FFFFFF">Hello, Mowgli.</font>
+
+612
+01:14:04,981 --> 01:14:06,108
+<font color="#FFFFFF">You look different.</font>
+
+613
+01:14:14,574 --> 01:14:15,659
+<font color="#FFFFFF">Why are you here?</font>
+
+614
+01:14:16,118 --> 01:14:17,243
+<font color="#FFFFFF">It's Shere Khan.</font>
+
+615
+01:14:18,203 --> 01:14:19,287
+<font color="#FFFFFF">He's taken over.</font>
+
+616
+01:14:20,206 --> 01:14:21,623
+<font color="#FFFFFF">We've had to leave home.</font>
+
+617
+01:14:21,707 --> 01:14:23,833
+<font color="#FFFFFF">Those of us
+who still stand by Akela, anyway.</font>
+
+618
+01:14:23,917 --> 01:14:26,002
+<font color="#FFFFFF">And... the others?</font>
+
+619
+01:14:26,295 --> 01:14:28,463
+<font color="#FFFFFF">They come in groups, in the night.</font>
+
+620
+01:14:29,840 --> 01:14:30,841
+<font color="#FFFFFF">Threaten us.</font>
+
+621
+01:14:31,841 --> 01:14:32,969
+<font color="#FFFFFF">Our own people.</font>
+
+622
+01:14:35,680 --> 01:14:37,305
+<font color="#FFFFFF">It's not my problem anymore.</font>
+
+623
+01:14:37,390 --> 01:14:39,350
+<font color="#FFFFFF">- Mowgli...
+- It's not my problem.</font>
+
+624
+01:14:39,432 --> 01:14:41,851
+<font color="#FFFFFF">We've been pushed to the very edge
+of the jungle.</font>
+
+625
+01:14:42,811 --> 01:14:44,980
+<font color="#FFFFFF">And Khan won't stop killing man's cattle.</font>
+
+626
+01:14:45,398 --> 01:14:46,398
+<font color="#FFFFFF">Brother...</font>
+
+627
+01:14:48,109 --> 01:14:50,277
+<font color="#FFFFFF">We're afraid of what man might do to us.</font>
+
+628
+01:14:54,073 --> 01:14:55,824
+<font color="#FFFFFF">The pack needs you, Mowgli.</font>
+
+629
+01:14:57,909 --> 01:14:59,996
+<font color="#FFFFFF">They didn't need me when I was cast out.</font>
+
+630
+01:15:06,918 --> 01:15:07,918
+<font color="#FFFFFF">Please!</font>
+
+631
+01:15:09,838 --> 01:15:10,838
+<font color="#FFFFFF">Come home.</font>
+
+632
+01:15:20,975 --> 01:15:22,309
+<font color="#FFFFFF">This is my home now.</font>
+
+633
+01:17:01,742 --> 01:17:02,784
+<font color="#FFFFFF">Lockwood,</font>
+
+634
+01:17:04,537 --> 01:17:08,623
+<font color="#FFFFFF">when will you kill the tiger?
+He has killed many cattle.</font>
+
+635
+01:17:09,250 --> 01:17:10,376
+<font color="#FFFFFF">A clever beast.</font>
+
+636
+01:17:12,837 --> 01:17:14,587
+<font color="#FFFFFF">Knows how to cover his tracks.</font>
+
+637
+01:17:16,798 --> 01:17:20,301
+<font color="#FFFFFF">Have you ever missed?</font>
+
+638
+01:17:21,261 --> 01:17:22,345
+<font color="#FFFFFF">Just once,</font>
+
+639
+01:17:23,514 --> 01:17:24,514
+<font color="#FFFFFF">just once.</font>
+
+640
+01:17:27,016 --> 01:17:29,019
+<font color="#FFFFFF">Tiger?</font>
+
+641
+01:17:31,689 --> 01:17:32,730
+<font color="#FFFFFF">Elephant.</font>
+
+642
+01:17:37,027 --> 01:17:39,279
+<font color="#FFFFFF">I did get one of his tusks, though.</font>
+
+643
+01:17:40,738 --> 01:17:43,324
+<font color="#FFFFFF">I have never missed a kill since.</font>
+
+644
+01:17:52,835 --> 01:17:55,421
+<font color="#FFFFFF">I will get your tiger.</font>
+
+645
+01:17:59,257 --> 01:18:01,467
+<font color="#FFFFFF">I have no doubt, I will get him.</font>
+
+646
+01:18:05,346 --> 01:18:06,346
+<font color="#FFFFFF">I will get him.</font>
+
+647
+01:20:04,466 --> 01:20:05,717
+<font color="#FFFFFF">Beautiful...</font>
+
+648
+01:20:06,801 --> 01:20:07,801
+<font color="#FFFFFF">isn't he?</font>
+
+649
+01:20:12,181 --> 01:20:13,809
+<font color="#FFFFFF">My first albino.</font>
+
+650
+01:20:18,396 --> 01:20:19,439
+<font color="#FFFFFF">And this</font>
+
+651
+01:20:19,981 --> 01:20:22,984
+<font color="#FFFFFF">is my own personal menagerie.</font>
+
+652
+01:20:29,783 --> 01:20:32,618
+<font color="#FFFFFF">You don't understand</font>
+
+653
+01:20:33,787 --> 01:20:35,997
+<font color="#FFFFFF">a word I'm saying,</font>
+
+654
+01:20:36,081 --> 01:20:37,081
+<font color="#FFFFFF">do you?</font>
+
+655
+01:20:43,713 --> 01:20:45,673
+<font color="#FFFFFF">We can't all be scholars.</font>
+
+656
+01:20:49,595 --> 01:20:51,596
+<font color="#FFFFFF">Because God knows I'm not.</font>
+
+657
+01:22:48,671 --> 01:22:51,341
+<font color="#FFFFFF">I will show you the hunter
+who took this...</font>
+
+658
+01:22:53,260 --> 01:22:55,929
+<font color="#FFFFFF">if you help me rid the jungle
+of the tiger.</font>
+
+659
+01:23:00,475 --> 01:23:03,311
+<font color="#FFFFFF">Shere Khan has brought us
+nothing but chaos.</font>
+
+660
+01:23:11,487 --> 01:23:13,738
+<font color="#FFFFFF">Akela, we must kill the tiger.</font>
+
+661
+01:23:15,865 --> 01:23:17,618
+<font color="#FFFFFF">I would rather die</font>
+
+662
+01:23:18,327 --> 01:23:20,828
+<font color="#FFFFFF">than break with the laws of the jungle.</font>
+
+663
+01:23:21,787 --> 01:23:22,788
+<font color="#FFFFFF">And our people...</font>
+
+664
+01:23:24,248 --> 01:23:25,250
+<font color="#FFFFFF">your friends...</font>
+
+665
+01:23:26,210 --> 01:23:27,210
+<font color="#FFFFFF">are with me.</font>
+
+666
+01:23:28,462 --> 01:23:31,006
+<font color="#FFFFFF">But I'm not bound
+by those laws anymore, Akela,</font>
+
+667
+01:23:31,088 --> 01:23:33,509
+<font color="#FFFFFF">and this is not the jungle
+you once knew.</font>
+
+668
+01:23:34,384 --> 01:23:35,761
+<font color="#FFFFFF">When you were a cub,</font>
+
+669
+01:23:35,844 --> 01:23:39,014
+<font color="#FFFFFF">I looked you in the eye and saw no fear.</font>
+
+670
+01:23:39,472 --> 01:23:44,810
+<font color="#FFFFFF">I believed then that one day
+you would bring peace to the jungle.</font>
+
+671
+01:23:46,688 --> 01:23:49,065
+<font color="#FFFFFF">But you have become a man now, Mowgli.</font>
+
+672
+01:23:49,608 --> 01:23:50,775
+<font color="#FFFFFF">I am not a man.</font>
+
+673
+01:23:52,277 --> 01:23:53,737
+<font color="#FFFFFF">But neither am I a wolf.</font>
+
+674
+01:23:59,993 --> 01:24:02,787
+<font color="#FFFFFF">- Which of you will follow me?
+- We can't, Mowgli.</font>
+
+675
+01:24:05,039 --> 01:24:07,708
+<font color="#FFFFFF">The jungle law is sacred.</font>
+
+676
+01:24:11,212 --> 01:24:12,213
+<font color="#FFFFFF">Bagheera.</font>
+
+677
+01:24:20,680 --> 01:24:22,640
+<font color="#FFFFFF">Tomorrow, the tiger dies.</font>
+
+678
+01:25:09,229 --> 01:25:10,314
+<font color="#FFFFFF">Khan!</font>
+
+679
+01:25:16,903 --> 01:25:19,614
+<font color="#FFFFFF">Khan!</font>
+
+680
+01:25:19,739 --> 01:25:21,198
+<font color="#FFFFFF">The boy needs us, Akela.</font>
+
+681
+01:25:25,494 --> 01:25:27,706
+<font color="#FFFFFF">Here I am!</font>
+
+682
+01:25:30,708 --> 01:25:33,086
+<font color="#FFFFFF">Khan!</font>
+
+683
+01:25:56,359 --> 01:25:58,319
+<font color="#FFFFFF">Look at you,</font>
+
+684
+01:25:58,403 --> 01:26:02,908
+<font color="#FFFFFF">using a man's tool to do your killing.</font>
+
+685
+01:26:05,452 --> 01:26:08,162
+<font color="#FFFFFF">What would Baloo and Bagheera think?</font>
+
+686
+01:26:18,215 --> 01:26:20,091
+<font color="#FFFFFF">What's he doing?</font>
+
+687
+01:28:22,963 --> 01:28:24,216
+<font color="#FFFFFF">There's your hunter!</font>
+
+688
+01:28:39,605 --> 01:28:40,606
+<font color="#FFFFFF">Let's go.</font>
+
+689
+01:29:12,305 --> 01:29:14,306
+<font color="#FFFFFF">You know, I can still hear</font>
+
+690
+01:29:14,975 --> 01:29:16,643
+<font color="#FFFFFF">your mother's screams</font>
+
+691
+01:29:17,018 --> 01:29:20,188
+<font color="#FFFFFF">the night I took her life.</font>
+
+692
+01:30:35,220 --> 01:30:36,220
+<font color="#FFFFFF">Akela!</font>
+
+693
+01:30:41,936 --> 01:30:45,981
+<font color="#FFFFFF">Forgive me for doubting you, Mowgli.</font>
+
+694
+01:30:50,319 --> 01:30:51,947
+<font color="#FFFFFF">It is your time now.</font>
+
+695
+01:30:57,577 --> 01:30:58,828
+<font color="#FFFFFF">Lead them.</font>
+
+696
+01:33:45,578 --> 01:33:47,497
+<font color="#FFFFFF">Sleep now, Shere Khan.</font>
+
+697
+01:33:48,872 --> 01:33:50,250
+<font color="#FFFFFF">Be angry no more.</font>
+
+698
+01:34:27,453 --> 01:34:31,416
+<font color="#FFFFFF"><i>With the tiger and the hunter now gone,</i></font>
+
+699
+01:34:31,957 --> 01:34:36,003
+<font color="#FFFFFF"><i>the future shimmered from darkness...</i></font>
+
+700
+01:34:36,546 --> 01:34:37,796
+<font color="#FFFFFF"><i>into light.</i></font>
+
+701
+01:34:38,965 --> 01:34:40,300
+<font color="#FFFFFF"><i>Mowgli,</i></font>
+
+702
+01:34:40,591 --> 01:34:42,719
+<font color="#FFFFFF"><i>man and wolf,</i></font>
+
+703
+01:34:42,801 --> 01:34:44,887
+<font color="#FFFFFF"><i>both and neither,</i></font>
+
+704
+01:34:45,180 --> 01:34:48,600
+<font color="#FFFFFF"><i>had given the jungle a voice.</i></font>
+
+705
+01:34:49,100 --> 01:34:51,895
+<font color="#FFFFFF"><i>And for as long as he stood watch,</i></font>
+
+706
+01:34:51,978 --> 01:34:56,733
+<font color="#FFFFFF"><i>it would speak a lasting peace.</i></font>
+

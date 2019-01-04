@@ -1,0 +1,2998 @@
+1
+00:00:02,712 --> 00:00:10,885
+<font color="#FFFFFF"><i>ŤRendering/Synchronizationť</i>
+••• <u>T 3 I I 4 V 1 S 10 N™</u> •••
+<i>°°° Only the </i><u></u><u><i>best</i></u><u></u><i> is good enough... °°°</i></font>
+
+2
+00:00:20,195 --> 00:00:22,042
+<font color="#FFFFFF"><i>My name is Max.</i></font>
+
+3
+00:00:22,809 --> 00:00:25,582
+<font color="#FFFFFF"><i>My world is fire and blood.</i></font>
+
+4
+00:00:26,204 --> 00:00:29,379
+<font color="#FFFFFF"><i>- Why are you hurting these people?
+- It's the oil, stupid.</i></font>
+
+5
+00:00:29,417 --> 00:00:32,125
+<font color="#FFFFFF"><i>- Oil wars.
+- We are killing for gasoline.</i></font>
+
+6
+00:00:32,176 --> 00:00:34,192
+<font color="#FFFFFF"><i>The world is actually
+running out of water.</i></font>
+
+7
+00:00:34,192 --> 00:00:36,622
+<font color="#FFFFFF"><i>Now there's the water wars.</i></font>
+
+8
+00:00:37,646 --> 00:00:40,231
+<font color="#FFFFFF"><i>Once, I was a cop.</i></font>
+
+9
+00:00:40,246 --> 00:00:43,360
+<font color="#FFFFFF"><i>A road warrior searching
+for a righteous cause.</i></font>
+
+10
+00:00:43,362 --> 00:00:47,494
+<font color="#FFFFFF"><i>- ... to the terminal freak-out point.
+- Mankind has gone rogue, terrorizing itself.</i></font>
+
+11
+00:00:48,076 --> 00:00:49,804
+<font color="#FFFFFF"><i>Thermonuclear skirmish.</i></font>
+
+12
+00:00:49,810 --> 00:00:51,219
+<font color="#FFFFFF"><i>The earth is sour.</i></font>
+
+13
+00:00:51,219 --> 00:00:54,691
+<font color="#FFFFFF"><i>- Our bones are poisoned.
+- We have become half-life.</i></font>
+
+14
+00:00:55,680 --> 00:00:57,573
+<font color="#FFFFFF"><i>As the world fell...</i></font>
+
+15
+00:00:57,761 --> 00:01:00,750
+<font color="#FFFFFF"><i>each of us, in our own way,
+was broken.</i></font>
+
+16
+00:01:01,280 --> 00:01:04,272
+<font color="#FFFFFF"><i>It was hard to know
+who was more crazy:</i></font>
+
+17
+00:01:06,370 --> 00:01:09,769
+<font color="#FFFFFF"><i>Me... or everyone else.</i></font>
+
+18
+00:01:12,409 --> 00:01:13,793
+<font color="#FFFFFF"><i>Hello?</i></font>
+
+19
+00:01:16,135 --> 00:01:17,730
+<font color="#FFFFFF"><i>Where are you?</i></font>
+
+20
+00:01:24,980 --> 00:01:26,400
+<font color="#FFFFFF"><i>Where are you, Max?</i></font>
+
+21
+00:01:26,391 --> 00:01:28,620
+<font color="#FFFFFF"><i>- Here they come again.
+- Max Rockatansky.</i></font>
+
+22
+00:01:28,620 --> 00:01:31,989
+<font color="#FFFFFF"><i>Worming their way
+into the black matter of my brain.</i></font>
+
+23
+00:01:31,989 --> 00:01:34,257
+<font color="#FFFFFF"><i>- Help us, Max.
+- You promised to help us.</i></font>
+
+24
+00:01:38,281 --> 00:01:42,331
+<font color="#FFFFFF"><i>I tell myself,
+they cannot touch me.</i></font>
+
+25
+00:01:44,424 --> 00:01:46,135
+<font color="#FFFFFF"><i>They are long dead.</i></font>
+
+26
+00:02:44,098 --> 00:02:48,912
+<font color="#FFFFFF"><i>I am the one who runs
+from both the living and the dead.</i></font>
+
+27
+00:02:49,543 --> 00:02:51,861
+<font color="#FFFFFF"><i>Hunted by scavengers.</i></font>
+
+28
+00:02:52,569 --> 00:02:55,533
+<font color="#FFFFFF"><i>Haunted by those
+I could not protect.</i></font>
+
+29
+00:03:05,009 --> 00:03:07,439
+<font color="#FFFFFF"><i>So I exist in this Wasteland.</i></font>
+
+30
+00:03:12,318 --> 00:03:16,399
+<font color="#FFFFFF"><i>A man reduced to a single instinct:</i></font>
+
+31
+00:03:17,211 --> 00:03:18,581
+<font color="#FFFFFF"><i>Survive.</i></font>
+
+32
+00:04:38,812 --> 00:04:40,985
+<font color="#FFFFFF">Max? Is that you?</font>
+
+33
+00:04:41,682 --> 00:04:42,774
+<font color="#FFFFFF">Where were you?</font>
+
+34
+00:04:45,136 --> 00:04:48,694
+<font color="#FFFFFF">Help us. Where were you?
+Where were you, Max?</font>
+
+35
+00:05:05,084 --> 00:05:06,646
+<font color="#FFFFFF">Where were you, Max?
+Stop running.</font>
+
+36
+00:05:08,468 --> 00:05:09,451
+<font color="#FFFFFF">You let us die!</font>
+
+37
+00:05:10,966 --> 00:05:12,372
+<font color="#FFFFFF">You let us die!</font>
+
+38
+00:05:12,634 --> 00:05:13,824
+<font color="#FFFFFF">You let us die!</font>
+
+39
+00:05:14,262 --> 00:05:15,702
+<font color="#FFFFFF">You promised to help us!</font>
+
+40
+00:05:15,783 --> 00:05:16,149
+<font color="#FFFFFF">Why?</font>
+
+41
+00:05:35,855 --> 00:05:37,656
+<font color="#FFFFFF">Witness!</font>
+
+42
+00:05:39,338 --> 00:05:40,519
+<font color="#FFFFFF">I got him.</font>
+
+43
+00:06:30,161 --> 00:06:33,038
+<font color="#FFFFFF">- We are War Boys!
+- War Boys!</font>
+
+44
+00:06:33,180 --> 00:06:36,380
+<font color="#FFFFFF">- Kamakrazee War Boys!
+- War Boys!</font>
+
+45
+00:06:36,382 --> 00:06:39,949
+<font color="#FFFFFF">Fucacima kamakrazee War Boys!</font>
+
+46
+00:06:40,324 --> 00:06:42,201
+<font color="#FFFFFF">Hooked on!</font>
+
+47
+00:06:42,994 --> 00:06:46,901
+<font color="#FFFFFF">- Today we're heading to Gas Town!
+- Gas Town!</font>
+
+48
+00:06:47,233 --> 00:06:49,478
+<font color="#FFFFFF"><i>Today we're hauling Aqua Cola.</i></font>
+
+49
+00:06:49,951 --> 00:06:51,231
+<font color="#FFFFFF"><i>Aqua Cola!</i></font>
+
+50
+00:06:51,699 --> 00:06:55,244
+<font color="#FFFFFF"><i>- Today we're hauling produce!
+- Produce!</i></font>
+
+51
+00:06:55,245 --> 00:06:57,478
+<font color="#FFFFFF"><i>And today we're hauling
+Mother's Milk!</i></font>
+
+52
+00:06:57,707 --> 00:06:59,178
+<font color="#FFFFFF">Mother's Milk!</font>
+
+53
+00:07:23,869 --> 00:07:28,447
+<font color="#FFFFFF">Joe! Joe! Joe! Immortan Joe!</font>
+
+54
+00:07:48,192 --> 00:07:51,694
+<font color="#FFFFFF">Rev it up for the Immortan Joe!</font>
+
+55
+00:07:59,542 --> 00:08:02,894
+<font color="#FFFFFF">Once again, we send off my War Rig...</font>
+
+56
+00:08:02,894 --> 00:08:08,954
+<font color="#FFFFFF">to bring back gasoline from Gas Town
+and bullets from the Bullet Farm!</font>
+
+57
+00:08:09,750 --> 00:08:15,339
+<font color="#FFFFFF">Once again, I salute
+my Imperator Furiosa!</font>
+
+58
+00:08:15,625 --> 00:08:19,571
+<font color="#FFFFFF">And I salute my half-life War Boys...</font>
+
+59
+00:08:19,572 --> 00:08:24,814
+<font color="#FFFFFF">who will ride with me eternal
+on the highways of Valhalla.</font>
+
+60
+00:08:24,815 --> 00:08:27,199
+<font color="#FFFFFF">V8! V8! V8! V8!</font>
+
+61
+00:08:27,396 --> 00:08:30,103
+<font color="#FFFFFF">I am your redeemer.</font>
+
+62
+00:08:30,321 --> 00:08:37,504
+<font color="#FFFFFF">It is by my hand you will rise
+from the ashes of this world!</font>
+
+63
+00:08:45,495 --> 00:08:47,899
+<font color="#FFFFFF">It's coming. Get ready.</font>
+
+64
+00:08:48,038 --> 00:08:52,003
+<font color="#FFFFFF">Yes. Yes. Yes. It's coming.</font>
+
+65
+00:09:48,604 --> 00:09:53,211
+<font color="#FFFFFF">Do not, my friends,
+become addicted to water.</font>
+
+66
+00:09:53,341 --> 00:09:58,101
+<font color="#FFFFFF">It will take hold of you
+and you will resent its absence.</font>
+
+67
+00:10:22,985 --> 00:10:24,380
+<font color="#FFFFFF">Clear off!</font>
+
+68
+00:10:26,076 --> 00:10:27,822
+<font color="#FFFFFF">Get them all off!</font>
+
+69
+00:10:28,615 --> 00:10:29,974
+<font color="#FFFFFF">Clear off!</font>
+
+70
+00:10:39,198 --> 00:10:41,880
+<font color="#FFFFFF">Signal Gas Town.
+Convoy's on its way.</font>
+
+71
+00:11:09,500 --> 00:11:13,671
+<font color="#FFFFFF">I got a War Boy running on empty.
+Hook up that full-life.</font>
+
+72
+00:11:17,258 --> 00:11:20,200
+<font color="#FFFFFF">Hey! Careful.
+That's a universal donor.</font>
+
+73
+00:12:17,374 --> 00:12:19,326
+<font color="#FFFFFF">Boss, we're not going to Gas Town?</font>
+
+74
+00:12:21,977 --> 00:12:23,260
+<font color="#FFFFFF">Bullet Farm?</font>
+
+75
+00:12:25,850 --> 00:12:27,298
+<font color="#FFFFFF">We're heading east.</font>
+
+76
+00:12:29,184 --> 00:12:30,740
+<font color="#FFFFFF">I'll pass it down the line.</font>
+
+77
+00:12:32,052 --> 00:12:35,259
+<font color="#FFFFFF">New orders!
+Thunder up! Thunder up!</font>
+
+78
+00:12:35,673 --> 00:12:37,423
+<font color="#FFFFFF">This is not a supply run!</font>
+
+79
+00:12:37,908 --> 00:12:40,847
+<font color="#FFFFFF">- Go. Go.
+- Ace, what's going on?</font>
+
+80
+00:12:40,849 --> 00:12:41,799
+<font color="#FFFFFF">We're heading east.</font>
+
+81
+00:12:41,924 --> 00:12:44,176
+<font color="#FFFFFF">- Why?
+- I don't know. That's the order.</font>
+
+82
+00:13:02,513 --> 00:13:05,907
+<font color="#FFFFFF">- Moo.
+- Hey, Pa. You know about this?</font>
+
+83
+00:13:06,908 --> 00:13:09,344
+<font color="#FFFFFF">Your produce ain't going to Gas Town.</font>
+
+84
+00:13:19,143 --> 00:13:20,870
+<font color="#FFFFFF">She's gone off-road...</font>
+
+85
+00:13:21,374 --> 00:13:23,268
+<font color="#FFFFFF">into hostile territory.</font>
+
+86
+00:13:25,375 --> 00:13:27,311
+<font color="#FFFFFF">Why would she do that, dad?</font>
+
+87
+00:13:29,077 --> 00:13:31,404
+<font color="#FFFFFF">- Let me see. Let me see.
+- Rictus. - I wanna see!</font>
+
+88
+00:13:31,405 --> 00:13:34,500
+<font color="#FFFFFF">Rictus. Go see what's agitating Dad.</font>
+
+89
+00:14:02,677 --> 00:14:04,110
+<font color="#FFFFFF">Splendid!</font>
+
+90
+00:14:05,432 --> 00:14:06,883
+<font color="#FFFFFF">Angharad!</font>
+
+91
+00:14:16,568 --> 00:14:19,855
+<font color="#FFFFFF">- Where are they?
+- They are not your property!</font>
+
+92
+00:14:19,855 --> 00:14:23,618
+<font color="#FFFFFF">- Miss Giddy?
+- You cannot own a human being!</font>
+
+93
+00:14:23,811 --> 00:14:26,153
+<font color="#FFFFFF">Sooner or later someone pushes back!</font>
+
+94
+00:14:26,347 --> 00:14:28,477
+<font color="#FFFFFF">Where is she taking them?</font>
+
+95
+00:14:28,717 --> 00:14:30,934
+<font color="#FFFFFF">She didn't take them.
+They begged her to go!</font>
+
+96
+00:14:32,942 --> 00:14:36,491
+<font color="#FFFFFF">- Where is she taking them?
+- A long way from you.</font>
+
+97
+00:15:02,567 --> 00:15:03,889
+<font color="#FFFFFF">Hey, what's happening?</font>
+
+98
+00:15:06,178 --> 00:15:08,932
+<font color="#FFFFFF">Slit! What's going on?</font>
+
+99
+00:15:09,086 --> 00:15:11,270
+<font color="#FFFFFF">- Slit!
+- Treason. Betrayal.</font>
+
+100
+00:15:11,272 --> 00:15:12,673
+<font color="#FFFFFF">An Imperator gone rogue.</font>
+
+101
+00:15:12,674 --> 00:15:14,225
+<font color="#FFFFFF">An Imperator? Who?</font>
+
+102
+00:15:14,451 --> 00:15:17,335
+<font color="#FFFFFF">Furiosa! She took a lot of stuff
+from Immortan Joe.</font>
+
+103
+00:15:17,547 --> 00:15:20,722
+<font color="#FFFFFF">- What stuff?
+- Breeders! His prize breeders!</font>
+
+104
+00:15:20,922 --> 00:15:23,294
+<font color="#FFFFFF">He wants them back!
+Not a hand laid on them.</font>
+
+105
+00:15:30,398 --> 00:15:33,610
+<font color="#FFFFFF">By my deeds I honor him.
+V8.</font>
+
+106
+00:15:37,249 --> 00:15:39,320
+<font color="#FFFFFF">V8! V8! V8!</font>
+
+107
+00:15:45,756 --> 00:15:47,520
+<font color="#FFFFFF">- That's my wheel.
+- I'm driving.</font>
+
+108
+00:15:47,725 --> 00:15:49,802
+<font color="#FFFFFF">- You're my lancer.
+- I just promoted myself.</font>
+
+109
+00:15:49,802 --> 00:15:52,394
+<font color="#FFFFFF">No. Not today. Today is my day.</font>
+
+110
+00:15:52,395 --> 00:15:55,210
+<font color="#FFFFFF">Look at you. If you can't stand up,
+you can't do war.</font>
+
+111
+00:15:55,456 --> 00:15:59,187
+<font color="#FFFFFF">- He's right, son.
+- I'm not staying here dying soft.</font>
+
+112
+00:15:59,398 --> 00:16:01,102
+<font color="#FFFFFF">You're already a corpse.</font>
+
+113
+00:16:01,277 --> 00:16:03,294
+<font color="#FFFFFF">- I just need a top-up. More juice.
+- No time!</font>
+
+114
+00:16:04,152 --> 00:16:05,236
+<font color="#FFFFFF">We take my Blood Bag.</font>
+
+115
+00:16:05,403 --> 00:16:07,631
+<font color="#FFFFFF">We take my Blood Bag
+and strap him to the lancer's perch.</font>
+
+116
+00:16:07,633 --> 00:16:09,875
+<font color="#FFFFFF">It's got a muzzle on it.
+It's a raging feral!</font>
+
+117
+00:16:10,386 --> 00:16:12,578
+<font color="#FFFFFF">That's right. High-octane
+crazy blood filling me up.</font>
+
+118
+00:16:17,855 --> 00:16:18,650
+<font color="#FFFFFF">If I'm gonna die...</font>
+
+119
+00:16:20,296 --> 00:16:22,073
+<font color="#FFFFFF">I'm gonna die historic
+on the Fury Road.</font>
+
+120
+00:16:28,658 --> 00:16:30,650
+<font color="#FFFFFF">Yeah. Yeah.</font>
+
+121
+00:16:30,803 --> 00:16:33,932
+<font color="#FFFFFF">Organic, hitch up his Blood Bag.</font>
+
+122
+00:16:34,361 --> 00:16:35,365
+<font color="#FFFFFF">Right-o.</font>
+
+123
+00:16:45,479 --> 00:16:49,480
+<font color="#FFFFFF">How much more can they take from me?
+They've got my blood. Now it's my car!</font>
+
+124
+00:17:27,771 --> 00:17:29,335
+<font color="#FFFFFF">Immortan!</font>
+
+125
+00:17:30,085 --> 00:17:31,499
+<font color="#FFFFFF">Immortan Joe!</font>
+
+126
+00:17:34,465 --> 00:17:35,740
+<font color="#FFFFFF">He looked at me!</font>
+
+127
+00:17:36,515 --> 00:17:39,407
+<font color="#FFFFFF">- He looked right at me!
+- He looked at your Blood Bag!</font>
+
+128
+00:17:39,603 --> 00:17:42,041
+<font color="#FFFFFF">He turned his head.
+He looked me in the eye.</font>
+
+129
+00:17:42,219 --> 00:17:44,343
+<font color="#FFFFFF">He was scanning the horizon.</font>
+
+130
+00:17:44,802 --> 00:17:47,260
+<font color="#FFFFFF">No. I am awaited.</font>
+
+131
+00:17:47,895 --> 00:17:49,925
+<font color="#FFFFFF">I am awaited in Valhalla!</font>
+
+132
+00:17:52,577 --> 00:17:54,425
+<font color="#FFFFFF">Confucamus!</font>
+
+133
+00:17:56,952 --> 00:17:57,942
+<font color="#FFFFFF">Immortan!</font>
+
+134
+00:18:20,269 --> 00:18:23,136
+<font color="#FFFFFF">- Hey! Heads up!
+- Heads up!</font>
+
+135
+00:18:28,135 --> 00:18:29,019
+<font color="#FFFFFF">Boss!</font>
+
+136
+00:18:30,228 --> 00:18:33,250
+<font color="#FFFFFF">We got vehicles from the Citadel.
+They're firing flares.</font>
+
+137
+00:18:33,250 --> 00:18:36,251
+<font color="#FFFFFF">They want reinforcements
+from Gas Town and the Bullet Farm.</font>
+
+138
+00:18:36,458 --> 00:18:38,599
+<font color="#FFFFFF">What is this?
+Backup? Decoy?</font>
+
+139
+00:18:40,223 --> 00:18:41,454
+<font color="#FFFFFF">It's a detour.</font>
+
+140
+00:19:13,906 --> 00:19:14,763
+<font color="#FFFFFF">Eyes right!</font>
+
+141
+00:19:18,180 --> 00:19:19,194
+<font color="#FFFFFF">Buzzards!</font>
+
+142
+00:19:19,509 --> 00:19:23,625
+<font color="#FFFFFF">- Buzzards right! Eyes on! Eyes on!
+- Buzzards right! Eyes on!</font>
+
+143
+00:19:26,496 --> 00:19:29,398
+<font color="#FFFFFF">Should we turn it around
+and run them into our backup?</font>
+
+144
+00:19:31,231 --> 00:19:32,788
+<font color="#FFFFFF">No! We're good!</font>
+
+145
+00:19:33,762 --> 00:19:34,986
+<font color="#FFFFFF">We fang it!</font>
+
+146
+00:19:38,409 --> 00:19:40,529
+<font color="#FFFFFF">Thunder up! Here we go!</font>
+
+147
+00:19:43,604 --> 00:19:45,140
+<font color="#FFFFFF">Prepare the gunners!</font>
+
+148
+00:20:14,525 --> 00:20:15,759
+<font color="#FFFFFF">Morsov!</font>
+
+149
+00:20:32,936 --> 00:20:33,560
+<font color="#FFFFFF">War!</font>
+
+150
+00:20:42,429 --> 00:20:43,411
+<font color="#FFFFFF">Ready!</font>
+
+151
+00:21:27,778 --> 00:21:30,307
+<font color="#FFFFFF">She's ours, Slit!
+She's ours.</font>
+
+152
+00:21:30,374 --> 00:21:32,790
+<font color="#FFFFFF">First, we get the Buzzards off her back!</font>
+
+153
+00:21:38,905 --> 00:21:39,801
+<font color="#FFFFFF">Form up!</font>
+
+154
+00:21:44,113 --> 00:21:45,115
+<font color="#FFFFFF">That's my head!</font>
+
+155
+00:22:20,490 --> 00:22:22,482
+<font color="#FFFFFF">Get up! You can do it!</font>
+
+156
+00:22:27,743 --> 00:22:28,675
+<font color="#FFFFFF">Morsov!</font>
+
+157
+00:22:30,252 --> 00:22:32,396
+<font color="#FFFFFF">- Morsov!
+- No!</font>
+
+158
+00:22:32,686 --> 00:22:35,299
+<font color="#FFFFFF">- Witness me!
+- Witness!</font>
+
+159
+00:22:46,864 --> 00:22:48,268
+<font color="#FFFFFF">- Witness!
+- Witness!</font>
+
+160
+00:22:50,013 --> 00:22:53,929
+<font color="#FFFFFF">- Mediocre, Morsov!
+- Mediocre!</font>
+
+161
+00:23:27,910 --> 00:23:28,758
+<font color="#FFFFFF">Back me in!</font>
+
+162
+00:23:33,113 --> 00:23:34,069
+<font color="#FFFFFF">They're coming!</font>
+
+163
+00:23:51,996 --> 00:23:55,039
+<font color="#FFFFFF">- We can't breathe down there!
+- Stay out of sight!</font>
+
+164
+00:23:56,242 --> 00:23:56,859
+<font color="#FFFFFF">Now!</font>
+
+165
+00:24:09,424 --> 00:24:10,359
+<font color="#FFFFFF">Go back!</font>
+
+166
+00:24:11,817 --> 00:24:12,470
+<font color="#FFFFFF">Where's he going?</font>
+
+167
+00:24:12,859 --> 00:24:14,414
+<font color="#FFFFFF">Hydraulics! Hydraulics!</font>
+
+168
+00:24:42,969 --> 00:24:44,903
+<font color="#FFFFFF">Now we bring home the booty.</font>
+
+169
+00:25:11,664 --> 00:25:13,538
+<font color="#FFFFFF">She thinks she can lose us, Dad.</font>
+
+170
+00:25:13,962 --> 00:25:15,740
+<font color="#FFFFFF">She thinks we're stupid.</font>
+
+171
+00:25:16,088 --> 00:25:18,167
+<font color="#FFFFFF">She thinks she can lose us in there!</font>
+
+172
+00:25:37,192 --> 00:25:39,958
+<font color="#FFFFFF">Fang it! Fang it!</font>
+
+173
+00:25:46,238 --> 00:25:47,057
+<font color="#FFFFFF">Why can't you stop?</font>
+
+174
+00:25:48,546 --> 00:25:51,047
+<font color="#FFFFFF">Crew! Out of the way!
+Out of the way!</font>
+
+175
+00:25:51,240 --> 00:25:52,290
+<font color="#FFFFFF">What have you done?</font>
+
+176
+00:25:52,853 --> 00:25:53,834
+<font color="#FFFFFF">What have you done?</font>
+
+177
+00:26:16,089 --> 00:26:18,051
+<font color="#FFFFFF">We need counterweight.
+Get the Blood Bag down the back.</font>
+
+178
+00:26:29,192 --> 00:26:31,701
+<font color="#FFFFFF">Hunt them down! Hunt them down!</font>
+
+179
+00:26:57,460 --> 00:27:00,930
+<font color="#FFFFFF">Hey, head! Say bye-bye to the neck!
+Decapito!</font>
+
+180
+00:27:01,138 --> 00:27:01,806
+<font color="#FFFFFF">We're going in, Slit!</font>
+
+181
+00:28:04,755 --> 00:28:07,200
+<font color="#FFFFFF">Come on! We've almost got her!</font>
+
+182
+00:28:15,391 --> 00:28:18,366
+<font color="#FFFFFF">Come on! Hold it steady!</font>
+
+183
+00:28:45,836 --> 00:28:48,219
+<font color="#FFFFFF">Oh, what a day!
+What a lovely day!</font>
+
+184
+00:29:08,025 --> 00:29:09,170
+<font color="#FFFFFF">I'm the man...</font>
+
+185
+00:29:09,882 --> 00:29:11,001
+<font color="#FFFFFF">who grabs the sun...</font>
+
+186
+00:29:13,920 --> 00:29:15,635
+<font color="#FFFFFF">riding to Valhalla!</font>
+
+187
+00:29:18,500 --> 00:29:20,075
+<font color="#FFFFFF">Witness me, Blood Bag!</font>
+
+188
+00:29:24,488 --> 00:29:25,736
+<font color="#FFFFFF">Witness!</font>
+
+189
+00:29:49,854 --> 00:29:51,969
+<font color="#FFFFFF">I live, I die, I live again!</font>
+
+190
+00:33:35,069 --> 00:33:36,348
+<font color="#FFFFFF">We're not going back.</font>
+
+191
+00:34:05,460 --> 00:34:06,578
+<font color="#FFFFFF">Water.</font>
+
+192
+00:35:02,333 --> 00:35:02,795
+<font color="#FFFFFF">You.</font>
+
+193
+00:35:18,291 --> 00:35:22,987
+<font color="#FFFFFF">Angharad, is that just the wind
+or is that a furious vexation?</font>
+
+194
+00:36:52,846 --> 00:36:53,762
+<font color="#FFFFFF">I got it!</font>
+
+195
+00:37:35,469 --> 00:37:38,411
+<font color="#FFFFFF">Glory me, Blood Bag!
+We snagged her alive.</font>
+
+196
+00:37:38,657 --> 00:37:41,105
+<font color="#FFFFFF">He's gonna shred her.
+Shred her!</font>
+
+197
+00:37:41,266 --> 00:37:44,083
+<font color="#FFFFFF">Bolt cutters. Chain.</font>
+
+198
+00:37:51,148 --> 00:37:52,197
+<font color="#FFFFFF">Oh, look at them.</font>
+
+199
+00:37:52,846 --> 00:37:55,313
+<font color="#FFFFFF">So shiny. So chrome.</font>
+
+200
+00:37:55,766 --> 00:37:56,902
+<font color="#FFFFFF">He's gonna be so grateful.</font>
+
+201
+00:37:57,958 --> 00:37:59,378
+<font color="#FFFFFF">We could ask for anything.</font>
+
+202
+00:38:00,409 --> 00:38:01,981
+<font color="#FFFFFF">I wanna drive the War Rig.</font>
+
+203
+00:38:03,436 --> 00:38:05,436
+<font color="#FFFFFF">- What are you gonna ask for?
+- That's my jacket.</font>
+
+204
+00:38:06,335 --> 00:38:07,336
+<font color="#FFFFFF">Heh, heh. Sure.</font>
+
+205
+00:38:08,391 --> 00:38:11,253
+<font color="#FFFFFF">- You can ask for more than a jacket.
+- We're going to the Green Place.</font>
+
+206
+00:38:11,452 --> 00:38:12,248
+<font color="#FFFFFF">Wait, it's you and me. Ugh!</font>
+
+207
+00:38:26,820 --> 00:38:29,338
+<font color="#FFFFFF">We're going to the Green Place
+of Many Mothers.</font>
+
+208
+00:38:47,856 --> 00:38:51,079
+<font color="#FFFFFF">- How does it feel?
+- It hurts.</font>
+
+209
+00:38:51,150 --> 00:38:53,052
+<font color="#FFFFFF">Out here, everything hurts.</font>
+
+210
+00:38:54,971 --> 00:38:56,317
+<font color="#FFFFFF">You wanna get through this?</font>
+
+211
+00:39:00,226 --> 00:39:01,143
+<font color="#FFFFFF">Do as I say.</font>
+
+212
+00:39:06,538 --> 00:39:08,217
+<font color="#FFFFFF">Now pick up what you can and run.</font>
+
+213
+00:39:50,943 --> 00:39:52,340
+<font color="#FFFFFF">Kill switches.</font>
+
+214
+00:39:54,021 --> 00:39:55,545
+<font color="#FFFFFF">I set the sequence myself.</font>
+
+215
+00:39:55,947 --> 00:39:57,724
+<font color="#FFFFFF">This Rig goes nowhere without me.</font>
+
+216
+00:40:01,653 --> 00:40:02,952
+<font color="#FFFFFF">You can get in.</font>
+
+217
+00:40:04,344 --> 00:40:05,559
+<font color="#FFFFFF">Not without them.</font>
+
+218
+00:40:14,148 --> 00:40:15,320
+<font color="#FFFFFF">So we wait.</font>
+
+219
+00:40:24,211 --> 00:40:26,619
+<font color="#FFFFFF">You're relying on the gratitude
+of a very bad man.</font>
+
+220
+00:40:26,972 --> 00:40:29,820
+<font color="#FFFFFF">You've damaged one of his Wives.
+How grateful do you think he's gonna be?</font>
+
+221
+00:40:37,012 --> 00:40:40,079
+<font color="#FFFFFF">You're sitting on 2000 horsepower
+of nitro-boosted war machine.</font>
+
+222
+00:40:41,094 --> 00:40:43,610
+<font color="#FFFFFF">I'd say you got
+about a five-minute head start.</font>
+
+223
+00:40:51,858 --> 00:40:53,219
+<font color="#FFFFFF">You want that thing off your face?</font>
+
+224
+00:41:06,161 --> 00:41:07,050
+<font color="#FFFFFF">Let's go.</font>
+
+225
+00:41:51,632 --> 00:41:55,161
+<font color="#FFFFFF">Of all the legs you had to shoot,
+that one was attached to his favorite.</font>
+
+226
+00:42:16,041 --> 00:42:16,836
+<font color="#FFFFFF">Smeg!</font>
+
+227
+00:42:37,389 --> 00:42:40,246
+<font color="#FFFFFF">- You don't have to do it just because he
+tells you. - What choice does she have?</font>
+
+228
+00:42:40,246 --> 00:42:41,777
+<font color="#FFFFFF">He's not gonna hurt us.
+He needs us.</font>
+
+229
+00:42:41,777 --> 00:42:44,378
+<font color="#FFFFFF">- Why? - To bargain.
+- Oh, he'll hurt us alright.</font>
+
+230
+00:42:44,380 --> 00:42:46,717
+<font color="#FFFFFF">- Think he's coming to the Green Place?
+- Never!</font>
+
+231
+00:42:46,849 --> 00:42:49,028
+<font color="#FFFFFF">He's a crazy smeg who eats schlanger!</font>
+
+232
+00:43:16,143 --> 00:43:18,099
+<font color="#FFFFFF">- Nah, stay out of there.
+- Behind you.</font>
+
+233
+00:43:23,097 --> 00:43:24,407
+<font color="#FFFFFF">The Gas Town Boys.</font>
+
+234
+00:43:26,349 --> 00:43:28,034
+<font color="#FFFFFF">Don't damage the goods.</font>
+
+235
+00:43:34,740 --> 00:43:35,936
+<font color="#FFFFFF">What do you see?</font>
+
+236
+00:43:38,385 --> 00:43:39,898
+<font color="#FFFFFF">Big Rigs...</font>
+
+237
+00:43:41,521 --> 00:43:42,900
+<font color="#FFFFFF">Polecats...</font>
+
+238
+00:43:43,626 --> 00:43:44,766
+<font color="#FFFFFF">Flamers...</font>
+
+239
+00:43:46,599 --> 00:43:49,018
+<font color="#FFFFFF">and there's the People Eater himself.</font>
+
+240
+00:43:50,215 --> 00:43:52,166
+<font color="#FFFFFF">Coming to count the cost.</font>
+
+241
+00:44:08,469 --> 00:44:12,052
+<font color="#FFFFFF">We're dragging something out back.
+I think it's the fuel pod.</font>
+
+242
+00:44:13,079 --> 00:44:13,811
+<font color="#FFFFFF">No, no.</font>
+
+243
+00:44:15,525 --> 00:44:16,668
+<font color="#FFFFFF">I'll go.</font>
+
+244
+00:45:40,456 --> 00:45:41,708
+<font color="#FFFFFF">Filth! You traitored him!</font>
+
+245
+00:45:46,639 --> 00:45:49,469
+<font color="#FFFFFF">- No unnecessary killing!
+- This War Boy wants me dead!</font>
+
+246
+00:45:49,471 --> 00:45:52,333
+<font color="#FFFFFF">- We agreed!
+- He's kamakrazee!</font>
+
+247
+00:45:53,041 --> 00:45:54,916
+<font color="#FFFFFF">He's just a kid
+at the end of his half-life!</font>
+
+248
+00:45:55,246 --> 00:45:57,251
+<font color="#FFFFFF">No! I live, I die, I live again!</font>
+
+249
+00:45:57,956 --> 00:45:59,673
+<font color="#FFFFFF">- Hold him!
+- Tie him up!</font>
+
+250
+00:45:59,804 --> 00:46:02,146
+<font color="#FFFFFF">- Throw him out!
+- Chuck him out!</font>
+
+251
+00:46:03,456 --> 00:46:04,943
+<font color="#FFFFFF">You got more friends.</font>
+
+252
+00:46:07,405 --> 00:46:10,873
+<font color="#FFFFFF">Bullet Farmer.
+They're coming from the Bullet Farm.</font>
+
+253
+00:46:12,335 --> 00:46:14,081
+<font color="#FFFFFF">It's over. You can't defy him.</font>
+
+254
+00:46:14,804 --> 00:46:15,672
+<font color="#FFFFFF">Just watch us, mate!</font>
+
+255
+00:46:15,673 --> 00:46:18,856
+<font color="#FFFFFF">- He is the one who grabbed the sun.
+- Look how slick he's fooled you, War Boy.</font>
+
+256
+00:46:19,000 --> 00:46:20,483
+<font color="#FFFFFF">He's a lying old man.</font>
+
+257
+00:46:20,744 --> 00:46:22,074
+<font color="#FFFFFF">By his hand we'll be lifted up!</font>
+
+258
+00:46:22,076 --> 00:46:24,449
+<font color="#FFFFFF">That's why we have
+his logo seared on our backs!</font>
+
+259
+00:46:24,670 --> 00:46:26,416
+<font color="#FFFFFF">"Breeding Stock"!
+"Battle Fodder"!</font>
+
+260
+00:46:26,545 --> 00:46:27,570
+<font color="#FFFFFF">No, I am awaited!</font>
+
+261
+00:46:27,764 --> 00:46:29,702
+<font color="#FFFFFF">You're an old man's "Battle Fodder"!</font>
+
+262
+00:46:29,704 --> 00:46:31,523
+<font color="#FFFFFF">Killing everyone and everything!</font>
+
+263
+00:46:31,789 --> 00:46:33,735
+<font color="#FFFFFF">- We're not to blame!
+- Then who killed the world?</font>
+
+264
+00:47:02,043 --> 00:47:03,889
+<font color="#FFFFFF">I made a deal up ahead. Safe passage.</font>
+
+265
+00:47:04,737 --> 00:47:06,432
+<font color="#FFFFFF">I don't know if it's still any good.</font>
+
+266
+00:47:07,440 --> 00:47:10,117
+<font color="#FFFFFF">Get back in the hold!
+Keep the hatch open.</font>
+
+267
+00:47:17,532 --> 00:47:18,360
+<font color="#FFFFFF">I need you here.</font>
+
+268
+00:47:20,788 --> 00:47:22,202
+<font color="#FFFFFF">You may have to drive the Rig.</font>
+
+269
+00:47:27,989 --> 00:47:28,958
+<font color="#FFFFFF">You.</font>
+
+270
+00:47:29,994 --> 00:47:30,847
+<font color="#FFFFFF">You stay.</font>
+
+271
+00:47:32,081 --> 00:47:33,150
+<font color="#FFFFFF">You stay there.</font>
+
+272
+00:47:36,862 --> 00:47:38,840
+<font color="#FFFFFF">Whatever you do, you can't be seen.</font>
+
+273
+00:47:39,492 --> 00:47:42,666
+<font color="#FFFFFF">I'm supposed to be alone.
+That was the deal.</font>
+
+274
+00:47:49,576 --> 00:47:50,614
+<font color="#FFFFFF">Down here.</font>
+
+275
+00:48:13,706 --> 00:48:14,659
+<font color="#FFFFFF">What's your name?</font>
+
+276
+00:48:16,898 --> 00:48:18,418
+<font color="#FFFFFF">What do I call you?</font>
+
+277
+00:48:19,233 --> 00:48:20,139
+<font color="#FFFFFF">Does it matter?</font>
+
+278
+00:48:22,704 --> 00:48:23,710
+<font color="#FFFFFF">Fine.</font>
+
+279
+00:48:24,362 --> 00:48:27,594
+<font color="#FFFFFF">When I yell "fool", you drive
+out of here as fast as you can.</font>
+
+280
+00:48:29,722 --> 00:48:31,128
+<font color="#FFFFFF">This is the sequence:</font>
+
+281
+00:48:31,769 --> 00:48:34,766
+<font color="#FFFFFF">One. One, two. One.</font>
+
+282
+00:48:35,400 --> 00:48:37,753
+<font color="#FFFFFF">Red. Black. Go.</font>
+
+283
+00:48:38,664 --> 00:48:39,972
+<font color="#FFFFFF">You have it?</font>
+
+284
+00:50:05,293 --> 00:50:06,780
+<font color="#FFFFFF">It's all here!</font>
+
+285
+00:50:07,987 --> 00:50:10,875
+<font color="#FFFFFF">3,000 gallons of gasoline,
+just like you asked!</font>
+
+286
+00:50:15,023 --> 00:50:16,625
+<font color="#FFFFFF">I'm gonna unhitch the pod.</font>
+
+287
+00:50:18,750 --> 00:50:20,331
+<font color="#FFFFFF">You drop the rocks.</font>
+
+288
+00:50:28,802 --> 00:50:33,385
+<font color="#FFFFFF">You said:
+"A few vehicles in pursuit. Maybe."</font>
+
+289
+00:50:33,902 --> 00:50:36,186
+<font color="#FFFFFF">We count three War Parties!</font>
+
+290
+00:50:37,108 --> 00:50:38,961
+<font color="#FFFFFF">Yeah, well, I got unlucky.</font>
+
+291
+00:50:39,449 --> 00:50:40,630
+<font color="#FFFFFF">Let's do this!</font>
+
+292
+00:51:07,626 --> 00:51:08,425
+<font color="#FFFFFF">Fool!</font>
+
+293
+00:51:49,389 --> 00:51:50,943
+<font color="#FFFFFF">That's our fuel!</font>
+
+294
+00:52:05,503 --> 00:52:07,461
+<font color="#FFFFFF">Make way for the Ripsaw!</font>
+
+295
+00:52:22,744 --> 00:52:26,755
+<font color="#FFFFFF">Once I'm over, clear the rocks
+and bring everyone through.</font>
+
+296
+00:52:26,755 --> 00:52:29,737
+<font color="#FFFFFF">Immortan!
+Immortan Joe!</font>
+
+297
+00:52:30,001 --> 00:52:33,101
+<font color="#FFFFFF">I got a War Boy!
+Says he was on the War Rig.</font>
+
+298
+00:52:35,840 --> 00:52:37,539
+<font color="#FFFFFF">You! Climb aboard!</font>
+
+299
+00:52:42,068 --> 00:52:45,572
+<font color="#FFFFFF">I got his boot!
+I got the Blood Bag's boot!</font>
+
+300
+00:52:46,119 --> 00:52:49,295
+<font color="#FFFFFF">Take me! I got his boot!</font>
+
+301
+00:52:51,364 --> 00:52:53,807
+<font color="#FFFFFF">All this for a family squabble.</font>
+
+302
+00:52:54,650 --> 00:52:56,494
+<font color="#FFFFFF">Healthy babies.</font>
+
+303
+00:55:04,340 --> 00:55:05,534
+<font color="#FFFFFF">Reload the clip.</font>
+
+304
+00:55:06,739 --> 00:55:07,717
+<font color="#FFFFFF">I can't.</font>
+
+305
+00:55:14,543 --> 00:55:15,027
+<font color="#FFFFFF">Gun!</font>
+
+306
+00:55:16,922 --> 00:55:18,432
+<font color="#FFFFFF">- Gimme the gun!
+- Not loaded yet!</font>
+
+307
+00:55:18,648 --> 00:55:20,541
+<font color="#FFFFFF">- Now!
+- We had a deal!</font>
+
+308
+00:56:09,389 --> 00:56:10,588
+<font color="#FFFFFF">Rictus!</font>
+
+309
+00:56:11,139 --> 00:56:13,570
+<font color="#FFFFFF">The Wives!
+No more flames.</font>
+
+310
+00:56:20,543 --> 00:56:21,688
+<font color="#FFFFFF">Splendid!</font>
+
+311
+00:56:22,445 --> 00:56:23,317
+<font color="#FFFFFF">Splendid!</font>
+
+312
+00:56:23,733 --> 00:56:27,025
+<font color="#FFFFFF">That's my child!
+My property!</font>
+
+313
+00:56:29,239 --> 00:56:29,900
+<font color="#FFFFFF">Immorta—</font>
+
+314
+00:56:39,726 --> 00:56:43,278
+<font color="#FFFFFF">Immortan. If I get on the Rig,
+there's a way inside.</font>
+
+315
+00:56:43,768 --> 00:56:45,804
+<font color="#FFFFFF">- What is your name?
+- It's Nux.</font>
+
+316
+00:56:46,309 --> 00:56:48,427
+<font color="#FFFFFF">I'll pike her in the spine.
+Keep her breathing for you.</font>
+
+317
+00:56:48,867 --> 00:56:49,695
+<font color="#FFFFFF">No.</font>
+
+318
+00:56:50,235 --> 00:56:51,811
+<font color="#FFFFFF">Put a bullet in her skull...</font>
+
+319
+00:56:51,860 --> 00:56:54,534
+<font color="#FFFFFF">stop the Rig,
+return my treasures to me...</font>
+
+320
+00:56:55,085 --> 00:57:00,467
+<font color="#FFFFFF">and I, myself, will carry you
+to the Gates of Valhalla.</font>
+
+321
+00:57:01,108 --> 00:57:02,103
+<font color="#FFFFFF">Am I awaited?</font>
+
+322
+00:57:03,295 --> 00:57:07,081
+<font color="#FFFFFF">You will ride eternal,
+shiny and chrome.</font>
+
+323
+00:57:08,606 --> 00:57:12,052
+<font color="#FFFFFF">Rictus! Help him aboard!</font>
+
+324
+00:57:13,699 --> 00:57:14,856
+<font color="#FFFFFF">Ready?</font>
+
+325
+00:57:15,460 --> 00:57:16,532
+<font color="#FFFFFF">Here we go!</font>
+
+326
+00:57:28,719 --> 00:57:30,347
+<font color="#FFFFFF">Mediocre!</font>
+
+327
+00:58:00,302 --> 00:58:01,021
+<font color="#FFFFFF">Schlanger!</font>
+
+328
+00:58:21,978 --> 00:58:22,742
+<font color="#FFFFFF">Look out!</font>
+
+329
+00:58:26,615 --> 00:58:29,108
+<font color="#FFFFFF">Angharad! Get out!</font>
+
+330
+00:58:50,068 --> 00:58:51,920
+<font color="#FFFFFF">- No!
+- Angharad!</font>
+
+331
+00:59:06,840 --> 00:59:08,983
+<font color="#FFFFFF">Stop! Turn the Rig around!</font>
+
+332
+00:59:10,088 --> 00:59:11,400
+<font color="#FFFFFF">Go back for her!</font>
+
+333
+00:59:12,894 --> 00:59:13,849
+<font color="#FFFFFF">No.</font>
+
+334
+00:59:13,960 --> 00:59:16,684
+<font color="#FFFFFF">- Tell him to turn the Rig around!
+- Did you see it?</font>
+
+335
+00:59:17,351 --> 00:59:20,889
+<font color="#FFFFFF">- She went under the wheels.
+- Did you see it?</font>
+
+336
+00:59:22,554 --> 00:59:24,143
+<font color="#FFFFFF">She went under the wheels.</font>
+
+337
+00:59:25,561 --> 00:59:27,498
+<font color="#FFFFFF">- We keep moving.
+- No!</font>
+
+338
+00:59:27,637 --> 00:59:30,333
+<font color="#FFFFFF">- We keep moving!
+- He doesn't know what he's talking about!</font>
+
+339
+00:59:31,088 --> 00:59:33,094
+<font color="#FFFFFF">Whatever happens,
+we're going to the Green Place.</font>
+
+340
+00:59:33,094 --> 00:59:35,597
+<font color="#FFFFFF">The stupid Green Place.
+We don't even know where to find it!</font>
+
+341
+00:59:48,396 --> 00:59:50,581
+<font color="#FFFFFF">- You all right?
+- On! On!</font>
+
+342
+01:00:28,887 --> 01:00:29,891
+<font color="#FFFFFF">Cheedo!</font>
+
+343
+01:00:30,568 --> 01:00:32,976
+<font color="#FFFFFF">- Cheedo, don't be stupid.
+- Stop!</font>
+
+344
+01:00:33,253 --> 01:00:36,291
+<font color="#FFFFFF">- He'll forgive us. I know he will.
+- There is no going back!</font>
+
+345
+01:00:36,485 --> 01:00:39,722
+<font color="#FFFFFF">- We were his treasures!
+- Cheedo! - We were protected!</font>
+
+346
+01:00:39,724 --> 01:00:43,201
+<font color="#FFFFFF">- He gave us the high life! What's wrong
+with that? - We are not things.</font>
+
+347
+01:00:44,416 --> 01:00:45,210
+<font color="#FFFFFF">No!</font>
+
+348
+01:00:46,682 --> 01:00:49,644
+<font color="#FFFFFF">- Cheedo, we are not things!
+- We are not things.</font>
+
+349
+01:00:49,646 --> 01:00:51,101
+<font color="#FFFFFF">I don't want to hear that again!</font>
+
+350
+01:00:51,103 --> 01:00:53,876
+<font color="#FFFFFF">- They were her words!
+- And now she's dead!</font>
+
+351
+01:00:55,121 --> 01:00:57,882
+<font color="#FFFFFF">Wring your hands and tear your hair
+but you're not going back.</font>
+
+352
+01:00:58,420 --> 01:01:01,585
+<font color="#FFFFFF">- You're not going back to him.
+- Angharad!</font>
+
+353
+01:01:01,606 --> 01:01:03,246
+<font color="#FFFFFF">Come on! Come on!</font>
+
+354
+01:01:20,878 --> 01:01:22,251
+<font color="#FFFFFF">So, um, ahem...</font>
+
+355
+01:01:23,505 --> 01:01:25,036
+<font color="#FFFFFF">where is this...</font>
+
+356
+01:01:26,512 --> 01:01:28,344
+<font color="#FFFFFF">Green Place?</font>
+
+357
+01:01:29,416 --> 01:01:31,398
+<font color="#FFFFFF">It's a long night's run, heading east.</font>
+
+358
+01:01:33,913 --> 01:01:37,719
+<font color="#FFFFFF">We need inventory. I want you
+to match every gun with its bullets.</font>
+
+359
+01:01:41,797 --> 01:01:45,268
+<font color="#FFFFFF">- I'm gonna go and do some repairs.
+- We need someone down the back.</font>
+
+360
+01:01:45,393 --> 01:01:46,992
+<font color="#FFFFFF">- I'll go.
+- No.</font>
+
+361
+01:01:47,231 --> 01:01:48,887
+<font color="#FFFFFF">I want you to stay together.</font>
+
+362
+01:01:49,597 --> 01:01:50,815
+<font color="#FFFFFF">I can do it.</font>
+
+363
+01:02:24,018 --> 01:02:25,141
+<font color="#FFFFFF">What are you doing here?</font>
+
+364
+01:02:26,519 --> 01:02:29,797
+<font color="#FFFFFF">He saw it.
+He saw it all.</font>
+
+365
+01:02:31,208 --> 01:02:33,697
+<font color="#FFFFFF">My own Blood Bag
+driving the Rig that killed her.</font>
+
+366
+01:02:41,717 --> 01:02:42,677
+<font color="#FFFFFF">Stop doing that.</font>
+
+367
+01:02:46,344 --> 01:02:47,288
+<font color="#FFFFFF">Stop.</font>
+
+368
+01:02:57,940 --> 01:03:00,268
+<font color="#FFFFFF">Three times the gates were open to me.</font>
+
+369
+01:03:00,753 --> 01:03:04,112
+<font color="#FFFFFF">- What gates?
+- I was awaited in Valhalla.</font>
+
+370
+01:03:04,365 --> 01:03:06,023
+<font color="#FFFFFF">They were calling my name.</font>
+
+371
+01:03:06,731 --> 01:03:10,434
+<font color="#FFFFFF">I should be walking with the Immortan.
+Feasting with the heroes of all time.</font>
+
+372
+01:03:13,981 --> 01:03:17,103
+<font color="#FFFFFF">I'd say it was
+your manifest destiny not to.</font>
+
+373
+01:03:18,791 --> 01:03:21,407
+<font color="#FFFFFF">I thought I was being spared
+for something great.</font>
+
+374
+01:03:21,623 --> 01:03:25,266
+<font color="#FFFFFF">I got to drive a pursuit vehicle.</font>
+
+375
+01:03:25,931 --> 01:03:28,983
+<font color="#FFFFFF">For a while even Larry and Barry
+stopped chewing on my windpipe.</font>
+
+376
+01:03:29,521 --> 01:03:31,090
+<font color="#FFFFFF">Who are Larry and Barry?</font>
+
+377
+01:03:32,007 --> 01:03:33,226
+<font color="#FFFFFF">My mates.</font>
+
+378
+01:03:33,806 --> 01:03:35,269
+<font color="#FFFFFF">Larry and Barry.</font>
+
+379
+01:03:37,697 --> 01:03:39,766
+<font color="#FFFFFF">If they don't get me,
+then the Night Fevers will.</font>
+
+380
+01:04:04,380 --> 01:04:08,056
+<font color="#FFFFFF">Well, we've only got four for Big Boy here,
+so he's all but useless.</font>
+
+381
+01:04:09,525 --> 01:04:15,057
+<font color="#FFFFFF">But... we can squirt off this little pinky
+a raunchy 29 times.</font>
+
+382
+01:04:17,318 --> 01:04:19,367
+<font color="#FFFFFF">Angharad used to call them Antiseed.</font>
+
+383
+01:04:20,422 --> 01:04:22,706
+<font color="#FFFFFF">Plant one and watch something die.</font>
+
+384
+01:05:35,532 --> 01:05:36,972
+<font color="#FFFFFF">Watch out!</font>
+
+385
+01:05:38,351 --> 01:05:39,929
+<font color="#FFFFFF">Hold on, mate.</font>
+
+386
+01:05:57,911 --> 01:06:01,021
+<font color="#FFFFFF">We are down
+30,000 units of gasoline...</font>
+
+387
+01:06:01,260 --> 01:06:05,125
+<font color="#FFFFFF">19 canisters of nitro,
+12 assault bikes...</font>
+
+388
+01:06:05,126 --> 01:06:06,838
+<font color="#FFFFFF">7 pursuit vehicles.</font>
+
+389
+01:06:06,842 --> 01:06:09,358
+<font color="#FFFFFF">The deficit mounts.
+And now, sir...</font>
+
+390
+01:06:09,693 --> 01:06:12,538
+<font color="#FFFFFF">you have us stuck in a quagmire.</font>
+
+391
+01:06:13,186 --> 01:06:14,231
+<font color="#FFFFFF">Hey, Joe!</font>
+
+392
+01:06:15,195 --> 01:06:16,164
+<font color="#FFFFFF">Boss!</font>
+
+393
+01:06:18,358 --> 01:06:20,514
+<font color="#FFFFFF">Your girly's breathing her last!</font>
+
+394
+01:06:21,125 --> 01:06:22,994
+<font color="#FFFFFF">What about the child?</font>
+
+395
+01:06:32,224 --> 01:06:35,070
+<font color="#FFFFFF">- Are you coming, brother?
+- Wait!</font>
+
+396
+01:06:36,284 --> 01:06:39,286
+<font color="#FFFFFF">- It's gone awful quiet in there...
+- Get it out.</font>
+
+397
+01:06:39,521 --> 01:06:40,768
+<font color="#FFFFFF">Get it out!</font>
+
+398
+01:06:43,693 --> 01:06:45,773
+<font color="#FFFFFF">Come on!
+I've been called to the torture!</font>
+
+399
+01:06:46,858 --> 01:06:48,456
+<font color="#FFFFFF">Patience!</font>
+
+400
+01:06:49,456 --> 01:06:51,789
+<font color="#FFFFFF">Oh, you stay here
+with your grief, Daddy.</font>
+
+401
+01:06:52,146 --> 01:06:56,088
+<font color="#FFFFFF">- I'll fetch them for you.
+- Be careful! Protect the assets!</font>
+
+402
+01:06:57,847 --> 01:07:00,163
+<font color="#FFFFFF">Just one angry shot...</font>
+
+403
+01:07:00,760 --> 01:07:03,469
+<font color="#FFFFFF">for Furiosa.
+Hut!</font>
+
+404
+01:07:11,179 --> 01:07:12,920
+<font color="#FFFFFF">Crying shame. Heh.</font>
+
+405
+01:07:16,233 --> 01:07:20,117
+<font color="#FFFFFF">Another month... could have been
+your viable human!</font>
+
+406
+01:07:20,128 --> 01:07:23,181
+<font color="#FFFFFF">- Was it a male?
+- Your A-1 Alpha prime.</font>
+
+407
+01:07:26,431 --> 01:07:27,655
+<font color="#FFFFFF">Hey, Rictus!</font>
+
+408
+01:07:29,016 --> 01:07:30,786
+<font color="#FFFFFF">You lost a baby brother!</font>
+
+409
+01:07:33,134 --> 01:07:35,054
+<font color="#FFFFFF">Perfect in every way.</font>
+
+410
+01:07:37,813 --> 01:07:41,791
+<font color="#FFFFFF">I had a baby brother!
+I had a little baby brother!</font>
+
+411
+01:07:41,996 --> 01:07:43,635
+<font color="#FFFFFF">And he was perfect!</font>
+
+412
+01:07:43,911 --> 01:07:45,831
+<font color="#FFFFFF">Perfect in every way!</font>
+
+413
+01:08:16,644 --> 01:08:17,591
+<font color="#FFFFFF">Come on.</font>
+
+414
+01:08:27,122 --> 01:08:30,238
+<font color="#FFFFFF">- Wouldn't wanna shoot the Wives, sir.
+- Just probing.</font>
+
+415
+01:08:41,639 --> 01:08:44,139
+<font color="#FFFFFF">- He wants to help!
+- Who?</font>
+
+416
+01:08:44,476 --> 01:08:45,764
+<font color="#FFFFFF">The War Boy!</font>
+
+417
+01:08:46,000 --> 01:08:48,894
+<font color="#FFFFFF">- Where did he come from?
+- I thought we threw him off the Rig!</font>
+
+418
+01:08:53,618 --> 01:08:55,595
+<font color="#FFFFFF">There's high ground
+just beyond that thing.</font>
+
+419
+01:08:55,719 --> 01:08:58,587
+<font color="#FFFFFF">- He means the tree.
+- Yeah. Tree!</font>
+
+420
+01:09:00,185 --> 01:09:02,787
+<font color="#FFFFFF">- Leave him to me.
+- Say, anyone notice that bright light?</font>
+
+421
+01:09:02,859 --> 01:09:04,444
+<font color="#FFFFFF">Encroaching gunfire?</font>
+
+422
+01:09:05,292 --> 01:09:07,373
+<font color="#FFFFFF">- Get out.
+- I can do this. I know this machine.</font>
+
+423
+01:09:07,497 --> 01:09:08,975
+<font color="#FFFFFF">He does. He's a Revhead.</font>
+
+424
+01:09:14,838 --> 01:09:16,421
+<font color="#FFFFFF">You've got two left!</font>
+
+425
+01:09:22,150 --> 01:09:23,166
+<font color="#FFFFFF">On him.</font>
+
+426
+01:09:40,921 --> 01:09:42,269
+<font color="#FFFFFF">Don't breathe.</font>
+
+427
+01:09:48,859 --> 01:09:49,789
+<font color="#FFFFFF">War Boy!</font>
+
+428
+01:09:50,092 --> 01:09:52,452
+<font color="#FFFFFF">I'm gonna use the winch
+around the tree thing!</font>
+
+429
+01:09:53,627 --> 01:09:54,692
+<font color="#FFFFFF">Take this.</font>
+
+430
+01:09:54,989 --> 01:09:56,456
+<font color="#FFFFFF">Let's get the engine plates.</font>
+
+431
+01:09:58,006 --> 01:09:58,956
+<font color="#FFFFFF">You drive the Rig!</font>
+
+432
+01:09:59,242 --> 01:10:00,979
+<font color="#FFFFFF">- Hold up a flare!
+- I am holding a flare!</font>
+
+433
+01:10:01,788 --> 01:10:04,262
+<font color="#FFFFFF">- Closer!
+- It's right in front of your eyes!</font>
+
+434
+01:10:16,551 --> 01:10:18,393
+<font color="#FFFFFF">Hut! Hut!</font>
+
+435
+01:10:24,631 --> 01:10:25,664
+<font color="#FFFFFF">Blood Bag!</font>
+
+436
+01:10:32,270 --> 01:10:34,612
+<font color="#FFFFFF">I am the scales of justice!</font>
+
+437
+01:10:34,954 --> 01:10:37,454
+<font color="#FFFFFF">Conductor of the choir of death!</font>
+
+438
+01:10:38,646 --> 01:10:40,332
+<font color="#FFFFFF"><i>Sing, Brother Heckler!</i></font>
+
+439
+01:10:42,019 --> 01:10:43,520
+<font color="#FFFFFF">Sing, Brother Koch!</font>
+
+440
+01:10:46,572 --> 01:10:50,079
+<font color="#FFFFFF">Sing, brothers, sing! Sing!</font>
+
+441
+01:10:51,311 --> 01:10:52,974
+<font color="#FFFFFF">Don't they know
+they're shooting at us?</font>
+
+442
+01:11:07,311 --> 01:11:08,487
+<font color="#FFFFFF">Gun fever!</font>
+
+443
+01:12:18,948 --> 01:12:20,985
+<font color="#FFFFFF">I never thought I'd do something
+as shiny as that.</font>
+
+444
+01:12:21,658 --> 01:12:22,970
+<font color="#FFFFFF">How are the engines?</font>
+
+445
+01:12:23,818 --> 01:12:25,128
+<font color="#FFFFFF">Very hot and real thirsty.</font>
+
+446
+01:12:31,466 --> 01:12:34,309
+<font color="#FFFFFF">You need to take the War Rig
+half a klick down the track.</font>
+
+447
+01:12:35,287 --> 01:12:37,868
+<font color="#FFFFFF">What if you're not back by the time
+the engines have cooled?</font>
+
+448
+01:12:40,462 --> 01:12:41,738
+<font color="#FFFFFF">Well, you keep moving.</font>
+
+449
+01:12:51,387 --> 01:12:53,287
+<font color="#FFFFFF">What do you suppose he's gonna do?</font>
+
+450
+01:12:54,457 --> 01:12:56,277
+<font color="#FFFFFF">Retaliate first.</font>
+
+451
+01:12:59,425 --> 01:13:00,554
+<font color="#FFFFFF">Let's go!</font>
+
+452
+01:14:20,444 --> 01:14:21,711
+<font color="#FFFFFF">Are you hurt?</font>
+
+453
+01:14:23,340 --> 01:14:24,300
+<font color="#FFFFFF">You're bleeding.</font>
+
+454
+01:14:25,173 --> 01:14:26,524
+<font color="#FFFFFF">That's not his blood.</font>
+
+455
+01:14:28,434 --> 01:14:29,662
+<font color="#FFFFFF">What is this?</font>
+
+456
+01:14:30,707 --> 01:14:31,824
+<font color="#FFFFFF">It's Mother's Milk.</font>
+
+457
+01:15:14,551 --> 01:15:16,756
+<font color="#FFFFFF">It's okay.
+Sleep.</font>
+
+458
+01:15:18,001 --> 01:15:19,457
+<font color="#FFFFFF">Get some rest.</font>
+
+459
+01:15:29,895 --> 01:15:32,475
+<font color="#FFFFFF">How do you know
+this place even exists?</font>
+
+460
+01:15:35,211 --> 01:15:36,631
+<font color="#FFFFFF">I was born there.</font>
+
+461
+01:15:39,078 --> 01:15:41,800
+<font color="#FFFFFF">- So why'd you leave?
+- I didn't.</font>
+
+462
+01:15:43,235 --> 01:15:45,140
+<font color="#FFFFFF">I was taken as a child.</font>
+
+463
+01:15:46,939 --> 01:15:48,261
+<font color="#FFFFFF">Stolen.</font>
+
+464
+01:15:54,164 --> 01:15:57,694
+<font color="#FFFFFF">- You done this before?
+- Many times.</font>
+
+465
+01:15:58,854 --> 01:16:01,189
+<font color="#FFFFFF">Now that I drive a War Rig...</font>
+
+466
+01:16:02,743 --> 01:16:04,777
+<font color="#FFFFFF">this is the best shot I'll ever have.</font>
+
+467
+01:16:06,103 --> 01:16:07,079
+<font color="#FFFFFF">And them?</font>
+
+468
+01:16:09,024 --> 01:16:10,786
+<font color="#FFFFFF">They're looking for hope.</font>
+
+469
+01:16:11,793 --> 01:16:13,239
+<font color="#FFFFFF">What about you?</font>
+
+470
+01:16:18,543 --> 01:16:19,989
+<font color="#FFFFFF">Redemption.</font>
+
+471
+01:17:04,796 --> 01:17:06,105
+<font color="#FFFFFF">What's that?</font>
+
+472
+01:17:18,364 --> 01:17:20,525
+<font color="#FFFFFF">I remember something like that.</font>
+
+473
+01:17:32,737 --> 01:17:34,507
+<font color="#FFFFFF">Help me!</font>
+
+474
+01:17:37,310 --> 01:17:39,193
+<font color="#FFFFFF">Help me!</font>
+
+475
+01:17:46,055 --> 01:17:47,011
+<font color="#FFFFFF">That's bait.</font>
+
+476
+01:17:48,550 --> 01:17:49,806
+<font color="#FFFFFF">Stay in the Rig.</font>
+
+477
+01:17:55,140 --> 01:17:58,020
+<font color="#FFFFFF">Hurry! Please, hurry!
+They'll be back!</font>
+
+478
+01:17:59,524 --> 01:18:02,011
+<font color="#FFFFFF">I am one of the Vuvalini!</font>
+
+479
+01:18:02,680 --> 01:18:04,715
+<font color="#FFFFFF">Of the Many Mothers!</font>
+
+480
+01:18:06,117 --> 01:18:09,457
+<font color="#FFFFFF">My Initiate Mother was K.T. Concannon!</font>
+
+481
+01:18:10,533 --> 01:18:13,130
+<font color="#FFFFFF">I am the daughter of Mary Jabassa.</font>
+
+482
+01:18:14,350 --> 01:18:17,375
+<font color="#FFFFFF">My clan was Swaddle Dog!</font>
+
+483
+01:19:04,507 --> 01:19:05,619
+<font color="#FFFFFF">It's me.</font>
+
+484
+01:19:13,863 --> 01:19:15,359
+<font color="#FFFFFF">There's something in the eyes.</font>
+
+485
+01:19:16,046 --> 01:19:18,240
+<font color="#FFFFFF">Perhaps it is Jabassa's child.</font>
+
+486
+01:19:23,396 --> 01:19:25,488
+<font color="#FFFFFF">This is our Furiosa.</font>
+
+487
+01:19:27,738 --> 01:19:29,000
+<font color="#FFFFFF">How long has it been?</font>
+
+488
+01:19:30,747 --> 01:19:34,676
+<font color="#FFFFFF">Seven thousand days.
+Plus the ones I don't remember.</font>
+
+489
+01:19:36,220 --> 01:19:37,176
+<font color="#FFFFFF">Furiosa.</font>
+
+490
+01:19:38,721 --> 01:19:40,289
+<font color="#FFFFFF">What happened to your mother?</font>
+
+491
+01:19:41,890 --> 01:19:43,131
+<font color="#FFFFFF">She died.</font>
+
+492
+01:19:44,079 --> 01:19:45,699
+<font color="#FFFFFF">On the third day.</font>
+
+493
+01:19:52,792 --> 01:19:55,389
+<font color="#FFFFFF">- From where did you come?
+- The West.</font>
+
+494
+01:19:55,503 --> 01:19:58,185
+<font color="#FFFFFF">Citadel. Beyond the mountains.</font>
+
+495
+01:20:02,317 --> 01:20:04,265
+<font color="#FFFFFF">The men. Who are they?</font>
+
+496
+01:20:04,600 --> 01:20:07,992
+<font color="#FFFFFF">They're reliable.
+They helped us get here.</font>
+
+497
+01:20:19,895 --> 01:20:22,032
+<font color="#FFFFFF">Where did you find such creatures?</font>
+
+498
+01:20:24,609 --> 01:20:28,938
+<font color="#FFFFFF">- So soft.
+- This one has all her teeth!</font>
+
+499
+01:20:37,287 --> 01:20:39,176
+<font color="#FFFFFF">I can't wait for them to see it.</font>
+
+500
+01:20:39,936 --> 01:20:41,131
+<font color="#FFFFFF">See?</font>
+
+501
+01:20:42,256 --> 01:20:44,881
+<font color="#FFFFFF">- See what?
+- Home.</font>
+
+502
+01:20:49,050 --> 01:20:50,525
+<font color="#FFFFFF">The Green Place.</font>
+
+503
+01:20:50,752 --> 01:20:53,189
+<font color="#FFFFFF">But if you came from the West...</font>
+
+504
+01:20:53,916 --> 01:20:55,577
+<font color="#FFFFFF">you passed it.</font>
+
+505
+01:20:56,841 --> 01:21:01,113
+<font color="#FFFFFF">The crows.
+The creepy place with all the crows.</font>
+
+506
+01:21:02,119 --> 01:21:03,810
+<font color="#FFFFFF">- The soil.
+- We had to get out.</font>
+
+507
+01:21:03,811 --> 01:21:05,649
+<font color="#FFFFFF">- We had no water.
+- The water was filth.</font>
+
+508
+01:21:05,649 --> 01:21:07,520
+<font color="#FFFFFF">It was poisoned. It was sour.</font>
+
+509
+01:21:07,521 --> 01:21:11,024
+<font color="#FFFFFF">And then the crows came.
+We couldn't grow anything.</font>
+
+510
+01:21:11,300 --> 01:21:13,875
+<font color="#FFFFFF">- Where are the others?
+- What others?</font>
+
+511
+01:21:13,985 --> 01:21:17,149
+<font color="#FFFFFF">- The Many Mothers.
+- We're the only ones left.</font>
+
+512
+01:22:18,000 --> 01:22:19,154
+<font color="#FFFFFF">Look.</font>
+
+513
+01:22:21,872 --> 01:22:24,137
+<font color="#FFFFFF">That's what you call a satellite.</font>
+
+514
+01:22:24,863 --> 01:22:26,961
+<font color="#FFFFFF">Miss Giddy told us about those.</font>
+
+515
+01:22:27,690 --> 01:22:30,368
+<font color="#FFFFFF">They used to bounce messages
+across the Earth.</font>
+
+516
+01:22:31,201 --> 01:22:35,275
+<font color="#FFFFFF">Shows.
+Everyone in the old world had a show.</font>
+
+517
+01:22:37,735 --> 01:22:40,006
+<font color="#FFFFFF">Do you think there's still
+somebody out there?</font>
+
+518
+01:22:41,256 --> 01:22:44,592
+<font color="#FFFFFF">- Sending shows?
+- Who knows?</font>
+
+519
+01:22:45,618 --> 01:22:48,015
+<font color="#FFFFFF">Those are the Plains of Silence.</font>
+
+520
+01:22:50,470 --> 01:22:54,779
+<font color="#FFFFFF">Stay right where you are, little Joe.
+Kind of lost its novelty out here.</font>
+
+521
+01:22:55,158 --> 01:22:56,617
+<font color="#FFFFFF">You having a baby?</font>
+
+522
+01:22:57,859 --> 01:23:00,635
+<font color="#FFFFFF">Warlord Junior.
+Gonna be so ugly.</font>
+
+523
+01:23:01,470 --> 01:23:02,670
+<font color="#FFFFFF">It could be a girl.</font>
+
+524
+01:23:04,840 --> 01:23:08,586
+<font color="#FFFFFF">- You kill people with that, do you?
+- Killed everyone I ever met out here.</font>
+
+525
+01:23:08,990 --> 01:23:11,136
+<font color="#FFFFFF">Headshots. All of them.
+Snap. Right in the medulla.</font>
+
+526
+01:23:11,604 --> 01:23:13,306
+<font color="#FFFFFF">Thought somehow you girls
+were above all that.</font>
+
+527
+01:23:18,108 --> 01:23:19,238
+<font color="#FFFFFF">Come here.</font>
+
+528
+01:23:27,074 --> 01:23:27,846
+<font color="#FFFFFF">Take a peek.</font>
+
+529
+01:23:28,948 --> 01:23:30,175
+<font color="#FFFFFF">Seeds.</font>
+
+530
+01:23:31,185 --> 01:23:34,926
+<font color="#FFFFFF">These are from home.
+Heirlooms. The real thing.</font>
+
+531
+01:23:35,703 --> 01:23:38,640
+<font color="#FFFFFF">- I plant one every chance I get.
+- Where?</font>
+
+532
+01:23:39,189 --> 01:23:41,976
+<font color="#FFFFFF">So far, nothing's took.
+Earth's too sour.</font>
+
+533
+01:23:42,762 --> 01:23:46,443
+<font color="#FFFFFF">- So many different kinds.
+- Trees, flowers, fruit.</font>
+
+534
+01:23:47,489 --> 01:23:49,425
+<font color="#FFFFFF">Back then, everyone had their fill.</font>
+
+535
+01:23:50,337 --> 01:23:52,423
+<font color="#FFFFFF">Back then,
+there was no need to snap anybody.</font>
+
+536
+01:24:08,448 --> 01:24:09,886
+<font color="#FFFFFF">Can I talk to you?</font>
+
+537
+01:24:29,320 --> 01:24:31,079
+<font color="#FFFFFF">I've talked with the others.</font>
+
+538
+01:24:38,012 --> 01:24:40,966
+<font color="#FFFFFF">We're never gonna have a better chance
+to make it across the salt.</font>
+
+539
+01:24:43,121 --> 01:24:47,597
+<font color="#FFFFFF">If we leave the Rig here, and load the
+motorcycles up with as much as we can...</font>
+
+540
+01:24:47,609 --> 01:24:50,244
+<font color="#FFFFFF">we can maybe ride for 160 days.</font>
+
+541
+01:24:52,795 --> 01:24:54,934
+<font color="#FFFFFF">One of those bikes is yours.</font>
+
+542
+01:24:55,872 --> 01:24:57,306
+<font color="#FFFFFF">Fully loaded.</font>
+
+543
+01:25:00,240 --> 01:25:02,478
+<font color="#FFFFFF">You're more than welcome
+to come with us.</font>
+
+544
+01:25:06,350 --> 01:25:08,609
+<font color="#FFFFFF">I'll make my own way.</font>
+
+545
+01:25:15,095 --> 01:25:17,305
+<font color="#FFFFFF">You know, hope is a mistake.</font>
+
+546
+01:25:24,011 --> 01:25:26,774
+<font color="#FFFFFF">If you can't fix what's broken, you'll, uh...</font>
+
+547
+01:25:29,271 --> 01:25:30,935
+<font color="#FFFFFF">You'll go insane.</font>
+
+548
+01:25:47,090 --> 01:25:48,841
+<font color="#FFFFFF"><i>Where are you, Max?</i></font>
+
+549
+01:25:50,771 --> 01:25:52,146
+<font color="#FFFFFF"><i>Where are you?</i></font>
+
+550
+01:25:52,698 --> 01:25:55,712
+<font color="#FFFFFF"><i>Help us. You promised to help us.</i></font>
+
+551
+01:26:06,168 --> 01:26:08,569
+<font color="#FFFFFF"><i>Come on, Pa! Let's go.</i></font>
+
+552
+01:26:40,399 --> 01:26:41,542
+<font color="#FFFFFF">All right.</font>
+
+553
+01:26:42,765 --> 01:26:45,159
+<font color="#FFFFFF">This is your way home.</font>
+
+554
+01:26:48,514 --> 01:26:49,402
+<font color="#FFFFFF">We go back?</font>
+
+555
+01:26:51,731 --> 01:26:53,671
+<font color="#FFFFFF">- Back?
+- Yeah.</font>
+
+556
+01:26:53,872 --> 01:26:55,619
+<font color="#FFFFFF">I thought you weren't insane anymore.</font>
+
+557
+01:26:55,621 --> 01:26:59,255
+<font color="#FFFFFF">- What are they saying?
+- He wants to go back from where they came.</font>
+
+558
+01:26:59,648 --> 01:27:01,024
+<font color="#FFFFFF">The Citadel.</font>
+
+559
+01:27:01,822 --> 01:27:05,043
+<font color="#FFFFFF">- What's there to find at the Citadel?
+- Green.</font>
+
+560
+01:27:05,471 --> 01:27:06,590
+<font color="#FFFFFF">And water.</font>
+
+561
+01:27:08,043 --> 01:27:11,984
+<font color="#FFFFFF">There's a ridiculous amount
+of clear water. And a lot of crops.</font>
+
+562
+01:27:12,132 --> 01:27:14,673
+<font color="#FFFFFF">Got everything you need.
+As long as you're not afraid of heights.</font>
+
+563
+01:27:14,675 --> 01:27:17,541
+<font color="#FFFFFF">- Where does the water come from?
+- He pumps it up from deep in the earth.</font>
+
+564
+01:27:17,542 --> 01:27:19,869
+<font color="#FFFFFF">Calls it Aqua Cola
+and claims it all for himself.</font>
+
+565
+01:27:20,259 --> 01:27:22,390
+<font color="#FFFFFF">And because he owns it,
+he owns all of us.</font>
+
+566
+01:27:22,585 --> 01:27:24,001
+<font color="#FFFFFF">I don't like him already.</font>
+
+567
+01:27:24,041 --> 01:27:26,721
+<font color="#FFFFFF">It'll take two weeks
+to skirt the Wall of Mountains.</font>
+
+568
+01:27:26,726 --> 01:27:27,572
+<font color="#FFFFFF">No.</font>
+
+569
+01:27:27,916 --> 01:27:30,503
+<font color="#FFFFFF">I suggest we go back
+the same way we came.</font>
+
+570
+01:27:32,118 --> 01:27:33,617
+<font color="#FFFFFF">Through the canyon.</font>
+
+571
+01:27:34,617 --> 01:27:38,518
+<font color="#FFFFFF">It's open. We know that. Right?
+He brought all his war parties through.</font>
+
+572
+01:27:39,099 --> 01:27:42,507
+<font color="#FFFFFF">So we take the War Rig and we charge it
+right through the middle of them.</font>
+
+573
+01:27:42,689 --> 01:27:45,090
+<font color="#FFFFFF">We can decouple
+the tanker at the pass.</font>
+
+574
+01:27:45,604 --> 01:27:48,371
+<font color="#FFFFFF">Shut it off behind us.
+Kaboom!</font>
+
+575
+01:27:51,427 --> 01:27:53,771
+<font color="#FFFFFF">And how exactly
+do we take the Citadel?</font>
+
+576
+01:27:54,429 --> 01:27:56,119
+<font color="#FFFFFF">Assuming we're still alive by then.</font>
+
+577
+01:27:56,582 --> 01:27:59,064
+<font color="#FFFFFF">If we can block the pass, it'll be easy.</font>
+
+578
+01:27:59,332 --> 01:28:02,984
+<font color="#FFFFFF">All that's left are his War Pups
+and War Boys too sick to fight.</font>
+
+579
+01:28:03,814 --> 01:28:05,623
+<font color="#FFFFFF">And we'll be with Nux.</font>
+
+580
+01:28:06,193 --> 01:28:08,247
+<font color="#FFFFFF">He's a War Boy.
+He'll be bringing us home.</font>
+
+581
+01:28:08,248 --> 01:28:10,171
+<font color="#FFFFFF">Bringing back what's stolen,
+as he's meant to.</font>
+
+582
+01:28:13,667 --> 01:28:14,739
+<font color="#FFFFFF">Yeah.</font>
+
+583
+01:28:15,845 --> 01:28:17,314
+<font color="#FFFFFF">It feels like hope.</font>
+
+584
+01:28:18,671 --> 01:28:21,774
+<font color="#FFFFFF">I like this plan.
+We can start again.</font>
+
+585
+01:28:22,465 --> 01:28:24,189
+<font color="#FFFFFF">Just like the old days!</font>
+
+586
+01:28:25,621 --> 01:28:26,860
+<font color="#FFFFFF">Look.</font>
+
+587
+01:28:27,646 --> 01:28:29,454
+<font color="#FFFFFF">It'll be a hard day.</font>
+
+588
+01:28:29,898 --> 01:28:32,751
+<font color="#FFFFFF">But I guarantee you
+that a 160 days' ride that way...</font>
+
+589
+01:28:35,225 --> 01:28:37,056
+<font color="#FFFFFF">there's nothing but salt.</font>
+
+590
+01:28:39,719 --> 01:28:42,591
+<font color="#FFFFFF">At least that way, you know,
+we might be able to...</font>
+
+591
+01:28:44,078 --> 01:28:45,367
+<font color="#FFFFFF">together...</font>
+
+592
+01:28:46,836 --> 01:28:48,854
+<font color="#FFFFFF">come across some kind of redemption.</font>
+
+593
+01:29:19,663 --> 01:29:23,028
+<font color="#FFFFFF">War Rig!
+That's the War Rig!</font>
+
+594
+01:29:33,235 --> 01:29:35,952
+<font color="#FFFFFF">- That's them.
+- Why are they going back?</font>
+
+595
+01:29:36,418 --> 01:29:38,068
+<font color="#FFFFFF">Do they wish to surrender?</font>
+
+596
+01:29:38,970 --> 01:29:41,087
+<font color="#FFFFFF">They are heading for the canyon.</font>
+
+597
+01:29:42,238 --> 01:29:44,912
+<font color="#FFFFFF">They're going back to the Citadel!</font>
+
+598
+01:29:45,302 --> 01:29:47,057
+<font color="#FFFFFF">They know it's undefended!</font>
+
+599
+01:29:47,411 --> 01:29:48,332
+<font color="#FFFFFF">Bollocks!</font>
+
+600
+01:29:51,453 --> 01:29:52,484
+<font color="#FFFFFF">Roll up!</font>
+
+601
+01:30:01,217 --> 01:30:02,083
+<font color="#FFFFFF">Go!</font>
+
+602
+01:30:24,833 --> 01:30:26,539
+<font color="#FFFFFF">- What are you doing?
+- Praying.</font>
+
+603
+01:30:26,564 --> 01:30:29,145
+<font color="#FFFFFF">- To who?
+- Anyone that's listening.</font>
+
+604
+01:30:53,658 --> 01:30:54,569
+<font color="#FFFFFF">Here we go, girls!</font>
+
+605
+01:30:57,261 --> 01:30:58,465
+<font color="#FFFFFF">That's mine!</font>
+
+606
+01:31:02,966 --> 01:31:05,560
+<font color="#FFFFFF">He'll try to get in front of us.
+Spike our wheels.</font>
+
+607
+01:31:12,162 --> 01:31:14,729
+<font color="#FFFFFF">- Don't blow my engine.
+- Gonna nudge him.</font>
+
+608
+01:31:14,934 --> 01:31:15,898
+<font color="#FFFFFF">Just a little.</font>
+
+609
+01:31:29,082 --> 01:31:31,893
+<font color="#FFFFFF">You filth! You traitored him!</font>
+
+610
+01:31:55,935 --> 01:31:56,686
+<font color="#FFFFFF">Go.</font>
+
+611
+01:32:23,304 --> 01:32:26,368
+<font color="#FFFFFF">Gotta back off.
+Engine one is gone!</font>
+
+612
+01:32:26,368 --> 01:32:28,180
+<font color="#FFFFFF">- Two's about to blow.
+- Right.</font>
+
+613
+01:32:29,279 --> 01:32:30,122
+<font color="#FFFFFF">Are you a Black Thumb?</font>
+
+614
+01:32:31,554 --> 01:32:32,730
+<font color="#FFFFFF">All right. Engine one. Now!</font>
+
+615
+01:32:32,997 --> 01:32:34,292
+<font color="#FFFFFF">You and me. Fifth wheel.</font>
+
+616
+01:32:34,951 --> 01:32:35,921
+<font color="#FFFFFF">We'll unhook the tanker.</font>
+
+617
+01:32:48,725 --> 01:32:50,603
+<font color="#FFFFFF">One man, one bullet.</font>
+
+618
+01:33:07,512 --> 01:33:10,216
+<font color="#FFFFFF">- I cannot see.
+- Maadi! Maadi! - I can't see.</font>
+
+619
+01:33:51,155 --> 01:33:52,658
+<font color="#FFFFFF">Harpoons and plows!</font>
+
+620
+01:33:53,119 --> 01:33:54,274
+<font color="#FFFFFF">They're hauling us back!</font>
+
+621
+01:34:05,600 --> 01:34:07,765
+<font color="#FFFFFF">Leave three bolts. Three.</font>
+
+622
+01:35:25,985 --> 01:35:26,771
+<font color="#FFFFFF">Hey, you!</font>
+
+623
+01:35:42,951 --> 01:35:44,421
+<font color="#FFFFFF">Are you okay?</font>
+
+624
+01:35:47,065 --> 01:35:48,643
+<font color="#FFFFFF">I think she's hurt.</font>
+
+625
+01:36:39,630 --> 01:36:40,161
+<font color="#FFFFFF">No!</font>
+
+626
+01:36:50,329 --> 01:36:52,957
+<font color="#FFFFFF"><i>Hey! Stay with me.</i></font>
+
+627
+01:36:53,494 --> 01:36:54,978
+<font color="#FFFFFF"><i>- Stay with me.</i>
+- Stay with me.</font>
+
+628
+01:36:55,764 --> 01:36:56,751
+<font color="#FFFFFF">Are you there?</font>
+
+629
+01:36:58,106 --> 01:37:00,619
+<font color="#FFFFFF">You finish that! I'll finish her!</font>
+
+630
+01:38:30,555 --> 01:38:31,239
+<font color="#FFFFFF">Valhalla!</font>
+
+631
+01:39:12,635 --> 01:39:15,173
+<font color="#FFFFFF">Engine one's good. For now.</font>
+
+632
+01:40:03,609 --> 01:40:06,340
+<font color="#FFFFFF">She's hurt!
+She's hurt real bad!</font>
+
+633
+01:41:36,770 --> 01:41:37,381
+<font color="#FFFFFF">You hear that?</font>
+
+634
+01:41:38,353 --> 01:41:39,909
+<font color="#FFFFFF">We're gonna see two airborne V8s.</font>
+
+635
+01:41:41,546 --> 01:41:43,295
+<font color="#FFFFFF">I'm gonna need you to drive.</font>
+
+636
+01:41:45,338 --> 01:41:47,240
+<font color="#FFFFFF">I'll get him out of our way.</font>
+
+637
+01:42:54,181 --> 01:42:55,506
+<font color="#FFFFFF">Rictus!</font>
+
+638
+01:42:56,542 --> 01:42:57,268
+<font color="#FFFFFF">Take me!</font>
+
+639
+01:43:10,992 --> 01:43:13,153
+<font color="#FFFFFF">- Cheedo! What are you doing?
+- Good girl.</font>
+
+640
+01:43:17,817 --> 01:43:18,894
+<font color="#FFFFFF">- Come here.
+- No!</font>
+
+641
+01:43:23,931 --> 01:43:24,902
+<font color="#FFFFFF">Big Boy!</font>
+
+642
+01:43:31,478 --> 01:43:33,012
+<font color="#FFFFFF">Here! Here!</font>
+
+643
+01:44:27,212 --> 01:44:28,329
+<font color="#FFFFFF">Remember me?</font>
+
+644
+01:44:49,859 --> 01:44:50,760
+<font color="#FFFFFF">He's dead!</font>
+
+645
+01:44:51,543 --> 01:44:52,729
+<font color="#FFFFFF">He's dead.</font>
+
+646
+01:45:11,729 --> 01:45:14,412
+<font color="#FFFFFF">When you're across safe,
+I'll jam the throttle and follow you.</font>
+
+647
+01:45:15,478 --> 01:45:16,398
+<font color="#FFFFFF">Come on!</font>
+
+648
+01:45:17,671 --> 01:45:20,256
+<font color="#FFFFFF">Hurry! We're nearly at the pass.</font>
+
+649
+01:46:07,859 --> 01:46:09,469
+<font color="#FFFFFF">Witness me.</font>
+
+650
+01:46:15,863 --> 01:46:16,867
+<font color="#FFFFFF">Rictus!</font>
+
+651
+01:47:12,532 --> 01:47:14,194
+<font color="#FFFFFF">Why is she making that noise?</font>
+
+652
+01:47:14,399 --> 01:47:16,902
+<font color="#FFFFFF">She's pumping air into her chest cavity.</font>
+
+653
+01:47:16,903 --> 01:47:20,552
+<font color="#FFFFFF">She's collapsing her lungs
+one breath at a time.</font>
+
+654
+01:47:26,447 --> 01:47:27,328
+<font color="#FFFFFF">I know.</font>
+
+655
+01:47:30,581 --> 01:47:31,818
+<font color="#FFFFFF">I am so sorry.</font>
+
+656
+01:47:34,841 --> 01:47:35,820
+<font color="#FFFFFF">I know. I know.</font>
+
+657
+01:47:37,188 --> 01:47:38,229
+<font color="#FFFFFF">Hold it there.</font>
+
+658
+01:47:41,046 --> 01:47:43,282
+<font color="#FFFFFF">Put that on there. Press it in.</font>
+
+659
+01:47:46,146 --> 01:47:47,170
+<font color="#FFFFFF">Home.</font>
+
+660
+01:47:54,577 --> 01:47:55,997
+<font color="#FFFFFF">Home.</font>
+
+661
+01:48:00,550 --> 01:48:05,805
+<font color="#FFFFFF">- No, no, no. No, no, no.
+- She's exsanguinated. Drained all her blood.</font>
+
+662
+01:48:07,578 --> 01:48:08,472
+<font color="#FFFFFF">Hold these.</font>
+
+663
+01:48:11,309 --> 01:48:12,293
+<font color="#FFFFFF">Needle.</font>
+
+664
+01:48:13,630 --> 01:48:14,318
+<font color="#FFFFFF">Come on.</font>
+
+665
+01:48:15,983 --> 01:48:16,912
+<font color="#FFFFFF">Take this.</font>
+
+666
+01:48:19,823 --> 01:48:21,047
+<font color="#FFFFFF">Keep her awake.</font>
+
+667
+01:48:21,393 --> 01:48:22,502
+<font color="#FFFFFF">Furiosa.</font>
+
+668
+01:48:26,345 --> 01:48:28,315
+<font color="#FFFFFF">Okay, that's not retracting.</font>
+
+669
+01:48:31,317 --> 01:48:33,027
+<font color="#FFFFFF">All right, hold it up. Hold it up.</font>
+
+670
+01:48:34,750 --> 01:48:35,788
+<font color="#FFFFFF">All right.</font>
+
+671
+01:48:36,430 --> 01:48:37,501
+<font color="#FFFFFF">Sorry.</font>
+
+672
+01:48:39,344 --> 01:48:41,722
+<font color="#FFFFFF">There you go. Okay. There you go.</font>
+
+673
+01:48:54,350 --> 01:48:55,425
+<font color="#FFFFFF">Max.</font>
+
+674
+01:48:56,792 --> 01:48:58,405
+<font color="#FFFFFF">My name is Max.</font>
+
+675
+01:49:07,083 --> 01:49:08,756
+<font color="#FFFFFF">That's my name.</font>
+
+676
+01:49:50,618 --> 01:49:51,310
+<font color="#FFFFFF">Brake!</font>
+
+677
+01:49:57,234 --> 01:49:58,238
+<font color="#FFFFFF">Reveal yourself.</font>
+
+678
+01:50:17,409 --> 01:50:18,609
+<font color="#FFFFFF">He's got something.</font>
+
+679
+01:50:25,912 --> 01:50:27,078
+<font color="#FFFFFF">It's Immortan Joe.</font>
+
+680
+01:50:27,622 --> 01:50:29,162
+<font color="#FFFFFF">The Immortan Joe is dead!</font>
+
+681
+01:50:56,329 --> 01:50:57,685
+<font color="#FFFFFF">Furiosa!</font>
+
+682
+01:51:02,538 --> 01:51:03,822
+<font color="#FFFFFF">Furiosa!</font>
+
+683
+01:51:04,253 --> 01:51:05,561
+<font color="#FFFFFF">She's back.</font>
+
+684
+01:51:05,689 --> 01:51:11,300
+<font color="#FFFFFF">Let them up! Let them up!
+Let them up!</font>
+
+685
+01:51:11,380 --> 01:51:15,090
+<font color="#FFFFFF">Let them up! Let them up!</font>
+
+686
+01:51:16,226 --> 01:51:18,591
+<font color="#FFFFFF">Come on, let's do it!
+Let them up. Come on.</font>
+
+687
+01:53:20,074 --> 01:53:22,807
+<font color="#FFFFFF"><i>ŤRendering/Synchronizationť</i>
+••• <u>T 3 I I 4 V 1 S 10 N™</u> •••
+<i>°°° Only the </i><u></u><u><i>best</i></u><u></u><i> is good enough... °°°</i></font>
+

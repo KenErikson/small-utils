@@ -1,0 +1,5711 @@
+1
+00:00:34,159 --> 00:00:35,359
+<font color="#FFFFFF">Start simple.</font>
+
+2
+00:00:35,439 --> 00:00:37,039
+<font color="#FFFFFF">Start with what you know is true.</font>
+
+3
+00:00:38,520 --> 00:00:42,046
+<font color="#FFFFFF">My name is Katniss Everdeen.
+My home is District 12.</font>
+
+4
+00:00:42,719 --> 00:00:45,371
+<font color="#FFFFFF">I was in the Hunger Games. I escaped.</font>
+
+5
+00:00:46,039 --> 00:00:49,567
+<font color="#FFFFFF">Peeta... Peeta was left behind.</font>
+
+6
+00:00:53,679 --> 00:00:55,045
+<font color="#FFFFFF">Miss Everdeen?</font>
+
+7
+00:00:56,240 --> 00:00:57,526
+<font color="#FFFFFF">You can't be in here.</font>
+
+8
+00:00:59,359 --> 00:01:01,439
+<font color="#FFFFFF">I had a nightmare. Just five more minutes.</font>
+
+9
+00:01:02,640 --> 00:01:06,361
+<font color="#FFFFFF">You need to sleep. We can help you sleep.</font>
+
+10
+00:01:07,799 --> 00:01:09,289
+<font color="#FFFFFF">Just five more minutes.</font>
+
+11
+00:01:10,159 --> 00:01:11,161
+<font color="#FFFFFF">No.</font>
+
+12
+00:01:14,560 --> 00:01:16,243
+<font color="#FFFFFF">No, please, don't. It's just five more...</font>
+
+13
+00:01:16,319 --> 00:01:20,688
+<font color="#FFFFFF">Don't touch me! Don't! No!
+No! Get off of me!</font>
+
+14
+00:02:17,840 --> 00:02:19,251
+<font color="#FFFFFF">Finnick.</font>
+
+15
+00:02:23,520 --> 00:02:26,728
+<font color="#FFFFFF">I wanted to go back for Peeta and Johanna,</font>
+
+16
+00:02:27,439 --> 00:02:29,362
+<font color="#FFFFFF">but I, uh...</font>
+
+17
+00:02:29,439 --> 00:02:31,442
+<font color="#FFFFFF">I couldn't move.</font>
+
+18
+00:02:36,039 --> 00:02:39,122
+<font color="#FFFFFF">They have Annie, too. They took her.</font>
+
+19
+00:02:42,840 --> 00:02:45,445
+<font color="#FFFFFF">She's, uh...</font>
+
+20
+00:02:45,560 --> 00:02:46,800
+<font color="#FFFFFF">She's in the Capitol.</font>
+
+21
+00:02:51,079 --> 00:02:52,764
+<font color="#FFFFFF">I wish she was dead.</font>
+
+22
+00:02:55,159 --> 00:02:58,084
+<font color="#FFFFFF">I wish they were all dead and we were, too.</font>
+
+23
+00:03:27,960 --> 00:03:29,324
+<font color="#FFFFFF">Miss Everdeen.</font>
+
+24
+00:03:29,639 --> 00:03:32,484
+<font color="#FFFFFF">Colonel Boggs, District 13's head of security.</font>
+
+25
+00:03:33,039 --> 00:03:34,450
+<font color="#FFFFFF">I know you've been discharged,</font>
+
+26
+00:03:34,520 --> 00:03:36,841
+<font color="#FFFFFF">but President Coin's requested
+to meet with you first.</font>
+
+27
+00:03:37,039 --> 00:03:38,883
+<font color="#FFFFFF">Is there any news?</font>
+
+28
+00:03:38,960 --> 00:03:40,927
+<font color="#FFFFFF">I'm just here to escort you.</font>
+
+29
+00:04:12,919 --> 00:04:15,889
+<font color="#FFFFFF">We were always told there was nothing left of 13.</font>
+
+30
+00:04:16,160 --> 00:04:18,560
+<font color="#FFFFFF">Capitol bombed the surface to rubble.</font>
+
+31
+00:04:19,920 --> 00:04:23,002
+<font color="#FFFFFF">But we're military, so we learned
+to survive down here.</font>
+
+32
+00:04:23,839 --> 00:04:25,603
+<font color="#FFFFFF">Preparing, training.</font>
+
+33
+00:04:26,879 --> 00:04:28,483
+<font color="#FFFFFF">The war never stopped for us.</font>
+
+34
+00:05:00,480 --> 00:05:01,810
+<font color="#FFFFFF">There she is.</font>
+
+35
+00:05:02,519 --> 00:05:04,170
+<font color="#FFFFFF">Our Girl on Fire.</font>
+
+36
+00:05:04,279 --> 00:05:08,045
+<font color="#FFFFFF">Madam President, may I present you
+with the Mockingjay.</font>
+
+37
+00:05:08,240 --> 00:05:10,526
+<font color="#FFFFFF">What an honor it is to meet you.</font>
+
+38
+00:05:11,240 --> 00:05:12,685
+<font color="#FFFFFF">You're a courageous young woman.</font>
+
+39
+00:05:12,920 --> 00:05:15,399
+<font color="#FFFFFF">I know how disorienting this must be.</font>
+
+40
+00:05:15,879 --> 00:05:19,326
+<font color="#FFFFFF">And I can't imagine what it's like to live
+through the atrocities of those Games.</font>
+
+41
+00:05:19,399 --> 00:05:20,605
+<font color="#FFFFFF">Katniss,</font>
+
+42
+00:05:20,680 --> 00:05:22,444
+<font color="#FFFFFF">President Alma Coin.</font>
+
+43
+00:05:23,319 --> 00:05:26,290
+<font color="#FFFFFF">Please know how welcome you are.</font>
+
+44
+00:05:26,720 --> 00:05:29,007
+<font color="#FFFFFF">I hope you'll find some comfort with us.</font>
+
+45
+00:05:29,279 --> 00:05:31,487
+<font color="#FFFFFF">We've known loss in 13, too.</font>
+
+46
+00:05:32,079 --> 00:05:36,528
+<font color="#FFFFFF">This is history. Right here at this table.</font>
+
+47
+00:05:36,600 --> 00:05:37,720
+<font color="#FFFFFF">I apologize.</font>
+
+48
+00:05:37,759 --> 00:05:41,000
+<font color="#FFFFFF">I wish you had more time to recover, but
+unfortunately, we don't have that luxury.</font>
+
+49
+00:05:41,120 --> 00:05:42,485
+<font color="#FFFFFF">Please, have a seat.</font>
+
+50
+00:05:43,600 --> 00:05:46,250
+<font color="#FFFFFF">Are you aware of what's happened?</font>
+
+51
+00:05:48,519 --> 00:05:51,284
+<font color="#FFFFFF">When you fired your arrow at the force field,</font>
+
+52
+00:05:52,199 --> 00:05:54,327
+<font color="#FFFFFF">you electrified the nation.</font>
+
+53
+00:05:54,680 --> 00:05:59,242
+<font color="#FFFFFF">There have been riots and uprisings
+and strikes in seven districts.</font>
+
+54
+00:05:59,759 --> 00:06:05,084
+<font color="#FFFFFF">We believe that if we keep this energy going,
+we can unify the districts against the Capitol.</font>
+
+55
+00:06:05,160 --> 00:06:08,050
+<font color="#FFFFFF">But if we don't, if we let it dissipate,</font>
+
+56
+00:06:08,120 --> 00:06:11,124
+<font color="#FFFFFF">we could be waiting another 75 years
+for this opportunity.</font>
+
+57
+00:06:11,199 --> 00:06:13,201
+<font color="#FFFFFF">Everyone in 13 is ready for this.</font>
+
+58
+00:06:13,279 --> 00:06:15,088
+<font color="#FFFFFF">What about Peeta? Is he alive?</font>
+
+59
+00:06:15,160 --> 00:06:18,129
+<font color="#FFFFFF">I don't know. And I wish that I did.</font>
+
+60
+00:06:18,879 --> 00:06:22,247
+<font color="#FFFFFF">But there's no way for me to contact
+my operatives inside the Capitol.</font>
+
+61
+00:06:22,360 --> 00:06:26,125
+<font color="#FFFFFF">The Capitol has always suppressed communication
+between the districts.</font>
+
+62
+00:06:26,199 --> 00:06:29,487
+<font color="#FFFFFF">But I know their system very well.</font>
+
+63
+00:06:29,560 --> 00:06:30,846
+<font color="#FFFFFF">I managed to break through.</font>
+
+64
+00:06:31,160 --> 00:06:33,401
+<font color="#FFFFFF">All we need now is the perfect message.</font>
+
+65
+00:06:33,480 --> 00:06:35,721
+<font color="#FFFFFF">Katniss, here's what we need to do.</font>
+
+66
+00:06:35,800 --> 00:06:38,485
+<font color="#FFFFFF">We need to show them that the Mockingjay's
+alive and well</font>
+
+67
+00:06:38,560 --> 00:06:41,324
+<font color="#FFFFFF">and willing to stand up
+and join this fight.</font>
+
+68
+00:06:42,000 --> 00:06:46,483
+<font color="#FFFFFF">'Cause we need every district
+to stand up to this Capitol.</font>
+
+69
+00:06:46,560 --> 00:06:48,163
+<font color="#FFFFFF">The way you did.</font>
+
+70
+00:06:49,079 --> 00:06:53,927
+<font color="#FFFFFF">So we're gonna shoot a series
+of propaganda clips,</font>
+
+71
+00:06:54,199 --> 00:06:55,884
+<font color="#FFFFFF">propos, I like to call them,</font>
+
+72
+00:06:55,959 --> 00:06:57,370
+<font color="#FFFFFF">on the Mockingjay.</font>
+
+73
+00:06:57,439 --> 00:06:59,283
+<font color="#FFFFFF">Spreads the word</font>
+
+74
+00:06:59,360 --> 00:07:02,091
+<font color="#FFFFFF">that we're gonna stoke the fire
+of this rebellion.</font>
+
+75
+00:07:02,160 --> 00:07:04,970
+<font color="#FFFFFF">The fire that the Mockingjay started.</font>
+
+76
+00:07:05,040 --> 00:07:07,201
+<font color="#FFFFFF">You left him there.</font>
+
+77
+00:07:07,519 --> 00:07:11,411
+<font color="#FFFFFF">- You left Peeta in that arena to die.
+- Katniss, there are so many...</font>
+
+78
+00:07:11,480 --> 00:07:13,288
+<font color="#FFFFFF">Peeta was the one who was supposed to live.</font>
+
+79
+00:07:13,360 --> 00:07:14,406
+<font color="#FFFFFF">Miss Everdeen.</font>
+
+80
+00:07:16,519 --> 00:07:19,329
+<font color="#FFFFFF">This revolution is about everyone.</font>
+
+81
+00:07:19,399 --> 00:07:21,242
+<font color="#FFFFFF">It's about all of us.</font>
+
+82
+00:07:21,639 --> 00:07:23,129
+<font color="#FFFFFF">And we need a voice.</font>
+
+83
+00:07:24,199 --> 00:07:26,521
+<font color="#FFFFFF">Then you should've saved Peeta.</font>
+
+84
+00:07:35,040 --> 00:07:36,882
+<font color="#FFFFFF">Maybe you should have rescued the boy instead.</font>
+
+85
+00:07:37,439 --> 00:07:38,680
+<font color="#FFFFFF">Oh, no.</font>
+
+86
+00:07:40,319 --> 00:07:44,529
+<font color="#FFFFFF">No, listen to me. No one else can do this but her.</font>
+
+87
+00:07:44,600 --> 00:07:46,728
+<font color="#FFFFFF">This is not the girl you described.</font>
+
+88
+00:07:48,000 --> 00:07:50,843
+<font color="#FFFFFF">Obviously, we need to make it personal.</font>
+
+89
+00:07:50,920 --> 00:07:52,490
+<font color="#FFFFFF">Remind her who the real enemy is.</font>
+
+90
+00:07:52,560 --> 00:07:54,403
+<font color="#FFFFFF">She knows who the enemy is.
+That's not the issue.</font>
+
+91
+00:07:54,480 --> 00:07:56,403
+<font color="#FFFFFF">Unless she's forgotten.</font>
+
+92
+00:07:57,399 --> 00:08:00,130
+<font color="#FFFFFF">There's explaining and there's showing.</font>
+
+93
+00:08:01,079 --> 00:08:03,526
+<font color="#FFFFFF">Let her see what the Capitol did to 12.</font>
+
+94
+00:08:03,759 --> 00:08:07,685
+<font color="#FFFFFF">She can't handle it. The Games destroyed her.</font>
+
+95
+00:08:09,000 --> 00:08:11,401
+<font color="#FFFFFF">This is the only choice you have.</font>
+
+96
+00:08:11,839 --> 00:08:15,127
+<font color="#FFFFFF">People don't always show up the way
+you want them to, Madam President.</font>
+
+97
+00:08:15,199 --> 00:08:20,331
+<font color="#FFFFFF">But that anger, that anger-driven defiance,
+that's what we want. And we can redirect it.</font>
+
+98
+00:08:20,560 --> 00:08:22,369
+<font color="#FFFFFF">We need to unite these people out there</font>
+
+99
+00:08:22,480 --> 00:08:24,050
+<font color="#FFFFFF">that have been doing nothing
+but killing each other</font>
+
+100
+00:08:24,120 --> 00:08:25,564
+<font color="#FFFFFF">in an arena for years.</font>
+
+101
+00:08:25,959 --> 00:08:28,360
+<font color="#FFFFFF">We have to have a lightning rod.</font>
+
+102
+00:08:29,439 --> 00:08:32,727
+<font color="#FFFFFF">They'll follow her. She's the face
+of the revolution.</font>
+
+103
+00:08:32,799 --> 00:08:34,722
+<font color="#FFFFFF">Let her see it. Let her go home.</font>
+
+104
+00:08:37,639 --> 00:08:38,846
+<font color="#FFFFFF">Send her.</font>
+
+105
+00:09:05,840 --> 00:09:07,919
+<font color="#FFFFFF">I can't believe you're going through with this.</font>
+
+106
+00:09:09,200 --> 00:09:10,725
+<font color="#FFFFFF">You can say "no".</font>
+
+107
+00:09:10,799 --> 00:09:12,961
+<font color="#FFFFFF">I need to see it for myself.</font>
+
+108
+00:09:14,159 --> 00:09:15,490
+<font color="#FFFFFF">This way.</font>
+
+109
+00:10:12,279 --> 00:10:14,282
+<font color="#FFFFFF">13 swept everything, top to bottom</font>
+
+110
+00:10:14,360 --> 00:10:16,043
+<font color="#FFFFFF">so you'd be safe.</font>
+
+111
+00:10:18,080 --> 00:10:20,207
+<font color="#FFFFFF">You sure you don't want me to go with you?</font>
+
+112
+00:10:20,879 --> 00:10:23,120
+<font color="#FFFFFF">Yeah. I'm sure.</font>
+
+113
+00:10:26,720 --> 00:10:29,370
+<font color="#FFFFFF">We'll have our eyes on you from above.</font>
+
+114
+00:13:58,960 --> 00:14:00,006
+<font color="#FFFFFF">Figures.</font>
+
+115
+00:14:04,200 --> 00:14:05,610
+<font color="#FFFFFF">Hey!</font>
+
+116
+00:14:06,440 --> 00:14:08,090
+<font color="#FFFFFF">Come on.</font>
+
+117
+00:14:09,919 --> 00:14:11,125
+<font color="#FFFFFF">Don't you wanna see Prim?</font>
+
+118
+00:14:12,840 --> 00:14:15,047
+<font color="#FFFFFF">There you go. You're breakin' my heart.</font>
+
+119
+00:14:33,240 --> 00:14:34,287
+<font color="#FFFFFF">Shhh.</font>
+
+120
+00:15:25,159 --> 00:15:26,684
+<font color="#FFFFFF">Egeria!</font>
+
+121
+00:15:30,519 --> 00:15:32,328
+<font color="#FFFFFF">We need to fix these lines.</font>
+
+122
+00:15:33,519 --> 00:15:35,408
+<font color="#FFFFFF">I won't say "rebels".</font>
+
+123
+00:15:36,000 --> 00:15:38,844
+<font color="#FFFFFF">These are senseless acts of defiance.</font>
+
+124
+00:15:39,320 --> 00:15:41,048
+<font color="#FFFFFF">And I won't legitimize them.</font>
+
+125
+00:15:42,519 --> 00:15:45,330
+<font color="#FFFFFF">We'll call them "criminals".</font>
+
+126
+00:15:46,519 --> 00:15:47,645
+<font color="#FFFFFF">Hmm.</font>
+
+127
+00:15:48,480 --> 00:15:49,480
+<font color="#FFFFFF">"Radicals".</font>
+
+128
+00:15:50,200 --> 00:15:51,360
+<font color="#FFFFFF">Hmm.</font>
+
+129
+00:15:52,360 --> 00:15:56,081
+<font color="#FFFFFF">Otherwise we're breaking my oldest rule.</font>
+
+130
+00:15:57,240 --> 00:15:59,890
+<font color="#FFFFFF">Never let them see you bleed.</font>
+
+131
+00:16:02,720 --> 00:16:04,403
+<font color="#FFFFFF">Citizens,</font>
+
+132
+00:16:05,320 --> 00:16:10,201
+<font color="#FFFFFF">tonight I address all of Panem as one.</font>
+
+133
+00:16:11,519 --> 00:16:13,488
+<font color="#FFFFFF">Since the Dark Days,</font>
+
+134
+00:16:13,840 --> 00:16:17,480
+<font color="#FFFFFF">Panem has had an unprecedented era of peace.</font>
+
+135
+00:16:18,080 --> 00:16:21,243
+<font color="#FFFFFF">It is a peace built upon cooperation.</font>
+
+136
+00:16:21,559 --> 00:16:24,403
+<font color="#FFFFFF">And a respect for law and order.</font>
+
+137
+00:16:25,799 --> 00:16:28,326
+<font color="#FFFFFF">In the past weeks, you have heard
+of sporadic violence</font>
+
+138
+00:16:28,399 --> 00:16:33,326
+<font color="#FFFFFF">following the actions of a few radicals
+in the Quarter Quell.</font>
+
+139
+00:16:34,080 --> 00:16:36,923
+<font color="#FFFFFF">Those who choose this destructive path,</font>
+
+140
+00:16:37,519 --> 00:16:39,966
+<font color="#FFFFFF">your actions are based
+on a misunderstanding</font>
+
+141
+00:16:40,039 --> 00:16:43,600
+<font color="#FFFFFF">of how we have survived. Together.</font>
+
+142
+00:16:44,240 --> 00:16:46,207
+<font color="#FFFFFF">It is a contract.</font>
+
+143
+00:16:46,960 --> 00:16:52,000
+<font color="#FFFFFF">Each district supplies the Capitol.
+Like blood to a heart.</font>
+
+144
+00:16:52,639 --> 00:16:57,441
+<font color="#FFFFFF">In return, the Capitol provides
+order and security.</font>
+
+145
+00:16:58,279 --> 00:17:00,965
+<font color="#FFFFFF">To refuse work</font>
+
+146
+00:17:01,080 --> 00:17:04,367
+<font color="#FFFFFF">is to put the entire system in danger.</font>
+
+147
+00:17:05,000 --> 00:17:08,321
+<font color="#FFFFFF">The Capitol is the beating heart of Panem.</font>
+
+148
+00:17:08,680 --> 00:17:11,125
+<font color="#FFFFFF">Nothing can survive without a heart.</font>
+
+149
+00:17:12,880 --> 00:17:19,047
+<font color="#FFFFFF">The criminals that kneel before you use symbols
+for the purpose of sedition.</font>
+
+150
+00:17:19,640 --> 00:17:24,406
+<font color="#FFFFFF">Which is why all images of the Mockingjay
+are now forbidden.</font>
+
+151
+00:17:26,000 --> 00:17:29,003
+<font color="#FFFFFF">Possessing them will be considered treason.</font>
+
+152
+00:17:29,079 --> 00:17:30,969
+<font color="#FFFFFF">Punishable by death.</font>
+
+153
+00:17:32,400 --> 00:17:34,846
+<font color="#FFFFFF">Justice shall be served swiftly.</font>
+
+154
+00:17:35,559 --> 00:17:38,039
+<font color="#FFFFFF">Order shall be restored.</font>
+
+155
+00:17:39,000 --> 00:17:41,970
+<font color="#FFFFFF">To those who ignore the warnings
+of history...</font>
+
+156
+00:17:48,720 --> 00:17:52,611
+<font color="#FFFFFF">prepare to pay the ultimate price.</font>
+
+157
+00:18:37,720 --> 00:18:39,528
+<font color="#FFFFFF">It's okay.</font>
+
+158
+00:18:39,599 --> 00:18:40,885
+<font color="#FFFFFF">We're okay.</font>
+
+159
+00:18:41,400 --> 00:18:42,890
+<font color="#FFFFFF">We're all here now.</font>
+
+160
+00:18:43,440 --> 00:18:45,044
+<font color="#FFFFFF">Buttercup!</font>
+
+161
+00:18:46,400 --> 00:18:47,970
+<font color="#FFFFFF">I smuggled him in.</font>
+
+162
+00:18:52,160 --> 00:18:53,445
+<font color="#FFFFFF">I got Dad.</font>
+
+163
+00:18:57,039 --> 00:19:00,044
+<font color="#FFFFFF">And I got some of your herbs
+from the kitchen.</font>
+
+164
+00:19:01,400 --> 00:19:03,402
+<font color="#FFFFFF">They have strict rules.</font>
+
+165
+00:19:03,720 --> 00:19:06,200
+<font color="#FFFFFF">I don't know what they'll do
+if they find him here.</font>
+
+166
+00:19:21,240 --> 00:19:22,519
+<font color="#FFFFFF">You should try to eat something.</font>
+
+167
+00:19:36,559 --> 00:19:38,642
+<font color="#FFFFFF">Hello. Good evening.</font>
+
+168
+00:19:38,720 --> 00:19:41,609
+<font color="#FFFFFF">And a big welcome to all in Panem.</font>
+
+169
+00:19:42,000 --> 00:19:43,444
+<font color="#FFFFFF">I'm Caesar Flickerman.</font>
+
+170
+00:19:43,640 --> 00:19:46,165
+<font color="#FFFFFF">And whoever you are, whatever
+it is you're doing,</font>
+
+171
+00:19:46,279 --> 00:19:47,884
+<font color="#FFFFFF">if you're working, put down your work.</font>
+
+172
+00:19:47,960 --> 00:19:49,883
+<font color="#FFFFFF">If you're having dinner,
+stop having dinner.</font>
+
+173
+00:19:50,000 --> 00:19:53,606
+<font color="#FFFFFF">Because you are going to want
+to witness this tonight.</font>
+
+174
+00:19:54,480 --> 00:19:56,403
+<font color="#FFFFFF">There has been rampant speculation</font>
+
+175
+00:19:56,480 --> 00:19:59,689
+<font color="#FFFFFF">about what really happened
+in the Quarter Quell.</font>
+
+176
+00:20:00,079 --> 00:20:04,563
+<font color="#FFFFFF">And here to shed a little light on the subject for us
+is a very special guest.</font>
+
+177
+00:20:04,680 --> 00:20:08,365
+<font color="#FFFFFF">Please welcome Mr. Peeta Mellark.</font>
+
+178
+00:20:09,440 --> 00:20:14,651
+<font color="#FFFFFF">Peeta, a lot of people feel as though
+they are in the dark.</font>
+
+179
+00:20:14,720 --> 00:20:16,801
+<font color="#FFFFFF">Yeah, I know how they feel.</font>
+
+180
+00:20:16,960 --> 00:20:19,008
+<font color="#FFFFFF">Now, so set the stage for us.</font>
+
+181
+00:20:19,119 --> 00:20:24,888
+<font color="#FFFFFF">Talk us through what really happened
+on that final and controversial night.</font>
+
+182
+00:20:24,960 --> 00:20:29,170
+<font color="#FFFFFF">Well, first off, you have to understand
+that when you're in the Games</font>
+
+183
+00:20:30,319 --> 00:20:33,005
+<font color="#FFFFFF">you only get one wish. It's very costly.</font>
+
+184
+00:20:33,160 --> 00:20:34,200
+<font color="#FFFFFF">You're alive.</font>
+
+185
+00:20:34,279 --> 00:20:35,280
+<font color="#FFFFFF">It costs your life.</font>
+
+186
+00:20:35,359 --> 00:20:36,566
+<font color="#FFFFFF">I think it costs more than your life.</font>
+
+187
+00:20:36,640 --> 00:20:38,243
+<font color="#FFFFFF">How do you mean? What's more than your life?</font>
+
+188
+00:20:38,319 --> 00:20:42,644
+<font color="#FFFFFF">I mean to murder innocent people,
+that costs everything that you are.</font>
+
+189
+00:20:42,799 --> 00:20:43,881
+<font color="#FFFFFF">Yes.</font>
+
+190
+00:20:44,000 --> 00:20:47,128
+<font color="#FFFFFF">So you hold on to that one wish.</font>
+
+191
+00:20:47,920 --> 00:20:50,365
+<font color="#FFFFFF">And that night my wish
+was to save Katniss.</font>
+
+192
+00:20:50,480 --> 00:20:51,560
+<font color="#FFFFFF">Yes.</font>
+
+193
+00:20:51,960 --> 00:20:54,930
+<font color="#FFFFFF">I should've just run off with her earlier
+in the day like she'd wanted.</font>
+
+194
+00:20:55,000 --> 00:20:56,604
+<font color="#FFFFFF">But you didn't.</font>
+
+195
+00:20:56,680 --> 00:20:59,808
+<font color="#FFFFFF">Why? Were you caught up in Beetee's plan?</font>
+
+196
+00:21:00,200 --> 00:21:03,089
+<font color="#FFFFFF">No, I was caught up trying to play allies.</font>
+
+197
+00:21:03,839 --> 00:21:05,842
+<font color="#FFFFFF">And then they separated us</font>
+
+198
+00:21:07,880 --> 00:21:09,119
+<font color="#FFFFFF">and that's when I lost her.</font>
+
+199
+00:21:11,039 --> 00:21:12,690
+<font color="#FFFFFF">And then the lightning hit</font>
+
+200
+00:21:12,839 --> 00:21:16,560
+<font color="#FFFFFF">and the whole force field around the arena
+just blew out.</font>
+
+201
+00:21:16,960 --> 00:21:18,246
+<font color="#FFFFFF">Yes, but, Peeta,</font>
+
+202
+00:21:18,319 --> 00:21:21,607
+<font color="#FFFFFF">Katniss is the one who blew it out.</font>
+
+203
+00:21:21,680 --> 00:21:22,681
+<font color="#FFFFFF">No.</font>
+
+204
+00:21:22,799 --> 00:21:23,800
+<font color="#FFFFFF">You saw the footage.</font>
+
+205
+00:21:23,880 --> 00:21:26,166
+<font color="#FFFFFF">No, she didn't know what she was doing.</font>
+
+206
+00:21:26,240 --> 00:21:27,480
+<font color="#FFFFFF">Neither of us knew</font>
+
+207
+00:21:27,559 --> 00:21:29,926
+<font color="#FFFFFF">there was a bigger plan going on.
+We had no idea.</font>
+
+208
+00:21:30,000 --> 00:21:31,080
+<font color="#FFFFFF">- You had no "idea"?
+- No.</font>
+
+209
+00:21:31,160 --> 00:21:35,538
+<font color="#FFFFFF">Alright. Well, Peeta, there are many who
+find this suspicious, to say the least.</font>
+
+210
+00:21:35,539 --> 00:21:35,971
+<font color="#FFFFFF">Mm-hmm.</font>
+
+211
+00:21:36,039 --> 00:21:40,045
+<font color="#FFFFFF">It seems as though she was part
+of a rebel plan.</font>
+
+212
+00:21:40,480 --> 00:21:44,165
+<font color="#FFFFFF">Do you think it was part of her plan
+to be almost killed by Johanna?</font>
+
+213
+00:21:44,279 --> 00:21:46,964
+<font color="#FFFFFF">Or part of the plan to be paralyzed
+by lightning?</font>
+
+214
+00:21:47,039 --> 00:21:51,284
+<font color="#FFFFFF">No, we were not part of any rebel plan.
+We had no idea what was going on.</font>
+
+215
+00:21:51,559 --> 00:21:55,280
+<font color="#FFFFFF">Alright. I believe you, Peeta Mellark.
+Thank you.</font>
+
+216
+00:21:55,359 --> 00:21:56,361
+<font color="#FFFFFF">Yeah.</font>
+
+217
+00:21:56,440 --> 00:21:58,681
+<font color="#FFFFFF">And I was going to ask you
+to speak about the unrest</font>
+
+218
+00:21:58,759 --> 00:22:01,080
+<font color="#FFFFFF">but I think you might be too upset.</font>
+
+219
+00:22:01,400 --> 00:22:02,560
+<font color="#FFFFFF">No, I can.</font>
+
+220
+00:22:02,680 --> 00:22:04,409
+<font color="#FFFFFF">- Are you sure?
+- Yeah, absolutely.</font>
+
+221
+00:22:04,480 --> 00:22:05,605
+<font color="#FFFFFF">Thank you.</font>
+
+222
+00:22:10,559 --> 00:22:14,041
+<font color="#FFFFFF">I want everyone who's watching to stop</font>
+
+223
+00:22:14,119 --> 00:22:17,249
+<font color="#FFFFFF">and to think about what
+a civil war could mean.</font>
+
+224
+00:22:17,559 --> 00:22:19,961
+<font color="#FFFFFF">We almost went extinct once before.</font>
+
+225
+00:22:20,039 --> 00:22:21,804
+<font color="#FFFFFF">And now our numbers are even fewer.</font>
+
+226
+00:22:21,880 --> 00:22:22,880
+<font color="#FFFFFF">He's one of them.</font>
+
+227
+00:22:22,920 --> 00:22:24,080
+<font color="#FFFFFF">Is this really what we wanna do?</font>
+
+228
+00:22:24,160 --> 00:22:25,161
+<font color="#FFFFFF">He's a traitor.</font>
+
+229
+00:22:25,279 --> 00:22:26,805
+<font color="#FFFFFF">Kill ourselves off?</font>
+
+230
+00:22:26,880 --> 00:22:28,769
+<font color="#FFFFFF">Killing is not the answer.</font>
+
+231
+00:22:28,839 --> 00:22:30,523
+<font color="#FFFFFF">I can't believe he's doing this.</font>
+
+232
+00:22:30,599 --> 00:22:32,680
+<font color="#FFFFFF">Everyone needs to lay down
+their weapons immediately.</font>
+
+233
+00:22:32,960 --> 00:22:34,200
+<font color="#FFFFFF">Traitor!</font>
+
+234
+00:22:34,279 --> 00:22:35,849
+<font color="#FFFFFF">He's not one of us!</font>
+
+235
+00:22:35,920 --> 00:22:37,444
+<font color="#FFFFFF">This is treason!</font>
+
+236
+00:22:38,279 --> 00:22:40,442
+<font color="#FFFFFF">Are you calling for a ceasefire?</font>
+
+237
+00:22:41,279 --> 00:22:43,088
+<font color="#FFFFFF">Yeah. I am.</font>
+
+238
+00:22:43,160 --> 00:22:44,320
+<font color="#FFFFFF">You're a puppet!</font>
+
+239
+00:22:44,400 --> 00:22:45,526
+<font color="#FFFFFF">Hang him!</font>
+
+240
+00:22:45,599 --> 00:22:49,047
+<font color="#FFFFFF">I want everyone to stop
+the senseless violence.</font>
+
+241
+00:22:49,279 --> 00:22:50,963
+<font color="#FFFFFF">This is not the path to change.</font>
+
+242
+00:22:51,039 --> 00:22:52,279
+<font color="#FFFFFF">Traitor!</font>
+
+243
+00:22:52,359 --> 00:22:55,203
+<font color="#FFFFFF">It's not the path to justice.</font>
+
+244
+00:23:18,319 --> 00:23:20,321
+<font color="#FFFFFF">There can't be a ceasefire.</font>
+
+245
+00:23:22,160 --> 00:23:24,208
+<font color="#FFFFFF">Not after everything Snow's done.</font>
+
+246
+00:23:25,680 --> 00:23:27,682
+<font color="#FFFFFF">He could have done a lot of damage tonight.</font>
+
+247
+00:23:28,000 --> 00:23:30,127
+<font color="#FFFFFF">Most districts, people are still
+too afraid to join.</font>
+
+248
+00:23:30,200 --> 00:23:31,565
+<font color="#FFFFFF">They need the courage.</font>
+
+249
+00:23:31,680 --> 00:23:33,329
+<font color="#FFFFFF">Why do you think he said that?</font>
+
+250
+00:23:35,680 --> 00:23:37,443
+<font color="#FFFFFF">I don't know. Maybe he was forced.</font>
+
+251
+00:23:42,640 --> 00:23:44,528
+<font color="#FFFFFF">He didn't look that bad.</font>
+
+252
+00:23:46,960 --> 00:23:49,280
+<font color="#FFFFFF">Maybe he made some kind of deal
+to protect you.</font>
+
+253
+00:23:52,480 --> 00:23:54,642
+<font color="#FFFFFF">He's still playing the game.</font>
+
+254
+00:24:03,039 --> 00:24:05,691
+<font color="#FFFFFF">No! No! No!</font>
+
+255
+00:24:11,200 --> 00:24:14,282
+<font color="#FFFFFF">I'm sorry. It's just a nightmare.</font>
+
+256
+00:24:14,359 --> 00:24:16,521
+<font color="#FFFFFF">That's okay. I get 'em, too.</font>
+
+257
+00:24:20,720 --> 00:24:21,881
+<font color="#FFFFFF">Peeta,</font>
+
+258
+00:24:24,039 --> 00:24:25,565
+<font color="#FFFFFF">will you stay with me?</font>
+
+259
+00:24:26,200 --> 00:24:27,405
+<font color="#FFFFFF">Yeah.</font>
+
+260
+00:24:39,640 --> 00:24:40,641
+<font color="#FFFFFF">Always.</font>
+
+261
+00:24:48,400 --> 00:24:50,003
+<font color="#FFFFFF">Hey.</font>
+
+262
+00:24:50,839 --> 00:24:52,329
+<font color="#FFFFFF">Can't sleep?</font>
+
+263
+00:25:11,279 --> 00:25:13,281
+<font color="#FFFFFF">Tell me what's happening.</font>
+
+264
+00:25:14,160 --> 00:25:16,366
+<font color="#FFFFFF">I'm good at keeping secrets.</font>
+
+265
+00:25:16,920 --> 00:25:18,046
+<font color="#FFFFFF">Even from Mom.</font>
+
+266
+00:25:24,039 --> 00:25:26,326
+<font color="#FFFFFF">No one hates the Capitol more than me.</font>
+
+267
+00:25:28,759 --> 00:25:32,002
+<font color="#FFFFFF">And I wanna help. But I just keep thinking.</font>
+
+268
+00:25:33,480 --> 00:25:36,608
+<font color="#FFFFFF">Even if we win this war,
+what happens to Peeta?</font>
+
+269
+00:25:38,240 --> 00:25:41,561
+<font color="#FFFFFF">I know he's not safe there, but
+he's definitely not safe here.</font>
+
+270
+00:25:41,839 --> 00:25:44,809
+<font color="#FFFFFF">I don't think you know how important
+you are to them.</font>
+
+271
+00:25:45,880 --> 00:25:49,042
+<font color="#FFFFFF">If you want something,
+you just have to ask.</font>
+
+272
+00:25:50,880 --> 00:25:53,611
+<font color="#FFFFFF">You could demand almost anything.</font>
+
+273
+00:25:53,680 --> 00:25:55,329
+<font color="#FFFFFF">They'd have to agree to it.</font>
+
+274
+00:25:56,359 --> 00:25:58,965
+<font color="#FFFFFF">I should wake you up more often, Little Duck.</font>
+
+275
+00:26:01,480 --> 00:26:02,970
+<font color="#FFFFFF">Get some sleep now.</font>
+
+276
+00:26:04,519 --> 00:26:05,726
+<font color="#FFFFFF">You, too.</font>
+
+277
+00:26:12,640 --> 00:26:14,607
+<font color="#FFFFFF">Thank you for agreeing to meet with me.</font>
+
+278
+00:26:15,279 --> 00:26:18,089
+<font color="#FFFFFF">I've decided I'll be your Mockingjay.</font>
+
+279
+00:26:18,160 --> 00:26:21,003
+<font color="#FFFFFF">But I have some conditions.</font>
+
+280
+00:26:27,319 --> 00:26:31,483
+<font color="#FFFFFF">Peeta and the other Tributes, Johanna Mason
+and Annie Cresta,</font>
+
+281
+00:26:31,799 --> 00:26:34,201
+<font color="#FFFFFF">will be rescued at the earliest opportunity.</font>
+
+282
+00:26:34,319 --> 00:26:36,367
+<font color="#FFFFFF">If and when Peeta is liberated,</font>
+
+283
+00:26:36,599 --> 00:26:39,079
+<font color="#FFFFFF">he will receive a full and unconditional pardon.</font>
+
+284
+00:26:39,200 --> 00:26:41,327
+<font color="#FFFFFF">No punishment will be inflicted.</font>
+
+285
+00:26:41,400 --> 00:26:44,210
+<font color="#FFFFFF">And the same goes for the other Tributes.</font>
+
+286
+00:26:47,839 --> 00:26:48,965
+<font color="#FFFFFF">No.</font>
+
+287
+00:26:49,920 --> 00:26:52,605
+<font color="#FFFFFF">It's not their fault you abandoned them
+in the arena.</font>
+
+288
+00:26:52,680 --> 00:26:54,967
+<font color="#FFFFFF">They're doing and saying whatever
+they can to survive.</font>
+
+289
+00:26:55,039 --> 00:26:57,691
+<font color="#FFFFFF">Individuals don't make demands in 13.</font>
+
+290
+00:26:57,799 --> 00:27:00,883
+<font color="#FFFFFF">There will be a tribunal.
+And a fair judgment.</font>
+
+291
+00:27:01,640 --> 00:27:03,005
+<font color="#FFFFFF">Thank you.</font>
+
+292
+00:27:04,279 --> 00:27:06,407
+<font color="#FFFFFF">The Victors will be granted immunity.</font>
+
+293
+00:27:06,519 --> 00:27:09,887
+<font color="#FFFFFF">And you will announce that in front
+of the entire population of 13.</font>
+
+294
+00:27:09,960 --> 00:27:12,644
+<font color="#FFFFFF">You will hold yourself and your
+government responsible,</font>
+
+295
+00:27:12,720 --> 00:27:15,040
+<font color="#FFFFFF">or you will find another Mockingjay.</font>
+
+296
+00:27:15,119 --> 00:27:17,851
+<font color="#FFFFFF">That's it. That's her. Right there.</font>
+
+297
+00:27:18,640 --> 00:27:20,482
+<font color="#FFFFFF">Isn't that who I promised you?</font>
+
+298
+00:27:20,559 --> 00:27:22,449
+<font color="#FFFFFF">She wears the costume.</font>
+
+299
+00:27:22,519 --> 00:27:25,204
+<font color="#FFFFFF">Gunfire in the background.
+A hint of smoke.</font>
+
+300
+00:27:25,279 --> 00:27:26,849
+<font color="#FFFFFF">Our Mockingjay.</font>
+
+301
+00:27:28,079 --> 00:27:31,766
+<font color="#FFFFFF">Madam President, we're losing ground,
+because the people are losing heart.</font>
+
+302
+00:27:31,839 --> 00:27:33,000
+<font color="#FFFFFF">This is worth the risk.</font>
+
+303
+00:27:33,079 --> 00:27:34,844
+<font color="#FFFFFF">She's worth the risk.</font>
+
+304
+00:27:34,920 --> 00:27:37,365
+<font color="#FFFFFF">Pardons, tribunals. Power of the people.</font>
+
+305
+00:27:37,440 --> 00:27:39,965
+<font color="#FFFFFF">It can all be the bedrock
+of the new Panem, but,</font>
+
+306
+00:27:40,920 --> 00:27:45,686
+<font color="#FFFFFF">in wartime I think even the noblest of causes
+can be bent a little bit. Right?</font>
+
+307
+00:27:50,319 --> 00:27:52,766
+<font color="#FFFFFF">Do you have any other conditions?</font>
+
+308
+00:27:58,160 --> 00:28:00,480
+<font color="#FFFFFF">My sister gets to keep her cat.</font>
+
+309
+00:28:15,599 --> 00:28:16,646
+<font color="#FFFFFF">Go away.</font>
+
+310
+00:28:21,640 --> 00:28:23,801
+<font color="#FFFFFF">Is it visiting hours again?</font>
+
+311
+00:28:25,359 --> 00:28:26,805
+<font color="#FFFFFF">Miss Trinket,</font>
+
+312
+00:28:28,160 --> 00:28:29,844
+<font color="#FFFFFF">you see this door.</font>
+
+313
+00:28:30,359 --> 00:28:32,806
+<font color="#FFFFFF">It opens. From the inside.</font>
+
+314
+00:28:33,440 --> 00:28:36,807
+<font color="#FFFFFF">I've told you, these are the standard
+living quarters. Same as everyone.</font>
+
+315
+00:28:37,039 --> 00:28:39,691
+<font color="#FFFFFF">You're not a prisoner. You're
+free to join the rest of 13.</font>
+
+316
+00:28:41,559 --> 00:28:45,246
+<font color="#FFFFFF">Not looking like this. Thank you very much.</font>
+
+317
+00:28:45,319 --> 00:28:48,403
+<font color="#FFFFFF">We have a bigger issue than wardrobe,
+Miss Trinket.</font>
+
+318
+00:28:48,480 --> 00:28:50,209
+<font color="#FFFFFF">Katniss has agreed to be the Mockingjay.</font>
+
+319
+00:28:50,279 --> 00:28:51,691
+<font color="#FFFFFF">That poor thing.</font>
+
+320
+00:28:51,759 --> 00:28:54,411
+<font color="#FFFFFF">And your Girl on Fire is burnt out.</font>
+
+321
+00:28:54,480 --> 00:28:56,767
+<font color="#FFFFFF">I need you to join this team now.</font>
+
+322
+00:28:57,200 --> 00:28:59,042
+<font color="#FFFFFF">I need someone she trusts.</font>
+
+323
+00:28:59,119 --> 00:29:00,723
+<font color="#FFFFFF">What about Haymitch?</font>
+
+324
+00:29:00,839 --> 00:29:03,650
+<font color="#FFFFFF">He's drying out in some facility a mile down.</font>
+
+325
+00:29:03,759 --> 00:29:07,320
+<font color="#FFFFFF">Aiding rebels is not really my forte.</font>
+
+326
+00:29:07,400 --> 00:29:11,803
+<font color="#FFFFFF">Miss Trinket, your days
+in the Capitol are over,</font>
+
+327
+00:29:12,119 --> 00:29:14,248
+<font color="#FFFFFF">no matter what happens here.</font>
+
+328
+00:29:14,920 --> 00:29:17,923
+<font color="#FFFFFF">If you wanna play a prisoner of war, fine.</font>
+
+329
+00:29:18,000 --> 00:29:19,604
+<font color="#FFFFFF">Stay here and rot.</font>
+
+330
+00:29:19,720 --> 00:29:21,961
+<font color="#FFFFFF">I'll find someone else to be
+the Mockingjay's escort.</font>
+
+331
+00:29:23,279 --> 00:29:24,280
+<font color="#FFFFFF">Who?</font>
+
+332
+00:29:26,920 --> 00:29:30,924
+<font color="#FFFFFF">Anyone can be replaced.</font>
+
+333
+00:29:32,279 --> 00:29:34,044
+<font color="#FFFFFF">Not your Mockingjay.</font>
+
+334
+00:29:36,160 --> 00:29:39,721
+<font color="#FFFFFF">There isn't a soul in this dungeon who
+knows the first thing about Katniss.</font>
+
+335
+00:29:42,279 --> 00:29:44,931
+<font color="#FFFFFF">You honestly believe one
+of these cave dwellers</font>
+
+336
+00:29:45,000 --> 00:29:47,001
+<font color="#FFFFFF">is going to take my place?</font>
+
+337
+00:29:47,960 --> 00:29:49,165
+<font color="#FFFFFF">No.</font>
+
+338
+00:30:05,359 --> 00:30:06,724
+<font color="#FFFFFF">Good afternoon.</font>
+
+339
+00:30:07,400 --> 00:30:09,721
+<font color="#FFFFFF">Thank you for interrupting your schedules.</font>
+
+340
+00:30:10,599 --> 00:30:13,922
+<font color="#FFFFFF">They have already been adjusted
+to compensate for the delay.</font>
+
+341
+00:30:14,079 --> 00:30:15,640
+<font color="#FFFFFF">I hardly ever see children around here.</font>
+
+342
+00:30:15,680 --> 00:30:17,807
+<font color="#FFFFFF">Please, check in with your unit supervisors
+when you resume work.</font>
+
+343
+00:30:17,880 --> 00:30:20,644
+<font color="#FFFFFF">A lot of them were lost in an epidemic
+a few years ago.</font>
+
+344
+00:30:20,720 --> 00:30:22,006
+<font color="#FFFFFF">I have an announcement
+for the citizens of 13.</font>
+
+345
+00:30:22,079 --> 00:30:23,569
+<font color="#FFFFFF">Coin lost her family, too.</font>
+
+346
+00:30:24,039 --> 00:30:25,565
+<font color="#FFFFFF">Daughter and a husband.</font>
+
+347
+00:30:25,799 --> 00:30:28,007
+<font color="#FFFFFF">And our welcome guests from 12.</font>
+
+348
+00:30:28,400 --> 00:30:32,325
+<font color="#FFFFFF">Katniss Everdeen has consented
+to be the face of our cause</font>
+
+349
+00:30:33,039 --> 00:30:36,169
+<font color="#FFFFFF">to help unite the districts
+against the Capitol.</font>
+
+350
+00:30:37,039 --> 00:30:42,125
+<font color="#FFFFFF">In exchange, I have promised
+several concessions.</font>
+
+351
+00:30:43,119 --> 00:30:47,682
+<font color="#FFFFFF">First, we'll assess all opportunities
+for the extraction of the Victors</font>
+
+352
+00:30:48,279 --> 00:30:50,442
+<font color="#FFFFFF">held hostage in the Capitol.</font>
+
+353
+00:30:51,599 --> 00:30:52,760
+<font color="#FFFFFF">Peeta Mellark...</font>
+
+354
+00:30:56,079 --> 00:30:57,525
+<font color="#FFFFFF">Johanna Mason...</font>
+
+355
+00:30:58,200 --> 00:30:59,530
+<font color="#FFFFFF">Finnick, I made the deal for Annie, too.</font>
+
+356
+00:30:59,599 --> 00:31:01,489
+<font color="#FFFFFF">And Annie Cresta.</font>
+
+357
+00:31:02,680 --> 00:31:03,965
+<font color="#FFFFFF">Once freed,</font>
+
+358
+00:31:04,039 --> 00:31:06,963
+<font color="#FFFFFF">they will be granted full pardon
+for any and all crimes</font>
+
+359
+00:31:07,039 --> 00:31:08,451
+<font color="#FFFFFF">committed against the rebel cause.</font>
+
+360
+00:31:11,000 --> 00:31:12,080
+<font color="#FFFFFF">Good.</font>
+
+361
+00:31:12,720 --> 00:31:14,483
+<font color="#FFFFFF">That's good, Katniss.</font>
+
+362
+00:31:16,559 --> 00:31:22,644
+<font color="#FFFFFF">If Katniss Everdeen fails to fulfill
+her duties, the deal will be off.</font>
+
+363
+00:31:22,839 --> 00:31:24,729
+<font color="#FFFFFF">Thank you for your attention.</font>
+
+364
+00:31:24,799 --> 00:31:27,326
+<font color="#FFFFFF">Please, resume your daily schedules.</font>
+
+365
+00:31:31,200 --> 00:31:32,247
+<font color="#FFFFFF">Madam President.</font>
+
+366
+00:31:32,319 --> 00:31:33,526
+<font color="#FFFFFF">Effie Trinket.</font>
+
+367
+00:31:33,839 --> 00:31:35,171
+<font color="#FFFFFF">Welcome to 13.</font>
+
+368
+00:31:35,480 --> 00:31:40,890
+<font color="#FFFFFF">- Madam President, may I say you are so very concise.
+- Hmm.</font>
+
+369
+00:31:41,559 --> 00:31:43,210
+<font color="#FFFFFF">You believe that there's more to be said?</font>
+
+370
+00:31:43,880 --> 00:31:44,881
+<font color="#FFFFFF">May I speak freely?</font>
+
+371
+00:31:44,960 --> 00:31:46,848
+<font color="#FFFFFF">You don't appear to do anything else.</font>
+
+372
+00:31:47,559 --> 00:31:50,211
+<font color="#FFFFFF">I'm only talking about salesmanship.</font>
+
+373
+00:31:50,920 --> 00:31:54,208
+<font color="#FFFFFF">The thing with revolutions,
+they're a tender flame.</font>
+
+374
+00:31:54,279 --> 00:31:56,169
+<font color="#FFFFFF">They need to be nurtured
+with a little kindling</font>
+
+375
+00:31:56,240 --> 00:31:58,560
+<font color="#FFFFFF">and warmth.</font>
+
+376
+00:31:59,079 --> 00:32:00,240
+<font color="#FFFFFF">Bit of oxygen.</font>
+
+377
+00:32:00,319 --> 00:32:01,684
+<font color="#FFFFFF">Oxygen.</font>
+
+378
+00:32:02,319 --> 00:32:04,846
+<font color="#FFFFFF">One sure way to put it out
+is to smother it.</font>
+
+379
+00:32:04,920 --> 00:32:07,605
+<font color="#FFFFFF">Or to use up all the air in the room.</font>
+
+380
+00:32:07,680 --> 00:32:09,045
+<font color="#FFFFFF">Excuse me.</font>
+
+381
+00:32:11,680 --> 00:32:15,320
+<font color="#FFFFFF">You know what could use a revolution?
+That hair.</font>
+
+382
+00:32:16,799 --> 00:32:17,800
+<font color="#FFFFFF">Effie?</font>
+
+383
+00:32:19,200 --> 00:32:20,361
+<font color="#FFFFFF">Oh!</font>
+
+384
+00:32:23,640 --> 00:32:25,005
+<font color="#FFFFFF">What are you doing here?</font>
+
+385
+00:32:25,240 --> 00:32:26,651
+<font color="#FFFFFF">I'm a political refugee.</font>
+
+386
+00:32:27,480 --> 00:32:28,810
+<font color="#FFFFFF">Plutarch rescued you?</font>
+
+387
+00:32:28,880 --> 00:32:31,041
+<font color="#FFFFFF">Rescued, yes, that's what he calls it.</font>
+
+388
+00:32:31,759 --> 00:32:34,205
+<font color="#FFFFFF">You and I were both in the dark.</font>
+
+389
+00:32:34,599 --> 00:32:37,046
+<font color="#FFFFFF">Now I'm condemned to this life of jumpsuits.</font>
+
+390
+00:32:38,079 --> 00:32:40,401
+<font color="#FFFFFF">It is wonderful to see you again.</font>
+
+391
+00:32:43,680 --> 00:32:45,807
+<font color="#FFFFFF">Can you believe this place?</font>
+
+392
+00:32:46,200 --> 00:32:47,804
+<font color="#FFFFFF">I miss coffee.</font>
+
+393
+00:32:49,400 --> 00:32:51,971
+<font color="#FFFFFF">I never knew anyplace could be so strict.</font>
+
+394
+00:32:52,039 --> 00:32:58,930
+<font color="#FFFFFF">I mean, I thought at least in the higher ranks
+there'd be some side action.</font>
+
+395
+00:32:59,400 --> 00:33:01,242
+<font color="#FFFFFF">I miss my wigs.</font>
+
+396
+00:33:01,319 --> 00:33:05,003
+<font color="#FFFFFF">Luckily, I remembered that this was all
+the rage when I was coming up.</font>
+
+397
+00:33:05,079 --> 00:33:08,163
+<font color="#FFFFFF">You know, everything old
+can be made new again.</font>
+
+398
+00:33:09,279 --> 00:33:10,849
+<font color="#FFFFFF">Like democracy.</font>
+
+399
+00:33:12,759 --> 00:33:14,489
+<font color="#FFFFFF">Which brings me to this.</font>
+
+400
+00:33:23,640 --> 00:33:25,210
+<font color="#FFFFFF">Cinna.</font>
+
+401
+00:33:27,599 --> 00:33:29,409
+<font color="#FFFFFF">He's dead, isn't he?</font>
+
+402
+00:33:32,640 --> 00:33:34,005
+<font color="#FFFFFF">Yes, dear.</font>
+
+403
+00:33:38,079 --> 00:33:40,685
+<font color="#FFFFFF">He made Plutarch promise
+not to show you this</font>
+
+404
+00:33:40,759 --> 00:33:43,650
+<font color="#FFFFFF">until you'd decided to be the Mockingjay
+on your own.</font>
+
+405
+00:33:45,279 --> 00:33:48,363
+<font color="#FFFFFF">He knew the risks. As we all do.</font>
+
+406
+00:33:50,720 --> 00:33:53,290
+<font color="#FFFFFF">He believed in this revolution.</font>
+
+407
+00:33:55,200 --> 00:33:56,884
+<font color="#FFFFFF">He believed in you.</font>
+
+408
+00:33:56,960 --> 00:33:58,644
+<font color="#FFFFFF">They're beautiful.</font>
+
+409
+00:34:00,960 --> 00:34:02,404
+<font color="#FFFFFF">They have it.</font>
+
+410
+00:34:02,960 --> 00:34:05,280
+<font color="#FFFFFF">They have the Mockingjay outfit.</font>
+
+411
+00:34:07,119 --> 00:34:09,440
+<font color="#FFFFFF">There's not much of a prep team here in 13,</font>
+
+412
+00:34:09,519 --> 00:34:11,284
+<font color="#FFFFFF">but we will make you</font>
+
+413
+00:34:12,800 --> 00:34:15,485
+<font color="#FFFFFF">the best-dressed rebel in history.</font>
+
+414
+00:34:19,639 --> 00:34:20,880
+<font color="#FFFFFF">Okay.</font>
+
+415
+00:34:22,239 --> 00:34:23,365
+<font color="#FFFFFF">Bring up the lights.</font>
+
+416
+00:34:41,679 --> 00:34:43,250
+<font color="#FFFFFF">Cinna's final touch.</font>
+
+417
+00:34:47,679 --> 00:34:51,001
+<font color="#FFFFFF">Everyone's either gonna
+wanna kiss you, kill you,</font>
+
+418
+00:34:51,079 --> 00:34:52,570
+<font color="#FFFFFF">or be you.</font>
+
+419
+00:34:53,480 --> 00:34:55,527
+<font color="#FFFFFF">Perfect.</font>
+
+420
+00:34:55,599 --> 00:34:56,965
+<font color="#FFFFFF">Absolutely perfect.</font>
+
+421
+00:34:57,239 --> 00:34:59,686
+<font color="#FFFFFF">Okay. Let's bring up the setting.</font>
+
+422
+00:35:02,000 --> 00:35:03,001
+<font color="#FFFFFF">Huh.</font>
+
+423
+00:35:07,199 --> 00:35:08,644
+<font color="#FFFFFF">Little Wind.</font>
+
+424
+00:35:09,519 --> 00:35:12,443
+<font color="#FFFFFF">Okay, Katniss, we're gonna start
+you down on one knee.</font>
+
+425
+00:35:12,519 --> 00:35:14,409
+<font color="#FFFFFF">- Okay.
+- And as you rise up,</font>
+
+426
+00:35:14,559 --> 00:35:18,041
+<font color="#FFFFFF">you're gonna hold your flag in the air
+and deliver your line.</font>
+
+427
+00:35:18,119 --> 00:35:21,840
+<font color="#FFFFFF">And remember you've just stormed
+the outskirts of the Capitol</font>
+
+428
+00:35:21,920 --> 00:35:23,599
+<font color="#FFFFFF">arm-in-arm with your brothers and sisters.</font>
+
+429
+00:35:24,039 --> 00:35:25,041
+<font color="#FFFFFF">Okay.</font>
+
+430
+00:35:26,199 --> 00:35:28,601
+<font color="#FFFFFF">Whenever you're ready.</font>
+
+431
+00:35:31,840 --> 00:35:35,161
+<font color="#FFFFFF">People of Panem, we fight, we dare, we...</font>
+
+432
+00:35:37,880 --> 00:35:38,880
+<font color="#FFFFFF">Does she know the line?</font>
+
+433
+00:35:38,960 --> 00:35:40,724
+<font color="#FFFFFF">- I know it. I got it. I'm sorry.
+- Okay, alright.</font>
+
+434
+00:35:40,800 --> 00:35:42,483
+<font color="#FFFFFF">- Let's do it again.
+- She's warming up.</font>
+
+435
+00:35:42,559 --> 00:35:45,369
+<font color="#FFFFFF">Alright. With energy. Go.</font>
+
+436
+00:35:46,199 --> 00:35:47,849
+<font color="#FFFFFF">People of Panem, we fight!</font>
+
+437
+00:35:47,920 --> 00:35:51,766
+<font color="#FFFFFF">We dare to end this hunger for justice!</font>
+
+438
+00:35:52,320 --> 00:35:54,481
+<font color="#FFFFFF">You've just been in battle!</font>
+
+439
+00:35:54,559 --> 00:35:57,324
+<font color="#FFFFFF">I'm sorry. Excuse my outburst.</font>
+
+440
+00:35:57,400 --> 00:36:00,005
+<font color="#FFFFFF">You've just been in battle.</font>
+
+441
+00:36:00,880 --> 00:36:02,041
+<font color="#FFFFFF">Let's try it again.</font>
+
+442
+00:36:02,400 --> 00:36:03,844
+<font color="#FFFFFF">Whenever you're ready.</font>
+
+443
+00:36:04,760 --> 00:36:06,842
+<font color="#FFFFFF">People of Panem, we fight!</font>
+
+444
+00:36:06,920 --> 00:36:11,608
+<font color="#FFFFFF">We dare to end this hunger for justice.</font>
+
+445
+00:36:22,599 --> 00:36:26,570
+<font color="#FFFFFF">And that, my friends, is how a revolution dies.</font>
+
+446
+00:36:30,239 --> 00:36:31,764
+<font color="#FFFFFF">Hello, Katniss.</font>
+
+447
+00:36:35,320 --> 00:36:37,766
+<font color="#FFFFFF">This how you greet an old friend?</font>
+
+448
+00:36:38,440 --> 00:36:40,646
+<font color="#FFFFFF">Maybe I don't recognize you sober.</font>
+
+449
+00:36:42,119 --> 00:36:44,690
+<font color="#FFFFFF">I guess it looks as bad as it feels.</font>
+
+450
+00:36:46,840 --> 00:36:49,490
+<font color="#FFFFFF">People of Panem, we fight!</font>
+
+451
+00:36:49,639 --> 00:36:53,326
+<font color="#FFFFFF">We dare! We end this hunger for justice!</font>
+
+452
+00:37:04,199 --> 00:37:06,248
+<font color="#FFFFFF">Uh, Madam President,</font>
+
+453
+00:37:06,320 --> 00:37:08,971
+<font color="#FFFFFF">indulge me for a moment, if you would.</font>
+
+454
+00:37:09,119 --> 00:37:11,565
+<font color="#FFFFFF">Let's everybody think of one incident</font>
+
+455
+00:37:11,639 --> 00:37:14,643
+<font color="#FFFFFF">where Katniss Everdeen
+genuinely moved you.</font>
+
+456
+00:37:15,000 --> 00:37:17,400
+<font color="#FFFFFF">Not where you were jealous
+of her hairstyle</font>
+
+457
+00:37:17,480 --> 00:37:20,050
+<font color="#FFFFFF">or her dress went up in flames</font>
+
+458
+00:37:20,119 --> 00:37:23,168
+<font color="#FFFFFF">or she made a halfway decent shot
+with an arrow.</font>
+
+459
+00:37:23,239 --> 00:37:25,846
+<font color="#FFFFFF">And not where Peeta made you like her.</font>
+
+460
+00:37:26,960 --> 00:37:32,039
+<font color="#FFFFFF">No, I'd like you all to think of one moment
+where she made you feel something real.</font>
+
+461
+00:37:32,050 --> 00:37:33,028
+<font color="#FFFFFF">Oh.</font>
+
+462
+00:37:34,519 --> 00:37:37,523
+<font color="#FFFFFF">When she volunteered for her sister
+at the Reaping.</font>
+
+463
+00:37:38,199 --> 00:37:40,362
+<font color="#FFFFFF">Excellent example.</font>
+
+464
+00:37:40,840 --> 00:37:41,965
+<font color="#FFFFFF">Okay.</font>
+
+465
+00:37:42,559 --> 00:37:44,369
+<font color="#FFFFFF">I hope that wasn't important.</font>
+
+466
+00:37:44,440 --> 00:37:49,480
+<font color="#FFFFFF">Uh... okay. "Volunteer for sister".</font>
+
+467
+00:37:49,679 --> 00:37:51,489
+<font color="#FFFFFF">Good. What else?</font>
+
+468
+00:37:51,559 --> 00:37:54,244
+<font color="#FFFFFF">Oh. When she sang that song for little Rue.</font>
+
+469
+00:37:55,079 --> 00:37:58,163
+<font color="#FFFFFF">Oh, yeah. Who didn't get choked up at that?</font>
+
+470
+00:37:58,360 --> 00:38:01,204
+<font color="#FFFFFF">You know, I like you better, Effie,
+without all that makeup.</font>
+
+471
+00:38:01,280 --> 00:38:03,521
+<font color="#FFFFFF">Well, I like you better sober.</font>
+
+472
+00:38:04,320 --> 00:38:06,527
+<font color="#FFFFFF">When she chose Rue as an Ally, as well.</font>
+
+473
+00:38:06,599 --> 00:38:08,364
+<font color="#FFFFFF">Hmm, yes.</font>
+
+474
+00:38:08,440 --> 00:38:10,885
+<font color="#FFFFFF">Now, what do all these have in common?</font>
+
+475
+00:38:11,199 --> 00:38:13,327
+<font color="#FFFFFF">No one told her what to do.</font>
+
+476
+00:38:13,400 --> 00:38:15,128
+<font color="#FFFFFF">Unscripted, yes.</font>
+
+477
+00:38:15,760 --> 00:38:17,170
+<font color="#FFFFFF">So maybe we should just leave her alone.</font>
+
+478
+00:38:17,239 --> 00:38:19,288
+<font color="#FFFFFF">And wash her face.</font>
+
+479
+00:38:19,400 --> 00:38:21,561
+<font color="#FFFFFF">She's still a girl. You made her look 35.</font>
+
+480
+00:38:23,119 --> 00:38:24,804
+<font color="#FFFFFF">The opportunities for spontaneity
+are obviously</font>
+
+481
+00:38:24,880 --> 00:38:26,688
+<font color="#FFFFFF">lacking below ground.</font>
+
+482
+00:38:26,960 --> 00:38:31,010
+<font color="#FFFFFF">So what you're suggesting
+is we toss her into combat?</font>
+
+483
+00:38:31,679 --> 00:38:33,842
+<font color="#FFFFFF">I can't sanction putting
+an untrained civilian</font>
+
+484
+00:38:33,920 --> 00:38:35,822
+<font color="#FFFFFF">in battle just for effect.</font>
+
+485
+00:38:36,039 --> 00:38:37,485
+<font color="#FFFFFF">This is not the Capitol.</font>
+
+486
+00:38:37,559 --> 00:38:40,449
+<font color="#FFFFFF">That is exactly what I'm suggesting.
+Put her in the field.</font>
+
+487
+00:38:40,519 --> 00:38:41,681
+<font color="#FFFFFF">No, we can't protect her.</font>
+
+488
+00:38:41,760 --> 00:38:43,364
+<font color="#FFFFFF">It has to come from her.</font>
+
+489
+00:38:43,440 --> 00:38:45,407
+<font color="#FFFFFF">That's what people respond to.</font>
+
+490
+00:38:45,480 --> 00:38:48,130
+<font color="#FFFFFF">You want a symbol for the revolution?</font>
+
+491
+00:38:48,239 --> 00:38:50,561
+<font color="#FFFFFF">She cannot be coached into it.
+Trust me, I know.</font>
+
+492
+00:38:50,840 --> 00:38:52,922
+<font color="#FFFFFF">Maybe there's someplace
+that's less dangerous.</font>
+
+493
+00:38:53,000 --> 00:38:55,525
+<font color="#FFFFFF">District 8. They reported heavy bombing
+last week.</font>
+
+494
+00:38:55,599 --> 00:38:57,000
+<font color="#FFFFFF">There are no military targets left.</font>
+
+495
+00:38:57,039 --> 00:38:58,239
+<font color="#FFFFFF">We can't guarantee her safety.</font>
+
+496
+00:38:58,280 --> 00:39:01,045
+<font color="#FFFFFF">You'll never be able to guarantee my safety.</font>
+
+497
+00:39:01,760 --> 00:39:02,920
+<font color="#FFFFFF">I wanna go.</font>
+
+498
+00:39:03,199 --> 00:39:04,724
+<font color="#FFFFFF">And if you're killed?</font>
+
+499
+00:39:06,119 --> 00:39:07,849
+<font color="#FFFFFF">Make sure you get it on camera.</font>
+
+500
+00:39:11,840 --> 00:39:14,445
+<font color="#FFFFFF">I've made you some surprises.</font>
+
+501
+00:39:20,119 --> 00:39:22,248
+<font color="#FFFFFF">Maybe you wanna try one out.</font>
+
+502
+00:39:23,440 --> 00:39:24,965
+<font color="#FFFFFF">If you're gonna be a part
+of Katniss' propo team,</font>
+
+503
+00:39:25,039 --> 00:39:27,280
+<font color="#FFFFFF">you may as well look the part.</font>
+
+504
+00:39:40,960 --> 00:39:44,601
+<font color="#FFFFFF">And this one is for you.</font>
+
+505
+00:39:47,320 --> 00:39:49,048
+<font color="#FFFFFF">Plutarch wanted you to have a weapon</font>
+
+506
+00:39:49,119 --> 00:39:50,246
+<font color="#FFFFFF">for the sake of the propos</font>
+
+507
+00:39:50,320 --> 00:39:53,766
+<font color="#FFFFFF">but I couldn't just make you
+a fashion accessory.</font>
+
+508
+00:39:56,760 --> 00:39:58,170
+<font color="#FFFFFF">It's beautiful.</font>
+
+509
+00:40:00,599 --> 00:40:02,284
+<font color="#FFFFFF">And look here.</font>
+
+510
+00:40:07,639 --> 00:40:11,007
+<font color="#FFFFFF">Regular. Incendiary. Explosive arrows.</font>
+
+511
+00:40:11,239 --> 00:40:12,480
+<font color="#FFFFFF">All color-coded.</font>
+
+512
+00:40:13,199 --> 00:40:16,601
+<font color="#FFFFFF">And tell Finnick</font>
+
+513
+00:40:16,679 --> 00:40:18,728
+<font color="#FFFFFF">I've got a trident for him</font>
+
+514
+00:40:18,800 --> 00:40:20,369
+<font color="#FFFFFF">when he's ready.</font>
+
+515
+00:40:20,960 --> 00:40:23,530
+<font color="#FFFFFF">Might just cheer him... cheer him up.</font>
+
+516
+00:40:24,760 --> 00:40:25,760
+<font color="#FFFFFF">Uh...</font>
+
+517
+00:40:25,840 --> 00:40:29,481
+<font color="#FFFFFF">Let's not fire the red ones in here.</font>
+
+518
+00:40:47,320 --> 00:40:51,882
+<font color="#FFFFFF">You had all of this and you just left
+the districts to fend for themselves?</font>
+
+519
+00:40:52,559 --> 00:40:55,961
+<font color="#FFFFFF">It's not that simple, Katniss.
+We barely survived.</font>
+
+520
+00:40:56,039 --> 00:40:58,804
+<font color="#FFFFFF">We weren't in any kind of shape
+to launch a counterattack.</font>
+
+521
+00:40:59,360 --> 00:41:00,659
+<font color="#FFFFFF">Yeah, we could've bombed the Capitol</font>
+
+522
+00:41:00,679 --> 00:41:03,206
+<font color="#FFFFFF">but they would've retaliated with
+at least twice the firepower.</font>
+
+523
+00:41:03,280 --> 00:41:04,360
+<font color="#FFFFFF">Then what?</font>
+
+524
+00:41:05,960 --> 00:41:08,690
+<font color="#FFFFFF">There would've been nobody left
+to claim victory.</font>
+
+525
+00:41:08,760 --> 00:41:12,286
+<font color="#FFFFFF">Sounds like exactly what Peeta said
+and then you all called him a traitor.</font>
+
+526
+00:41:15,400 --> 00:41:17,050
+<font color="#FFFFFF">This way, soldier.</font>
+
+527
+00:41:18,400 --> 00:41:20,561
+<font color="#FFFFFF">You are camera-ready.</font>
+
+528
+00:41:23,000 --> 00:41:24,967
+<font color="#FFFFFF">Doesn't your comrade look handsome?</font>
+
+529
+00:41:28,000 --> 00:41:29,286
+<font color="#FFFFFF">Let's go.</font>
+
+530
+00:41:31,719 --> 00:41:33,324
+<font color="#FFFFFF">Come back safe.</font>
+
+531
+00:41:35,039 --> 00:41:36,963
+<font color="#FFFFFF">Quick introductions, Katniss.</font>
+
+532
+00:41:37,519 --> 00:41:39,887
+<font color="#FFFFFF">These people have come a long way
+to support the cause.</font>
+
+533
+00:41:39,960 --> 00:41:41,007
+<font color="#FFFFFF">This is Cressida.</font>
+
+534
+00:41:41,079 --> 00:41:44,289
+<font color="#FFFFFF">In my opinion one of the best up-and-coming
+directors in the Capitol.</font>
+
+535
+00:41:44,360 --> 00:41:46,726
+<font color="#FFFFFF">Until I up-and-left. Hey.</font>
+
+536
+00:41:47,039 --> 00:41:48,166
+<font color="#FFFFFF">Hey.</font>
+
+537
+00:41:48,239 --> 00:41:49,286
+<font color="#FFFFFF">Let's see what you can do.</font>
+
+538
+00:41:49,400 --> 00:41:50,500
+<font color="#FFFFFF">Alright. Be careful.</font>
+
+539
+00:41:52,039 --> 00:41:54,041
+<font color="#FFFFFF">This is my assistant, Messalla.</font>
+
+540
+00:41:54,119 --> 00:41:55,565
+<font color="#FFFFFF">It's an honor to meet you.</font>
+
+541
+00:41:55,639 --> 00:41:57,688
+<font color="#FFFFFF">And your cameramen over there, Castor.</font>
+
+542
+00:41:57,760 --> 00:41:58,840
+<font color="#FFFFFF">Hello.</font>
+
+543
+00:41:58,920 --> 00:42:00,001
+<font color="#FFFFFF">And Pollux.</font>
+
+544
+00:42:02,920 --> 00:42:04,364
+<font color="#FFFFFF">Let's get locked in.</font>
+
+545
+00:42:11,440 --> 00:42:12,726
+<font color="#FFFFFF">You're all from the Capitol?</font>
+
+546
+00:42:12,840 --> 00:42:14,045
+<font color="#FFFFFF">Plutarch got you out?</font>
+
+547
+00:42:14,119 --> 00:42:16,202
+<font color="#FFFFFF">Don't expect much chitchat from him.</font>
+
+548
+00:42:16,280 --> 00:42:20,045
+<font color="#FFFFFF">He's an Avox. Capitol cut
+his tongue out years ago.</font>
+
+549
+00:42:20,119 --> 00:42:24,603
+<font color="#FFFFFF">And, no, it wasn't any sort of rescue,
+if that's what you mean.</font>
+
+550
+00:42:25,880 --> 00:42:27,802
+<font color="#FFFFFF">We all fled on our own.</font>
+
+551
+00:42:28,119 --> 00:42:29,451
+<font color="#FFFFFF">For this.</font>
+
+552
+00:42:29,920 --> 00:42:31,001
+<font color="#FFFFFF">For you.</font>
+
+553
+00:43:02,880 --> 00:43:04,882
+<font color="#FFFFFF">This has gotta be fast. In and out.</font>
+
+554
+00:43:23,199 --> 00:43:24,360
+<font color="#FFFFFF">Move out.</font>
+
+555
+00:43:36,360 --> 00:43:38,442
+<font color="#FFFFFF">You're alive then. We weren't sure.</font>
+
+556
+00:43:38,519 --> 00:43:40,521
+<font color="#FFFFFF">Katniss, Commander Paylor, District 8.</font>
+
+557
+00:43:40,710 --> 00:43:42,510
+<font color="#FFFFFF">Katniss has been recovering, but
+she insisted on coming out</font>
+
+558
+00:43:42,516 --> 00:43:43,715
+<font color="#FFFFFF">and seein' some of your wounded.</font>
+
+559
+00:43:43,719 --> 00:43:45,130
+<font color="#FFFFFF">Well, we've got plenty of those.</font>
+
+560
+00:43:55,559 --> 00:44:00,487
+<font color="#FFFFFF">We have a mass grave a few blocks west, but,
+I can't spare the manpower to move them yet.</font>
+
+561
+00:44:01,119 --> 00:44:03,043
+<font color="#FFFFFF">Hospital's past that curtain.</font>
+
+562
+00:44:03,199 --> 00:44:05,487
+<font color="#FFFFFF">Any hope you can give them, it's worth it.</font>
+
+563
+00:44:05,559 --> 00:44:08,530
+<font color="#FFFFFF">The Capitol's done everything
+they can to break us.</font>
+
+564
+00:44:09,039 --> 00:44:11,300
+<font color="#FFFFFF">Aren't you worried about having all
+your wounded in one place?</font>
+
+565
+00:44:11,400 --> 00:44:13,480
+<font color="#FFFFFF">I think it's better than
+leaving them to die.</font>
+
+566
+00:44:13,960 --> 00:44:15,166
+<font color="#FFFFFF">That's not what I meant.</font>
+
+567
+00:44:15,239 --> 00:44:17,322
+<font color="#FFFFFF">Well, that's my only other option.</font>
+
+568
+00:44:17,719 --> 00:44:20,610
+<font color="#FFFFFF">You can come up with another,
+I'm all ears.</font>
+
+569
+00:44:21,000 --> 00:44:22,967
+<font color="#FFFFFF">It's right through here.</font>
+
+570
+00:44:35,039 --> 00:44:38,088
+<font color="#FFFFFF">Don't film me in there. I can't help them.</font>
+
+571
+00:44:39,599 --> 00:44:41,728
+<font color="#FFFFFF">Just let them see your face.</font>
+
+572
+00:44:42,880 --> 00:44:43,960
+<font color="#FFFFFF">Huh?</font>
+
+573
+00:44:58,119 --> 00:44:59,610
+<font color="#FFFFFF">Excuse me.</font>
+
+574
+00:45:05,440 --> 00:45:07,646
+<font color="#FFFFFF">Yeah. You alright?</font>
+
+575
+00:45:08,639 --> 00:45:10,130
+<font color="#FFFFFF">It's okay. Here, it's okay.</font>
+
+576
+00:45:10,199 --> 00:45:12,885
+<font color="#FFFFFF">I've got you. It's alright.</font>
+
+577
+00:45:42,519 --> 00:45:44,123
+<font color="#FFFFFF">Katniss Everdeen?</font>
+
+578
+00:45:48,440 --> 00:45:50,407
+<font color="#FFFFFF">What are you doing here?</font>
+
+579
+00:45:51,679 --> 00:45:53,523
+<font color="#FFFFFF">I came to see you.</font>
+
+580
+00:45:55,559 --> 00:45:57,800
+<font color="#FFFFFF">What about the baby?</font>
+
+581
+00:46:02,880 --> 00:46:04,405
+<font color="#FFFFFF">I lost it.</font>
+
+582
+00:46:04,480 --> 00:46:06,766
+<font color="#FFFFFF">Are you fighting, Katniss?</font>
+
+583
+00:46:08,840 --> 00:46:10,284
+<font color="#FFFFFF">You here to fight with us?</font>
+
+584
+00:46:11,639 --> 00:46:12,880
+<font color="#FFFFFF">I am.</font>
+
+585
+00:46:14,639 --> 00:46:15,971
+<font color="#FFFFFF">I will.</font>
+
+586
+00:46:36,079 --> 00:46:37,320
+<font color="#FFFFFF">Tighter.</font>
+
+587
+00:46:38,039 --> 00:46:39,724
+<font color="#FFFFFF">Tighter, tighter.</font>
+
+588
+00:46:47,920 --> 00:46:51,811
+<font color="#FFFFFF">Sir, some cameras were damaged
+in the bombings,</font>
+
+589
+00:46:51,880 --> 00:46:55,168
+<font color="#FFFFFF">but we confirmed it's her.</font>
+
+590
+00:46:58,719 --> 00:47:00,005
+<font color="#FFFFFF">Zoom in.</font>
+
+591
+00:47:06,760 --> 00:47:08,887
+<font color="#FFFFFF">She was visiting a makeshift hospital.</font>
+
+592
+00:47:08,960 --> 00:47:11,440
+<font color="#FFFFFF">We're not sure if she's still there.</font>
+
+593
+00:47:12,000 --> 00:47:13,081
+<font color="#FFFFFF">Hmm.</font>
+
+594
+00:47:15,119 --> 00:47:17,599
+<font color="#FFFFFF">We can scramble hovercraft
+from the border of 11.</font>
+
+595
+00:47:17,760 --> 00:47:19,967
+<font color="#FFFFFF">We may be able to target her.</font>
+
+596
+00:47:20,360 --> 00:47:21,485
+<font color="#FFFFFF">Hmm.</font>
+
+597
+00:47:22,159 --> 00:47:23,445
+<font color="#FFFFFF">Kill the wounded.</font>
+
+598
+00:47:23,679 --> 00:47:24,965
+<font color="#FFFFFF">Sir...</font>
+
+599
+00:47:26,440 --> 00:47:29,204
+<font color="#FFFFFF">You wrote that speech yourself, Egeria.</font>
+
+600
+00:47:30,000 --> 00:47:34,927
+<font color="#FFFFFF">Any association with the Mockingjay symbol
+is forbidden.</font>
+
+601
+00:47:36,199 --> 00:47:39,681
+<font color="#FFFFFF">Everyone inside that hospital
+has committed treason.</font>
+
+602
+00:47:41,920 --> 00:47:46,322
+<font color="#FFFFFF">Show them what it costs to be friends
+with Katniss Everdeen.</font>
+
+603
+00:47:46,840 --> 00:47:49,764
+<font color="#FFFFFF">Your mom's gonna be proud of you
+when she sees the footage.</font>
+
+604
+00:47:49,840 --> 00:47:51,204
+<font color="#FFFFFF">Will this play in the districts?</font>
+
+605
+00:47:51,400 --> 00:47:53,050
+<font color="#FFFFFF">It'll be tattooed on their eyes.</font>
+
+606
+00:47:54,400 --> 00:47:56,242
+<font color="#FFFFFF">There's a problem.</font>
+
+607
+00:47:56,320 --> 00:47:57,320
+<font color="#FFFFFF">What kinda problem?</font>
+
+608
+00:47:58,039 --> 00:47:59,724
+<font color="#FFFFFF">Incoming bombers from the north.</font>
+
+609
+00:48:00,280 --> 00:48:01,565
+<font color="#FFFFFF">We need to find cover now.</font>
+
+610
+00:48:01,639 --> 00:48:04,085
+<font color="#FFFFFF">There's a bunker in there.</font>
+
+611
+00:48:16,639 --> 00:48:18,369
+<font color="#FFFFFF">Straight ahead and down the stairs.</font>
+
+612
+00:48:20,239 --> 00:48:21,809
+<font color="#FFFFFF">Katniss!</font>
+
+613
+00:48:21,880 --> 00:48:23,166
+<font color="#FFFFFF">Katniss!</font>
+
+614
+00:48:24,519 --> 00:48:27,682
+<font color="#FFFFFF">Everdeen! Everdeen!</font>
+
+615
+00:48:28,599 --> 00:48:30,204
+<font color="#FFFFFF">Gale, back away from the wall!</font>
+
+616
+00:48:46,159 --> 00:48:48,208
+<font color="#FFFFFF">You okay?</font>
+
+617
+00:48:54,079 --> 00:48:55,206
+<font color="#FFFFFF">Move!</font>
+
+618
+00:49:02,679 --> 00:49:04,360
+<font color="#FFFFFF">They're going after something to the south.</font>
+
+619
+00:49:04,519 --> 00:49:05,681
+<font color="#FFFFFF">That's towards the hospital.</font>
+
+620
+00:49:10,360 --> 00:49:12,646
+<font color="#FFFFFF">They're circling back around. Come on!</font>
+
+621
+00:49:51,679 --> 00:49:53,170
+<font color="#FFFFFF">That's the hospital.</font>
+
+622
+00:49:53,239 --> 00:49:55,561
+<font color="#FFFFFF">They're targeting the hospital.</font>
+
+623
+00:50:49,320 --> 00:50:51,288
+<font color="#FFFFFF">Help them!</font>
+
+624
+00:50:51,400 --> 00:50:53,083
+<font color="#FFFFFF">Help them! Get them out!</font>
+
+625
+00:50:55,639 --> 00:50:56,971
+<font color="#FFFFFF">Katniss?</font>
+
+626
+00:50:57,840 --> 00:51:00,650
+<font color="#FFFFFF">Katniss, can you tell everyone
+what you're seeing right now?</font>
+
+627
+00:51:04,079 --> 00:51:06,400
+<font color="#FFFFFF">Katniss, what do you wanna say?</font>
+
+628
+00:51:16,599 --> 00:51:19,443
+<font color="#FFFFFF">I want the rebels to know that I'm alive.</font>
+
+629
+00:51:20,039 --> 00:51:22,088
+<font color="#FFFFFF">That I'm in District 8</font>
+
+630
+00:51:22,159 --> 00:51:24,969
+<font color="#FFFFFF">where the Capitol just bombed a hospital</font>
+
+631
+00:51:25,320 --> 00:51:29,563
+<font color="#FFFFFF">filled with unarmed men,
+women and children.</font>
+
+632
+00:51:30,440 --> 00:51:32,123
+<font color="#FFFFFF">And there will be no survivors.</font>
+
+633
+00:51:34,400 --> 00:51:39,405
+<font color="#FFFFFF">If you think for one second that the Capitol
+will ever treat us fairly,</font>
+
+634
+00:51:39,480 --> 00:51:41,527
+<font color="#FFFFFF">you are lying to yourselves.</font>
+
+635
+00:51:41,960 --> 00:51:45,009
+<font color="#FFFFFF">Because we know who they are
+and what they do.</font>
+
+636
+00:51:45,119 --> 00:51:49,329
+<font color="#FFFFFF">This is what they do! And we must fight back.</font>
+
+637
+00:51:54,599 --> 00:51:56,920
+<font color="#FFFFFF">I have a message for President Snow.</font>
+
+638
+00:51:57,679 --> 00:52:02,561
+<font color="#FFFFFF">You can torture us and bomb us and burn
+our districts to the ground.</font>
+
+639
+00:52:04,000 --> 00:52:05,764
+<font color="#FFFFFF">But do you see that?</font>
+
+640
+00:52:07,039 --> 00:52:08,724
+<font color="#FFFFFF">Fire is catching.</font>
+
+641
+00:52:09,880 --> 00:52:13,851
+<font color="#FFFFFF">And if we burn, you burn with us!</font>
+
+642
+00:52:34,880 --> 00:52:37,610
+<font color="#FFFFFF">We know who they are and what they do.</font>
+
+643
+00:52:37,679 --> 00:52:40,364
+<font color="#FFFFFF">This is what they do!</font>
+
+644
+00:52:40,559 --> 00:52:42,527
+<font color="#FFFFFF">And we must fight back.</font>
+
+645
+00:52:43,760 --> 00:52:47,206
+<font color="#FFFFFF">You can torture us and bomb us</font>
+
+646
+00:52:47,599 --> 00:52:49,840
+<font color="#FFFFFF">and burn our districts to the ground.</font>
+
+647
+00:52:49,920 --> 00:52:51,967
+<font color="#FFFFFF">Plutarch's faith in you wasn't misplaced.</font>
+
+648
+00:52:52,039 --> 00:52:53,086
+<font color="#FFFFFF">But do you see that?</font>
+
+649
+00:52:53,320 --> 00:52:54,525
+<font color="#FFFFFF">Thank you.</font>
+
+650
+00:52:54,599 --> 00:52:55,760
+<font color="#FFFFFF">Fire is catching.</font>
+
+651
+00:52:55,840 --> 00:52:57,409
+<font color="#FFFFFF">Come up with me for the beginning.</font>
+
+652
+00:52:57,599 --> 00:53:01,047
+<font color="#FFFFFF">And if we burn, you burn with us!</font>
+
+653
+00:53:29,199 --> 00:53:32,362
+<font color="#FFFFFF">There is no progress without compromise.</font>
+
+654
+00:53:33,480 --> 00:53:36,164
+<font color="#FFFFFF">No victory without sacrifice.</font>
+
+655
+00:53:37,239 --> 00:53:40,210
+<font color="#FFFFFF">But I stand here with the Mockingjay</font>
+
+656
+00:53:40,599 --> 00:53:44,001
+<font color="#FFFFFF">to announce that our moment has arrived.</font>
+
+657
+00:54:10,079 --> 00:54:13,846
+<font color="#FFFFFF">Beetee has increased our use
+of the airwaves tenfold.</font>
+
+658
+00:54:15,159 --> 00:54:16,809
+<font color="#FFFFFF">We will broadcast this message</font>
+
+659
+00:54:16,880 --> 00:54:19,246
+<font color="#FFFFFF">to all the districts tonight.</font>
+
+660
+00:54:19,320 --> 00:54:21,163
+<font color="#FFFFFF">the Mockingjay's words</font>
+
+661
+00:54:21,239 --> 00:54:25,039
+<font color="#FFFFFF">inspiring everyone to join the rebellion.</font>
+
+662
+00:54:25,360 --> 00:54:31,048
+<font color="#FFFFFF">Together, we will become an alliance
+to be reckoned with.</font>
+
+663
+00:54:33,199 --> 00:54:37,489
+<font color="#FFFFFF">Hoorah! Hoorah! Hoorah!</font>
+
+664
+00:54:40,559 --> 00:54:43,085
+<font color="#FFFFFF">You don't like hearing a fight song
+at a funeral, huh?</font>
+
+665
+00:54:45,360 --> 00:54:48,603
+<font color="#FFFFFF">The more people on our side, the closer
+we are to Peeta and Annie.</font>
+
+666
+00:54:51,840 --> 00:54:53,126
+<font color="#FFFFFF">Yeah.</font>
+
+667
+00:55:13,079 --> 00:55:15,286
+<font color="#FFFFFF">By order of President Snow</font>
+
+668
+00:55:15,360 --> 00:55:18,204
+<font color="#FFFFFF">daily production quotas
+have been increased.</font>
+
+669
+00:55:18,679 --> 00:55:22,480
+<font color="#FFFFFF">All work shifts will be extended
+by an extra two hours.</font>
+
+670
+00:55:23,000 --> 00:55:25,923
+<font color="#FFFFFF">Failure to meet these quotas
+will not be tolerated.</font>
+
+671
+00:55:27,079 --> 00:55:32,324
+<font color="#FFFFFF">By order of President Snow daily production quotas
+have been increased.</font>
+
+672
+00:56:17,920 --> 00:56:21,048
+<font color="#FFFFFF">If we burn, you burn with us!</font>
+
+673
+00:56:24,280 --> 00:56:25,724
+<font color="#FFFFFF">Yeah!</font>
+
+674
+00:56:26,239 --> 00:56:27,400
+<font color="#FFFFFF">Whoo!</font>
+
+675
+00:56:27,760 --> 00:56:29,125
+<font color="#FFFFFF">Yeah!</font>
+
+676
+00:56:50,159 --> 00:56:52,048
+<font color="#FFFFFF">- I got good news.
+- What?</font>
+
+677
+00:56:52,119 --> 00:56:53,804
+<font color="#FFFFFF">Coin agreed to let us hunt above ground.</font>
+
+678
+00:57:45,840 --> 00:57:47,887
+<font color="#FFFFFF">He's not even afraid of us.</font>
+
+679
+00:57:49,960 --> 00:57:52,360
+<font color="#FFFFFF">It's 'cause they've never been hunted before.</font>
+
+680
+00:57:54,559 --> 00:57:56,402
+<font color="#FFFFFF">It's almost not fair.</font>
+
+681
+00:59:08,840 --> 00:59:10,648
+<font color="#FFFFFF">They want us back.</font>
+
+682
+00:59:25,400 --> 00:59:26,844
+<font color="#FFFFFF">They asked us to head for Command.</font>
+
+683
+00:59:26,920 --> 00:59:29,400
+<font color="#FFFFFF">Alright. I gotta drop these off.</font>
+
+684
+00:59:34,360 --> 00:59:38,967
+<font color="#FFFFFF">She was arguably our favorite Tribute.</font>
+
+685
+00:59:39,360 --> 00:59:43,331
+<font color="#FFFFFF">And I think that's what we
+all find most astonishing,</font>
+
+686
+00:59:43,480 --> 00:59:48,246
+<font color="#FFFFFF">is that this girl was adored
+in the Capitol.</font>
+
+687
+00:59:49,159 --> 00:59:50,764
+<font color="#FFFFFF">And I think for you, Peeta,</font>
+
+688
+00:59:50,960 --> 00:59:53,565
+<font color="#FFFFFF">it must be particularly painful.</font>
+
+689
+00:59:54,480 --> 00:59:56,847
+<font color="#FFFFFF">I wish I could give this rose to you, Katniss.</font>
+
+690
+00:59:56,960 --> 00:59:59,280
+<font color="#FFFFFF">He's changed so much already.
+What are they doing to him?</font>
+
+691
+00:59:59,360 --> 01:00:02,090
+<font color="#FFFFFF">A sweet gesture for a girl
+who has inspired</font>
+
+692
+01:00:02,199 --> 01:00:03,884
+<font color="#FFFFFF">such violence.</font>
+
+693
+01:00:04,519 --> 01:00:06,010
+<font color="#FFFFFF">You must love her very much
+to be able to forgive her.</font>
+
+694
+01:00:06,119 --> 01:00:07,121
+<font color="#FFFFFF">He's shaking.</font>
+
+695
+01:00:07,199 --> 01:00:08,405
+<font color="#FFFFFF">I don't think that I could.</font>
+
+696
+01:00:08,679 --> 01:00:11,809
+<font color="#FFFFFF">Unless, of course, Peeta, you think
+that perhaps she's being</font>
+
+697
+01:00:12,159 --> 01:00:14,686
+<font color="#FFFFFF">forced into saying</font>
+
+698
+01:00:14,760 --> 01:00:17,047
+<font color="#FFFFFF">things that she doesn't even understand.</font>
+
+699
+01:00:19,159 --> 01:00:21,686
+<font color="#FFFFFF">Yeah. That's exactly what I think.</font>
+
+700
+01:00:21,760 --> 01:00:23,045
+<font color="#FFFFFF">Even his voice is different.</font>
+
+701
+01:00:23,119 --> 01:00:25,726
+<font color="#FFFFFF">I think they're using her
+to whip up the rebels.</font>
+
+702
+01:00:25,960 --> 01:00:27,882
+<font color="#FFFFFF">I doubt she even knows what's happening.</font>
+
+703
+01:00:28,360 --> 01:00:29,885
+<font color="#FFFFFF">And what's really at stake.</font>
+
+704
+01:00:30,079 --> 01:00:32,889
+<font color="#FFFFFF">Now, Peeta, I doubt that the rebels
+will ever let her see this.</font>
+
+705
+01:00:33,599 --> 01:00:36,045
+<font color="#FFFFFF">But if they do, what would you say to her?</font>
+
+706
+01:00:36,519 --> 01:00:39,728
+<font color="#FFFFFF">To Katniss Everdeen, the once sweet
+Katniss Everdeen.</font>
+
+707
+01:00:41,000 --> 01:00:43,320
+<font color="#FFFFFF">I would tell her to think for herself.</font>
+
+708
+01:00:43,679 --> 01:00:45,250
+<font color="#FFFFFF">Yes.</font>
+
+709
+01:00:48,320 --> 01:00:49,731
+<font color="#FFFFFF">Don't be a fool, Katniss.</font>
+
+710
+01:00:50,159 --> 01:00:53,242
+<font color="#FFFFFF">I know you never wanted the rebellion.</font>
+
+711
+01:00:53,559 --> 01:00:59,043
+<font color="#FFFFFF">The things that you did in the Games were
+never intended to start all of this.</font>
+
+712
+01:01:00,199 --> 01:01:02,601
+<font color="#FFFFFF">The rebels have made you into something
+that you're not.</font>
+
+713
+01:01:02,760 --> 01:01:05,001
+<font color="#FFFFFF">Something that could destroy all of us.</font>
+
+714
+01:01:05,079 --> 01:01:08,367
+<font color="#FFFFFF">So if you have any power or any say</font>
+
+715
+01:01:08,920 --> 01:01:11,206
+<font color="#FFFFFF">in what they do or how they use you,</font>
+
+716
+01:01:13,039 --> 01:01:16,407
+<font color="#FFFFFF">please, please, urge them to stop this war</font>
+
+717
+01:01:16,599 --> 01:01:18,090
+<font color="#FFFFFF">before it's too late.</font>
+
+718
+01:01:18,639 --> 01:01:19,766
+<font color="#FFFFFF">And ask yourself,</font>
+
+719
+01:01:20,440 --> 01:01:23,443
+<font color="#FFFFFF">can you trust the people
+you're working with?</font>
+
+720
+01:01:25,239 --> 01:01:27,686
+<font color="#FFFFFF">Do you know what they really want?</font>
+
+721
+01:01:28,000 --> 01:01:29,161
+<font color="#FFFFFF">We need to respond.</font>
+
+722
+01:01:29,239 --> 01:01:31,083
+<font color="#FFFFFF">Thank you, Peeta Mellark, for these</font>
+
+723
+01:01:31,159 --> 01:01:34,447
+<font color="#FFFFFF">revelations about the real Mockingjay.</font>
+
+724
+01:01:34,559 --> 01:01:36,244
+<font color="#FFFFFF">Did you see what he looks like?</font>
+
+725
+01:01:36,320 --> 01:01:37,525
+<font color="#FFFFFF">I saw a coward.</font>
+
+726
+01:01:37,599 --> 01:01:39,250
+<font color="#FFFFFF">You don't have any idea what
+he's going through.</font>
+
+727
+01:01:39,320 --> 01:01:42,608
+<font color="#FFFFFF">I don't care. I would never say
+what he just said.</font>
+
+728
+01:01:43,039 --> 01:01:45,519
+<font color="#FFFFFF">Not if they tortured me. Not
+with a gun to my head.</font>
+
+729
+01:01:45,599 --> 01:01:48,603
+<font color="#FFFFFF">That is the same Peeta that defended you
+at the whipping post.</font>
+
+730
+01:01:48,679 --> 01:01:51,570
+<font color="#FFFFFF">No, it's not. Now he's only
+defending himself.</font>
+
+731
+01:01:53,679 --> 01:01:55,603
+<font color="#FFFFFF">Coin's called a meeting.
+We need to respond.</font>
+
+732
+01:01:55,679 --> 01:01:58,206
+<font color="#FFFFFF">When did "we" become you and Coin?</font>
+
+733
+01:01:58,280 --> 01:02:00,043
+<font color="#FFFFFF">Everyone has a choice.</font>
+
+734
+01:02:00,119 --> 01:02:02,407
+<font color="#FFFFFF">How can he sit there in the Capitol
+and defend the people</font>
+
+735
+01:02:02,480 --> 01:02:04,847
+<font color="#FFFFFF">who destroyed his home and
+murdered his family?</font>
+
+736
+01:02:05,679 --> 01:02:07,170
+<font color="#FFFFFF">He doesn't know.</font>
+
+737
+01:02:08,159 --> 01:02:09,684
+<font color="#FFFFFF">How could he?</font>
+
+738
+01:02:09,760 --> 01:02:12,525
+<font color="#FFFFFF">Nobody's seen what the Capitol did to 12.</font>
+
+739
+01:02:13,039 --> 01:02:14,485
+<font color="#FFFFFF">I have to show them.</font>
+
+740
+01:02:29,840 --> 01:02:33,128
+<font color="#FFFFFF">So I wanna start with you in front
+of the Justice Building, okay?</font>
+
+741
+01:02:37,519 --> 01:02:39,170
+<font color="#FFFFFF">Bang. First shot.</font>
+
+742
+01:02:51,800 --> 01:02:53,802
+<font color="#FFFFFF">Katniss, tell us what happened here.</font>
+
+743
+01:02:57,400 --> 01:02:59,289
+<font color="#FFFFFF">We were all standin' right here</font>
+
+744
+01:03:04,119 --> 01:03:06,726
+<font color="#FFFFFF">watchin' the Games when
+you fired that arrow.</font>
+
+745
+01:03:07,920 --> 01:03:09,001
+<font color="#FFFFFF">The screens just went dark.</font>
+
+746
+01:03:09,079 --> 01:03:10,440
+<font color="#FFFFFF">Nobody had any idea what happened.</font>
+
+747
+01:03:13,360 --> 01:03:15,840
+<font color="#FFFFFF">Peacekeepers forced us back
+into our homes.</font>
+
+748
+01:03:16,800 --> 01:03:19,882
+<font color="#FFFFFF">For maybe an hour, the town
+was just dead quiet.</font>
+
+749
+01:03:22,719 --> 01:03:25,485
+<font color="#FFFFFF">Little past 9:00, we heard
+their trucks pullin' out.</font>
+
+750
+01:03:28,239 --> 01:03:30,641
+<font color="#FFFFFF">All of them. Every single Peacekeeper.</font>
+
+751
+01:03:33,199 --> 01:03:34,884
+<font color="#FFFFFF">And I knew what that meant.</font>
+
+752
+01:03:39,239 --> 01:03:40,605
+<font color="#FFFFFF">Me and a couple of guys from the mines,</font>
+
+753
+01:03:40,679 --> 01:03:42,489
+<font color="#FFFFFF">we started pulling people
+from their houses</font>
+
+754
+01:03:42,559 --> 01:03:44,402
+<font color="#FFFFFF">and tried to get 'em to the fence line</font>
+
+755
+01:03:44,480 --> 01:03:46,447
+<font color="#FFFFFF">but a lotta people were scared
+of the forest.</font>
+
+756
+01:03:47,480 --> 01:03:49,244
+<font color="#FFFFFF">So they headed up onto the road.</font>
+
+757
+01:03:49,760 --> 01:03:51,443
+<font color="#FFFFFF">Make a break for it that way.</font>
+
+758
+01:04:00,920 --> 01:04:02,762
+<font color="#FFFFFF">Stay with Gale.</font>
+
+759
+01:04:07,079 --> 01:04:09,844
+<font color="#FFFFFF">915 of us made it to the fence.</font>
+
+760
+01:04:11,519 --> 01:04:16,559
+<font color="#FFFFFF">Then we watched as bombers circled back
+towards the road.</font>
+
+761
+01:04:21,519 --> 01:04:23,965
+<font color="#FFFFFF">They firebombed them as they ran away.</font>
+
+762
+01:04:40,760 --> 01:04:43,490
+<font color="#FFFFFF">915 outta 10,000.</font>
+
+763
+01:04:50,239 --> 01:04:53,050
+<font color="#FFFFFF">I should've grabbed people. I should've
+dragged 'em with me.</font>
+
+764
+01:04:55,400 --> 01:04:56,844
+<font color="#FFFFFF">Some of the kids I could've carried.</font>
+
+765
+01:04:56,920 --> 01:04:59,445
+<font color="#FFFFFF">You saved so many people, Gale.</font>
+
+766
+01:05:00,639 --> 01:05:02,768
+<font color="#FFFFFF">Without you, there would be no District 12.</font>
+
+767
+01:05:02,840 --> 01:05:04,568
+<font color="#FFFFFF">Not even the memory of it.</font>
+
+768
+01:05:37,519 --> 01:05:39,329
+<font color="#FFFFFF">This is where you kissed me.</font>
+
+769
+01:05:40,360 --> 01:05:42,840
+<font color="#FFFFFF">I didn't think you remembered that.</font>
+
+770
+01:05:51,960 --> 01:05:54,166
+<font color="#FFFFFF">I'd have to be dead to forget that.</font>
+
+771
+01:05:56,960 --> 01:05:58,291
+<font color="#FFFFFF">Maybe not even then.</font>
+
+772
+01:06:13,039 --> 01:06:14,610
+<font color="#FFFFFF">I knew you'd do that.</font>
+
+773
+01:06:15,920 --> 01:06:17,684
+<font color="#FFFFFF">How? I didn't.</font>
+
+774
+01:06:18,719 --> 01:06:20,324
+<font color="#FFFFFF">'Cause I'm in pain.</font>
+
+775
+01:06:24,079 --> 01:06:26,650
+<font color="#FFFFFF">That's the only way that
+I can get your attention.</font>
+
+776
+01:06:31,280 --> 01:06:34,250
+<font color="#FFFFFF">Don't worry, Katniss. It'll pass.</font>
+
+777
+01:06:55,280 --> 01:06:56,327
+<font color="#FFFFFF">Hey.</font>
+
+778
+01:07:06,400 --> 01:07:08,367
+<font color="#FFFFFF">Yeah, that's a mockingjay.</font>
+
+779
+01:07:23,800 --> 01:07:25,927
+<font color="#FFFFFF">Well, now they'll never shut up.</font>
+
+780
+01:07:31,320 --> 01:07:32,731
+<font color="#FFFFFF">You want me to sing?</font>
+
+781
+01:08:57,640 --> 01:08:59,881
+<font color="#FFFFFF">That line was originally
+"necklace of rope".</font>
+
+782
+01:08:59,960 --> 01:09:02,485
+<font color="#FFFFFF">I had it changed to "necklace of hope".</font>
+
+783
+01:09:02,560 --> 01:09:04,641
+<font color="#FFFFFF">Wow. You are a true wordsmith.</font>
+
+784
+01:09:05,560 --> 01:09:07,801
+<font color="#FFFFFF">Little on the nose, but,
+of course, so is war.</font>
+
+785
+01:09:07,880 --> 01:09:09,722
+<font color="#FFFFFF">Every district's seeing this?</font>
+
+786
+01:09:09,800 --> 01:09:11,609
+<font color="#FFFFFF">Yes. But not the Capitol.</font>
+
+787
+01:09:13,000 --> 01:09:15,970
+<font color="#FFFFFF">I designed this signal defense system
+for them.</font>
+
+788
+01:09:16,079 --> 01:09:17,922
+<font color="#FFFFFF">But I can't find my way through it.</font>
+
+789
+01:09:18,399 --> 01:09:20,288
+<font color="#FFFFFF">Guess I did my job too well.</font>
+
+790
+01:09:20,960 --> 01:09:24,247
+<font color="#FFFFFF">At the time, I was just thinking
+of the science of it all.</font>
+
+791
+01:09:25,560 --> 01:09:26,970
+<font color="#FFFFFF">We'll get through it.</font>
+
+792
+01:09:28,000 --> 01:09:32,766
+<font color="#FFFFFF">Are you, are you comin' to the tree?</font>
+
+793
+01:09:32,920 --> 01:09:37,403
+<font color="#FFFFFF">Where they strung up a man they say
+who murdered three.</font>
+
+794
+01:09:37,680 --> 01:09:39,841
+<font color="#FFFFFF">Strange things did happen here.</font>
+
+795
+01:09:39,920 --> 01:09:42,047
+<font color="#FFFFFF">No stranger would it be.</font>
+
+796
+01:09:42,279 --> 01:09:47,002
+<font color="#FFFFFF">If we met at midnight in the hanging tree.</font>
+
+797
+01:09:47,199 --> 01:09:51,728
+<font color="#FFFFFF">Are you, are you comin' to the tree?</font>
+
+798
+01:09:52,119 --> 01:09:56,728
+<font color="#FFFFFF">Where a dead man called out
+for his love to flee.</font>
+
+799
+01:09:57,079 --> 01:09:59,082
+<font color="#FFFFFF">Strange things did happen here.</font>
+
+800
+01:09:59,159 --> 01:10:01,367
+<font color="#FFFFFF">No stranger would it be.</font>
+
+801
+01:10:01,560 --> 01:10:06,407
+<font color="#FFFFFF">If we met at midnight in the hanging tree.</font>
+
+802
+01:11:57,560 --> 01:12:02,565
+<font color="#FFFFFF">Moves and countermoves.</font>
+
+803
+01:12:25,680 --> 01:12:28,729
+<font color="#FFFFFF">Katniss, you're wanted in Command.</font>
+
+804
+01:12:36,960 --> 01:12:40,168
+<font color="#FFFFFF">Tonight, we've received reports</font>
+
+805
+01:12:40,239 --> 01:12:41,765
+<font color="#FFFFFF">of derailed trains,</font>
+
+806
+01:12:42,399 --> 01:12:44,288
+<font color="#FFFFFF">of granaries on fire,</font>
+
+807
+01:12:45,000 --> 01:12:49,608
+<font color="#FFFFFF">and of a savage attack on the hydroelectric dam
+in District 5.</font>
+
+808
+01:12:49,760 --> 01:12:51,488
+<font color="#FFFFFF">Oh, what have they done to you?</font>
+
+809
+01:12:51,600 --> 01:12:56,640
+<font color="#FFFFFF">I'm begging for restraint and decency.</font>
+
+810
+01:12:56,760 --> 01:12:59,604
+<font color="#FFFFFF">We interrupt your regularly scheduled
+horse manure</font>
+
+811
+01:12:59,680 --> 01:13:01,204
+<font color="#FFFFFF">to bring you...</font>
+
+812
+01:13:04,960 --> 01:13:06,086
+<font color="#FFFFFF">Comin' to the tree?</font>
+
+813
+01:13:06,159 --> 01:13:07,399
+<font color="#FFFFFF">That's it. That's our footage.</font>
+
+814
+01:13:07,479 --> 01:13:08,720
+<font color="#FFFFFF">Beetee's in.</font>
+
+815
+01:13:08,960 --> 01:13:10,962
+<font color="#FFFFFF">They say who murdered three.</font>
+
+816
+01:13:11,239 --> 01:13:12,320
+<font color="#FFFFFF">Katniss?</font>
+
+817
+01:13:12,399 --> 01:13:13,925
+<font color="#FFFFFF">He sees it. He sees our propo.</font>
+
+818
+01:13:14,239 --> 01:13:16,890
+<font color="#FFFFFF">No stranger would it be...</font>
+
+819
+01:13:17,720 --> 01:13:18,766
+<font color="#FFFFFF">Katniss, are you there?</font>
+
+820
+01:13:18,960 --> 01:13:20,291
+<font color="#FFFFFF">Peeta.</font>
+
+821
+01:13:20,720 --> 01:13:22,448
+<font color="#FFFFFF">Katniss?</font>
+
+822
+01:13:24,760 --> 01:13:27,127
+<font color="#FFFFFF">Peeta, please continue.</font>
+
+823
+01:13:28,640 --> 01:13:30,164
+<font color="#FFFFFF">You were telling us about</font>
+
+824
+01:13:30,239 --> 01:13:31,525
+<font color="#FFFFFF">these savage attacks.</font>
+
+825
+01:13:32,600 --> 01:13:34,011
+<font color="#FFFFFF">Yeah.</font>
+
+826
+01:13:38,119 --> 01:13:42,603
+<font color="#FFFFFF">The attack on the dam was a callous</font>
+
+827
+01:13:43,840 --> 01:13:46,969
+<font color="#FFFFFF">and inhuman act of destruction...</font>
+
+828
+01:13:47,560 --> 01:13:52,167
+<font color="#FFFFFF">Where a dead man called out
+for his love to flee.</font>
+
+829
+01:13:54,479 --> 01:13:55,640
+<font color="#FFFFFF">Think about it.</font>
+
+830
+01:13:56,840 --> 01:14:00,765
+<font color="#FFFFFF">How will this end? What will be left?</font>
+
+831
+01:14:01,359 --> 01:14:03,043
+<font color="#FFFFFF">No one can survive this.</font>
+
+832
+01:14:04,520 --> 01:14:05,850
+<font color="#FFFFFF">No one is safe now.</font>
+
+833
+01:14:06,199 --> 01:14:07,770
+<font color="#FFFFFF">Not here in the Capitol.</font>
+
+834
+01:14:09,359 --> 01:14:10,850
+<font color="#FFFFFF">Not in any of the districts.</font>
+
+835
+01:14:15,359 --> 01:14:16,485
+<font color="#FFFFFF">They're coming, Katniss.</font>
+
+836
+01:14:16,560 --> 01:14:17,890
+<font color="#FFFFFF">They're gonna kill everyone.</font>
+
+837
+01:14:18,039 --> 01:14:19,882
+<font color="#FFFFFF">And in District 13, you'll
+be dead by morning.</font>
+
+838
+01:14:21,119 --> 01:14:23,247
+<font color="#FFFFFF">He's warning us. That was a warning.</font>
+
+839
+01:14:23,880 --> 01:14:24,880
+<font color="#FFFFFF">Yes, it was.</font>
+
+840
+01:14:24,920 --> 01:14:26,319
+<font color="#FFFFFF">We have to get him out
+before they kill him.</font>
+
+841
+01:14:26,340 --> 01:14:27,340
+<font color="#FFFFFF">Is there anything in the air?</font>
+
+842
+01:14:27,350 --> 01:14:28,550
+<font color="#FFFFFF">Nothing on Doppler, ma'am.</font>
+
+843
+01:14:28,899 --> 01:14:30,899
+<font color="#FFFFFF">He was in the mansion. He could
+have overheard something.</font>
+
+844
+01:14:30,960 --> 01:14:32,086
+<font color="#FFFFFF">Possibly.</font>
+
+845
+01:14:36,479 --> 01:14:39,164
+<font color="#FFFFFF">It's time for an air raid drill.</font>
+
+846
+01:14:46,720 --> 01:14:48,643
+<font color="#FFFFFF">This is a code red alert.</font>
+
+847
+01:14:48,720 --> 01:14:50,164
+<font color="#FFFFFF">Please, remain calm</font>
+
+848
+01:14:50,239 --> 01:14:52,560
+<font color="#FFFFFF">and begin evacuation protocol.</font>
+
+849
+01:14:55,000 --> 01:14:56,842
+<font color="#FFFFFF">Prim! Prim!</font>
+
+850
+01:14:56,920 --> 01:15:00,002
+<font color="#FFFFFF">Proceed to your nearest stairwell
+and descend to level 40.</font>
+
+851
+01:15:00,399 --> 01:15:03,404
+<font color="#FFFFFF">Blast doors will be sealed in six minutes.</font>
+
+852
+01:15:05,520 --> 01:15:07,568
+<font color="#FFFFFF">This is a code red alert.</font>
+
+853
+01:15:07,720 --> 01:15:11,405
+<font color="#FFFFFF">Please, remain calm and begin
+evacuation protocol.</font>
+
+854
+01:15:11,720 --> 01:15:14,724
+<font color="#FFFFFF">Proceed in an orderly fashion
+to your nearest stairwell</font>
+
+855
+01:15:14,800 --> 01:15:17,006
+<font color="#FFFFFF">and descend to level 40.</font>
+
+856
+01:15:17,279 --> 01:15:18,520
+<font color="#FFFFFF">Madam President,</font>
+
+857
+01:15:18,600 --> 01:15:21,444
+<font color="#FFFFFF">three Capitol squadrons just
+entered our airspace.</font>
+
+858
+01:15:22,119 --> 01:15:23,530
+<font color="#FFFFFF">How much time do we have?</font>
+
+859
+01:15:23,600 --> 01:15:25,283
+<font color="#FFFFFF">They're a few seconds from range.</font>
+
+860
+01:15:30,600 --> 01:15:31,965
+<font color="#FFFFFF">Prepare to scramble the fleet.</font>
+
+861
+01:15:32,039 --> 01:15:33,041
+<font color="#FFFFFF">Copy that.</font>
+
+862
+01:15:33,119 --> 01:15:36,283
+<font color="#FFFFFF">Open up short-range air defense.</font>
+
+863
+01:15:40,800 --> 01:15:42,689
+<font color="#FFFFFF">Arm long-range missiles for counterattack.</font>
+
+864
+01:15:42,760 --> 01:15:45,444
+<font color="#FFFFFF">Blast doors will be sealed
+in five minutes.</font>
+
+865
+01:15:53,119 --> 01:15:55,042
+<font color="#FFFFFF">This is a code red alert.</font>
+
+866
+01:15:55,119 --> 01:15:58,805
+<font color="#FFFFFF">Please, remain calm and begin
+evacuation protocol.</font>
+
+867
+01:15:59,199 --> 01:16:02,283
+<font color="#FFFFFF">Proceed in an orderly fashion
+to your nearest stairwell</font>
+
+868
+01:16:02,359 --> 01:16:04,283
+<font color="#FFFFFF">and descend to level 40.</font>
+
+869
+01:16:04,399 --> 01:16:07,323
+<font color="#FFFFFF">Blast doors will close in four minutes.</font>
+
+870
+01:16:10,640 --> 01:16:12,688
+<font color="#FFFFFF">This is a code red alert.</font>
+
+871
+01:16:12,760 --> 01:16:15,331
+<font color="#FFFFFF">Please, remain calm and begin
+evacuation protocol.</font>
+
+872
+01:16:16,560 --> 01:16:18,403
+<font color="#FFFFFF">Proceed in an orderly fashion</font>
+
+873
+01:16:18,479 --> 01:16:20,881
+<font color="#FFFFFF">to your nearest stairwell
+and descend to level 40.</font>
+
+874
+01:16:22,079 --> 01:16:25,243
+<font color="#FFFFFF">Blast doors will close in three minutes.</font>
+
+875
+01:16:30,159 --> 01:16:32,162
+<font color="#FFFFFF">This is a code red alert.</font>
+
+876
+01:16:32,239 --> 01:16:35,403
+<font color="#FFFFFF">Proceed in an orderly fashion
+to your nearest stairwell</font>
+
+877
+01:16:35,479 --> 01:16:37,528
+<font color="#FFFFFF">and descend to level 40.</font>
+
+878
+01:16:46,520 --> 01:16:49,603
+<font color="#FFFFFF">Continue to the Supply Station
+and claim one pack</font>
+
+879
+01:16:49,680 --> 01:16:51,841
+<font color="#FFFFFF">for each member of your compartment.</font>
+
+880
+01:16:52,439 --> 01:16:56,331
+<font color="#FFFFFF">Please keep all personal items
+within your assigned area.</font>
+
+881
+01:16:56,680 --> 01:16:59,286
+<font color="#FFFFFF">Be courteous to your fellow citizens.</font>
+
+882
+01:17:01,439 --> 01:17:03,488
+<font color="#FFFFFF">This is a code red alert.</font>
+
+883
+01:17:03,560 --> 01:17:06,529
+<font color="#FFFFFF">All citizens should be inside the bunker.</font>
+
+884
+01:17:07,119 --> 01:17:10,090
+<font color="#FFFFFF">- Blast doors will close in two minutes.
+- Mom!</font>
+
+885
+01:17:13,199 --> 01:17:14,201
+<font color="#FFFFFF">Where's Prim?</font>
+
+886
+01:17:14,279 --> 01:17:15,963
+<font color="#FFFFFF">I thought she went to find you.</font>
+
+887
+01:17:16,039 --> 01:17:17,371
+<font color="#FFFFFF">She must still be on the stairs.</font>
+
+888
+01:17:17,439 --> 01:17:18,965
+<font color="#FFFFFF">There's no one on the stairs.</font>
+
+889
+01:17:21,760 --> 01:17:23,125
+<font color="#FFFFFF">She went back for the cat.</font>
+
+890
+01:17:24,079 --> 01:17:26,242
+<font color="#FFFFFF">This is a code red alert.</font>
+
+891
+01:17:26,359 --> 01:17:28,646
+<font color="#FFFFFF">All citizens should be inside the bunker.</font>
+
+892
+01:17:28,720 --> 01:17:29,720
+<font color="#FFFFFF">Hey, stop! Stop!</font>
+
+893
+01:17:29,800 --> 01:17:32,882
+<font color="#FFFFFF">Blast doors will close in one minute.</font>
+
+894
+01:17:39,399 --> 01:17:40,970
+<font color="#FFFFFF">They hit the far edge of
+the northwest quadrant.</font>
+
+895
+01:17:41,039 --> 01:17:42,371
+<font color="#FFFFFF">Penetrated 40 feet.</font>
+
+896
+01:17:42,439 --> 01:17:43,565
+<font color="#FFFFFF">Missed the living quarters.</font>
+
+897
+01:17:43,640 --> 01:17:45,721
+<font color="#FFFFFF">Only minor damage to corridors 2 and 3.</font>
+
+898
+01:17:45,800 --> 01:17:47,039
+<font color="#FFFFFF">Is there any radiation?</font>
+
+899
+01:17:47,119 --> 01:17:48,121
+<font color="#FFFFFF">None detected.</font>
+
+900
+01:17:48,199 --> 01:17:50,042
+<font color="#FFFFFF">Doppler shows a fourth wave approaching.</font>
+
+901
+01:17:51,079 --> 01:17:53,127
+<font color="#FFFFFF">Blast doors will close in 30 seconds.</font>
+
+902
+01:17:53,199 --> 01:17:55,202
+<font color="#FFFFFF">Prim!</font>
+
+903
+01:17:57,640 --> 01:17:58,686
+<font color="#FFFFFF">Prim!</font>
+
+904
+01:17:58,760 --> 01:18:00,125
+<font color="#FFFFFF">Katniss!</font>
+
+905
+01:18:06,039 --> 01:18:07,609
+<font color="#FFFFFF">This is a code red alert.</font>
+
+906
+01:18:07,680 --> 01:18:08,761
+<font color="#FFFFFF">Katniss!</font>
+
+907
+01:18:08,840 --> 01:18:11,365
+<font color="#FFFFFF">Blast doors will close in 15 seconds.</font>
+
+908
+01:18:11,439 --> 01:18:12,770
+<font color="#FFFFFF">Get down here!</font>
+
+909
+01:18:14,000 --> 01:18:16,127
+<font color="#FFFFFF">- Hurry!
+- This is a code red alert.</font>
+
+910
+01:18:16,199 --> 01:18:19,726
+<font color="#FFFFFF">Blast doors will close in 10 seconds.</font>
+
+911
+01:18:20,439 --> 01:18:21,440
+<font color="#FFFFFF">Nine...</font>
+
+912
+01:18:22,600 --> 01:18:23,600
+<font color="#FFFFFF">eight...</font>
+
+913
+01:18:24,800 --> 01:18:25,801
+<font color="#FFFFFF">seven...</font>
+
+914
+01:18:27,319 --> 01:18:28,320
+<font color="#FFFFFF">six...</font>
+
+915
+01:18:30,000 --> 01:18:31,889
+<font color="#FFFFFF">- five...
+- Hold the doors!</font>
+
+916
+01:18:32,319 --> 01:18:33,445
+<font color="#FFFFFF">four...</font>
+
+917
+01:18:34,960 --> 01:18:36,246
+<font color="#FFFFFF">three...</font>
+
+918
+01:18:37,560 --> 01:18:39,368
+<font color="#FFFFFF">- two...
+- Wait! Hold the doors!</font>
+
+919
+01:18:40,000 --> 01:18:41,411
+<font color="#FFFFFF">one.</font>
+
+920
+01:18:42,880 --> 01:18:45,167
+<font color="#FFFFFF">You went back for the cat?
+What were you thinking?</font>
+
+921
+01:18:45,279 --> 01:18:47,009
+<font color="#FFFFFF">I wasn't gonna leave him behind.</font>
+
+922
+01:18:47,079 --> 01:18:48,444
+<font color="#FFFFFF">I couldn't live with myself.</font>
+
+923
+01:18:49,319 --> 01:18:51,402
+<font color="#FFFFFF">Blast doors are now sealed.</font>
+
+924
+01:18:51,479 --> 01:18:52,970
+<font color="#FFFFFF">I know, Prim.</font>
+
+925
+01:18:58,159 --> 01:18:59,365
+<font color="#FFFFFF">Let's go.</font>
+
+926
+01:19:02,560 --> 01:19:04,483
+<font color="#FFFFFF">Damage to the aquifer in
+the northwest quadrant.</font>
+
+927
+01:19:04,560 --> 01:19:06,163
+<font color="#FFFFFF">We lost a transport corridor.</font>
+
+928
+01:19:06,239 --> 01:19:07,923
+<font color="#FFFFFF">There's nothing else in the northwest.</font>
+
+929
+01:19:08,000 --> 01:19:09,479
+<font color="#FFFFFF">Our surface-to-air launchers just took</font>
+
+930
+01:19:09,520 --> 01:19:11,408
+<font color="#FFFFFF">a direct hit in sector 3.</font>
+
+931
+01:19:11,479 --> 01:19:13,083
+<font color="#FFFFFF">Because we revealed ourselves.</font>
+
+932
+01:19:13,159 --> 01:19:15,322
+<font color="#FFFFFF">They saw us firing there.</font>
+
+933
+01:19:18,560 --> 01:19:20,448
+<font color="#FFFFFF">Stand down. Don't launch the fleet.</font>
+
+934
+01:19:20,520 --> 01:19:25,002
+<font color="#FFFFFF">Another 12 Capitol bombers approaching
+sector 3 in attack formation.</font>
+
+935
+01:19:25,079 --> 01:19:27,367
+<font color="#FFFFFF">Hold fire on their approach.</font>
+
+936
+01:19:29,800 --> 01:19:30,881
+<font color="#FFFFFF">Oh.</font>
+
+937
+01:19:31,640 --> 01:19:32,640
+<font color="#FFFFFF">What'd they hit?</font>
+
+938
+01:19:32,720 --> 01:19:34,961
+<font color="#FFFFFF">Bedrock. But there's debris
+in the ventilation shaft.</font>
+
+939
+01:19:35,079 --> 01:19:36,524
+<font color="#FFFFFF">They're not targeting our fleet.</font>
+
+940
+01:19:36,600 --> 01:19:37,805
+<font color="#FFFFFF">Or our Special Weaponry.</font>
+
+941
+01:19:37,880 --> 01:19:39,962
+<font color="#FFFFFF">They don't know what we have
+or where we have it.</font>
+
+942
+01:19:40,399 --> 01:19:42,402
+<font color="#FFFFFF">Can you confirm that everyone's
+safely in the bunker?</font>
+
+943
+01:19:42,479 --> 01:19:43,560
+<font color="#FFFFFF">Already done.</font>
+
+944
+01:19:44,439 --> 01:19:47,091
+<font color="#FFFFFF">Conceal all remaining anti-aircraft guns.</font>
+
+945
+01:19:47,199 --> 01:19:49,805
+<font color="#FFFFFF">Seal launching pads and
+ventilation corridors.</font>
+
+946
+01:19:50,000 --> 01:19:51,809
+<font color="#FFFFFF">We are gonna wait this out.</font>
+
+947
+01:19:51,880 --> 01:19:53,291
+<font color="#FFFFFF">This is what we're built for.</font>
+
+948
+01:19:53,479 --> 01:19:55,561
+<font color="#FFFFFF">They'll seal us in here like a tomb.</font>
+
+949
+01:19:56,039 --> 01:19:57,769
+<font color="#FFFFFF">The Capitol's working off some
+outdated information.</font>
+
+950
+01:19:57,840 --> 01:19:59,199
+<font color="#FFFFFF">I'd rather not update it for them.</font>
+
+951
+01:19:59,520 --> 01:20:01,601
+<font color="#FFFFFF">Madam President, I know
+it's not my place...</font>
+
+952
+01:20:01,720 --> 01:20:04,600
+<font color="#FFFFFF">It's not. You're a welcome guest, but
+you're out of your depth down here.</font>
+
+953
+01:20:05,159 --> 01:20:07,890
+<font color="#FFFFFF">Reduce oxygen to 14% to conserve it.</font>
+
+954
+01:20:07,960 --> 01:20:09,041
+<font color="#FFFFFF">Copy that.</font>
+
+955
+01:20:10,039 --> 01:20:11,962
+<font color="#FFFFFF">Take a deep breath, Mr. Heavensbee.</font>
+
+956
+01:20:12,039 --> 01:20:13,451
+<font color="#FFFFFF">It's gonna be a long night.</font>
+
+957
+01:20:52,359 --> 01:20:54,930
+<font color="#FFFFFF">Prim, talk about something. Anything.</font>
+
+958
+01:20:58,520 --> 01:21:00,921
+<font color="#FFFFFF">They promoted me at the hospital.</font>
+
+959
+01:21:01,600 --> 01:21:03,125
+<font color="#FFFFFF">I forgot to tell you.</font>
+
+960
+01:21:03,199 --> 01:21:04,600
+<font color="#FFFFFF">They're training me to be a doctor.</font>
+
+961
+01:21:06,840 --> 01:21:08,524
+<font color="#FFFFFF">They'd be stupid not to.</font>
+
+962
+01:22:23,199 --> 01:22:24,201
+<font color="#FFFFFF">Hey.</font>
+
+963
+01:22:25,560 --> 01:22:26,560
+<font color="#FFFFFF">Can I sit?</font>
+
+964
+01:22:26,840 --> 01:22:27,886
+<font color="#FFFFFF">Yeah.</font>
+
+965
+01:22:32,399 --> 01:22:34,880
+<font color="#FFFFFF">Snow's using Annie to punish you.</font>
+
+966
+01:22:35,239 --> 01:22:37,322
+<font color="#FFFFFF">He's taunting us with them.</font>
+
+967
+01:22:38,840 --> 01:22:43,208
+<font color="#FFFFFF">I didn't understand until just now,
+watching that stupid cat.</font>
+
+968
+01:22:51,520 --> 01:22:53,726
+<font color="#FFFFFF">After your first Games,</font>
+
+969
+01:22:54,279 --> 01:22:57,726
+<font color="#FFFFFF">I thought the whole romance was an act.</font>
+
+970
+01:22:59,720 --> 01:23:02,769
+<font color="#FFFFFF">We all expected you to
+continue that strategy.</font>
+
+971
+01:23:03,039 --> 01:23:08,079
+<font color="#FFFFFF">But it wasn't until Peeta's heart stopped
+and he nearly died that</font>
+
+972
+01:23:10,520 --> 01:23:12,921
+<font color="#FFFFFF">I knew I'd misjudged you.</font>
+
+973
+01:23:13,600 --> 01:23:14,965
+<font color="#FFFFFF">You love him.</font>
+
+974
+01:23:17,239 --> 01:23:18,365
+<font color="#FFFFFF">I'm not saying in what way.</font>
+
+975
+01:23:18,439 --> 01:23:20,203
+<font color="#FFFFFF">Maybe you don't even know yourself.</font>
+
+976
+01:23:20,399 --> 01:23:23,085
+<font color="#FFFFFF">But anyone paying attention can see it.</font>
+
+977
+01:23:24,239 --> 01:23:26,082
+<font color="#FFFFFF">How do you live with it?</font>
+
+978
+01:23:28,279 --> 01:23:32,251
+<font color="#FFFFFF">I drag myself outta nightmares and
+there's no relief in waking up.</font>
+
+979
+01:23:32,920 --> 01:23:37,050
+<font color="#FFFFFF">But it's better not to give in to it.</font>
+
+980
+01:23:38,960 --> 01:23:41,327
+<font color="#FFFFFF">Takes 10 times longer to put yourself
+back together</font>
+
+981
+01:23:41,399 --> 01:23:43,481
+<font color="#FFFFFF">than it does to fall apart.</font>
+
+982
+01:23:53,560 --> 01:23:56,769
+<font color="#FFFFFF">Katniss? Katniss?</font>
+
+983
+01:23:57,560 --> 01:23:58,845
+<font color="#FFFFFF">Come with me.</font>
+
+984
+01:24:04,479 --> 01:24:06,960
+<font color="#FFFFFF">We took their best shot. Didn't we?</font>
+
+985
+01:24:08,319 --> 01:24:09,605
+<font color="#FFFFFF">Yeah.</font>
+
+986
+01:24:10,159 --> 01:24:11,923
+<font color="#FFFFFF">Your mother and sister okay?</font>
+
+987
+01:24:12,000 --> 01:24:13,286
+<font color="#FFFFFF">Yeah, they're fine.</font>
+
+988
+01:24:13,399 --> 01:24:15,686
+<font color="#FFFFFF">I need you to do something for us.</font>
+
+989
+01:24:16,279 --> 01:24:20,046
+<font color="#FFFFFF">I need you to tell Panem that we survived
+an attack by the Capitol</font>
+
+990
+01:24:20,119 --> 01:24:21,962
+<font color="#FFFFFF">with no casualties.</font>
+
+991
+01:24:22,159 --> 01:24:24,605
+<font color="#FFFFFF">And we remain fully operational.</font>
+
+992
+01:24:25,479 --> 01:24:26,640
+<font color="#FFFFFF">Okay.</font>
+
+993
+01:24:27,399 --> 01:24:28,890
+<font color="#FFFFFF">You should know something.</font>
+
+994
+01:24:29,760 --> 01:24:32,490
+<font color="#FFFFFF">We had eight extra minutes
+of civilian evacuation</font>
+
+995
+01:24:32,560 --> 01:24:34,641
+<font color="#FFFFFF">because of Peeta's warning.</font>
+
+996
+01:24:35,199 --> 01:24:36,884
+<font color="#FFFFFF">I won't forget that.</font>
+
+997
+01:24:38,159 --> 01:24:39,490
+<font color="#FFFFFF">Thank you.</font>
+
+998
+01:24:54,760 --> 01:24:56,250
+<font color="#FFFFFF">So Katniss,</font>
+
+999
+01:24:56,359 --> 01:24:59,806
+<font color="#FFFFFF">it's "13 is alive and well and so am I".</font>
+
+1000
+01:25:01,439 --> 01:25:02,487
+<font color="#FFFFFF">Katniss?</font>
+
+1001
+01:25:04,680 --> 01:25:06,363
+<font color="#FFFFFF">Katniss.</font>
+
+1002
+01:25:07,000 --> 01:25:09,890
+<font color="#FFFFFF">Never one to waste it
+in rehearsal, I know.</font>
+
+1003
+01:26:15,079 --> 01:26:16,922
+<font color="#FFFFFF">Why would they drop these?</font>
+
+1004
+01:26:20,359 --> 01:26:21,600
+<font color="#FFFFFF">For me.</font>
+
+1005
+01:26:21,920 --> 01:26:24,287
+<font color="#FFFFFF">Ready to go, Katniss?</font>
+
+1006
+01:26:25,079 --> 01:26:27,242
+<font color="#FFFFFF">We're gonna do this, just like District 8.</font>
+
+1007
+01:26:30,560 --> 01:26:32,561
+<font color="#FFFFFF">Tell me about the roses.</font>
+
+1008
+01:26:37,600 --> 01:26:42,127
+<font color="#FFFFFF">Tell Snow 13 is alive and well.</font>
+
+1009
+01:26:46,439 --> 01:26:47,805
+<font color="#FFFFFF">He's gonna kill Peeta.</font>
+
+1010
+01:26:47,920 --> 01:26:49,159
+<font color="#FFFFFF">Let's try again. Can you speak up?</font>
+
+1011
+01:26:49,239 --> 01:26:50,650
+<font color="#FFFFFF">We don't have a mic on you.</font>
+
+1012
+01:26:50,800 --> 01:26:54,520
+<font color="#FFFFFF">"13 is alive and well and so am I".</font>
+
+1013
+01:26:57,920 --> 01:26:59,762
+<font color="#FFFFFF">He's gonna kill Peeta.</font>
+
+1014
+01:27:02,800 --> 01:27:03,800
+<font color="#FFFFFF">I can't.</font>
+
+1015
+01:27:03,840 --> 01:27:05,489
+<font color="#FFFFFF">Katniss?</font>
+
+1016
+01:27:06,760 --> 01:27:07,921
+<font color="#FFFFFF">You can do it, Katniss.</font>
+
+1017
+01:27:08,279 --> 01:27:09,360
+<font color="#FFFFFF">I can't do this.</font>
+
+1018
+01:27:09,439 --> 01:27:12,603
+<font color="#FFFFFF">"13 is alive and well and so am I".</font>
+
+1019
+01:27:12,800 --> 01:27:14,484
+<font color="#FFFFFF">He's just gonna keep...</font>
+
+1020
+01:27:14,560 --> 01:27:15,765
+<font color="#FFFFFF">He's never gonna stop.</font>
+
+1021
+01:27:15,840 --> 01:27:17,079
+<font color="#FFFFFF">Cressida, we should cut the cameras.</font>
+
+1022
+01:27:17,159 --> 01:27:18,524
+<font color="#FFFFFF">- As long as I'm the Mockingjay.
+- It's okay, Katniss.</font>
+
+1023
+01:27:18,600 --> 01:27:21,762
+<font color="#FFFFFF">No. He warned me. He warned me about this.</font>
+
+1024
+01:27:23,159 --> 01:27:26,003
+<font color="#FFFFFF">He's doing this because
+I'm the Mockingjay.</font>
+
+1025
+01:27:26,079 --> 01:27:28,560
+<font color="#FFFFFF">He's punishing Peeta to punish me.</font>
+
+1026
+01:27:28,680 --> 01:27:29,761
+<font color="#FFFFFF">No.</font>
+
+1027
+01:27:31,399 --> 01:27:32,685
+<font color="#FFFFFF">No, I can't do this.</font>
+
+1028
+01:27:32,960 --> 01:27:33,960
+<font color="#FFFFFF">Katniss.</font>
+
+1029
+01:27:34,000 --> 01:27:36,240
+<font color="#FFFFFF">Don't make me do this!</font>
+
+1030
+01:27:36,319 --> 01:27:37,320
+<font color="#FFFFFF">Let her go.</font>
+
+1031
+01:27:37,600 --> 01:27:40,762
+<font color="#FFFFFF">I gotta get out of here.</font>
+
+1032
+01:28:00,000 --> 01:28:02,207
+<font color="#FFFFFF">So this is the end, huh?</font>
+
+1033
+01:28:02,960 --> 01:28:05,565
+<font color="#FFFFFF">I suppose you're just gonna
+hide down here forever?</font>
+
+1034
+01:28:06,479 --> 01:28:08,846
+<font color="#FFFFFF">I can't be the Mockingjay.</font>
+
+1035
+01:28:09,359 --> 01:28:12,408
+<font color="#FFFFFF">Not the Mockingjay. Just Katniss.</font>
+
+1036
+01:28:15,039 --> 01:28:19,568
+<font color="#FFFFFF">You know, you're the only real friend
+I have down here.</font>
+
+1037
+01:28:24,119 --> 01:28:28,728
+<font color="#FFFFFF">I don't suppose they gave you
+any kind of medication?</font>
+
+1038
+01:28:28,800 --> 01:28:29,881
+<font color="#FFFFFF">You're unbelievable.</font>
+
+1039
+01:28:29,960 --> 01:28:32,405
+<font color="#FFFFFF">Okay, but I meant what I said.</font>
+
+1040
+01:28:33,199 --> 01:28:36,488
+<font color="#FFFFFF">Look, the reason I'm here
+is to let you know</font>
+
+1041
+01:28:37,239 --> 01:28:38,685
+<font color="#FFFFFF">they're rescuing Peeta.</font>
+
+1042
+01:28:40,359 --> 01:28:41,407
+<font color="#FFFFFF">What?</font>
+
+1043
+01:28:41,479 --> 01:28:45,121
+<font color="#FFFFFF">The dam went down in District 5, took out
+most of the power to the Capitol.</font>
+
+1044
+01:28:45,199 --> 01:28:47,122
+<font color="#FFFFFF">Knocked out their signal defense.</font>
+
+1045
+01:28:47,239 --> 01:28:51,369
+<font color="#FFFFFF">Beetee's inside their system now,
+wreaking all kinds of havoc.</font>
+
+1046
+01:28:52,039 --> 01:28:53,279
+<font color="#FFFFFF">A window is open to us.</font>
+
+1047
+01:28:53,359 --> 01:28:54,520
+<font color="#FFFFFF">How much longer? I don't know.</font>
+
+1048
+01:28:54,640 --> 01:28:57,291
+<font color="#FFFFFF">I guess until the Capitol can
+get the power back on.</font>
+
+1049
+01:28:57,359 --> 01:28:58,600
+<font color="#FFFFFF">And President Coin?</font>
+
+1050
+01:28:58,680 --> 01:29:01,729
+<font color="#FFFFFF">You know, I can never fully
+support that woman</font>
+
+1051
+01:29:01,800 --> 01:29:06,840
+<font color="#FFFFFF">in light of the prohibition they have
+going on around this place,</font>
+
+1052
+01:29:06,960 --> 01:29:09,610
+<font color="#FFFFFF">but Plutarch got word</font>
+
+1053
+01:29:09,680 --> 01:29:12,286
+<font color="#FFFFFF">that Peeta and the others
+are in the Tribute Center.</font>
+
+1054
+01:29:12,439 --> 01:29:15,682
+<font color="#FFFFFF">And with the power out, Coin
+sees this as an opportunity.</font>
+
+1055
+01:29:15,880 --> 01:29:17,529
+<font color="#FFFFFF">She knows that Peeta</font>
+
+1056
+01:29:17,600 --> 01:29:20,001
+<font color="#FFFFFF">is the Capitol's weapon. The same way
+you're ours.</font>
+
+1057
+01:29:20,079 --> 01:29:23,561
+<font color="#FFFFFF">And as opposed to having you
+two pointing at each other,</font>
+
+1058
+01:29:24,039 --> 01:29:25,644
+<font color="#FFFFFF">she's going to get him.</font>
+
+1059
+01:29:26,439 --> 01:29:27,520
+<font color="#FFFFFF">I have to go help.</font>
+
+1060
+01:29:27,600 --> 01:29:29,601
+<font color="#FFFFFF">Hey, hey, whoa, kiddo. Wait.</font>
+
+1061
+01:29:29,920 --> 01:29:31,887
+<font color="#FFFFFF">Come on. What, are you just
+gonna jump outta the vent</font>
+
+1062
+01:29:31,960 --> 01:29:33,246
+<font color="#FFFFFF">and go storm the Capitol?</font>
+
+1063
+01:29:33,319 --> 01:29:35,448
+<font color="#FFFFFF">Besides, it's already underway.</font>
+
+1064
+01:29:36,279 --> 01:29:39,408
+<font color="#FFFFFF">Six soldiers went in. Volunteer only.</font>
+
+1065
+01:29:39,640 --> 01:29:43,042
+<font color="#FFFFFF">And guess who was the first
+brave soul to sign up.</font>
+
+1066
+01:29:43,800 --> 01:29:45,131
+<font color="#FFFFFF">Gale.</font>
+
+1067
+01:29:54,760 --> 01:29:56,524
+<font color="#FFFFFF">- Okay, Finnick?
+- Yeah. Yeah.</font>
+
+1068
+01:29:56,960 --> 01:30:00,805
+<font color="#FFFFFF">Go in the center there. Those rocks.</font>
+
+1069
+01:30:04,479 --> 01:30:06,481
+<font color="#FFFFFF">Castor, to left.</font>
+
+1070
+01:30:06,720 --> 01:30:08,289
+<font color="#FFFFFF">Pollux, you're with me.</font>
+
+1071
+01:30:08,680 --> 01:30:10,603
+<font color="#FFFFFF">So we'll go straight to camera.</font>
+
+1072
+01:30:10,920 --> 01:30:13,365
+<font color="#FFFFFF">Okay? Finnick?</font>
+
+1073
+01:30:13,439 --> 01:30:14,487
+<font color="#FFFFFF">Yeah.</font>
+
+1074
+01:30:14,920 --> 01:30:16,359
+<font color="#FFFFFF">Okay.</font>
+
+1075
+01:30:16,680 --> 01:30:18,204
+<font color="#FFFFFF">Take your time.</font>
+
+1076
+01:30:18,279 --> 01:30:20,930
+<font color="#FFFFFF">Just remember to keep talking
+and don't stop.</font>
+
+1077
+01:30:24,640 --> 01:30:26,563
+<font color="#FFFFFF">This is Finnick Odair.</font>
+
+1078
+01:30:27,760 --> 01:30:30,729
+<font color="#FFFFFF">Winner of the 65th Hunger Games.</font>
+
+1079
+01:30:30,800 --> 01:30:34,440
+<font color="#FFFFFF">And I'm coming to you from District 13,
+alive and well.</font>
+
+1080
+01:30:34,520 --> 01:30:37,284
+<font color="#FFFFFF">We've survived an assault
+from the Capitol.</font>
+
+1081
+01:30:37,720 --> 01:30:40,371
+<font color="#FFFFFF">But I'm not here to give you recent news.</font>
+
+1082
+01:30:40,560 --> 01:30:42,448
+<font color="#FFFFFF">Why is Finnick doing a propo?</font>
+
+1083
+01:30:42,720 --> 01:30:44,289
+<font color="#FFFFFF">It's a lot more than that.</font>
+
+1084
+01:30:44,359 --> 01:30:46,328
+<font color="#FFFFFF">Beetee's commandeered the system.</font>
+
+1085
+01:30:46,399 --> 01:30:48,243
+<font color="#FFFFFF">Now that they're down to generator power</font>
+
+1086
+01:30:48,319 --> 01:30:50,402
+<font color="#FFFFFF">there's a more limited range of
+frequencies available to them.</font>
+
+1087
+01:30:50,479 --> 01:30:52,368
+<font color="#FFFFFF">And I'm filling them all up with Finnick.</font>
+
+1088
+01:30:52,520 --> 01:30:54,123
+<font color="#FFFFFF">Not many will see it, but whoever does</font>
+
+1089
+01:30:54,199 --> 01:30:55,399
+<font color="#FFFFFF">will think it's another propo.</font>
+
+1090
+01:30:55,560 --> 01:30:57,130
+<font color="#FFFFFF">What they don't know is this broadcast</font>
+
+1091
+01:30:57,199 --> 01:30:58,929
+<font color="#FFFFFF">is jamming their entire system with noise.</font>
+
+1092
+01:30:59,000 --> 01:31:01,730
+<font color="#FFFFFF">Early defense warning, internal
+communications, everything.</font>
+
+1093
+01:31:02,359 --> 01:31:03,840
+<font color="#FFFFFF">As long as the broadcast goes through,</font>
+
+1094
+01:31:03,880 --> 01:31:06,280
+<font color="#FFFFFF">our team should be able to
+get in and out undetected.</font>
+
+1095
+01:31:06,520 --> 01:31:09,489
+<font color="#FFFFFF">The truth. Not the myths about
+a life of luxury.</font>
+
+1096
+01:31:09,560 --> 01:31:12,722
+<font color="#FFFFFF">Not the lie about glory for your homeland.</font>
+
+1097
+01:31:12,840 --> 01:31:15,002
+<font color="#FFFFFF">You can survive the arena.</font>
+
+1098
+01:31:15,279 --> 01:31:17,646
+<font color="#FFFFFF">The moment you leave, you're a slave.</font>
+
+1099
+01:31:30,920 --> 01:31:32,967
+<font color="#FFFFFF">Mockingjay One, Mockingjay One,</font>
+
+1100
+01:31:33,039 --> 01:31:35,247
+<font color="#FFFFFF">you are one minute out from
+perimeter defense.</font>
+
+1101
+01:31:35,319 --> 01:31:36,445
+<font color="#FFFFFF">Going dark.</font>
+
+1102
+01:31:36,640 --> 01:31:38,119
+<font color="#FFFFFF">Stay low in case they're on-line.</font>
+
+1103
+01:31:40,000 --> 01:31:42,445
+<font color="#FFFFFF">President Snow used to sell me.</font>
+
+1104
+01:31:42,720 --> 01:31:45,802
+<font color="#FFFFFF">Or my body, at least. I wasn't the only one.</font>
+
+1105
+01:31:45,880 --> 01:31:48,280
+<font color="#FFFFFF">If a Victor is considered desirable,</font>
+
+1106
+01:31:48,359 --> 01:31:51,569
+<font color="#FFFFFF">the President gives them as a reward
+or allows people to buy them.</font>
+
+1107
+01:31:51,680 --> 01:31:54,684
+<font color="#FFFFFF">If you refuse, he kills someone you love.</font>
+
+1108
+01:31:54,800 --> 01:31:58,042
+<font color="#FFFFFF">Mockingjay One, you are 20 seconds
+from perimeter defense.</font>
+
+1109
+01:32:03,800 --> 01:32:05,039
+<font color="#FFFFFF">Ten seconds.</font>
+
+1110
+01:32:05,119 --> 01:32:06,929
+<font color="#FFFFFF">Nine... eight...</font>
+
+1111
+01:32:07,399 --> 01:32:10,243
+<font color="#FFFFFF">seven... six... five...</font>
+
+1112
+01:32:10,840 --> 01:32:13,729
+<font color="#FFFFFF">four... three... two...</font>
+
+1113
+01:32:14,600 --> 01:32:15,725
+<font color="#FFFFFF">one.</font>
+
+1114
+01:32:24,039 --> 01:32:25,689
+<font color="#FFFFFF">No response from perimeter defense.</font>
+
+1115
+01:32:25,760 --> 01:32:27,363
+<font color="#FFFFFF">We're inside Capitol airspace.</font>
+
+1116
+01:32:27,439 --> 01:32:29,039
+<font color="#FFFFFF">To make themselves feel better,</font>
+
+1117
+01:32:29,079 --> 01:32:31,320
+<font color="#FFFFFF">my patrons would make presents
+of money or jewelry.</font>
+
+1118
+01:32:31,960 --> 01:32:36,568
+<font color="#FFFFFF">But I found a much more valuable form
+of payment.</font>
+
+1119
+01:32:36,800 --> 01:32:37,846
+<font color="#FFFFFF">Secrets.</font>
+
+1120
+01:32:38,000 --> 01:32:39,286
+<font color="#FFFFFF">Gear up.</font>
+
+1121
+01:33:00,000 --> 01:33:01,967
+<font color="#FFFFFF">Switching to Night View.</font>
+
+1122
+01:33:09,960 --> 01:33:11,291
+<font color="#FFFFFF">There.</font>
+
+1123
+01:33:14,159 --> 01:33:16,765
+<font color="#FFFFFF">Command, we have visual
+on the Tribute Center.</font>
+
+1124
+01:33:16,840 --> 01:33:18,841
+<font color="#FFFFFF">Initiating final approach.</font>
+
+1125
+01:33:23,479 --> 01:33:24,720
+<font color="#FFFFFF">Masks on.</font>
+
+1126
+01:33:30,079 --> 01:33:33,606
+<font color="#FFFFFF">See, I know all the depravity,
+the deceit and the cruelty</font>
+
+1127
+01:33:33,680 --> 01:33:36,046
+<font color="#FFFFFF">of the Capitol's pampered elite.</font>
+
+1128
+01:33:37,039 --> 01:33:41,283
+<font color="#FFFFFF">But the biggest secrets are about our
+good President, Coriolanus Snow.</font>
+
+1129
+01:33:49,199 --> 01:33:50,405
+<font color="#FFFFFF">Open the door.</font>
+
+1130
+01:34:00,159 --> 01:34:01,524
+<font color="#FFFFFF">Command, this is Team Leader.</font>
+
+1131
+01:34:01,600 --> 01:34:04,729
+<font color="#FFFFFF">Prepare to deploy gas. We
+will confirm once inside.</font>
+
+1132
+01:34:08,520 --> 01:34:10,203
+<font color="#FFFFFF">Such a young man when he rose to power.</font>
+
+1133
+01:34:10,279 --> 01:34:11,850
+<font color="#FFFFFF">Such a clever one to keep it.</font>
+
+1134
+01:34:11,920 --> 01:34:15,287
+<font color="#FFFFFF">How, you may ask, did he do it?</font>
+
+1135
+01:34:17,079 --> 01:34:18,240
+<font color="#FFFFFF">One word.</font>
+
+1136
+01:34:19,319 --> 01:34:20,560
+<font color="#FFFFFF">Poison.</font>
+
+1137
+01:34:27,039 --> 01:34:28,279
+<font color="#FFFFFF">Get ready to drop.</font>
+
+1138
+01:34:56,079 --> 01:34:58,685
+<font color="#FFFFFF">He stopped every mutiny
+before it even started.</font>
+
+1139
+01:35:09,880 --> 01:35:10,881
+<font color="#FFFFFF">Clear.</font>
+
+1140
+01:35:14,640 --> 01:35:16,926
+<font color="#FFFFFF">Clear. Command, we're inside.</font>
+
+1141
+01:35:17,000 --> 01:35:18,889
+<font color="#FFFFFF">Heading toward target number one.</font>
+
+1142
+01:35:19,079 --> 01:35:21,810
+<font color="#FFFFFF">Cell P45 lower level 2C.</font>
+
+1143
+01:35:22,840 --> 01:35:23,921
+<font color="#FFFFFF">Gas.</font>
+
+1144
+01:35:24,399 --> 01:35:26,288
+<font color="#FFFFFF">There are so many mysterious deaths</font>
+
+1145
+01:35:26,359 --> 01:35:27,725
+<font color="#FFFFFF">to adversaries.</font>
+
+1146
+01:35:29,199 --> 01:35:31,362
+<font color="#FFFFFF">Even to allies who were threats.</font>
+
+1147
+01:35:42,880 --> 01:35:44,324
+<font color="#FFFFFF">Snow would drink from the same cup,</font>
+
+1148
+01:35:44,399 --> 01:35:45,605
+<font color="#FFFFFF">to deflect suspicion.</font>
+
+1149
+01:35:45,680 --> 01:35:48,684
+<font color="#FFFFFF">But antidotes don't always work,</font>
+
+1150
+01:35:48,840 --> 01:35:51,684
+<font color="#FFFFFF">which is why he wears roses
+that reek of perfume.</font>
+
+1151
+01:35:52,039 --> 01:35:56,681
+<font color="#FFFFFF">Help cover the scent of blood from sores
+in his mouth that will never heal.</font>
+
+1152
+01:36:21,520 --> 01:36:22,645
+<font color="#FFFFFF">Gale.</font>
+
+1153
+01:36:26,880 --> 01:36:29,405
+<font color="#FFFFFF">But he can't hide the scent
+of who he really is.</font>
+
+1154
+01:36:29,520 --> 01:36:31,248
+<font color="#FFFFFF">He kills without mercy.</font>
+
+1155
+01:36:31,560 --> 01:36:34,166
+<font color="#FFFFFF">He rules with deception and fear.</font>
+
+1156
+01:36:59,680 --> 01:37:03,287
+<font color="#FFFFFF">His weapon of choice is the only thing
+suited to such a man.</font>
+
+1157
+01:37:03,359 --> 01:37:04,359
+<font color="#FFFFFF">Poison.</font>
+
+1158
+01:37:04,399 --> 01:37:06,720
+<font color="#FFFFFF">The perfect weapon for a snake.</font>
+
+1159
+01:37:09,119 --> 01:37:10,564
+<font color="#FFFFFF">What is this place?</font>
+
+1160
+01:37:21,479 --> 01:37:22,845
+<font color="#FFFFFF">- Beetee?
+- I'm losing them.</font>
+
+1161
+01:37:23,159 --> 01:37:24,399
+<font color="#FFFFFF">Powering back up.</font>
+
+1162
+01:37:26,640 --> 01:37:28,323
+<font color="#FFFFFF">Ma'am, the Capitol air defense system</font>
+
+1163
+01:37:28,399 --> 01:37:30,288
+<font color="#FFFFFF">is rebooting. It's coming back on-line.</font>
+
+1164
+01:37:30,359 --> 01:37:32,088
+<font color="#FFFFFF">Must be diverting power
+from another source.</font>
+
+1165
+01:37:32,199 --> 01:37:33,319
+<font color="#FFFFFF">And filtering transmissions.</font>
+
+1166
+01:37:33,359 --> 01:37:34,805
+<font color="#FFFFFF">Another 60 seconds and we'll be cut off.</font>
+
+1167
+01:37:34,920 --> 01:37:37,159
+<font color="#FFFFFF">Madam President, should we call back
+the hovercraft?</font>
+
+1168
+01:37:38,960 --> 01:37:40,324
+<font color="#FFFFFF">Broadcast me.</font>
+
+1169
+01:37:40,760 --> 01:37:42,728
+<font color="#FFFFFF">If Snow's watching this, maybe he'll
+let the signal in,</font>
+
+1170
+01:37:42,800 --> 01:37:44,086
+<font color="#FFFFFF">if he sees me.</font>
+
+1171
+01:37:45,000 --> 01:37:46,684
+<font color="#FFFFFF">Put me on the air so he can see me.</font>
+
+1172
+01:37:46,760 --> 01:37:47,966
+<font color="#FFFFFF">Yes. Yes.</font>
+
+1173
+01:37:48,279 --> 01:37:49,327
+<font color="#FFFFFF">Put her on.</font>
+
+1174
+01:37:49,479 --> 01:37:51,686
+<font color="#FFFFFF">Can we do this? Can we still get in?</font>
+
+1175
+01:37:51,960 --> 01:37:53,041
+<font color="#FFFFFF">Yes. For the moment.</font>
+
+1176
+01:37:53,119 --> 01:37:54,451
+<font color="#FFFFFF">The line's open. He will only see you.</font>
+
+1177
+01:37:54,600 --> 01:37:56,125
+<font color="#FFFFFF">Okay, Katniss, go.</font>
+
+1178
+01:37:56,560 --> 01:37:57,640
+<font color="#FFFFFF">President Snow?</font>
+
+1179
+01:37:57,720 --> 01:37:59,448
+<font color="#FFFFFF">President Snow. It's Katniss.</font>
+
+1180
+01:37:59,640 --> 01:38:02,166
+<font color="#FFFFFF">There's no guarantee he's even watching.</font>
+
+1181
+01:38:02,359 --> 01:38:04,010
+<font color="#FFFFFF">I know, but he might be.</font>
+
+1182
+01:38:04,079 --> 01:38:06,082
+<font color="#FFFFFF">President Snow, I need to speak with you.</font>
+
+1183
+01:38:06,159 --> 01:38:07,240
+<font color="#FFFFFF">Are you there?</font>
+
+1184
+01:38:08,640 --> 01:38:12,439
+<font color="#FFFFFF">President Snow, it's Katniss.
+Can you hear me?</font>
+
+1185
+01:38:13,760 --> 01:38:15,284
+<font color="#FFFFFF">I need to speak with you.</font>
+
+1186
+01:38:17,359 --> 01:38:19,442
+<font color="#FFFFFF">President Snow, it's Katniss.</font>
+
+1187
+01:38:19,520 --> 01:38:21,408
+<font color="#FFFFFF">President Snow,</font>
+
+1188
+01:38:21,479 --> 01:38:22,685
+<font color="#FFFFFF">are you there?</font>
+
+1189
+01:38:25,840 --> 01:38:27,409
+<font color="#FFFFFF">Can you hear me?</font>
+
+1190
+01:38:33,119 --> 01:38:34,121
+<font color="#FFFFFF">President Snow...</font>
+
+1191
+01:38:34,199 --> 01:38:36,850
+<font color="#FFFFFF">Miss Everdeen. What an honor.</font>
+
+1192
+01:38:38,640 --> 01:38:42,689
+<font color="#FFFFFF">I don't imagine you're calling
+to thank me for the roses.</font>
+
+1193
+01:38:44,840 --> 01:38:46,807
+<font color="#FFFFFF">I never asked for this.</font>
+
+1194
+01:38:47,680 --> 01:38:49,523
+<font color="#FFFFFF">I never asked to be in the Games.</font>
+
+1195
+01:38:49,800 --> 01:38:51,404
+<font color="#FFFFFF">Boggs? Come in. Boggs?</font>
+
+1196
+01:38:51,479 --> 01:38:53,846
+<font color="#FFFFFF">I never asked to be the Mockingjay.</font>
+
+1197
+01:38:54,520 --> 01:38:56,761
+<font color="#FFFFFF">Just wanted to save my sister.</font>
+
+1198
+01:38:56,840 --> 01:38:58,046
+<font color="#FFFFFF">And keep Peeta alive.</font>
+
+1199
+01:38:58,560 --> 01:39:00,641
+<font color="#FFFFFF">Come in. Boggs?</font>
+
+1200
+01:39:01,680 --> 01:39:03,728
+<font color="#FFFFFF">Please, just let him go.</font>
+
+1201
+01:39:03,800 --> 01:39:05,279
+<font color="#FFFFFF">And I will stop being the Mockingjay.</font>
+
+1202
+01:39:05,319 --> 01:39:07,800
+<font color="#FFFFFF">I will disappear. You will never
+have to see me ever again.</font>
+
+1203
+01:39:07,920 --> 01:39:09,364
+<font color="#FFFFFF">Miss Everdeen.</font>
+
+1204
+01:39:09,680 --> 01:39:10,761
+<font color="#FFFFFF">Boggs, come in.</font>
+
+1205
+01:39:10,880 --> 01:39:12,291
+<font color="#FFFFFF">You couldn't run from this...</font>
+
+1206
+01:39:12,359 --> 01:39:13,407
+<font color="#FFFFFF">Copy.</font>
+
+1207
+01:39:13,479 --> 01:39:15,881
+<font color="#FFFFFF">Any more than you could have run
+from the Games.</font>
+
+1208
+01:39:16,840 --> 01:39:18,967
+<font color="#FFFFFF">Command, I need a situation report.</font>
+
+1209
+01:39:19,039 --> 01:39:21,520
+<font color="#FFFFFF">Boggs, we're running out of time. Hurry.</font>
+
+1210
+01:39:23,199 --> 01:39:24,326
+<font color="#FFFFFF">Let's move.</font>
+
+1211
+01:39:24,439 --> 01:39:25,565
+<font color="#FFFFFF">Please.</font>
+
+1212
+01:39:25,760 --> 01:39:27,250
+<font color="#FFFFFF">You've won.</font>
+
+1213
+01:39:30,680 --> 01:39:32,125
+<font color="#FFFFFF">You've already beaten me.</font>
+
+1214
+01:39:35,520 --> 01:39:38,251
+<font color="#FFFFFF">Release Peeta. And take me instead.</font>
+
+1215
+01:39:40,439 --> 01:39:45,730
+<font color="#FFFFFF">We're long past the opportunity
+for noble sacrifice.</font>
+
+1216
+01:39:45,840 --> 01:39:47,524
+<font color="#FFFFFF">Then tell me what to do.</font>
+
+1217
+01:39:47,680 --> 01:39:49,728
+<font color="#FFFFFF">I've always kept my promises, haven't I?</font>
+
+1218
+01:39:49,800 --> 01:39:52,279
+<font color="#FFFFFF">You said you didn't want a war.</font>
+
+1219
+01:39:52,920 --> 01:39:54,729
+<font color="#FFFFFF">And that's just what's happened.</font>
+
+1220
+01:39:56,239 --> 01:39:59,323
+<font color="#FFFFFF">I told you what a fragile thing peace was.</font>
+
+1221
+01:39:59,439 --> 01:40:04,002
+<font color="#FFFFFF">And still, like a child, you took pleasure
+in breaking it.</font>
+
+1222
+01:40:05,399 --> 01:40:07,288
+<font color="#FFFFFF">I know what you are.</font>
+
+1223
+01:40:07,600 --> 01:40:11,082
+<font color="#FFFFFF">I know you can't see past
+your narrowest concerns.</font>
+
+1224
+01:40:11,319 --> 01:40:13,368
+<font color="#FFFFFF">But please, Miss Everdeen.</font>
+
+1225
+01:40:14,439 --> 01:40:17,046
+<font color="#FFFFFF">I doubt you know what honesty is anymore.</font>
+
+1226
+01:40:17,279 --> 01:40:18,770
+<font color="#FFFFFF">Command, we're at the first target.</font>
+
+1227
+01:40:18,920 --> 01:40:20,364
+<font color="#FFFFFF">Preparing to extract Peeta.</font>
+
+1228
+01:40:20,439 --> 01:40:21,930
+<font color="#FFFFFF">Will confirm when he's in hand.</font>
+
+1229
+01:40:24,880 --> 01:40:27,121
+<font color="#FFFFFF">Mockingjay One, prepare hovercraft for evac.</font>
+
+1230
+01:40:27,199 --> 01:40:30,363
+<font color="#FFFFFF">You asked me to convince you
+that I was in love with Peeta.</font>
+
+1231
+01:40:30,439 --> 01:40:32,328
+<font color="#FFFFFF">Haven't I at least done that?</font>
+
+1232
+01:40:33,239 --> 01:40:34,765
+<font color="#FFFFFF">Miss Everdeen,</font>
+
+1233
+01:40:36,720 --> 01:40:39,644
+<font color="#FFFFFF">it's the things we love most</font>
+
+1234
+01:40:40,600 --> 01:40:42,203
+<font color="#FFFFFF">that destroy us.</font>
+
+1235
+01:40:44,119 --> 01:40:48,125
+<font color="#FFFFFF">I want you to remember that I said that.</font>
+
+1236
+01:40:53,800 --> 01:40:56,849
+<font color="#FFFFFF">Don't you think I know your friends
+are in the Tribute Center?</font>
+
+1237
+01:40:59,640 --> 01:41:00,845
+<font color="#FFFFFF">Cut them off.</font>
+
+1238
+01:41:02,239 --> 01:41:03,890
+<font color="#FFFFFF">- What happened?
+- Boggs, come in.</font>
+
+1239
+01:41:03,960 --> 01:41:05,006
+<font color="#FFFFFF">What happened?</font>
+
+1240
+01:41:05,119 --> 01:41:06,689
+<font color="#FFFFFF">Boggs, come in. Do you read me?</font>
+
+1241
+01:41:07,560 --> 01:41:08,800
+<font color="#FFFFFF">He knows that they're in there.</font>
+
+1242
+01:41:08,880 --> 01:41:10,369
+<font color="#FFFFFF">- It's a trap.
+- Katniss, hold it.</font>
+
+1243
+01:41:10,479 --> 01:41:11,640
+<font color="#FFFFFF">We have to get a hold of them.</font>
+
+1244
+01:41:11,680 --> 01:41:13,250
+<font color="#FFFFFF">We have to tell them to get out. He knows.</font>
+
+1245
+01:41:13,319 --> 01:41:15,322
+<font color="#FFFFFF">There's no signal. We can't contact them.</font>
+
+1246
+01:41:15,640 --> 01:41:19,201
+<font color="#FFFFFF">No. Haymitch, he knew the whole time.
+He was taunting me.</font>
+
+1247
+01:41:19,279 --> 01:41:20,520
+<font color="#FFFFFF">No, Haymitch. They're in there.</font>
+
+1248
+01:41:20,600 --> 01:41:21,805
+<font color="#FFFFFF">No, we don't know that.</font>
+
+1249
+01:41:21,880 --> 01:41:25,680
+<font color="#FFFFFF">Did I lose them both tonight?</font>
+
+1250
+01:41:25,760 --> 01:41:27,682
+<font color="#FFFFFF">- Did I lose them both tonight?
+- Shhh.</font>
+
+1251
+01:41:28,159 --> 01:41:29,923
+<font color="#FFFFFF">Did I lose them? I lost them both.</font>
+
+1252
+01:41:31,800 --> 01:41:33,689
+<font color="#FFFFFF">No! No!</font>
+
+1253
+01:41:42,439 --> 01:41:43,600
+<font color="#FFFFFF">There's no news.</font>
+
+1254
+01:41:45,920 --> 01:41:47,284
+<font color="#FFFFFF">I'm sorry.</font>
+
+1255
+01:41:50,359 --> 01:41:52,600
+<font color="#FFFFFF">It's the worst torture in the world.</font>
+
+1256
+01:41:54,840 --> 01:41:57,889
+<font color="#FFFFFF">Waiting, when you know there's
+nothing you can do.</font>
+
+1257
+01:42:03,359 --> 01:42:05,726
+<font color="#FFFFFF">Especially for people like us.</font>
+
+1258
+01:42:06,680 --> 01:42:11,162
+<font color="#FFFFFF">But whatever strength, courage,</font>
+
+1259
+01:42:11,960 --> 01:42:13,324
+<font color="#FFFFFF">madness,</font>
+
+1260
+01:42:14,479 --> 01:42:17,881
+<font color="#FFFFFF">keeps us going, you find it,
+at times like these.</font>
+
+1261
+01:42:21,039 --> 01:42:22,724
+<font color="#FFFFFF">You have it, soldier.</font>
+
+1262
+01:42:23,399 --> 01:42:26,210
+<font color="#FFFFFF">It's what's kept you alive all this time.</font>
+
+1263
+01:42:27,479 --> 01:42:29,368
+<font color="#FFFFFF">And it won't fail you now.</font>
+
+1264
+01:42:51,760 --> 01:42:52,921
+<font color="#FFFFFF">They're back.</font>
+
+1265
+01:43:01,560 --> 01:43:03,085
+<font color="#FFFFFF">I don't want that.</font>
+
+1266
+01:43:07,760 --> 01:43:08,761
+<font color="#FFFFFF">Johanna.</font>
+
+1267
+01:43:09,279 --> 01:43:10,405
+<font color="#FFFFFF">Finnick!</font>
+
+1268
+01:43:12,000 --> 01:43:13,331
+<font color="#FFFFFF">Finnick!</font>
+
+1269
+01:43:13,399 --> 01:43:16,085
+<font color="#FFFFFF">Annie? Annie!</font>
+
+1270
+01:43:20,000 --> 01:43:22,367
+<font color="#FFFFFF">You're safe. You're safe.</font>
+
+1271
+01:43:29,479 --> 01:43:30,720
+<font color="#FFFFFF">Gale!</font>
+
+1272
+01:43:34,119 --> 01:43:35,609
+<font color="#FFFFFF">Are you okay?</font>
+
+1273
+01:43:36,920 --> 01:43:38,206
+<font color="#FFFFFF">What? What is it?</font>
+
+1274
+01:43:38,279 --> 01:43:39,327
+<font color="#FFFFFF">I don't get it.</font>
+
+1275
+01:43:39,680 --> 01:43:41,204
+<font color="#FFFFFF">Every gun was back on-line</font>
+
+1276
+01:43:41,279 --> 01:43:43,600
+<font color="#FFFFFF">and on us and we flew right past them.</font>
+
+1277
+01:43:44,319 --> 01:43:45,810
+<font color="#FFFFFF">They let us go.</font>
+
+1278
+01:43:51,159 --> 01:43:52,320
+<font color="#FFFFFF">He's in there.</font>
+
+1279
+01:43:54,640 --> 01:43:55,720
+<font color="#FFFFFF">Gas we used on the guards</font>
+
+1280
+01:43:55,800 --> 01:43:57,881
+<font color="#FFFFFF">knocked him out, too, but
+it's wearing off now.</font>
+
+1281
+01:44:00,319 --> 01:44:02,162
+<font color="#FFFFFF">You should be there when he wakes up.</font>
+
+1282
+01:44:07,319 --> 01:44:08,765
+<font color="#FFFFFF">Thank you.</font>
+
+1283
+01:44:11,880 --> 01:44:13,166
+<font color="#FFFFFF">Thank you.</font>
+
+1284
+01:44:33,359 --> 01:44:34,690
+<font color="#FFFFFF">Peeta.</font>
+
+1285
+01:45:08,680 --> 01:45:09,886
+<font color="#FFFFFF">Peeta!</font>
+
+1286
+01:45:10,560 --> 01:45:13,722
+<font color="#FFFFFF">Peeta! Get off! Get off of her!</font>
+
+1287
+01:45:14,199 --> 01:45:16,202
+<font color="#FFFFFF">Let go!</font>
+
+1288
+01:45:50,479 --> 01:45:52,686
+<font color="#FFFFFF">No, Katniss. No, you're swollen.
+Don't touch.</font>
+
+1289
+01:45:53,039 --> 01:45:54,564
+<font color="#FFFFFF">No, no, no. Calm down.</font>
+
+1290
+01:45:54,680 --> 01:45:56,250
+<font color="#FFFFFF">Calm down. You're okay.</font>
+
+1291
+01:45:59,279 --> 01:46:00,610
+<font color="#FFFFFF">Tell her she's awake.</font>
+
+1292
+01:46:03,039 --> 01:46:04,689
+<font color="#FFFFFF">Don't try to talk.</font>
+
+1293
+01:46:04,760 --> 01:46:06,284
+<font color="#FFFFFF">Peeta's okay. I promise.</font>
+
+1294
+01:46:07,439 --> 01:46:08,965
+<font color="#FFFFFF">I just had to get him off you.</font>
+
+1295
+01:46:15,960 --> 01:46:18,042
+<font color="#FFFFFF">It's called hijacking.</font>
+
+1296
+01:46:19,359 --> 01:46:22,283
+<font color="#FFFFFF">We don't know how long the Capitol's
+been doing this to Peeta.</font>
+
+1297
+01:46:23,279 --> 01:46:24,770
+<font color="#FFFFFF">It's fear conditioning.</font>
+
+1298
+01:46:24,840 --> 01:46:26,807
+<font color="#FFFFFF">Enhanced with tracker jacker venom.</font>
+
+1299
+01:46:27,520 --> 01:46:29,601
+<font color="#FFFFFF">You were stung your first Games. Remember?</font>
+
+1300
+01:46:30,640 --> 01:46:33,689
+<font color="#FFFFFF">The venom puts the subject
+in a dissociative state.</font>
+
+1301
+01:46:34,600 --> 01:46:36,601
+<font color="#FFFFFF">And they torture him.</font>
+
+1302
+01:46:38,119 --> 01:46:41,680
+<font color="#FFFFFF">With shocks and beatings, and
+strip down his identity.</font>
+
+1303
+01:46:41,760 --> 01:46:44,649
+<font color="#FFFFFF">And then all of that suffering
+and fear is redirected.</font>
+
+1304
+01:46:44,800 --> 01:46:48,327
+<font color="#FFFFFF">Associated with other memories or a person.</font>
+
+1305
+01:46:49,840 --> 01:46:51,444
+<font color="#FFFFFF">They can change his memories of Katniss?</font>
+
+1306
+01:46:52,000 --> 01:46:53,399
+<font color="#FFFFFF">To make her seem life-threatening.</font>
+
+1307
+01:46:55,000 --> 01:46:57,100
+<font color="#FFFFFF">They turned him into a weapon, Katniss.</font>
+
+1308
+01:46:58,159 --> 01:46:59,489
+<font color="#FFFFFF">To kill you.</font>
+
+1309
+01:47:00,960 --> 01:47:01,961
+<font color="#FFFFFF">But you can reverse it?</font>
+
+1310
+01:47:02,159 --> 01:47:04,079
+<font color="#FFFFFF">The fear is the most difficult thing
+to overcome.</font>
+
+1311
+01:47:04,119 --> 01:47:06,885
+<font color="#FFFFFF">We're hardwired to remember fear best.</font>
+
+1312
+01:47:06,960 --> 01:47:08,644
+<font color="#FFFFFF">It's new terrain.</font>
+
+1313
+01:47:09,840 --> 01:47:11,841
+<font color="#FFFFFF">But we've put together a team.</font>
+
+1314
+01:47:12,840 --> 01:47:14,841
+<font color="#FFFFFF">I'm optimistic.</font>
+
+1315
+01:47:41,479 --> 01:47:42,720
+<font color="#FFFFFF">Good evening.</font>
+
+1316
+01:47:44,039 --> 01:47:45,724
+<font color="#FFFFFF">Yesterday, I authorized</font>
+
+1317
+01:47:45,800 --> 01:47:48,962
+<font color="#FFFFFF">a covert rescue mission
+inside the Capitol.</font>
+
+1318
+01:47:49,439 --> 01:47:51,966
+<font color="#FFFFFF">I am pleased to announce</font>
+
+1319
+01:47:52,119 --> 01:47:55,090
+<font color="#FFFFFF">that the Victors have been liberated!</font>
+
+1320
+01:48:01,680 --> 01:48:05,650
+<font color="#FFFFFF">Let this day mark an historic change.</font>
+
+1321
+01:48:06,680 --> 01:48:10,002
+<font color="#FFFFFF">With the Mockingjay and
+the Victors beside us,</font>
+
+1322
+01:48:10,079 --> 01:48:13,527
+<font color="#FFFFFF">we have sent a clear message
+to the Capitol.</font>
+
+1323
+01:48:13,760 --> 01:48:17,400
+<font color="#FFFFFF">That we will never again endure injustice.</font>
+
+1324
+01:48:23,239 --> 01:48:24,570
+<font color="#FFFFFF">Today,</font>
+
+1325
+01:48:24,640 --> 01:48:28,007
+<font color="#FFFFFF">a day on which we reunited family,</font>
+
+1326
+01:48:28,319 --> 01:48:30,926
+<font color="#FFFFFF">friends, and loved ones.</font>
+
+1327
+01:48:31,760 --> 01:48:35,525
+<font color="#FFFFFF">Let all of Panem come together.</font>
+
+1328
+01:48:36,680 --> 01:48:40,479
+<font color="#FFFFFF">Not to battle for the amusement
+of the Capitol.</font>
+
+1329
+01:48:40,560 --> 01:48:43,564
+<font color="#FFFFFF">But to join hands in this fight.</font>
+
+1330
+01:48:50,520 --> 01:48:53,126
+<font color="#FFFFFF">Let today be the day we promise</font>
+
+1331
+01:48:53,199 --> 01:48:56,921
+<font color="#FFFFFF">never to give up, never to give in</font>
+
+1332
+01:48:57,000 --> 01:49:00,003
+<font color="#FFFFFF">until we have made a new Panem,</font>
+
+1333
+01:49:00,079 --> 01:49:03,845
+<font color="#FFFFFF">where leaders are elected,
+not imposed upon us.</font>
+
+1334
+01:49:04,600 --> 01:49:06,568
+<font color="#FFFFFF">And where the districts are free</font>
+
+1335
+01:49:06,640 --> 01:49:08,961
+<font color="#FFFFFF">to share the fruits of their labors</font>
+
+1336
+01:49:09,039 --> 01:49:11,360
+<font color="#FFFFFF">and not fight one another for scraps!</font>
+
+1337
+01:49:24,640 --> 01:49:26,529
+<font color="#FFFFFF">This new Panem is on the horizon.</font>
+
+1338
+01:49:27,000 --> 01:49:29,127
+<font color="#FFFFFF">But we must take it for ourselves.</font>
+
+1339
+01:49:30,239 --> 01:49:34,484
+<font color="#FFFFFF">The road there leads through
+the sharp mountains</font>
+
+1340
+01:49:34,600 --> 01:49:37,682
+<font color="#FFFFFF">and deep ravines of District 2.</font>
+
+1341
+01:49:37,840 --> 01:49:39,841
+<font color="#FFFFFF">There in the heart</font>
+
+1342
+01:49:39,920 --> 01:49:42,570
+<font color="#FFFFFF">of Panem's steepest mountain range lies</font>
+
+1343
+01:49:42,640 --> 01:49:45,849
+<font color="#FFFFFF">the Capitol's principal military facility.</font>
+
+1344
+01:49:46,920 --> 01:49:49,240
+<font color="#FFFFFF">We can conquer this stronghold</font>
+
+1345
+01:49:49,880 --> 01:49:52,724
+<font color="#FFFFFF">because we are one people,</font>
+
+1346
+01:49:53,079 --> 01:49:56,606
+<font color="#FFFFFF">one army, one voice.</font>
+
+1347
+01:49:56,720 --> 01:50:01,247
+<font color="#FFFFFF">Because today is our new beginning.</font>
+
+1348
+01:50:01,439 --> 01:50:05,524
+<font color="#FFFFFF">Today we have freed the Victors.</font>
+
+1349
+01:50:06,039 --> 01:50:09,168
+<font color="#FFFFFF">Tomorrow, Panem!</font>
+
+1350
+01:50:17,279 --> 01:50:21,604
+<font color="#FFFFFF">Hoorah! Hoorah! Hoorah!</font>
+
+1351
+01:50:42,000 --> 01:50:49,000
+<font color="#FFFFFF">SubText: NoRMITA:326</font>
+
